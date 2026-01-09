@@ -183,11 +183,12 @@ export default ((opts?: Partial<TopCommunitiesOptions>) => {
 
   TopCommunities.css = `
 .top-communities {
-  margin: 2rem 0;
+  margin: 0;
 }
 
 .top-communities h3 {
   margin-bottom: 0.5rem;
+  margin-top: 0;
 }
 
 .top-communities-description {
@@ -203,9 +204,9 @@ export default ((opts?: Partial<TopCommunitiesOptions>) => {
 }
 
 .community-card {
-  background: var(--lightgray);
-  border-radius: 8px;
-  padding: 1rem;
+  background: transparent;
+  border-radius: 0;
+  padding: 0;
 }
 
 .community-card-header {

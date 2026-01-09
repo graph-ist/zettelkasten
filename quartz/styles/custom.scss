@@ -1,3 +1,20 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Allinea Latest Notes e Topic Clusters affiancati
+.page > #quartz-body > .center > article + div {
+  display: flex;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.page > #quartz-body > .center > article + div > .recent-notes,
+.page > #quartz-body > .center > article + div > .top-communities {
+  flex: 1;
+}
+
+.recent-notes h3:first-child,
+.top-communities h3:first-child {
+  margin-top: 0;
+}
