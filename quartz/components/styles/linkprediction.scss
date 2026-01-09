@@ -1,0 +1,148 @@
+@use "../../styles/variables.scss" as *;
+
+.link-prediction {
+  display: flex;
+  flex-direction: column;
+
+  .linkprediction-header {
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    padding: 0;
+    color: var(--dark);
+    display: flex;
+    align-items: center;
+
+    h3 {
+      font-size: 0.9rem;
+      display: inline-block;
+      margin: 0;
+    }
+
+    .fold {
+      margin-left: 0.5rem;
+      transition: transform 0.3s ease;
+      opacity: 0.8;
+    }
+
+    &[aria-expanded="false"] .fold {
+      transform: rotateZ(-90deg);
+    }
+  }
+
+  .linkprediction-content {
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+    overflow: hidden;
+
+    &.collapsed {
+      max-height: 0 !important;
+      opacity: 0;
+    }
+  }
+
+  .linkprediction-description {
+    font-size: 0.75rem;
+    color: var(--gray);
+    margin: 0.25rem 0 0.5rem 0;
+    font-style: italic;
+  }
+
+  .linkprediction-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0;
+    max-height: 25vh;
+    overflow-y: auto;
+
+    .linkprediction-item {
+      details {
+        summary {
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+
+          &::marker,
+          &::-webkit-details-marker {
+            display: none;
+          }
+
+          .fold-icon {
+            width: 12px;
+            height: 12px;
+            color: var(--dark);
+            opacity: 0.35;
+            transition: transform 0.2s ease, opacity 0.5s ease;
+            flex-shrink: 0;
+            transform: rotateZ(-90deg);
+
+            &:hover {
+              opacity: 0.75;
+            }
+          }
+
+          .linkprediction-link {
+            color: var(--dark);
+            font-size: 0.85rem;
+            font-weight: $normalWeight;
+            line-height: 1.4rem;
+            flex: 1;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            opacity: 0.35;
+            transition: 0.5s ease opacity, 0.3s ease color;
+
+            &:hover {
+              opacity: 0.75;
+            }
+          }
+
+          .linkprediction-score {
+            font-size: 0.7rem;
+            color: var(--gray);
+            flex-shrink: 0;
+          }
+        }
+
+        &[open] summary .fold-icon {
+          transform: rotateZ(0deg);
+        }
+
+        .common-neighbors {
+          list-style: none;
+          padding: 0 0 0 1.25rem;
+          margin: 0.25rem 0;
+
+          li {
+            padding: 0.1rem 0;
+
+            .neighbor-link {
+              font-size: 0.85rem;
+              color: var(--dark);
+              opacity: 0.35;
+              transition: 0.5s ease opacity;
+              display: block;
+
+              &:hover {
+                opacity: 0.75;
+              }
+            }
+
+            &.more {
+              font-style: italic;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .no-predictions {
+    font-size: 0.85rem;
+    color: var(--gray);
+    font-style: italic;
+    margin: 0.5rem 0;
+  }
+}

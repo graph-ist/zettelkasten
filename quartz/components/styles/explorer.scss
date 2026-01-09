@@ -101,8 +101,8 @@ button.desktop-explorer {
   display: flex;
   align-items: center;
 
-  & h2 {
-    font-size: 1rem;
+  & h3 {
+    font-size: 0.9rem;
     display: inline-block;
     margin: 0;
   }
@@ -122,12 +122,20 @@ button.desktop-explorer {
 
     & li > a {
       color: var(--dark);
-      opacity: 0.75;
+      opacity: 0.35;
       pointer-events: all;
+      font-size: 0.85rem;
+      font-weight: $normalWeight;
+      line-height: 1.4rem;
+      transition: 0.5s ease opacity, 0.3s ease color;
+      display: block;
+
+      &:hover {
+        opacity: 0.75;
+      }
 
       &.active {
         opacity: 1;
-        color: var(--tertiary);
       }
     }
   }
@@ -150,7 +158,6 @@ button.desktop-explorer {
     overflow: hidden;
     margin-left: 6px;
     padding-left: 0.8rem;
-    border-left: 1px solid var(--lightgray);
   }
 }
 
@@ -161,16 +168,18 @@ button.desktop-explorer {
   user-select: none;
 
   & div > a {
-    color: var(--secondary);
+    color: var(--dark);
+    opacity: 0.35;
     font-family: var(--headerFont);
-    font-size: 0.95rem;
-    font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
+    font-size: 0.85rem;
+    font-weight: $normalWeight;
+    line-height: 1.4rem;
     display: inline-block;
+    transition: 0.5s ease opacity, 0.3s ease color;
   }
 
   & div > a:hover {
-    color: var(--tertiary);
+    opacity: 0.75;
   }
 
   & div > button {
@@ -186,24 +195,29 @@ button.desktop-explorer {
     font-family: var(--headerFont);
 
     & span {
-      font-size: 0.95rem;
+      font-size: 0.85rem;
       display: inline-block;
-      color: var(--secondary);
-      font-weight: $semiBoldWeight;
+      color: var(--dark);
+      opacity: 0.35;
+      font-weight: $normalWeight;
       margin: 0;
-      line-height: 1.5rem;
+      line-height: 1.4rem;
       pointer-events: none;
+      transition: 0.5s ease opacity;
     }
   }
 }
 
 .folder-icon {
   margin-right: 5px;
-  color: var(--secondary);
+  color: var(--dark);
+  opacity: 0.35;
   cursor: pointer;
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, opacity 0.5s ease;
   backface-visibility: visible;
   flex-shrink: 0;
+  width: 12px;
+  height: 12px;
 }
 
 li:has(> .folder-outer:not(.open)) > .folder-container > svg {
@@ -211,7 +225,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 }
 
 .folder-icon:hover {
-  color: var(--tertiary);
+  opacity: 0.75;
 }
 
 .explorer {

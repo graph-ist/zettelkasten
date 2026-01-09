@@ -147,7 +147,6 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
 }
 
 function highlightHTML(searchTerm: string, el: HTMLElement) {
-  const p = new DOMParser()
   const tokenizedTerms = tokenizeTerm(searchTerm)
   const html = p.parseFromString(el.innerHTML, "text/html")
 

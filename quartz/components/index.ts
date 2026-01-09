@@ -23,6 +23,13 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import FrontmatterDisplay from "./FrontmatterDisplay"
+import VirtualLinker from "./VirtualLinker"
+import CoCitations from "./CoCitations"
+import Similarity from "./Similarity"
+import LinkPrediction from "./LinkPrediction"
+import Community from "./Community"
+import TopCommunities from "./TopCommunities"
 
 export {
   ArticleTitle,
@@ -50,4 +57,11 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  FrontmatterDisplay,
+  VirtualLinker,
+  CoCitations,
+  Similarity,
+  LinkPrediction,
+  Community,
+  TopCommunities,
 }

@@ -19,6 +19,8 @@ export interface D3Config {
   showTags: boolean
   focusOnHover?: boolean
   enableRadial?: boolean
+  showSuggestedLinks?: boolean
+  suggestedLinksMinScore?: number
 }
 
 interface GraphOptions {
@@ -35,12 +37,14 @@ const defaultOptions: GraphOptions = {
     repelForce: 0.5,
     centerForce: 0.3,
     linkDistance: 30,
-    fontSize: 0.6,
+    fontSize: 0.4,
     opacityScale: 1,
     showTags: true,
     removeTags: [],
     focusOnHover: false,
     enableRadial: false,
+    showSuggestedLinks: false,
+    suggestedLinksMinScore: 50,
   },
   globalGraph: {
     drag: true,
@@ -50,12 +54,14 @@ const defaultOptions: GraphOptions = {
     repelForce: 0.5,
     centerForce: 0.2,
     linkDistance: 30,
-    fontSize: 0.6,
+    fontSize: 0.4,
     opacityScale: 1,
     showTags: true,
     removeTags: [],
     focusOnHover: true,
     enableRadial: true,
+    showSuggestedLinks: true,
+    suggestedLinksMinScore: 50,
   },
 }
 

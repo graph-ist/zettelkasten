@@ -1,0 +1,141 @@
+@use "../../styles/variables.scss" as *;
+
+.cocitations {
+  display: flex;
+  flex-direction: column;
+
+  .cocitations-header {
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    padding: 0;
+    color: var(--dark);
+    display: flex;
+    align-items: center;
+
+    h3 {
+      font-size: 0.9rem;
+      display: inline-block;
+      margin: 0;
+    }
+
+    .fold {
+      margin-left: 0.5rem;
+      transition: transform 0.3s ease;
+      opacity: 0.8;
+    }
+
+    &[aria-expanded="false"] .fold {
+      transform: rotateZ(-90deg);
+    }
+  }
+
+  .cocitations-content {
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+    overflow: hidden;
+
+    &.collapsed {
+      max-height: 0 !important;
+      opacity: 0;
+    }
+  }
+
+  .cocitations-description {
+    font-size: 0.75rem;
+    color: var(--gray);
+    margin: 0.25rem 0 0.5rem 0;
+    font-style: italic;
+  }
+
+  .cocitations-list {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0;
+    max-height: 30vh;
+    overflow-y: auto;
+    position: relative;
+
+    .cocitation-item {
+      details {
+        summary {
+          cursor: pointer;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+          
+          &::marker,
+          &::-webkit-details-marker {
+            display: none;
+          }
+
+          .fold-icon {
+            width: 12px;
+            height: 12px;
+            color: var(--dark);
+            opacity: 0.35;
+            transition: transform 0.2s ease, opacity 0.5s ease;
+            flex-shrink: 0;
+            transform: rotateZ(-90deg);
+
+            &:hover {
+              opacity: 0.75;
+            }
+          }
+
+          .cocitation-link {
+            color: var(--dark);
+            font-size: 0.85rem;
+            font-weight: $normalWeight;
+            line-height: 1.4rem;
+            flex: 1;
+            opacity: 0.35;
+            transition: 0.5s ease opacity, 0.3s ease color;
+
+            &:hover {
+              opacity: 0.75;
+            }
+          }
+
+          .cocitation-count {
+            font-size: 0.75rem;
+            color: var(--gray);
+          }
+        }
+
+        &[open] summary .fold-icon {
+          transform: rotateZ(0deg);
+        }
+
+        .cocitation-sources {
+          list-style: none;
+          padding: 0 0 0 1.25rem;
+          margin: 0.25rem 0;
+
+          li {
+            padding: 0.15rem 0;
+
+            .source-link {
+              font-size: 0.85rem;
+              color: var(--dark);
+              opacity: 0.35;
+              transition: 0.5s ease opacity;
+              display: block;
+              
+              &:hover {
+                opacity: 0.75;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .no-cocitations {
+    font-size: 0.85rem;
+    color: var(--gray);
+    font-style: italic;
+    margin: 0.5rem 0;
+  }
+}

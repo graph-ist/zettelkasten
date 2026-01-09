@@ -17,6 +17,7 @@ body {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+  overflow-x: hidden;
 }
 
 .text-highlight {
@@ -89,17 +90,17 @@ a {
 
   &.internal {
     text-decoration: none;
-    background-color: var(--highlight);
+    background-color: transparent;
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
 
     &.broken {
-      color: var(--secondary);
-      opacity: 0.5;
+      color: #e53935;
+      opacity: 0.8;
       transition: opacity 0.2s ease;
       &:hover {
-        opacity: 0.8;
+        opacity: 1;
       }
     }
 
@@ -158,6 +159,7 @@ a {
 .page {
   max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
+  overflow-x: hidden;
   & article {
     & > h1 {
       font-size: 2rem;
@@ -252,12 +254,24 @@ a {
         position: initial;
         height: unset;
         width: 100%;
-        flex-direction: row;
+        flex-direction: column;
         padding: 0;
-        & > * {
-          flex: 1;
-          max-height: 24rem;
+        overflow: hidden;
+        
+        // Graph View first, full width
+        & > .graph {
+          order: -1;
+          width: 100%;
+          flex: 0 0 auto;
         }
+        
+        // Other components in column
+        & > * {
+          flex: 0 0 auto;
+          width: 100%;
+          min-width: 0;
+        }
+        
         & > .toc {
           display: none;
         }
@@ -266,6 +280,24 @@ a {
     & .page-header,
     & .page-footer {
       margin-top: 1rem;
+    }
+
+    & .page-footer {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem;
+      
+      @media all and ($tablet) {
+        grid-template-columns: repeat(2, 1fr);
+      }
+      
+      @media all and ($mobile) {
+        grid-template-columns: 1fr;
+      }
+      
+      & > * {
+        min-width: 0;
+      }
     }
 
     & .page-header {
@@ -288,7 +320,10 @@ a {
     & .center,
     & footer {
       max-width: 100%;
-      min-width: 100%;
+      min-width: 0;
+      overflow: hidden;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
       margin-left: auto;
       margin-right: auto;
       @media all and ($tablet) {

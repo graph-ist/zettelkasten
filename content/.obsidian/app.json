@@ -1,0 +1,27 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "showLineNumber": false,
+  "defaultViewMode": "source",
+  "livePreview": false,
+  "mobileToolbarCommands": [
+    "editor:toggle-highlight",
+    "editor:toggle-inline-math",
+    "editor:insert-callout",
+    "editor:toggle-code",
+    "editor:clear-formatting",
+    "editor:insert-table",
+    "editor:toggle-numbered-list",
+    "editor:toggle-bullet-list",
+    "editor:insert-wikilink"
+  ],
+  "showInlineTitle": true,
+  "focusNewTab": false,
+  "attachmentFolderPath": "Appendix",
+  "mobileQuickRibbonItem": "",
+  "foldHeading": true,
+  "readableLineLength": true,
+  "newFileLocation": "root"
+}

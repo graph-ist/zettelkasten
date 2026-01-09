@@ -277,20 +277,29 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   // otherwise, fall through to regular link
                 }
 
+                // Check if link target exists (case-insensitive)
+                const slug = slugifyFilePath(fp as FilePath)
+                const slugLower = slug.toLowerCase()
+                const exists = ctx.allSlugs && ctx.allSlugs.some(s => s.toLowerCase() === slugLower)
+                
                 // treat as broken link if slug not in ctx.allSlugs
-                if (opts.disableBrokenWikilinks) {
-                  const slug = slugifyFilePath(fp as FilePath)
-                  const exists = ctx.allSlugs && ctx.allSlugs.includes(slug)
-                  if (!exists) {
-                    return {
-                      type: "html",
-                      value: `<a class=\"internal broken\">${alias ?? fp}</a>`,
-                    }
+                if (opts.disableBrokenWikilinks && !exists) {
+                  return {
+                    type: "html",
+                    value: `<a class=\"internal broken\">${alias ?? fp}</a>`,
                   }
                 }
 
                 // internal link
                 const url = fp + anchor
+
+                // Add broken class if target doesn't exist
+                if (!exists) {
+                  return {
+                    type: "html",
+                    value: `<a href="${url}" class="internal broken">${alias ?? fp}</a>`,
+                  }
+                }
 
                 return {
                   type: "link",

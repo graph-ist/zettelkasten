@@ -1,0 +1,41 @@
+---
+cssclasses:
+  - "[[Philosophy]]"
+aliases:
+  - History
+  - Storia
+  - Greek Philosophy
+  - Filosofia Greca
+  - Origins Philosophy
+  - Origini della Filosofia
+  - Western Thought
+  - Pensiero Occidentale
+  - Eastern Influence
+  - Influenza Orientale
+  - Occidentalism
+  - Occidentalismo
+  - Orientalism
+  - Orientalismo
+  - Rational Inquiry
+  - Indagine Razionale
+  - Theoretical Mind
+  - Mente Teorica
+  - Greek Science
+  - Scienza Greca
+  - City-State Thought
+  - Pensiero delle Polis
+  - Democratic Roots
+  - Radici Democratiche
+  - Art Religion
+  - Arte e Religione
+  - Poetic Origins
+  - Origini Poetiche
+  - Philosophy Genesis
+  - Genesi della Filosofia
+  - Pre-Socratic
+  - Presocratici
+tags:
+  - Podcast
+  - Comment
+---
+The text examines the origins of Western philosophy in Greece, exploring the question of whether Greek thought was influenced by Eastern philosophy and science. It presents arguments from both "occidentalists," who believe philosophy originated in Greece, and "orientalists," who argue for Eastern influence. The text also analyzes the specific characteristics of Greek philosophy and science, emphasizing their theoretical nature and focus on rational inquiry. Furthermore, the text looks at the historical and political conditions in Greece that fostered the birth of philosophy, including the rise of city-states and democratic ideals. Finally, it outlines the influence of art, religion, and poetry on the genesis of philosophy and delineates the periods and sources of Greek philosophical thought.

@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "6d93341ef5f61d8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2185863751d8b8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3faf6542717cf1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rousseau.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rousseau"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dab2e5b721b416ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c163c65d0bfcc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29d1c246095e2f29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "ed8d720d90c09ed4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Tutorial",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "cd5068ce1d2b579a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 423.5
+  },
+  "right": {
+    "id": "5bdfb65dd2261cac",
+    "type": "split",
+    "children": [
+      {
+        "id": "7df2e8794ef7e750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc8adb2a8c0a2092",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "0237743bf15a1c7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "dd4212439191e015",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "87a8884448eb5251",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "markdown-importer:Apri importazione Markdown": true,
+      "random-note:Apri nota casuale": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Crea nuova bacheca": false
+    }
+  },
+  "active": "3faf6542717cf1d1",
+  "lastOpenFiles": [
+    "----------------------------------/Design and Aesthetics Theory/Paraphrase or Quote/Andrea Branzi on design in Italy.md",
+    "----------------------------------/Appendix/Quill.jpg",
+    "The Phenomenology of Spirit.md",
+    "----------------------------------/Philosophy, Ethics and Society/Luhmann’s Zettelkasten method explained.md",
+    "Historical and social context and general concepts.md",
+    "----------------------------------/Synthetic Synthesis Podcast/On Design/Rudimenti di etica per il design (Visual).canvas",
+    "Analytical philosophy.md",
+    "02 The search for thought - Unit 6 Chapter 2.pdf.md",
+    "Augustine.md",
+    "07 The search for thought - Unit 18 Chapter 2.pdf.md",
+    "An ethic that looks to the future, Jonas.md",
+    "04 The search for thought - Unit 8 Chapter 1.pdf.md",
+    "German philosophy at the end of the 18th century.md",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 19 Chapter 4.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 19 Chapter 3.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 19 Chapter 2.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 19 Chapter 1.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 18 Chapter 5.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 18 Chapter 4.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 18 Chapter 3.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 18 Chapter 2.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 18 Chapter 1.txt",
+    "----------------------------------/Appendix/07 From postmodernity to the present/07 The search for thought - Unit 17 Chapter 2.txt",
+    "Heidegger.md",
+    "Environmental and animal rights labels.md",
+    "----------------------------------/Philosophy, Ethics and Society/Luhmann and systems theory.md",
+    "Locke.md",
+    "Bacone.md",
+    "AAAAAAAAAAAAAAAA.md",
+    "Bioethics.md",
+    "index.md",
+    "Design and Aesthetics Theory/Computer Graphics/Geographic Information System.md",
+    "----------------------------------/Synthetic Synthesis Podcast/On Philosophy/Season 1/The Birth of Philosophy in Greece.md",
+    "----------------------------------/Synthetic Synthesis Podcast/On Design/E5 - The Figure of the Intellectual.md",
+    "----------------------------------/Synthetic Synthesis Podcast/On Design/E4 - The Game of Philology.md",
+    "----------------------------------/Synthetic Synthesis Podcast/On Design/E3 - The Concept of Classicism.md",
+    "----------------------------------/Synthetic Synthesis Podcast/On Design/E2 - The Avant-Gardes.md",
+    "----------------------------------/Synthetic Synthesis Podcast/On Design/E1 - Modernity and Contemporaneity in the 20th Century.md",
+    "----------------------------------/Appendix/William Morris.jpg",
+    "----------------------------------/Appendix/Vladimir Lenin.jpg",
+    "----------------------------------/Appendix/Sedia No 14.jpg",
+    "----------------------------------/Appendix/Reed Pen.jpg",
+    "----------------------------------/Appendix/Poltrona Barcellona.jpg",
+    "----------------------------------/Appendix/Oldest Pencil.jpg",
+    "----------------------------------/Appendix/Leon Trotsky.jpg",
+    "----------------------------------/Appendix/Lampada Arco.jpg",
+    "----------------------------------/Appendix/Dependency Theory.png",
+    "Synthetic Synthesis Podcast/On Design/Rudimenti di etica per il design (Visual).canvas",
+    "Senza nome.canvas",
+    "Synthetic Synthesis Podcast/On Design/Modernity and Contemporaneity in the 20th Century (Visual).canvas",
+    "Synthetic Synthesis Podcast/Modernity and Contemporaneity in the 20th Century (Visual).canvas",
+    "Untitled.canvas"
+  ]
+}

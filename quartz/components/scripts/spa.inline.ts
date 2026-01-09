@@ -164,10 +164,9 @@ function createRouter() {
     })
 
     window.addEventListener("popstate", (event) => {
-      const { url } = getOpts(event) ?? {}
-      if (window.location.hash && window.location.pathname === url?.pathname) return
-      navigate(new URL(window.location.toString()), true)
-      return
+      const url = new URL(window.location.toString())
+      if (url.hash && url.pathname === window.location.pathname) return
+      navigate(url, true)
     })
   }
 

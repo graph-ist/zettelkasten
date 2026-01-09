@@ -1,0 +1,66 @@
+/* Virtual Linker styles */
+a.virtual-link {
+  color: var(--secondary);
+  text-decoration: none;
+  border-bottom: 1px dashed var(--secondary);
+  transition: all 0.2s ease;
+  
+  &:hover {
+    color: var(--tertiary);
+    border-bottom-style: solid;
+    border-bottom-color: var(--tertiary);
+  }
+}
+
+/* Multiple matches indicator */
+.virtual-link-multi {
+  display: inline;
+}
+
+.virtual-link-options {
+  font-size: 0.75em;
+  color: var(--gray);
+  vertical-align: super;
+  
+  a.virtual-link-num {
+    color: var(--secondary);
+    text-decoration: none;
+    padding: 0 2px;
+    border-radius: 2px;
+    transition: all 0.15s ease;
+    
+    &:hover {
+      color: var(--tertiary);
+      background: var(--lightgray);
+    }
+  }
+}
+
+/* Mermaid diagram clickable nodes */
+.mermaid .virtual-link-mermaid {
+  cursor: pointer !important;
+  pointer-events: all !important;
+  
+  * {
+    cursor: pointer !important;
+  }
+  
+  /* Make clickable nodes blue by default */
+  rect, circle, polygon, ellipse {
+    stroke: var(--secondary) !important;
+    stroke-width: 2px !important;
+    transition: all 0.2s ease;
+  }
+  
+  .nodeLabel, text, tspan, foreignObject span {
+    fill: var(--secondary) !important;
+    color: var(--secondary) !important;
+  }
+  
+  &:hover {
+    rect, circle, polygon, ellipse {
+      stroke-width: 3px !important;
+      filter: brightness(1.2);
+    }
+  }
+}

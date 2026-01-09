@@ -1,23 +1,71 @@
 @use "../../styles/variables.scss" as *;
 
 .backlinks {
+  display: flex;
   flex-direction: column;
 
-  & > h3 {
-    font-size: 1rem;
-    margin: 0;
+  .backlinks-header {
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    padding: 0;
+    color: var(--dark);
+    display: flex;
+    align-items: center;
+
+    h3 {
+      font-size: 0.9rem;
+      display: inline-block;
+      margin: 0;
+    }
+
+    .fold {
+      margin-left: 0.5rem;
+      transition: transform 0.3s ease;
+      opacity: 0.8;
+    }
+
+    &[aria-expanded="false"] .fold {
+      transform: rotateZ(-90deg);
+    }
   }
 
-  & > ul.overflow {
+  .backlinks-content {
+    transition: max-height 0.3s ease, opacity 0.3s ease;
+    overflow: hidden;
+
+    &.collapsed {
+      max-height: 0 !important;
+      opacity: 0;
+    }
+  }
+
+  .backlinks-description {
+    font-size: 0.75rem;
+    color: var(--gray);
+    margin: 0.25rem 0 0.5rem 0;
+    font-style: italic;
+  }
+
+  .backlinks-list {
     list-style: none;
     padding: 0;
     margin: 0.5rem 0;
-    max-height: calc(100% - 2rem);
-    overscroll-behavior: contain;
+    max-height: 30vh;
+    overflow-y: auto;
 
-    & > li {
-      & > a {
-        background-color: transparent;
+    .backlink-item a {
+      color: var(--dark);
+      opacity: 0.35;
+      font-size: 0.85rem;
+      font-weight: $normalWeight;
+      line-height: 1.4rem;
+      transition: 0.5s ease opacity, 0.3s ease color;
+      display: block;
+
+      &:hover {
+        opacity: 0.75;
       }
     }
   }

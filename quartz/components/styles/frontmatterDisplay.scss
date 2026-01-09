@@ -1,0 +1,43 @@
+.frontmatter-display {
+  margin: 1rem 0 1.5rem 0;
+  padding: 0.5rem 0;
+
+  .frontmatter-field {
+    margin-bottom: 0.75rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .frontmatter-label {
+    display: block;
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: var(--secondary);
+    margin-bottom: 0.3rem;
+  }
+
+  .frontmatter-values {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+  }
+
+  .frontmatter-value {
+    display: inline-block;
+    padding: 0.15rem 0.5rem;
+    border: 1px solid var(--lightgray);
+    border-radius: 4px;
+    font-size: 0.8rem;
+    color: var(--darkgray);
+    text-decoration: none;
+    transition: all 0.2s ease;
+
+    &:hover {
+      border-color: var(--secondary);
+      color: var(--secondary);
+      background-color: var(--highlight);
+    }
+  }
+}

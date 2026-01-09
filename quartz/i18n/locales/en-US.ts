@@ -23,6 +23,7 @@ export default {
     },
     backlinks: {
       title: "Backlinks",
+      description: "Notes that link to this one",
       noBacklinksFound: "No backlinks found",
     },
     themeToggle: {

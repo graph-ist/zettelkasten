@@ -15,6 +15,12 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
         : aliasTarget
     ) as FullSlug
 
+    // Skip aliases that would conflict with the source file on case-insensitive filesystems
+    // (e.g., "Hobbes" page with alias "hobbes" would overwrite itself on macOS/Windows)
+    if (aliasTargetSlug.toLowerCase() === ogSlug.toLowerCase()) {
+      continue
+    }
+
     const redirUrl = resolveRelative(aliasTargetSlug, ogSlug)
     yield write({
       ctx,

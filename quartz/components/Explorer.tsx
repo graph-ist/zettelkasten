@@ -18,13 +18,13 @@ export interface Options {
   useSavedState: boolean
   sortFn: (a: FileTrieNode, b: FileTrieNode) => number
   filterFn: (node: FileTrieNode) => boolean
-  mapFn: (node: FileTrieNode) => void
+  mapFn: (node: FileTrieNode) => FileTrieNode
   order: OrderEntries[]
 }
 
 const defaultOptions: Options = {
   folderDefaultState: "collapsed",
-  folderClickBehavior: "link",
+  folderClickBehavior: "collapse",
   useSavedState: true,
   mapFn: (node) => {
     return node
@@ -103,12 +103,12 @@ export default ((userOpts?: Partial<Options>) => {
           data-mobile={false}
           aria-expanded={true}
         >
-          <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+          <h3>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h3>
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="14"
-            height="14"
-            viewBox="5 8 14 8"
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
             fill="none"
             stroke="currentColor"
             stroke-width="2"
@@ -132,9 +132,9 @@ export default ((userOpts?: Partial<Options>) => {
             <div class="folder-container">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                width="12"
-                height="12"
-                viewBox="5 8 14 8"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
                 fill="none"
                 stroke="currentColor"
                 stroke-width="2"
