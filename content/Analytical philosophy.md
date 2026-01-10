@@ -1,4 +1,5 @@
 ---
+key: ['Wittgenstein on Language and Thought']
 cssclasses:
   - Philosophy
 subclasses:

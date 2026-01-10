@@ -4,5 +4,8 @@
   "showRibbon": true,
   "theme": "system",
   "showViewHeader": false,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "unresolved-links"
+  ]
 }

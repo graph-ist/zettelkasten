@@ -171,7 +171,7 @@ flowchart TD
 - [[Sturm und Drang]]
 - [[Pantheism Controversy]]
 - [[Spinoza]]
-- [[Critique of Judgment]]
+- [[Critique of the Power of Judgment]]
 - [[Aesthetic Education]]
 - [[Philosophy of Language]]
 - [[Philosophy of History]]

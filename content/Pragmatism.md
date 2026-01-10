@@ -14,7 +14,6 @@ aliases:
   - semiotics
   - belief
   - inquiry
-  - experience
   - verification
   - truth utility
   - democratic method

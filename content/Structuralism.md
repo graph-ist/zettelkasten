@@ -8,7 +8,6 @@ subclasses:
   - Philosophy-of-Language
 aliases:
   - structuralism
-  - structure
   - langue parole
   - signifier signified
   - synchronic diacronic

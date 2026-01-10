@@ -10,7 +10,6 @@ aliases:
   - neokantanism
   - historicism
   - verstehen
-  - understanding
   - lived experience
   - symbolic forms
   - animal symbolicum

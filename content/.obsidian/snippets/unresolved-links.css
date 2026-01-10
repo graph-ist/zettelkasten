@@ -1,0 +1,10 @@
+/* Colora di rosso i link a pagine non esistenti */
+.internal-link.is-unresolved {
+  color: #e74c3c !important;
+  opacity: 0.85;
+}
+
+.internal-link.is-unresolved:hover {
+  color: #c0392b !important;
+  opacity: 1;
+}

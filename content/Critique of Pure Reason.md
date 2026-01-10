@@ -179,7 +179,7 @@ flowchart TD
 
 - [[Transcendental Idealism]]
 - [[Critique of Practical Reason]]
-- [[Critique of Judgment]]
+- [[Critique of the Power of Judgment]]
 - [[German Idealism]]
 - [[Epistemology]]
 - [[Rationalism]]

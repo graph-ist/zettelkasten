@@ -35,7 +35,7 @@ The central problem addressed by Wittgenstein's philosophy is the relationship b
 
 In his early work, the *Tractatus Logico-Philosophicus* (1921), Wittgenstein sought to determine the logical structure that language must possess in order to represent reality. The key insight is that there is no intermediate sphere of "thought" or "knowledge" mediating between world and language — thought simply *is* language, and language is the logical picture of reality. This leads to a radical delimitation: whatever cannot be expressed in meaningful propositions must be passed over in silence, including ethics, aesthetics, metaphysics, and the very conditions that make language possible.
 
-In his later work, the *Philosophical Investigations* (published posthumously 1953), Wittgenstein abandons the idea of a single logical structure underlying all language. Instead, he recognizes language as a multiplicity of "language games" — different rule-governed practices serving different purposes. The question shifts from "What is the essence of language?" to "How is language actually used?" Philosophy's task becomes therapeutic: dissolving pseudo-problems that arise from misunderstanding how language works.
+In his later work, the *[[Wittgenstein on Language and Thought|Philosophical Investigations]]* (published posthumously 1953), Wittgenstein abandons the idea of a single logical structure underlying all language. Instead, he recognizes language as a multiplicity of "language games" — different rule-governed practices serving different purposes. The question shifts from "What is the essence of language?" to "How is language actually used?" Philosophy's task becomes therapeutic: dissolving pseudo-problems that arise from misunderstanding how language works.
 
 #### Main Thesis
 
@@ -74,7 +74,7 @@ After the war, believing he had solved the essential problems of philosophy, Wit
 
 In 1929, encouraged by his friends and the Vienna Circle philosophers who had adopted the *Tractatus* as foundational, Wittgenstein returned to Cambridge. He became professor in 1939 (succeeding Moore) and obtained British citizenship after Austria's annexation by Nazi Germany. During World War II he worked as a hospital orderly.
 
-From the early 1930s, Wittgenstein began radically revising his earlier views, influenced by discussions with Ramsey, Brouwer, and members of the Vienna Circle. The *Philosophical Investigations*, composed between 1935-1949, was published posthumously in 1953. Wittgenstein died of prostate cancer in 1951.
+From the early 1930s, Wittgenstein began radically revising his earlier views, influenced by discussions with Ramsey, Brouwer, and members of the Vienna Circle. The *[[Wittgenstein on Language and Thought|Philosophical Investigations]]*, composed between 1935-1949, was published posthumously in 1953. Wittgenstein died of prostate cancer in 1951.
 
 #### Philosophical Lineage
 

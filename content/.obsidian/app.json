@@ -4,7 +4,7 @@
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
   "showLineNumber": false,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "livePreview": false,
   "mobileToolbarCommands": [
     "editor:toggle-highlight",
@@ -18,7 +18,7 @@
     "editor:insert-wikilink"
   ],
   "showInlineTitle": true,
-  "focusNewTab": false,
+  "focusNewTab": true,
   "attachmentFolderPath": "Appendix",
   "mobileQuickRibbonItem": "",
   "foldHeading": true,
