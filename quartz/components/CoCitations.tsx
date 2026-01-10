@@ -179,56 +179,22 @@ export default ((opts?: Partial<CoCitationsOptions>) => {
           <p class="cocitations-description">
             Notes frequently cited together with this one
           </p>
-          {coCitations.length > 0 ? (
-            <ul class="cocitations-list overflow">
-              {coCitations.map((coCite) => (
+          <ul class="cocitations-list">
+            {coCitations.length > 0 ? (
+              coCitations.map((coCite) => (
                 <li class="cocitation-item">
-                  <div class="cocitation-entry">
-                    <a 
-                      href={resolveRelative(fileData.slug!, coCite.slug)} 
-                      class="internal cocitation-link"
-                    >
-                      {coCite.title}
-                    </a>
-                    <span class="cocitation-count">{Math.round(coCite.score)}%</span>
-                    <details>
-                      <summary>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          width="16"
-                          height="16"
-                          viewBox="0 0 24 24"
-                          fill="none"
-                          stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          class="fold-icon"
-                        >
-                          <polyline points="6 9 12 15 18 9"></polyline>
-                        </svg>
-                        <span class="sr-only">Show sources</span>
-                      </summary>
-                      <ul class="cocitation-sources">
-                        {coCite.sources.map((source) => (
-                          <li>
-                            <a 
-                              href={resolveRelative(fileData.slug!, source.slug)} 
-                              class="internal source-link"
-                            >
-                              {source.title}
-                            </a>
-                          </li>
-                        ))}
-                      </ul>
-                    </details>
-                  </div>
+                  <a 
+                    href={resolveRelative(fileData.slug!, coCite.slug)} 
+                    class="internal"
+                  >
+                    {coCite.title}
+                  </a>
                 </li>
-              ))}
-            </ul>
-          ) : (
-            <p class="no-cocitations">No co-citations found</p>
-          )}
+              ))
+            ) : (
+              <li>No co-citations found</li>
+            )}
+          </ul>
         </div>
       </div>
     )

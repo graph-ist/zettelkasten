@@ -135,62 +135,22 @@ export default ((opts?: Partial<LinkPredictionOptions>) => {
           <p class="linkprediction-description">
             Notes you might want to link (Adamic-Adar)
           </p>
-          {topPredictions.length > 0 ? (
-            <ul class="linkprediction-list overflow">
-              {topPredictions.map((prediction) => (
+          <ul class="linkprediction-list">
+            {topPredictions.length > 0 ? (
+              topPredictions.map((prediction) => (
                 <li class="linkprediction-item">
-                  <div class="linkprediction-entry">
-                    <a 
-                      href={resolveRelative(fileData.slug!, prediction.slug)} 
-                      class="internal linkprediction-link"
-                    >
-                      {prediction.title}
-                    </a>
-                    <span class="linkprediction-score">
-                      {prediction.score.toFixed(0)}%
-                    </span>
-                    <details>
-                      <summary>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          width="16"
-                          height="16"
-                          viewBox="0 0 24 24"
-                          fill="none"
-                          stroke="currentColor"
-                          stroke-width="2"
-                          stroke-linecap="round"
-                          stroke-linejoin="round"
-                          class="fold-icon"
-                        >
-                          <polyline points="6 9 12 15 18 9"></polyline>
-                        </svg>
-                        <span class="sr-only">Show common neighbors</span>
-                      </summary>
-                      <ul class="common-neighbors">
-                        {prediction.commonNeighbors.map((neighbor) => {
-                          const neighborFile = slugToFile.get(neighbor)
-                          const neighborSlug = neighborFile ? simplifySlug(neighborFile.slug!) : neighbor
-                          return (
-                            <li>
-                              <a 
-                                href={resolveRelative(fileData.slug!, neighborSlug as SimpleSlug)} 
-                                class="internal neighbor-link"
-                              >
-                                {neighborFile?.frontmatter?.title || neighbor}
-                              </a>
-                            </li>
-                          )
-                        })}
-                      </ul>
-                    </details>
-                  </div>
+                  <a 
+                    href={resolveRelative(fileData.slug!, prediction.slug)} 
+                    class="internal"
+                  >
+                    {prediction.title}
+                  </a>
                 </li>
-              ))}
-            </ul>
-          ) : (
-            <p class="no-predictions">No link suggestions</p>
-          )}
+              ))
+            ) : (
+              <li>No link suggestions</li>
+            )}
+          </ul>
         </div>
       </div>
     )
