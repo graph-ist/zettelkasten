@@ -185,10 +185,11 @@ export default ((opts?: Partial<CoCitationsOptions>) => {
                 <li class="cocitation-item">
                   <a 
                     href={resolveRelative(fileData.slug!, coCite.slug)} 
-                    class="internal"
+                    class="internal cocitation-link"
                   >
                     {coCite.title}
                   </a>
+                  <span class="cocitation-score">{Math.round(coCite.score)}%</span>
                 </li>
               ))
             ) : (

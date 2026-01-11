@@ -73,9 +73,9 @@ flowchart TD
     Galilei --> Newton
     Galilei --> Torricelli
     Galilei --> Huygens
-    Galilei --> Cartesio
+    Galilei --> Descartes
 
-    class Copernico,Archimede,Pitagora,Platone,Democrito,Aristotele,Galilei,Newton,Torricelli,Huygens,Cartesio internal-link;
+    class Copernico,Archimede,Pitagora,Platone,Democrito,Aristotele,Galilei,Newton,Torricelli,Huygens,Descartes internal-link;
 ```
 
 #### Key Thinkers
@@ -119,7 +119,7 @@ flowchart TD
 
 - **Predecessors:** [[Galilei]] ← influenced by ← [[Copernico]], [[Archimede]], [[Platone]], [[Pitagora]], [[Democrito]]
 - **Contemporaries:** [[Galilei]] ↔ dialogue with ↔ [[Keplero]], [[Bellarmino]] ← opposed by ← [[Galilei]]
-- **Followers:** [[Galilei]] → influenced → [[Newton]], [[Torricelli]], [[Huygens]], [[Cartesio]]
+- **Followers:** [[Galilei]] → influenced → [[Newton]], [[Torricelli]], [[Huygens]], [[Descartes]]
 - **Opposing views:** [[Galilei]] ← criticized by ← Aristotelians, Jesuits (Scheiner, Grassi), Dominican preachers (Lorini, Caccini)
 
 #### Summary Formulas

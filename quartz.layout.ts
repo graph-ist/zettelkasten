@@ -57,15 +57,6 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [
     Component.VirtualLinker(),
     Component.ConditionalRender({
-      component: Component.RecentNotes({
-        title: "Latest Notes",
-        limit: 3,
-        showTags: false,
-        filter: (f) => f.slug !== "index",
-      }),
-      condition: (page) => page.fileData.slug === "index",
-    }),
-    Component.ConditionalRender({
       component: Component.TopCommunities({
         title: "Topic Clusters",
         topCommunities: 3,

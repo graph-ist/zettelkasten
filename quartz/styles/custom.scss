@@ -2,19 +2,21 @@
 
 // put your custom CSS here!
 
-// Allinea Latest Notes e Topic Clusters affiancati
-.page > #quartz-body > .center > article + div {
-  display: flex;
-  gap: 2rem;
-  margin-top: 2rem;
+// Allinea titolo con la sidebar (entrambi a 6rem)
+.article-title {
+  margin-top: 0;
 }
 
-.page > #quartz-body > .center > article + div > .recent-notes,
-.page > #quartz-body > .center > article + div > .top-communities {
-  flex: 1;
+// Topic Clusters - full width nel body centrale
+.page > #quartz-body .page-footer {
+  display: block;
 }
 
-.recent-notes h3:first-child,
+.top-communities {
+  width: 100%;
+  max-width: 100%;
+}
+
 .top-communities h3:first-child {
   margin-top: 0;
 }

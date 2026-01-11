@@ -141,10 +141,11 @@ export default ((opts?: Partial<LinkPredictionOptions>) => {
                 <li class="linkprediction-item">
                   <a 
                     href={resolveRelative(fileData.slug!, prediction.slug)} 
-                    class="internal"
+                    class="internal linkprediction-link"
                   >
                     {prediction.title}
                   </a>
+                  <span class="linkprediction-score">{prediction.score.toFixed(0)}%</span>
                 </li>
               ))
             ) : (

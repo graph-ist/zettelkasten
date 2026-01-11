@@ -240,6 +240,10 @@ export default ((opts?: Partial<TopCommunitiesOptions>) => {
 
 .community-members a {
   font-size: 0.9rem;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .community-more {
