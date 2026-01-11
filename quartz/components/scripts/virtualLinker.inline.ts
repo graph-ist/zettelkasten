@@ -1,25 +1,26 @@
 // Virtual Linker - Auto-link text matching titles/aliases
-let cachedContentIndex: Record<string, any> | null = null
 
 document.addEventListener("nav", async () => {
-  // Use cached index or fetch it
-  if (!cachedContentIndex) {
-    const contentIndexUrl = new URL("/static/contentIndex.json", window.location.origin).href
-    cachedContentIndex = await fetch(contentIndexUrl).then((r) => r.json())
-  }
+  // Use Quartz's global fetchData which already handles base path correctly
+  const contentIndex = await fetchData
   
-  const contentIndex = cachedContentIndex!
-
   // Build a map of terms to all matching pages
   const termToPages: Map<string, { slug: string; title: string }[]> = new Map()
-  const currentPath = window.location.pathname.replace(/\/$/, "")
+  
+  // Get current page slug
+  const currentSlug = document.body.dataset.slug || ''
 
-  for (const [slug, data] of Object.entries(contentIndex) as [string, any][]) {
-    const targetSlug = "/" + slug.replace(/\/index$/, "")
-    if (targetSlug === currentPath) continue
+  for (const [slug, data] of Object.entries(contentIndex)) {
+    // Skip current page
+    if (slug === currentSlug || slug === currentSlug + '/index' || 
+        slug.replace(/\/index$/, '') === currentSlug) continue
 
-    const title = data.title || ""
-    const aliases = data.aliases || []
+    const title = (data as any).title || ""
+    const aliases = (data as any).aliases || []
+    
+    // Build the href - use relative path starting with ./
+    // This works correctly regardless of base path
+    const href = "./" + slug.replace(/\/index$/, "")
 
     // Add title as term
     if (title && title.length >= 3) {
@@ -27,7 +28,7 @@ document.addEventListener("nav", async () => {
       if (!termToPages.has(termLower)) {
         termToPages.set(termLower, [])
       }
-      termToPages.get(termLower)!.push({ slug: targetSlug, title })
+      termToPages.get(termLower)!.push({ slug: href, title })
     }
 
     // Add aliases as terms
@@ -39,8 +40,8 @@ document.addEventListener("nav", async () => {
         }
         // Avoid duplicates
         const existing = termToPages.get(termLower)!
-        if (!existing.some(p => p.slug === targetSlug)) {
-          termToPages.get(termLower)!.push({ slug: targetSlug, title })
+        if (!existing.some(p => p.slug === href)) {
+          termToPages.get(termLower)!.push({ slug: href, title })
         }
       }
     }
