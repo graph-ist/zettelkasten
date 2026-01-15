@@ -1,34 +1,28 @@
 ---
 cssclasses:
-- Philosophy
-- History
+  - Philosophy
+  - History
 subclasses:
-- 19th-Century-Philosophy
-- Continental-Philosophy
-- Epistemology
+  - 19th-Century-Philosophy
+  - Continental-Philosophy
+  - Epistemology
 aliases:
-- german idealism
-- immanuel kant
-- transcendental idealism
-- absolute idealism
-- fichte
-- schelling
-- hegel
-- romanticism
-- enlightenment
-- post-kantian idealism
+  - german idealism
+  - transcendental idealism
+  - absolute idealism
+  - post-kantian idealism
 contributions:
-- Conceptual
+  - Conceptual
 authors:
-- "[[Kant]]"
-- "[[Fichte]]"
-- "[[Schelling]]"
-- "[[Hegel]]"
-- "[[Jacobi]]"
-- "[[Reinhold]]"
-- "[[Schulze]]"
-- "[[Maimon]]"
-reference: "https://en.wikipedia.org/wiki/German_idealism"
+  - "[[Kant]]"
+  - "[[Fichte]]"
+  - "[[Schelling]]"
+  - "[[Hegel]]"
+  - "[[Jacobi]]"
+  - "[[Reinhold]]"
+  - "[[Schulze]]"
+  - "[[Maimon]]"
+reference: https://en.wikipedia.org/wiki/German_idealism
 related:
 ---
 

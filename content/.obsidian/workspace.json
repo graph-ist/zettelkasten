@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "An ethic that looks to the future.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "An ethic that looks to the future"
             }
           }
         ],
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,18 +202,28 @@
       "random-note:Apri nota casuale": false
     }
   },
-  "active": "b362cd6ccb4dce25",
+  "active": "cd5068ce1d2b579a",
   "lastOpenFiles": [
-    "Clippings/Networked Thinking Through Zettelkasten.md",
+    "Aristotle.md",
+    "Plato.md",
+    "Nietzsche.md",
+    "Descartes.md",
+    "Habermas.md",
+    "Epistemology.md",
+    "Rawls.md",
+    "German Idealism.md",
+    "Russell.md",
+    "Luhmann.md",
+    "Zettelkasten.md",
+    "Hegel.md",
+    "Encyclopedia of Philosophical Sciences in Compendium.md",
     "index.md",
+    "Clippings/Networked Thinking Through Zettelkasten.md",
     "An ethic that looks to the future.md",
     "Appendix/Rudimenti di etica per il design (Visual).canvas",
     "Blueprints/Unresolved Links Analysis.md",
     "Blueprints/Template.md",
     "Blueprints/Persons Index (Dynamic).md",
-    "Plato.md",
-    "Aristotle.md",
-    "Hegel.md",
     "Analytical philosophy.md",
     "Aquinas.md",
     "Frege.md",
@@ -220,16 +231,6 @@
     "Clippings/Wittgenstein on Language and Thought.md",
     "Clippings/William Morris vs Christopher Dresser.md",
     "Clippings/Wabi-Sabi and Imperfection.md",
-    "Clippings/Vilém Flusser.md",
-    "Clippings/Time fluidity concept.md",
-    "Clippings/The carpet as symbolic space.md",
-    "Clippings/The carpet as a journey through space-time.md",
-    "Clippings/Success through design and promotion.md",
-    "Clippings/School self-taught education.md",
-    "Clippings/Reading Images Requires Knowledge.md",
-    "Clippings/Pesce on Art and Design.md",
-    "Clippings/Perception as Semiosis and Abduction.md",
-    "Clippings/Peirce's Semiotic Theory and Logical Systems.md",
     "Senza nome.canvas",
     "Clippings",
     "Clippings",

@@ -7,6 +7,26 @@
   margin-top: 0;
 }
 
+// Home link grande come article-title
+.page-title a {
+  font-size: 1.75rem;
+}
+
+// Sidebar headers (Explorer, ToC, Backlinks, etc.) same size as h4
+button.mobile-explorer h3,
+button.desktop-explorer h3,
+button.toc-header h3,
+.backlinks > h3,
+.graph > h3,
+.recent-notes > h3 {
+  font-size: 1rem;
+}
+
+// Content meta (word count, read time) less prominent
+.content-meta {
+  opacity: 0.5;
+}
+
 // Topic Clusters - full width nel body centrale
 .page > #quartz-body .page-footer {
   display: block;

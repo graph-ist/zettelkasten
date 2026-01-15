@@ -47,6 +47,7 @@ g[class~="typst-text"] {
   fill: var(--darkgray);
   overflow-wrap: break-word;
   text-wrap: pretty;
+  font-size: 1.1rem;
 }
 
 path[class~="typst-shape"] {
@@ -543,7 +544,7 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.6rem;
+  line-height: 2rem;
 }
 
 .table-container {

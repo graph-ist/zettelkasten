@@ -120,13 +120,18 @@ button.desktop-explorer {
     padding: 0;
     overscroll-behavior: contain;
 
+    & li {
+      padding: 0.15rem 0;
+      line-height: 1.2rem;
+    }
+
     & li > a {
       color: var(--dark);
-      opacity: 0.35;
+      opacity: 0.5;
       pointer-events: all;
-      font-size: 0.85rem;
+      font-size: 0.9rem;
       font-weight: $normalWeight;
-      line-height: 1.4rem;
+      line-height: 1.2rem;
       transition: 0.5s ease opacity, 0.3s ease color;
       display: block;
       overflow: hidden;

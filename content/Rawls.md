@@ -8,7 +8,6 @@ subclasses:
   - 20th-Century-Philosophy
   - Ethics
 aliases:
-  - justice as fairness
   - political liberalism
   - liberal tradition
   - egalitarian economic
@@ -22,13 +21,13 @@ contributions:
   - Conceptual
   - Constructive
 authors:
-- "[[Rawls]]"
-- "[[Hart]]"
-- "[[Berlin]]"
-- "[[Hampshire]]"
-- "[[Hobbes]]"
-- "[[Locke]]"
-- "[[Wittgenstein]]"
+  - "[[Rawls]]"
+  - "[[Hart]]"
+  - "[[Berlin]]"
+  - "[[Hampshire]]"
+  - "[[Hobbes]]"
+  - "[[Locke]]"
+  - "[[Wittgenstein]]"
 reference: https://plato.stanford.edu/entries/rawls/
 related:
 ---

@@ -60,17 +60,19 @@
       align-items: center;
       justify-content: space-between;
       gap: 0.5rem;
+      padding: 0.15rem 0;
+      line-height: 1.2rem;
 
       .linkprediction-link {
         color: var(--dark);
-        font-size: 0.85rem;
+        font-size: 0.9rem;
         font-weight: $normalWeight;
-        line-height: 1.4rem;
+        line-height: 1.2rem;
         flex: 1;
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
-        opacity: 0.35;
+        opacity: 0.5;
         transition: 0.5s ease opacity, 0.3s ease color;
 
         &:hover {

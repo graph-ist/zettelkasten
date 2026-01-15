@@ -1,31 +1,22 @@
 ---
 cssclasses:
-- Philosophy
-- Mathematics
-- Political-Science
+  - Philosophy
+  - Mathematics
+  - Political-Science
 subclasses:
-- Analytic-Philosophy
-- 20th-Century-Philosophy
+  - Analytic-Philosophy
+  - 20th-Century-Philosophy
 aliases:
-- logic
-- philosophy
-- mathematics
-- logicism
-- descriptions
-- atomism
-- types
-- monism
-- analytic philosophy
-- paradox
+  - analytic philosophy
 contributions:
-- Conceptual
+  - Conceptual
 authors:
-- "[[Frege]]"
-- "[[Moore]]"
-- "[[Whitehead]]"
-- "[[Wittgenstein]]"
-- "[[Peano]]"
-reference: "https://plato.stanford.edu/entries/russell/"
+  - "[[Frege]]"
+  - "[[Moore]]"
+  - "[[Whitehead]]"
+  - "[[Wittgenstein]]"
+  - "[[Peano]]"
+reference: https://plato.stanford.edu/entries/russell/
 related:
 ---
 
