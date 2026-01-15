@@ -132,25 +132,29 @@ body.is-mobile .GA-details::before {
 }
 
 .GA-View ::-webkit-scrollbar {
-  width: 0px;
-  height: 0px;
-  display: none;
+  width: 4px;
+  height: 4px;
+}
+
+.GA-View ::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}
+
+.GA-View:hover ::-webkit-scrollbar-thumb {
+  background-color: var(--scrollbar-thumb-bg);
 }
 
 .GA-View {
-  scrollbar-width: none; /* Firefox */
-  -ms-overflow-style: none; /* IE/Edge */
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: transparent transparent; /* Firefox - thumb track */
+}
+
+.GA-View:hover {
+  scrollbar-color: var(--scrollbar-thumb-bg) transparent; /* Firefox - thumb track */
 }
 
 .scrollContainer {
   padding: 0px 0px 4px 0px;
-}
-.scrollContainer:hover {
-  padding: 0px;
-}
-
-.GA-View .scrollContainer:hover ::-webkit-scrollbar {
-  height: 4px;
 }
 .GA-View ::-webkit-scrollbar-track {
   border-radius: 10px;

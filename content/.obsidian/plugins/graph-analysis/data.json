@@ -11,8 +11,11 @@
   "exclusionRegex": "",
   "exclusionTags": [],
   "algsToShow": [
+    "Co-Citations",
+    "HITS",
     "Adamic Adar",
     "Jaccard",
-    "Overlap"
+    "Overlap",
+    "Clustering Coefficient"
   ]
 }

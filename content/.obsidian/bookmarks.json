@@ -43,7 +43,7 @@
     {
       "type": "file",
       "ctime": 1768054665605,
-      "path": "Clippings/Unresolved Links Analysis.md"
+      "path": "Blueprints/Unresolved Links Analysis.md"
     },
     {
       "type": "group",
@@ -111,6 +111,11 @@
         }
       ],
       "title": "10 gennaio 2026 16:50"
+    },
+    {
+      "type": "file",
+      "ctime": 1768490723047,
+      "path": "Blueprints/Persons Index (Dynamic).md"
     }
   ]
 }

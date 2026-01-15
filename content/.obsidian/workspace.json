@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c96f8c4aef5793f",
+        "id": "dc5b0ddec5a7da9d",
         "type": "tabs",
         "children": [
           {
-            "id": "67f235374c4760f5",
+            "id": "b362cd6ccb4dce25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analytical philosophy.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Analytical philosophy"
+              "title": "index"
             }
           }
         ],
@@ -85,7 +85,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -131,21 +132,6 @@
             }
           },
           {
-            "id": "dd4212439191e015",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etichette"
-            }
-          },
-          {
             "id": "ef59495ac432a59c",
             "type": "leaf",
             "state": {
@@ -164,9 +150,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Analytical philosophy.md"
+              },
               "icon": "lucide-info",
-              "title": "Proprietà file"
+              "title": "Proprietà file per Analytical philosophy"
             }
           },
           {
@@ -178,13 +166,28 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "db81732ece41ff7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,9 +201,21 @@
       "random-note:Apri nota casuale": false
     }
   },
-  "active": "67f235374c4760f5",
+  "active": "b362cd6ccb4dce25",
   "lastOpenFiles": [
+    "Clippings/Networked Thinking Through Zettelkasten.md",
+    "index.md",
     "An ethic that looks to the future.md",
+    "Appendix/Rudimenti di etica per il design (Visual).canvas",
+    "Blueprints/Unresolved Links Analysis.md",
+    "Blueprints/Template.md",
+    "Blueprints/Persons Index (Dynamic).md",
+    "Plato.md",
+    "Aristotle.md",
+    "Hegel.md",
+    "Analytical philosophy.md",
+    "Aquinas.md",
+    "Frege.md",
     "Skepticism.md",
     "Clippings/Wittgenstein on Language and Thought.md",
     "Clippings/William Morris vs Christopher Dresser.md",
@@ -215,18 +230,6 @@
     "Clippings/Pesce on Art and Design.md",
     "Clippings/Perception as Semiosis and Abduction.md",
     "Clippings/Peirce's Semiotic Theory and Logical Systems.md",
-    "Clippings/Making sense of statistics in HCI.md",
-    "Clippings/Imaginal Realm in Design.md",
-    "Clippings/Ethics in Design.md",
-    "Clippings/Design.md",
-    "Clippings/Design Universality.md",
-    "Clippings/Design Schools and Modernity.md",
-    "Clippings/Design in Italy.md",
-    "Clippings/Design as Epistemic Practice.md",
-    "Clippings/Design and Ethics.md",
-    "Clippings/Critique and Politics in Design.md",
-    "Clippings/Color and Soul in Art.md",
-    "Appendix/Rudimenti di etica per il design (Visual).canvas",
     "Senza nome.canvas",
     "Clippings",
     "Clippings",

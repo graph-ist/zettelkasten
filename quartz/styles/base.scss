@@ -96,12 +96,10 @@ a {
     line-height: 1.4rem;
 
     &.broken {
-      color: #e53935;
-      opacity: 0.8;
-      transition: opacity 0.2s ease;
-      &:hover {
-        opacity: 1;
-      }
+      color: var(--darkgray);
+      font-weight: normal;
+      pointer-events: none;
+      cursor: default;
     }
 
     &:has(> img) {

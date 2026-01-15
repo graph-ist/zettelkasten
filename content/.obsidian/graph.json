@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "cartesio",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7694191052233147,
-  "close": true
+  "scale": 0.2403040937458009,
+  "close": false
 }
