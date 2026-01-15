@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skepticism.md",
+                "file": "Analytical philosophy.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Skepticism"
+              "title": "Analytical philosophy"
             }
           }
         ],
@@ -51,7 +51,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -198,8 +198,10 @@
       "random-note:Apri nota casuale": false
     }
   },
-  "active": "ef59495ac432a59c",
+  "active": "67f235374c4760f5",
   "lastOpenFiles": [
+    "An ethic that looks to the future.md",
+    "Skepticism.md",
     "Clippings/Wittgenstein on Language and Thought.md",
     "Clippings/William Morris vs Christopher Dresser.md",
     "Clippings/Wabi-Sabi and Imperfection.md",
@@ -224,8 +226,6 @@
     "Clippings/Design and Ethics.md",
     "Clippings/Critique and Politics in Design.md",
     "Clippings/Color and Soul in Art.md",
-    "Clippings/Co-working Spaces in London.md",
-    "Clippings/Carpet as Symbolic Space.md",
     "Appendix/Rudimenti di etica per il design (Visual).canvas",
     "Senza nome.canvas",
     "Clippings",
