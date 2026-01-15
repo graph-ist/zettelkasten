@@ -15,11 +15,9 @@ aliases:
   - transcendental analytic
   - transcendental dialectic
   - categories intellect
-  - thing in
   - forms intuition
   - space time
   - io penso
-  - apperception
 contributions:
   - Conceptual
 authors:
@@ -34,18 +32,29 @@ authors:
   - "[[Plato]]"
   - "[[Anselm]]"
   - "[[Aquinas]]"
-reference: "[[04 The search for thought - Unit 7 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[Transcendental Idealism]]"
+  - "[[Critique of Practical Reason]]"
+  - "[[Critique of the Power of Judgment]]"
+  - "[[German Idealism]]"
+  - "[[Epistemology]]"
+  - "[[Rationalism]]"
+  - "[[Empiricism]]"
+  - "[[Metaphysics]]"
+  - "[[Philosophy of Science]]"
+  - "[[Neo-Kantianism]]"
 ---
 
 #### Central Problem
 
-The Critique of Pure Reason addresses the fundamental question: what are the conditions, possibilities, and limits of human knowledge? Kant's investigation emerges from the debate between rationalism and empiricism concerning the foundations of science. Against rationalism (represented by Leibniz and Wolff), which claimed to derive all knowledge from innate ideas and pure reason, Kant argues that knowledge requires sensory experience. Against empiricism (represented by Locke and especially Hume), which grounded all knowledge in experience alone, Kant contends that experience presupposes certain a priori principles that cannot themselves be derived from experience.
+The Critique of Pure Reason addresses the fundamental question: what are the conditions, possibilities, and limits of human knowledge? [[Kant]]'s investigation emerges from the debate between rationalism and empiricism concerning the foundations of science. Against rationalism (represented by [[Leibniz]] and [[Wolff]]), which claimed to derive all knowledge from innate ideas and pure reason, [[Kant]] argues that knowledge requires sensory experience. Against empiricism (represented by [[Locke]] and especially [[Hume]]), which grounded all knowledge in experience alone, [[Kant]] contends that experience presupposes certain a priori principles that cannot themselves be derived from experience.
 
-The central problem crystallizes in the question: "How are synthetic a priori judgments possible?" This question encompasses three subordinate inquiries: How is pure mathematics possible? How is pure natural science possible? Is metaphysics as a science possible? Hume had awakened Kant from his "dogmatic slumber" by demonstrating that the principle of causality cannot be derived from experience. If Hume is right, the very foundation of science—its universal and necessary laws—would collapse into mere psychological habit. Kant's task is to rescue science from skepticism while acknowledging the legitimate boundaries of human reason.
+The central problem crystallizes in the question: "How are synthetic a priori judgments possible?" This question encompasses three subordinate inquiries: How is pure mathematics possible? How is pure natural science possible? Is metaphysics as a science possible? [[Hume]] had awakened [[Kant]] from his "dogmatic slumber" by demonstrating that the principle of causality cannot be derived from experience. If [[Hume]] is right, the very foundation of science—its universal and necessary laws—would collapse into mere psychological habit. [[Kant]]'s task is to rescue science from skepticism while acknowledging the legitimate boundaries of human reason.
 
 #### Main Thesis
 
-Kant's revolutionary solution involves what he calls a "Copernican revolution" in philosophy. Just as Copernicus reversed the relationship between observer and celestial bodies, Kant reverses the relationship between subject and object in knowledge: instead of the mind conforming to objects, objects must conform to the a priori structures of the mind. This inversion grounds the possibility of synthetic a priori knowledge.
+Kant's revolutionary solution involves what he calls a "Copernican revolution" in philosophy. Just as [[Copernicus]] reversed the relationship between observer and celestial bodies, [[Kant]] reverses the relationship between subject and object in knowledge: instead of the mind conforming to objects, objects must conform to the a priori structures of the mind. This inversion grounds the possibility of synthetic a priori knowledge.
 
 **The Theory of Judgments:**
 - *Analytic a priori judgments* are those where the predicate merely explicates what is already contained in the subject concept (e.g., "Bodies are extended"). They are universal and necessary but sterile—they do not extend knowledge.
@@ -74,13 +83,14 @@ The ideas of reason (soul, world, God) have no legitimate cognitive use since th
 
 #### Historical Context
 
-The Critique of Pure Reason (1781, second edition 1787) emerged at the height of the German Enlightenment (Aufklärung) and represents the culmination of early modern epistemological debates. Kant lived his entire life in Königsberg, where he taught at the university and developed his critical philosophy through sustained engagement with both rationalist and empiricist traditions.
+The Critique of Pure Reason (1781, second edition 1787) emerged at the height of the German Enlightenment (Aufklärung) and represents the culmination of early modern epistemological debates. [[Kant]] lived his entire life in Königsberg, where he taught at the university and developed his critical philosophy through sustained engagement with both rationalist and empiricist traditions.
 
-The intellectual context was shaped by several factors: the stunning success of Newtonian physics, which seemed to establish universal mathematical laws of nature; the challenge posed by Hume's empiricism to the very possibility of necessary knowledge; the competing claims of Leibnizian-Wolffian rationalism, which dominated German universities; and the growing sense that traditional metaphysics had reached an impasse of empty disputes.
+The intellectual context was shaped by several factors: the stunning success of Newtonian physics, which seemed to establish universal mathematical laws of nature; the challenge posed by [[Hume]]'s empiricism to the very possibility of necessary knowledge; the competing claims of Leibnizian-Wolffian rationalism, which dominated German universities; and the growing sense that traditional metaphysics had reached an impasse of empty disputes.
 
-Kant's pre-critical period saw him working within the rationalist framework while increasingly influenced by Newton and eventually Hume. The "great light" of 1769 and the subsequent "silent decade" of intensive work led to the first Critique, which Kant hoped would settle metaphysical disputes once and for all by determining what reason can and cannot know.
+Kant's pre-critical period saw him working within the rationalist framework while increasingly influenced by [[Newton]] and eventually [[Hume]]. The "great light" of 1769 and the subsequent "silent decade" of intensive work led to the first Critique, which [[Kant]] hoped would settle metaphysical disputes once and for all by determining what reason can and cannot know.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -175,18 +185,6 @@ flowchart TD
 
 > "It remains a scandal to philosophy and to human reason in general that the existence of things outside us must be accepted merely on faith." — [[Kant]]
 
-#### See Also
-
-- [[Transcendental Idealism]]
-- [[Critique of Practical Reason]]
-- [[Critique of the Power of Judgment]]
-- [[German Idealism]]
-- [[Epistemology]]
-- [[Rationalism]]
-- [[Empiricism]]
-- [[Metaphysics]]
-- [[Philosophy of Science]]
-- [[Neo-Kantianism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

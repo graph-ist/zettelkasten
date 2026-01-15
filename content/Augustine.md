@@ -6,10 +6,7 @@ subclasses:
   - Metaphysics
   - Epistemology
 aliases:
-  - augustine
-  - confessions
   - city god
-  - illumination
   - time consciousness
   - evil privation
   - faith reason
@@ -24,14 +21,25 @@ authors:
   - "[[Ambrose]]"
   - "[[Pelagius]]"
   - "[[Boethius]]"
-reference: "[[02 The search for thought - Unit 6 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Neoplatonism]]"
+  - "[[Patristics]]"
+  - "[[Problem of Evil]]"
+  - "[[Free Will]]"
+  - "[[Divine Grace]]"
+  - "[[Philosophy of Time]]"
+  - "[[Political Theology]]"
+  - "[[Medieval Philosophy]]"
+  - "[[Christian Mysticism]]"
+  - "[[Predestination]]"
 ---
 
 #### Central Problem
 
 [[Augustine]] confronts the fundamental question of human existence: how can human beings, caught between their restless searching and their need for stable truth, find their way to God and to genuine self-understanding? Unlike Greek philosophy, which began with the cosmos, Augustine begins with the human soul—the "inner person" (*homo interior*)—in its singular, unrepeatable relation to God.
 
-The driving questions emerge from Augustine's own spiritual journey: Why does the soul remain restless? How can we attain certainty against the Skeptics' doubts? What is the relationship between faith and reason? If God is good and omnipotent, whence comes evil? How can human freedom be reconciled with divine grace? What is the nature of time, that most familiar yet mysterious of realities?
+The driving questions emerge from [[Augustine]]'s own spiritual journey: Why does the soul remain restless? How can we attain certainty against the Skeptics' doubts? What is the relationship between faith and reason? If God is good and omnipotent, whence comes evil? How can human freedom be reconciled with divine grace? What is the nature of time, that most familiar yet mysterious of realities?
 
 These questions are not abstract puzzles but existential urgencies: "I myself had become for myself a great problem" (*Factus eram ipse mihi magna quaestio*). Augustine's philosophy emerges from confession—the simultaneous acknowledgment of one's sins and of God as God—turning inward to find truth that transcends the self.
 
@@ -45,7 +53,7 @@ These questions are not abstract puzzles but existential urgencies: "I myself ha
 
 **Time as Distension of the Soul:** Time cannot be measured as past (no longer), future (not yet), or present (an extensionless instant). Time exists only in the soul's *distensio*—its stretching toward what it remembers (present of past), attends to (present of present), and expects (present of future).
 
-**Grace and Predestination:** Against Pelagianism, Augustine insists that fallen humanity is a "mass of damnation" incapable of salvation without divine grace. The will is truly free only when liberated from sin by grace. Yet Augustine's emphasis on predestination creates tensions with human responsibility that persist throughout Christian thought.
+**Grace and Predestination:** Against Pelagianism, Augustine insists that fallen humanity is a "mass of damnation" incapable of salvation without divine grace. The will is truly free only when liberated from sin by grace. Yet [[Augustine]]'s emphasis on predestination creates tensions with human responsibility that persist throughout Christian thought.
 
 **The Two Cities:** History is the arena of struggle between two "cities": the *civitas Dei* (city of God), animated by love of God even to contempt of self, and the *civitas terrena* (earthly city), animated by love of self even to contempt of God. These are not identical with Church and State but represent two orientations of the will, intermingled until the end of time.
 
@@ -58,6 +66,7 @@ The sack of Rome by Alaric's Goths (410) provoked pagan accusations that Christi
 Augustine's thought synthesizes biblical revelation, Neoplatonic philosophy, and the previous Patristic tradition, transforming abstract theological concepts into elements of lived interiority. His emphasis on the will, consciousness, and subjective experience anticipates modern philosophy's turn to the subject.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -110,7 +119,7 @@ flowchart TD
 | Role of will | Subordinate to intellect | Central, but wounded | Free and capable |
 | Time | Eternity degraded | Distension of soul | Linear succession |
 | Salvation | Philosophical ascent | Faith + grace | Moral effort |
-| Influence | Shapes Augustine's thought | Orthodox Christianity | Condemned as heresy |
+| Influence | Shapes [[Augustine]]'s thought | Orthodox Christianity | Condemned as heresy |
 
 #### Influences & Connections
 
@@ -153,18 +162,6 @@ flowchart TD
 
 > "Do not go outside yourself; return into yourself. Truth dwells in the inner person." — [[Augustine]]
 
-#### See Also
-
-- [[Neoplatonism]]
-- [[Patristics]]
-- [[Problem of Evil]]
-- [[Free Will]]
-- [[Divine Grace]]
-- [[Philosophy of Time]]
-- [[Political Theology]]
-- [[Medieval Philosophy]]
-- [[Christian Mysticism]]
-- [[Predestination]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

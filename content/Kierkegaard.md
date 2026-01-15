@@ -6,12 +6,8 @@ subclasses:
   - Philosophy-of-Religion
   - 19th-Century-Philosophy
 aliases:
-  - kierkegaard
-  - existentialism
   - single individual
   - stages existence
-  - angst
-  - despair
   - leap faith
   - subjective truth
   - aesthetic ethical
@@ -26,18 +22,29 @@ authors:
   - "[[Schelling]]"
   - "[[Socrates]]"
   - "[[Abraham]]"
-reference: "[[05 The search for thought - Unit 1 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Existentialism]]"
+  - "[[German Idealism]]"
+  - "[[Hegel]]"
+  - "[[Angst]]"
+  - "[[Faith]]"
+  - "[[Stages of Existence]]"
+  - "[[Subjectivity]]"
+  - "[[Either/Or]]"
+  - "[[Fear and Trembling]]"
+  - "[[The Sickness unto Death]]"
 ---
 
 #### Central Problem
 
-How should a human being exist authentically when confronted with radical uncertainty, infinite possibility, and the impossibility of objective certainty about life's most fundamental questions? Kierkegaard challenges the Hegelian system's claim to comprehend existence within rational categories and dialectical synthesis. Against Hegel's view that the individual is absorbed into the universal movement of Spirit, Kierkegaard defends the irreducible singularity of the existing individual (den Enkelte) who must choose without guarantees.
+How should a human being exist authentically when confronted with radical uncertainty, infinite possibility, and the impossibility of objective certainty about life's most fundamental questions? Kierkegaard challenges the Hegelian system's claim to comprehend existence within rational categories and dialectical synthesis. Against [[Hegel]]'s view that the individual is absorbed into the universal movement of Spirit, Kierkegaard defends the irreducible singularity of the existing individual (den Enkelte) who must choose without guarantees.
 
 The problem is both existential and religious: how can the finite individual relate to the infinite God? How can temporal existence connect with eternity? Kierkegaard discovers that human existence is constituted by possibility, which always includes the threat of nothingness — every "possibility-that-yes" is simultaneously a "possibility-that-no." This structure generates angst (anxiety) as the fundamental human condition, making authentic existence a matter of passionate, risky choice rather than detached rational comprehension.
 
 #### Main Thesis
 
-Kierkegaard maintains that existence precedes and exceeds conceptual thought — "existence corresponds to singular reality, to the single individual; it remains outside the concept." Against Hegel's objective reflection, Kierkegaard champions subjective reflection: "Truth is truth only when it is truth for me." Truth is not the object of thought but the process by which one appropriates it, makes it one's own, and lives it.
+[[Kierkegaard]] maintains that existence precedes and exceeds conceptual thought — "existence corresponds to singular reality, to the single individual; it remains outside the concept." Against [[Hegel]]'s objective reflection, Kierkegaard champions subjective reflection: "Truth is truth only when it is truth for me." Truth is not the object of thought but the process by which one appropriates it, makes it one's own, and lives it.
 
 Human existence unfolds through three irreducibly distinct stages or spheres, separated not by dialectical mediation but by "leaps":
 
@@ -51,13 +58,14 @@ The key categories are angst (anxiety before pure possibility), despair (the sel
 
 #### Historical Context
 
-Søren Kierkegaard (1813-1855) lived in Copenhagen during the dominance of Hegelian philosophy. Educated in a severe Protestant religiosity by his father, he studied theology at Copenhagen (where Hegelianism prevailed) and completed a dissertation on Socratic irony (1841). In 1841-42 he attended Schelling's lectures in Berlin, initially enthusiastic but soon disappointed. He never became a pastor despite his theological training.
+[[Kierkegaard]] (1813-1855) lived in Copenhagen during the dominance of Hegelian philosophy. Educated in a severe Protestant religiosity by his father, he studied theology at Copenhagen (where Hegelianism prevailed) and completed a dissertation on Socratic irony (1841). In 1841-42 he attended Schelling's lectures in [[Berlin]], initially enthusiastic but soon disappointed. He never became a pastor despite his theological training.
 
 Key biographical events profoundly shaped his thought: the mysterious "great earthquake" involving family guilt; the "thorn in the flesh" that led him to break his engagement to Regine Olsen; attacks from the satirical journal "The Corsair"; and his final polemics against the Danish Church and theologian Martensen. He published under multiple pseudonyms to distance himself from the positions described, maintaining a "poetic relation" to his own work.
 
-Kierkegaard's anti-Hegelianism remained largely uninfluential in the nineteenth century, overshadowed by historicism, positivism, and Marxism. Only in the early twentieth century did the "Kierkegaard renaissance" begin — first in theology (Barth, Bultmann), then in existentialist philosophy (Heidegger, Jaspers, Sartre). Max Scheler called him a "deserter from Europe and its faith in history."
+Kierkegaard's anti-Hegelianism remained largely uninfluential in the nineteenth century, overshadowed by historicism, positivism, and Marxism. Only in the early twentieth century did the "[[Kierkegaard]] renaissance" begin — first in theology (Barth, Bultmann), then in existentialist philosophy (Heidegger, Jaspers, [[Sartre]]). [[Scheler]] called him a "deserter from Europe and its faith in history."
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -131,7 +139,7 @@ flowchart TD
 | 1830 | [[Kierkegaard]] enrolls in theology at Copenhagen University |
 | 1840 | [[Kierkegaard]] becomes engaged to Regine Olsen |
 | 1841 | [[Kierkegaard]] breaks engagement; publishes dissertation *On the Concept of Irony* |
-| 1841-42 | [[Kierkegaard]] attends [[Schelling]]'s lectures in Berlin |
+| 1841-42 | [[Kierkegaard]] attends [[Schelling]]'s lectures in [[Berlin]] |
 | 1843 | [[Kierkegaard]] publishes *Either/Or*, *Fear and Trembling*, *Repetition* |
 | 1844 | [[Kierkegaard]] publishes *The Concept of Anxiety*, *Philosophical Fragments* |
 | 1845 | [[Kierkegaard]] publishes *Stages on Life's Way* |
@@ -148,18 +156,6 @@ flowchart TD
 
 > "Truth is subjectivity; the appropriation of truth is truth." — [[Kierkegaard]]
 
-#### See Also
-
-- [[Existentialism]]
-- [[German Idealism]]
-- [[Hegel]]
-- [[Angst]]
-- [[Faith]]
-- [[Stages of Existence]]
-- [[Subjectivity]]
-- [[Either/Or]]
-- [[Fear and Trembling]]
-- [[The Sickness unto Death]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

@@ -9,9 +9,7 @@ aliases:
   - post positivism
   - paradigm shift
   - scientific revolutions
-  - incommensurability
   - research programmes
-  - falsificationism
   - anarchism epistemology
   - anything goes
   - normal science
@@ -26,7 +24,18 @@ authors:
   - "[[Lakatos]]"
   - "[[Feyerabend]]"
   - "[[Popper]]"
-reference: "[[06 The search for thought - Unit 12 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Critical Rationalism]]"
+  - "[[Logical Positivism]]"
+  - "[[Vienna Circle]]"
+  - "[[Falsificationism]]"
+  - "[[Philosophy of Science]]"
+  - "[[Scientific Method]]"
+  - "[[Sociology of Knowledge]]"
+  - "[[Relativism]]"
+  - "[[Dadaism]]"
+  - "[[Popper]]"
 ---
 
 #### Central Problem
@@ -60,6 +69,7 @@ The broader intellectual climate included the decline of positivist certainties 
 The debate was centered primarily in British and American universities, with the London School of Economics (where [[Popper]] and [[Lakatos]] taught) serving as a crucial institutional site. [[Kuhn]]'s *The Structure of Scientific Revolutions* (1962) became one of the most influential academic books of the twentieth century, fundamentally reshaping discussions in philosophy, history, and sociology of science.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -154,18 +164,6 @@ flowchart TD
 
 > "The only principle that does not inhibit progress is: anything goes." — [[Feyerabend]]
 
-#### See Also
-
-- [[Critical Rationalism]]
-- [[Logical Positivism]]
-- [[Vienna Circle]]
-- [[Falsificationism]]
-- [[Philosophy of Science]]
-- [[Scientific Method]]
-- [[Sociology of Knowledge]]
-- [[Relativism]]
-- [[Dadaism]]
-- [[Popper]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

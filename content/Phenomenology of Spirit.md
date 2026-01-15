@@ -7,15 +7,11 @@ subclasses:
   - Phenomenology
 aliases:
   - phenomenology spirit
-  - consciousness
-  - selfconsciousness
   - master slave
   - unhappy consciousness
   - sensible certainty
   - figures consciousness
   - absolute knowing
-  - bildung
-  - recognition
   - lordship bondage
 contributions:
   - Conceptual
@@ -26,7 +22,18 @@ authors:
   - "[[Schelling]]"
   - "[[Marx]]"
   - "[[Hyppolite]]"
-reference: "[[04 The search for thought - Unit 9 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[German Idealism]]"
+  - "[[Dialectic]]"
+  - "[[Absolute]]"
+  - "[[Spirit]]"
+  - "[[Recognition]]"
+  - "[[Alienation]]"
+  - "[[Bildungsroman]]"
+  - "[[French Hegelianism]]"
+  - "[[Existentialism]]"
+  - "[[Encyclopedia of the Philosophical Sciences]]"
 ---
 
 #### Central Problem
@@ -35,7 +42,7 @@ Hegel's *Phenomenology of Spirit* (1807) confronts the fundamental question: how
 
 The central problem emerges from the splits (*Entzweiung*) that characterize modern consciousness: between subject and object, knower and known, finite and infinite, individual and universal, being and ought-to-be. Consciousness finds itself "unhappy" precisely because it does not yet know itself to be all of reality, and thus experiences itself as internally divided, torn by oppositions and conflicts.
 
-Against Kant's dualism between reality and reason (where ideas remain merely regulative and the will never coincides with reason), and against Romantic appeals to immediate feeling, art, or faith, Hegel argues that the Absolute must be grasped through speculative reason. The path to philosophical science requires showing its becoming—the phenomenology as "introduction to philosophy" traces how the individual retraverses the stages of universal spirit's formation.
+Against [[Kant]]'s dualism between reality and reason (where ideas remain merely regulative and the will never coincides with reason), and against Romantic appeals to immediate feeling, art, or faith, [[Hegel]] argues that the Absolute must be grasped through speculative reason. The path to philosophical science requires showing its becoming—the phenomenology as "introduction to philosophy" traces how the individual retraverses the stages of universal spirit's formation.
 
 #### Main Thesis
 
@@ -55,7 +62,7 @@ The second part comprises:
 
 **Key Arguments:**
 
-The figures are neither purely ideal nor purely historical but "ideal-and-historical" simultaneously—expressing ideal stages of spirit that found typical historical exemplification. Hegel delineates both a transcendental philosophy of consciousness and a comprehensive history of humanity's cultural development.
+The figures are neither purely ideal nor purely historical but "ideal-and-historical" simultaneously—expressing ideal stages of spirit that found typical historical exemplification. [[Hegel]] delineates both a transcendental philosophy of consciousness and a comprehensive history of humanity's cultural development.
 
 The entire cycle can be summarized in the figure of the **unhappy consciousness** (*unglückliches Bewußtsein*): consciousness that does not know itself to be all reality, finding itself split by differences, oppositions, and conflicts from which it emerges only by arriving at the certainty of being everything.
 
@@ -65,13 +72,14 @@ The individual must retrace the stages of universal spirit's formation—what on
 
 #### Historical Context
 
-The *Phenomenology of Spirit* was published in 1807, completed as Napoleon's armies approached Jena. Hegel famously saw Napoleon as the "world-soul on horseback." The work emerges from the cultural ferment of German Idealism and Romanticism, representing both a continuation and critique of these movements.
+The *Phenomenology of Spirit* was published in 1807, completed as Napoleon's armies approached Jena. [[Hegel]] famously saw Napoleon as the "world-soul on horseback." The work emerges from the cultural ferment of German Idealism and Romanticism, representing both a continuation and critique of these movements.
 
-Hegel had been influenced by the Romantic circle during his Frankfurt period (1797-1800) but developed sharp criticisms of Romantic positions. Against Romantic primacy of sentiment, art, or faith, Hegel insisted the Absolute must be mediated through rational philosophical discourse. Against Romantic individualism, he emphasized integration into socio-political institutions rather than narcissistic self-absorption.
+[[Hegel]] had been influenced by the Romantic circle during his Frankfurt period (1797-1800) but developed sharp criticisms of Romantic positions. Against Romantic primacy of sentiment, art, or faith, [[Hegel]] insisted the Absolute must be mediated through rational philosophical discourse. Against Romantic individualism, he emphasized integration into socio-political institutions rather than narcissistic self-absorption.
 
 The historical references in the *Phenomenology* span from Greek antiquity (the polis as ethical substance, master-slave relations) through medieval Christianity (unhappy consciousness, devotion, monasticism, the Crusades' empty tomb) to the Enlightenment and French Revolution (the Terror as dialectical outcome of abstract freedom).
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -94,11 +102,11 @@ flowchart TD
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
 | [[Hegel]] | 1770-1831 | [[German Idealism]] | *Phenomenology of Spirit* | Figures of consciousness, dialectical development |
-| [[Kant]] | 1724-1804 | [[Critical Philosophy]] | *Critique of Pure Reason* | Dualism of being and ought-to-be (criticized by Hegel) |
-| [[Fichte]] | 1762-1814 | [[German Idealism]] | *Doctrine of Science* | Self-positing I (transformed by Hegel) |
+| [[Kant]] | 1724-1804 | [[Critical Philosophy]] | *Critique of Pure Reason* | Dualism of being and ought-to-be (criticized by [[Hegel]]) |
+| [[Fichte]] | 1762-1814 | [[German Idealism]] | *Doctrine of Science* | Self-positing I (transformed by [[Hegel]]) |
 | [[Marx]] | 1818-1883 | [[Historical Materialism]] | *Capital* | Appropriated master-slave dialectic materially |
 | [[Hyppolite]] | 1907-1968 | [[French Hegelianism]] | *Genesis and Structure* | Interpreted unhappy consciousness and labor |
-| [[Kojève]] | 1902-1968 | [[French Hegelianism]] | *Introduction to Reading Hegel* | Anthropological reading of master-slave |
+| [[Kojève]] | 1902-1968 | [[French Hegelianism]] | *Introduction to Reading [[Hegel]]* | Anthropological reading of master-slave |
 
 #### Key Concepts
 
@@ -156,7 +164,7 @@ flowchart TD
 | 1807 | Break with [[Schelling]] (criticism: "night where all cows are black") |
 | 1840s | [[Marx]] appropriates master-slave dialectic materialistically |
 | 1946 | [[Kojève]]'s lectures introduce *Phenomenology* to French thought |
-| 1947 | [[Hyppolite]] publishes *Genesis and Structure of Hegel's Phenomenology* |
+| 1947 | [[Hyppolite]] publishes *Genesis and Structure of [[Hegel]]'s Phenomenology* |
 
 #### Notable Quotes
 
@@ -166,18 +174,6 @@ flowchart TD
 
 > "This consciousness has not felt anxiety about this or that, nor for this or that moment, but for its entire essence; for it has felt the fear of death, the absolute master." — [[Hegel]]
 
-#### See Also
-
-- [[German Idealism]]
-- [[Dialectic]]
-- [[Absolute]]
-- [[Spirit]]
-- [[Recognition]]
-- [[Alienation]]
-- [[Bildungsroman]]
-- [[French Hegelianism]]
-- [[Existentialism]]
-- [[Encyclopedia of the Philosophical Sciences]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

@@ -24,7 +24,18 @@ authors:
   - "[[Buber]]"
   - "[[Levinas]]"
   - "[[Cohen]]"
-reference: "[[07 The search for thought - Unit 18 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Phenomenology]]"
+  - "[[Existentialism]]"
+  - "[[Philosophy of Religion]]"
+  - "[[Dialogical Philosophy]]"
+  - "[[Ethics of Care]]"
+  - "[[Personalism]]"
+  - "[[Jewish Philosophy]]"
+  - "[[Kabbalah]]"
+  - "[[Hasidism]]"
+  - "[[Holocaust Philosophy]]"
 ---
 
 #### Central Problem
@@ -47,15 +58,16 @@ The neo-Hebraic philosophers propose that authentic philosophy must abandon tota
 
 #### Historical Context
 
-The encounter between Judaism and philosophy in the twentieth century had precursors in the late work of neo-Kantian [[Hermann Cohen]] (1842-1918), but achieved its distinctive expression in [[Rosenzweig]], [[Buber]], and [[Levinas]]. Jewish philosophy throughout history, influenced by Greek-Hellenistic, Arabic, and modern sources as well as the esoteric mystical tradition of the Kabbalah, was characterized by: the affirmation of God's absolute unity and transcendence; the contingency and relative autonomy of the world; the human being as God's partner; and history as the interweaving of divine will and human freedom.
+The encounter between Judaism and philosophy in the twentieth century had precursors in the late work of neo-Kantian [[Cohen]] (1842-1918), but achieved its distinctive expression in [[Rosenzweig]], [[Buber]], and [[Levinas]]. Jewish philosophy throughout history, influenced by Greek-Hellenistic, Arabic, and modern sources as well as the esoteric mystical tradition of the Kabbalah, was characterized by: the affirmation of God's absolute unity and transcendence; the contingency and relative autonomy of the world; the human being as God's partner; and history as the interweaving of divine will and human freedom.
 
 [[Rosenzweig]] experienced a decisive religious crisis in 1913, planning to convert to Christianity but ultimately rediscovering Judaism. His major work, *The Star of Redemption* (1921), was written during World War I and completed while he suffered from a progressive paralytic illness that left him communicating only by indicating letters to his wife. He died in 1929 at age 43.
 
 [[Buber]] (1878-1965) studied with Simmel and Dilthey, joined the Zionist movement, and after losing his professorship under Nazism emigrated to Jerusalem in 1938, where he advocated peaceful coexistence between Arabs and Jews. His philosophy drew on his studies of Hasidism, the Eastern European Jewish movement emphasizing action.
 
-[[Levinas]] (1905-1995), born in Lithuania, studied with Husserl and Heidegger in Freiburg and was among the first to introduce phenomenology to France. Imprisoned in a concentration camp during World War II, his philosophical development was profoundly shaped by the Holocaust's demonstration of what the refusal of the Other can produce.
+[[Levinas]] (1905-1995), born in Lithuania, studied with [[Husserl]] and [[Heidegger]] in Freiburg and was among the first to introduce phenomenology to France. Imprisoned in a concentration camp during World War II, his philosophical development was profoundly shaped by the Holocaust's demonstration of what the refusal of the Other can produce.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -131,7 +143,7 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | 1913 | [[Rosenzweig]]'s religious crisis and rediscovery of Judaism |
-| 1920 | [[Rosenzweig]] publishes *Hegel and the State* |
+| 1920 | [[Rosenzweig]] publishes *[[Hegel]] and the State* |
 | 1921 | [[Rosenzweig]] publishes *The Star of Redemption* |
 | 1923 | [[Buber]] publishes *I and Thou* |
 | 1925 | [[Rosenzweig]] publishes *The New Thinking* |
@@ -152,18 +164,6 @@ flowchart TD
 
 > "The face speaks to me and thereby invites me to a relation that has no common measure with a power that is exercised." — [[Levinas]]
 
-#### See Also
-
-- [[Phenomenology]]
-- [[Existentialism]]
-- [[Philosophy of Religion]]
-- [[Dialogical Philosophy]]
-- [[Ethics of Care]]
-- [[Personalism]]
-- [[Jewish Philosophy]]
-- [[Kabbalah]]
-- [[Hasidism]]
-- [[Holocaust Philosophy]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

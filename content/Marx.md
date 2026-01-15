@@ -8,18 +8,12 @@ subclasses:
   - Social-and-Political-Philosophy
   - Critical-Theory
 aliases:
-  - marx
-  - marxism
   - historical materialism
   - class struggle
-  - alienation
   - surplus value
-  - capital
   - base superstructure
   - communist manifesto
   - dialectical materialism
-  - proletariat
-  - bourgeoisie
 contributions:
   - Conceptual
   - Constructive
@@ -29,14 +23,25 @@ authors:
   - "[[Hegel]]"
   - "[[Feuerbach]]"
   - "[[Ricardo]]"
-reference: "[[05 The search for thought - Unit 2 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Historical Materialism]]"
+  - "[[Left Hegelianism]]"
+  - "[[Alienation]]"
+  - "[[Class Struggle]]"
+  - "[[Capital]]"
+  - "[[Communist Manifesto]]"
+  - "[[Surplus Value]]"
+  - "[[Engels]]"
+  - "[[Dialectical Materialism]]"
+  - "[[Critical Theory]]"
 ---
 
 #### Central Problem
 
 The chapter addresses the fundamental question of how to understand history, society, and human existence in material rather than idealist terms. [[Marx]] confronts several interconnected problems: What are the real driving forces of historical change? How does capitalist society function, and why does it generate systematic exploitation? What is the nature of human alienation under capitalism, and how can it be overcome?
 
-[[Marx]] criticizes both Hegelian idealism (which sees Spirit as the subject of history) and Feuerbach's abstract materialism (which conceives humanity outside of social-historical relations). He seeks a scientific understanding of society that can explain how economic structures determine political, legal, and cultural phenomena, while also providing the theoretical basis for revolutionary transformation.
+[[Marx]] criticizes both Hegelian idealism (which sees Spirit as the subject of history) and [[Feuerbach]]'s abstract materialism (which conceives humanity outside of social-historical relations). He seeks a scientific understanding of society that can explain how economic structures determine political, legal, and cultural phenomena, while also providing the theoretical basis for revolutionary transformation.
 
 The central tension lies between the ideological representations of society (which present capitalism as natural, eternal, and rational) and the actual material reality of exploitation, class conflict, and historical change. [[Marx]] aims to unmask the "mystifications" of bourgeois ideology and reveal the concrete mechanisms by which the capitalist mode of production generates alienation, surplus value, and its own eventual supersession.
 
@@ -58,15 +63,16 @@ The central tension lies between the ideological representations of society (whi
 
 #### Historical Context
 
-[[Karl Marx]] (1818-1883) was born in Trier to a Jewish family that had converted to Protestantism. He studied law and philosophy in Bonn and Berlin, where he encountered the Young Hegelians. Unable to pursue an academic career due to the reactionary Prussian government, he turned to political journalism, becoming editor of the *Rheinische Zeitung* before its suppression in 1843.
+[[Marx]] (1818-1883) was born in Trier to a Jewish family that had converted to Protestantism. He studied law and philosophy in Bonn and [[Berlin]], where he encountered the Young Hegelians. Unable to pursue an academic career due to the reactionary Prussian government, he turned to political journalism, becoming editor of the *Rheinische Zeitung* before its suppression in 1843.
 
-Exiled to Paris, [[Marx]] began his lifelong friendship with [[Friedrich Engels]] and deepened his economic studies, producing the *Economic and Philosophic Manuscripts* (1844). Further expulsions led him to Brussels, where he and [[Engels]] wrote *The German Ideology* (1845-46) and *The Communist Manifesto* (1848). After the failed revolutions of 1848-49, [[Marx]] settled permanently in London, where he spent decades researching and writing *Capital* (Volume 1 published 1867) at the British Museum, supported financially by [[Engels]].
+Exiled to Paris, [[Marx]] began his lifelong friendship with [[Engels]] and deepened his economic studies, producing the *Economic and Philosophic Manuscripts* (1844). Further expulsions led him to Brussels, where he and [[Engels]] wrote *The German Ideology* (1845-46) and *The Communist Manifesto* (1848). After the failed revolutions of 1848-49, [[Marx]] settled permanently in London, where he spent decades researching and writing *Capital* (Volume 1 published 1867) at the British Museum, supported financially by [[Engels]].
 
 The intellectual context includes three main influences: German classical philosophy (especially [[Hegel]]'s dialectic and [[Feuerbach]]'s materialism), British political economy ([[Smith]], [[Ricardo]]), and French socialism ([[Saint-Simon]], [[Owen]], [[Proudhon]]). [[Marx]] synthesized and transcended these sources, creating a comprehensive critique of bourgeois society and a theory of revolutionary transformation.
 
 The 1848 revolutions across Europe, the growth of industrial capitalism with its visible exploitation of workers, the formation of the International Workingmen's Association (1864), and the Paris Commune (1871) provided the practical-political context for [[Marx]]'s theoretical work.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -135,7 +141,7 @@ flowchart TD
 
 - **[[Marx]]:** The history of all hitherto existing society is the history of class struggles; the mode of production determines social consciousness; philosophers have only interpreted the world, the point is to change it.
 - **[[Engels]]:** The determining factor in history is, in the final instance, the production and reproduction of real life; the economic factor is not the only determining one.
-- **[[Feuerbach]]:** (As interpreted by [[Marx]]) Correctly identified the need to invert Hegel but failed to grasp humanity's social-historical nature and the necessity of revolutionary praxis.
+- **[[Feuerbach]]:** (As interpreted by [[Marx]]) Correctly identified the need to invert [[Hegel]] but failed to grasp humanity's social-historical nature and the necessity of revolutionary praxis.
 
 #### Timeline
 
@@ -143,7 +149,7 @@ flowchart TD
 |------|-------|
 | 1818 | [[Marx]] born in Trier |
 | 1841 | [[Marx]] completes doctoral dissertation on Democritus and Epicurus |
-| 1843 | [[Marx]] writes *Critique of Hegel's Philosophy of Right*; moves to Paris |
+| 1843 | [[Marx]] writes *Critique of [[Hegel]]'s Philosophy of Right*; moves to Paris |
 | 1844 | [[Marx]] writes *Economic and Philosophic Manuscripts*; meets [[Engels]] |
 | 1845 | [[Marx]] writes *Theses on Feuerbach* |
 | 1845-46 | [[Marx]] and [[Engels]] write *The German Ideology* |
@@ -163,18 +169,6 @@ flowchart TD
 
 > "Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people." — [[Marx]]
 
-#### See Also
-
-- [[Historical Materialism]]
-- [[Left Hegelianism]]
-- [[Alienation]]
-- [[Class Struggle]]
-- [[Capital]]
-- [[Communist Manifesto]]
-- [[Surplus Value]]
-- [[Friedrich Engels]]
-- [[Dialectical Materialism]]
-- [[Critical Theory]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

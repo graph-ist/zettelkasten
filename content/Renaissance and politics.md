@@ -11,14 +11,9 @@ aliases:
   - natural law
   - reason state
   - social contract
-  - utopia
-  - sovereignty
-  - machiavelli
   - political philosophy
   - fortune virtue
   - just war
-  - tolerance
-  - republicanism
 contributions:
   - Conceptual
 authors:
@@ -30,7 +25,18 @@ authors:
   - "[[Grotius]]"
   - "[[Althusius]]"
   - "[[Gentili]]"
-reference: "[[03 The search for thought - Unit 1 Chapter 4.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Political Realism]]"
+  - "[[Natural Law]]"
+  - "[[Social Contract]]"
+  - "[[Sovereignty]]"
+  - "[[Utopia]]"
+  - "[[Religious Tolerance]]"
+  - "[[Republicanism]]"
+  - "[[Reason of State]]"
+  - "[[International Law]]"
+  - "[[Enlightenment Political Thought]]"
 ---
 
 #### Central Problem
@@ -64,6 +70,7 @@ The religious wars following the Protestant Reformation intensified debates abou
 [[Grotius]] (1583-1645) wrote *On the Law of War and Peace* (1625) during the Thirty Years' War, seeking rational foundations for international law that could transcend confessional divisions. His work represents the emergence of a secular conception of natural law independent of theological foundations.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -165,18 +172,6 @@ flowchart TD
 
 > "He who has faith achieves great things." — [[Guicciardini]]
 
-#### See Also
-
-- [[Political Realism]]
-- [[Natural Law]]
-- [[Social Contract]]
-- [[Sovereignty]]
-- [[Utopia]]
-- [[Religious Tolerance]]
-- [[Republicanism]]
-- [[Reason of State]]
-- [[International Law]]
-- [[Enlightenment Political Thought]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

@@ -6,12 +6,6 @@ subclasses:
   - Logic-and-Philosophy-of-Logic
   - Ancient-Greek-and-Roman-Philosophy
 aliases:
-  - metaphysics
-  - being
-  - substance
-  - categories
-  - syllogism
-  - logic
   - aristotelian logic
   - first philosophy
   - potency act
@@ -25,14 +19,27 @@ authors:
   - "[[Plato]]"
   - "[[Parmenides]]"
   - "[[Rhodes]]"
-reference: "[[01 The search for thought - Unit 4 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+related:
+  - "[[Metaphysics]]"
+  - "[[Ontology]]"
+  - "[[Substance]]"
+  - "[[Categories]]"
+  - "[[Syllogism]]"
+  - "[[Logic]]"
+  - "[[Hylomorphism]]"
+  - "[[Potency and Act]]"
+  - "[[Unmoved Mover]]"
+  - "[[Principle of Non-Contradiction]]"
+  - "[[First Philosophy]]"
+  - "[[Peripatetic School]]"
 ---
 
 #### Central Problem
 
-This chapter addresses two fundamental interconnected questions in Aristotle's philosophy: What is the ultimate nature of reality, and how can we reason correctly about it? The first question concerns metaphysics—the study of being as such—while the second concerns logic—the study of valid reasoning. Aristotle must solve several problems inherited from his predecessors: How can we speak meaningfully about being without falling into Parmenides' monism (where only "being" exists and all distinctions are illusory) or into relativism (where words have no stable meaning)? What is the fundamental structure of reality that underlies all particular things? How does change occur if being cannot come from non-being? And finally, how can we construct scientific demonstrations that yield necessary and universal knowledge?
+This chapter addresses two fundamental interconnected questions in [[Aristotle]]'s philosophy: What is the ultimate nature of reality, and how can we reason correctly about it? The first question concerns metaphysics—the study of being as such—while the second concerns logic—the study of valid reasoning. [[Aristotle]] must solve several problems inherited from his predecessors: How can we speak meaningfully about being without falling into [[Parmenides]]' monism (where only "being" exists and all distinctions are illusory) or into relativism (where words have no stable meaning)? What is the fundamental structure of reality that underlies all particular things? How does change occur if being cannot come from non-being? And finally, how can we construct scientific demonstrations that yield necessary and universal knowledge?
 
-The chapter explores how Aristotle develops a sophisticated framework where being is neither univocal (one meaning) nor equivocal (infinitely different meanings), but "polyvocal"—having multiple meanings unified by reference to substance. This leads to the central question: What is substance (ousia), and how does it serve as the foundation for all other categories of being?
+The chapter explores how [[Aristotle]] develops a sophisticated framework where being is neither univocal (one meaning) nor equivocal (infinitely different meanings), but "polyvocal"—having multiple meanings unified by reference to substance. This leads to the central question: What is substance (ousia), and how does it serve as the foundation for all other categories of being?
 
 #### Main Thesis
 
@@ -52,13 +59,14 @@ Aristotle argues that metaphysics is the "first philosophy" (philosophia prote) 
 
 #### Historical Context
 
-Aristotle develops his metaphysics and logic in the context of ongoing debates about the nature of being and knowledge. The Pre-Socratics had proposed various material principles (water, air, fire, atoms), while the Eleatics denied the reality of change and plurality. Heraclitus emphasized flux, and the Sophists had undermined confidence in stable meaning and truth.
+Aristotle develops his metaphysics and logic in the context of ongoing debates about the nature of being and knowledge. The Pre-Socratics had proposed various material principles (water, air, fire, atoms), while the Eleatics denied the reality of change and plurality. [[Heraclitus]] emphasized flux, and the Sophists had undermined confidence in stable meaning and truth.
 
-Plato's Theory of Forms offered a solution by positing transcendent Ideas as the true reality, but Aristotle finds this problematic—how can Forms separated from things explain those things? The concept of "participation" remains a mere metaphor. Aristotle thus seeks to preserve the insights of his predecessors while avoiding their errors, developing an immanent conception where forms exist within individual substances.
+Plato's Theory of Forms offered a solution by positing transcendent Ideas as the true reality, but [[Aristotle]] finds this problematic—how can Forms separated from things explain those things? The concept of "participation" remains a mere metaphor. [[Aristotle]] thus seeks to preserve the insights of his predecessors while avoiding their errors, developing an immanent conception where forms exist within individual substances.
 
 The classification of sciences into theoretical (metaphysics, physics, mathematics), practical (ethics, politics), and productive (arts, techniques) reflects the organization of knowledge in the Academy and Lyceum. The development of formal logic represents an unprecedented achievement—Aristotle essentially creates the discipline single-handedly, providing tools that will dominate Western reasoning for over two millennia.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -80,7 +88,7 @@ flowchart TD
 | [[Aristotle]] | 384-322 BCE | [[Peripatetic School]] | *Metaphysics* | Being as being, substance, categories |
 | [[Plato]] | 428-348 BCE | [[Platonism]] | *Sophist* | Theory of Forms, supreme genera |
 | [[Parmenides]] | 515-450 BCE | [[Eleatic School]] | *On Nature* | Being as univocal, denial of change |
-| [[Andronicus of Rhodes]] | 1st c. BCE | [[Peripatetic School]] | Edition of Aristotle | Coined term "metaphysics" |
+| [[Andronicus of Rhodes]] | 1st c. BCE | [[Peripatetic School]] | Edition of [[Aristotle]] | Coined term "metaphysics" |
 | [[Alexander of Aphrodisias]] | fl. 200 CE | [[Peripatetic School]] | Commentaries | Logic as "organon" |
 
 #### Key Concepts
@@ -130,10 +138,10 @@ flowchart TD
 | 515 BCE | [[Parmenides]] born; will develop doctrine of unchanging being |
 | 428 BCE | [[Plato]] born; will develop Theory of Forms |
 | 384 BCE | [[Aristotle]] born in Stagira |
-| 367 BCE | [[Aristotle]] enters Plato's Academy |
+| 367 BCE | [[Aristotle]] enters [[Plato]]'s Academy |
 | 335 BCE | [[Aristotle]] founds the Lyceum in Athens |
 | 322 BCE | [[Aristotle]] dies in Chalcis |
-| 1st c. BCE | [[Andronicus of Rhodes]] edits Aristotle's works, coins "metaphysics" |
+| 1st c. BCE | [[Andronicus of Rhodes]] edits [[Aristotle]]'s works, coins "metaphysics" |
 | 2nd-3rd c. CE | [[Alexander of Aphrodisias]] writes definitive commentaries |
 
 #### Notable Quotes
@@ -147,20 +155,7 @@ flowchart TD
 > "A syllogism is a discourse in which, certain things being posited, something else follows necessarily by the very fact that these things are so."
 > — [[Aristotle]]
 
-#### See Also
-
-- [[Metaphysics]]
-- [[Ontology]]
-- [[Substance]]
-- [[Categories]]
-- [[Syllogism]]
-- [[Logic]]
-- [[Hylomorphism]]
-- [[Potency and Act]]
-- [[Unmoved Mover]]
-- [[Principle of Non-Contradiction]]
-- [[First Philosophy]]
-- [[Peripatetic School]]
+---
 ---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

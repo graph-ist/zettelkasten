@@ -8,10 +8,8 @@ subclasses:
   - 20th-Century-Philosophy
   - Ethics
 aliases:
-  - multiculturalism
   - cultural diversity
   - recognition politics
-  - communitarianism
   - liberalism politics
   - identity politics
   - cultural rights
@@ -29,7 +27,18 @@ authors:
   - "[[Sen]]"
   - "[[Habermas]]"
   - "[[Malinowski]]"
-reference: "[[07 The search for thought - Unit 19 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Communitarianism]]"
+  - "[[Liberalism]]"
+  - "[[Politics of Recognition]]"
+  - "[[Cultural Rights]]"
+  - "[[Globalization]]"
+  - "[[Tolerance]]"
+  - "[[Identity Politics]]"
+  - "[[Pluralism]]"
+  - "[[Democracy]]"
+  - "[[Human Rights]]"
 ---
 
 #### Central Problem
@@ -65,6 +74,7 @@ The question of the Other is not new—it has arisen throughout history, from th
 The post-war period saw the dominance of the "assimilationist" model based on WASP (White/Anglo-Saxon/Male/Protestant) norms. The recognition of the value and rights of the Other signals the irreversible crisis of this neutralizing model. Post-structuralist and postmodern critiques accused the classical liberal state of "abstract neutralism" and "blindness" toward differences—attitudes seen as underlying nationalist tribalism and religious fundamentalism, with September 11, 2001 as their emblematic expression.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -139,7 +149,7 @@ flowchart TD
 |------|-------|
 | 1960s | Term "multiculturalism" emerges in North America |
 | 1971 | Canada adopts official multiculturalism policy |
-| 1989 | Fall of Berlin Wall accelerates multicultural debates |
+| 1989 | Fall of [[Berlin]] Wall accelerates multicultural debates |
 | 1992 | [[Taylor]] publishes *The Politics of Recognition* |
 | 1993 | [[Rawls]] publishes *Political Liberalism* |
 | 1995 | [[Kymlicka]] publishes *Multicultural Citizenship* |
@@ -155,18 +165,6 @@ flowchart TD
 
 > "The same person can be, without the slightest contradiction, of American citizenship, of Caribbean origin, with African ancestry, Christian, progressive, woman, vegetarian, marathon runner, historian, teacher, novelist, feminist, heterosexual, supporter of gay and lesbian rights, theater lover, environmentalist, tennis enthusiast, jazz musician, and deeply convinced that intelligent beings exist in space." — [[Sen]]
 
-#### See Also
-
-- [[Communitarianism]]
-- [[Liberalism]]
-- [[Politics of Recognition]]
-- [[Cultural Rights]]
-- [[Globalization]]
-- [[Tolerance]]
-- [[Identity Politics]]
-- [[Pluralism]]
-- [[Democracy]]
-- [[Human Rights]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

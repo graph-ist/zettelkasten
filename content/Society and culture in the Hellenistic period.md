@@ -8,14 +8,7 @@ subclasses:
   - Ethics
 aliases:
   - hellenistic philosophy
-  - hellenism
   - alexandria library
-  - stoicism
-  - epicureanism
-  - skepticism
-  - ataraxia
-  - cosmopolitanism
-  - eclecticism
   - museum alexandria
   - polis decline
   - philosophy therapy
@@ -32,12 +25,23 @@ authors:
   - "[[Eratostene]]"
   - "[[Cizio]]"
   - "[[Epicuro]]"
-reference: "[[02 The search for thought - Unit 5 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Stoicism]]"
+  - "[[Epicureanism]]"
+  - "[[Skepticism]]"
+  - "[[Library of Alexandria]]"
+  - "[[Hellenistic Kingdoms]]"
+  - "[[Ancient Astronomy]]"
+  - "[[Ancient Medicine]]"
+  - "[[Neoplatonism]]"
+  - "[[Roman Philosophy]]"
+  - "[[Eclecticism]]"
 ---
 
 #### Central Problem
 
-The chapter addresses the profound transformation of Greek culture and philosophy following the collapse of the classical polis system after Alexander the Great's conquests. The central problem concerns how individuals can find meaning, orientation, and inner peace in a radically changed world where traditional political participation has become impossible and the individual feels alienated from the larger social and political structures.
+The chapter addresses the profound transformation of Greek culture and philosophy following the collapse of the classical polis system after [[Alexander]] the Great's conquests. The central problem concerns how individuals can find meaning, orientation, and inner peace in a radically changed world where traditional political participation has become impossible and the individual feels alienated from the larger social and political structures.
 
 The dissolution of the autonomous city-state created a crisis of identity and purpose. Citizens who once found meaning through active participation in democratic life now found themselves as mere subjects of vast monarchical empires (the Hellenistic kingdoms of the Ptolemies, Seleucids, and Antigonids). This political disempowerment generated a widespread sense of estrangement from public life and a "flight into the private sphere."
 
@@ -49,7 +53,7 @@ The text argues that Hellenistic philosophy emerged as a response to existential
 
 The main contentions include:
 
-**The Divorce Between Science and Philosophy:** While the sciences flourished at Alexandria through specialization and institutional support (the Library and Museum), they became separated from philosophical reflection. Scientists no longer philosophized, and philosophers no longer engaged with scientific research. This represents a fundamental break from the classical model of Plato and Aristotle.
+**The Divorce Between Science and Philosophy:** While the sciences flourished at Alexandria through specialization and institutional support (the Library and Museum), they became separated from philosophical reflection. Scientists no longer philosophized, and philosophers no longer engaged with scientific research. This represents a fundamental break from the classical model of [[Plato]] and [[Aristotle]].
 
 **The Divorce Between Science and Technology:** Despite remarkable theoretical advances (Archimedes' mechanics, astronomical models), ancient science failed to generate technological applications for improving human life. This limitation stemmed from: (1) the slave-based economy that removed incentive for labor-saving devices; (2) aristocratic contempt for manual work; (3) the philosophical privileging of contemplation over practical action.
 
@@ -59,15 +63,16 @@ The main contentions include:
 
 #### Historical Context
 
-The Hellenistic period (conventionally dated from Alexander's death in 323 BCE to Rome's conquest of Egypt in 30 BCE) witnessed the transformation of the Greek world from a system of independent city-states to a collection of vast monarchical empires spanning from Greece to India.
+The Hellenistic period (conventionally dated from [[Alexander]]'s death in 323 BCE to Rome's conquest of Egypt in 30 BCE) witnessed the transformation of the Greek world from a system of independent city-states to a collection of vast monarchical empires spanning from Greece to India.
 
 Alexander's conquests opened Eastern markets, dramatically expanding slavery and creating a new cosmopolitan elite while impoverishing the traditional middle class of free workers, artisans, and small merchants who had formed the backbone of Athenian democracy. The result was extreme social stratification and the erosion of civic bonds.
 
 The Ptolemaic dynasty in Egypt established Alexandria as the new intellectual capital, founding the famous Library (with its 700,000 papyrus scrolls) and the Museum—a research institute combining observatory, zoo, botanical garden, and anatomical laboratories. This institutional framework enabled unprecedented scientific advances but also created an isolated scholarly elite disconnected from broader society.
 
-Key dates in this cultural history include: the Library's foundation around 300 BCE under Ptolemy I; its damage in 145 BCE during civil war; its partial burning during Caesar's campaign in 48-47 BCE; and Egypt's incorporation into the Roman Empire in 30 BCE. The final destruction came in 642 CE during the Arab conquest.
+Key dates in this cultural history include: the Library's foundation around 300 BCE under [[Ptolemy]] I; its damage in 145 BCE during civil war; its partial burning during Caesar's campaign in 48-47 BCE; and Egypt's incorporation into the Roman Empire in 30 BCE. The final destruction came in 642 CE during the Arab conquest.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -124,7 +129,7 @@ flowchart TD
 | Relation to experience | Pure idealization | Experience as foundation | Observation + calculation |
 | Philosophical background | Platonic (ideal space) | Empiricist (inherent structures) | Aristotelian (physical realism) |
 | Purpose | Systematic synthesis | Theoretical dominion | Predictive accuracy |
-| Influence | Foundation of geometry | Precursor of calculus | Astronomical authority until Copernicus |
+| Influence | Foundation of geometry | Precursor of calculus | Astronomical authority until [[Copernicus]] |
 
 #### Influences & Connections
 
@@ -164,22 +169,10 @@ flowchart TD
 
 #### Notable Quotes
 
-> "The fear took the place of hope; the goal of life was rather to escape misfortune than to achieve a positive good [...]. Philosophy is no longer the pillar of fire that serves as a beacon to the few intrepid seekers of truth: it is rather an ambulance, which comes in the wake of the struggle for existence and picks up the weak and wounded." — [[Bertrand Russell]], citing C. F. Angus
+> "The fear took the place of hope; the goal of life was rather to escape misfortune than to achieve a positive good [...]. Philosophy is no longer the pillar of fire that serves as a beacon to the few intrepid seekers of truth: it is rather an ambulance, which comes in the wake of the struggle for existence and picks up the weak and wounded." — [[Russell]], citing C. F. Angus
 
 > "Only he who is able to see 'the whole' is a philosopher." — [[Plato]]
 
-#### See Also
-
-- [[Stoicism]]
-- [[Epicureanism]]
-- [[Skepticism]]
-- [[Library of Alexandria]]
-- [[Hellenistic Kingdoms]]
-- [[Ancient Astronomy]]
-- [[Ancient Medicine]]
-- [[Neoplatonism]]
-- [[Roman Philosophy]]
-- [[Eclecticism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

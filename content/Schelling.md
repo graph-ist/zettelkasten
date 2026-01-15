@@ -6,16 +6,13 @@ subclasses:
   - Metaphysics
   - Aesthetics
 aliases:
-  - schelling
   - absolute idealism
   - philosophy nature
   - identity philosophy
-  - naturphilosophie
   - transcendental idealism
   - objective idealism
   - aesthetic idealism
   - world soul
-  - potencies
   - absolute identity
   - natura naturans
 contributions:
@@ -27,44 +24,56 @@ authors:
   - "[[Kant]]"
   - "[[Hegel]]"
   - "[[Goethe]]"
-reference: "[[04 The search for thought - Unit 8 Chapter 4.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[German Idealism]]"
+  - "[[Naturphilosophie]]"
+  - "[[Romanticism]]"
+  - "[[Fichte]]"
+  - "[[Hegel]]"
+  - "[[Spinoza]]"
+  - "[[Philosophy of Art]]"
+  - "[[Absolute]]"
+  - "[[Identity Philosophy]]"
+  - "[[Transcendental Philosophy]]"
 ---
 
 #### Central Problem
 
-The central problem that Schelling addresses concerns the fundamental split between nature and spirit, object and subject, that plagued both Kantian critical philosophy and Fichtean idealism. While Fichte had established the primacy of the Absolute I as the foundation of all reality, his system sacrificed nature to the realm of the merely instrumental — nature existed solely as the "theater of moral action" or even as "pure nothingness" from a religious standpoint. This left philosophy unable to account for the intrinsic value, rationality, and autonomous life of the natural world.
+The central problem that [[Schelling]] addresses concerns the fundamental split between nature and spirit, object and subject, that plagued both Kantian critical philosophy and Fichtean idealism. While [[Fichte]] had established the primacy of the Absolute I as the foundation of all reality, his system sacrificed nature to the realm of the merely instrumental — nature existed solely as the "theater of moral action" or even as "pure nothingness" from a religious standpoint. This left philosophy unable to account for the intrinsic value, rationality, and autonomous life of the natural world.
 
-Schelling recognized that a purely subjective principle (Fichte's Io) could not explain the emergence of the natural world, just as a purely objective principle (Spinoza's Substance) could not explain the origin of intelligence and self-consciousness. The challenge was to discover a supreme principle that would be simultaneously subject and object, reason and nature — an undifferentiated identity of both. This required overcoming the dualism inherent in Kant's distinction between phenomenon and noumenon, as well as Fichte's privileging of the subjective pole, to arrive at an Absolute that precedes and grounds the very distinction between subjectivity and objectivity.
+[[Schelling]] recognized that a purely subjective principle (Fichte's Io) could not explain the emergence of the natural world, just as a purely objective principle (Spinoza's Substance) could not explain the origin of intelligence and self-consciousness. The challenge was to discover a supreme principle that would be simultaneously subject and object, reason and nature — an undifferentiated identity of both. This required overcoming the dualism inherent in [[Kant]]'s distinction between phenomenon and noumenon, as well as [[Fichte]]'s privileging of the subjective pole, to arrive at an Absolute that precedes and grounds the very distinction between subjectivity and objectivity.
 
-Additionally, Schelling sought to account for the relationship between conscious and unconscious production, between freedom and necessity, and ultimately to explain how the finite arises from the infinite without sacrificing either the integrity of nature or the creativity of spirit.
+Additionally, [[Schelling]] sought to account for the relationship between conscious and unconscious production, between freedom and necessity, and ultimately to explain how the finite arises from the infinite without sacrificing either the integrity of nature or the creativity of spirit.
 
 #### Main Thesis
 
-Schelling's main thesis establishes the Absolute as the original identity or indifference of spirit and nature, subject and object, conscious and unconscious. This Absolute is neither reducible to subjectivity (as in Fichte) nor to objectivity (as in Spinoza's Substance), but constitutes the undifferentiated ground from which both emerge.
+Schelling's main thesis establishes the Absolute as the original identity or indifference of spirit and nature, subject and object, conscious and unconscious. This Absolute is neither reducible to subjectivity (as in [[Fichte]]) nor to objectivity (as in [[Spinoza]]'s Substance), but constitutes the undifferentiated ground from which both emerge.
 
-From this fundamental insight, Schelling develops two complementary philosophical directions:
+From this fundamental insight, [[Schelling]] develops two complementary philosophical directions:
 1. **Philosophy of Nature** (Naturphilosophie): demonstrates how nature resolves itself into spirit, showing nature as "visible spirit"
 2. **Transcendental Philosophy**: demonstrates how spirit resolves itself into nature, showing spirit as "invisible nature"
 
-**The Philosophy of Nature** rejects both traditional mechanism (which cannot explain living organisms) and external teleology (which compromises nature's autonomy by appealing to divine intervention). Instead, Schelling proposes an immanent finalism and organicism: nature is a self-organizing organism with internal purposiveness. At its foundation lies an unconscious spiritual principle — the **World Soul** (Anima Mundi) — which sustains the continuity between organic and inorganic realms and unifies all of nature into a single universal organism.
+**The Philosophy of Nature** rejects both traditional mechanism (which cannot explain living organisms) and external teleology (which compromises nature's autonomy by appealing to divine intervention). Instead, [[Schelling]] proposes an immanent finalism and organicism: nature is a self-organizing organism with internal purposiveness. At its foundation lies an unconscious spiritual principle — the **World Soul** (Anima Mundi) — which sustains the continuity between organic and inorganic realms and unifies all of nature into a single universal organism.
 
 Nature exhibits a dialectical structure of opposing forces — **attraction and repulsion** — manifesting as magnetism, electricity, and chemical process. These correspond in the organic world to sensibility, irritability, and reproduction. Nature develops through three **potencies** or levels: the inorganic world, light (nature becoming visible to itself), and the organic world with its anticipation of self-consciousness.
 
-**The Transcendental Philosophy**, developed in the *System of Transcendental Idealism* (1800), traces how the self-constitution of spirit mirrors the self-constitution of nature. Starting from self-consciousness as intellectual intuition (wherein the I, in knowing itself, simultaneously produces itself), Schelling delineates three epochs of the I's development: from sensation to productive intuition, from productive intuition to reflection, and from reflection to will.
+**The Transcendental Philosophy**, developed in the *System of Transcendental Idealism* (1800), traces how the self-constitution of spirit mirrors the self-constitution of nature. Starting from self-consciousness as intellectual intuition (wherein the I, in knowing itself, simultaneously produces itself), [[Schelling]] delineates three epochs of the I's development: from sensation to productive intuition, from productive intuition to reflection, and from reflection to will.
 
-The crucial synthesis occurs in **art**, which Schelling identifies as the "organ of revelation of the Absolute." In aesthetic creation, the artist embodies the unity of conscious execution and unconscious inspiration, producing finite works that contain infinite meaning. Art thus accomplishes what philosophy can only comprehend theoretically: the immediate manifestation of the Absolute as the identity of nature and spirit.
+The crucial synthesis occurs in **art**, which [[Schelling]] identifies as the "organ of revelation of the Absolute." In aesthetic creation, the artist embodies the unity of conscious execution and unconscious inspiration, producing finite works that contain infinite meaning. Art thus accomplishes what philosophy can only comprehend theoretically: the immediate manifestation of the Absolute as the identity of nature and spirit.
 
 #### Historical Context
 
-Friedrich Wilhelm Joseph Schelling (1775-1854) was born in Leonberg and entered the theological seminary at Tübingen at age 16, where he formed crucial friendships with Hölderlin and Hegel (both five years his senior). After studying mathematics and natural sciences at Leipzig and attending Fichte's lectures at Jena, Schelling was appointed Fichte's assistant in 1798 at just 23 years old, thanks to Goethe's support.
+[[Schelling]] (1775-1854) was born in Leonberg and entered the theological seminary at Tübingen at age 16, where he formed crucial friendships with Hölderlin and Hegel (both five years his senior). After studying mathematics and natural sciences at Leipzig and attending [[Fichte]]'s lectures at Jena, [[Schelling]] was appointed [[Fichte]]'s assistant in 1798 at just 23 years old, thanks to Goethe's support.
 
-At Jena, Schelling experienced his most productive years and engaged with the Romantic circle — August Wilhelm von Schlegel, Tieck, and Novalis. He married Karoline Michaelis Schlegel in 1803 after she divorced her husband. Following positions at Würzburg (1803-1806) and Munich, Schelling's friendship with Hegel ruptured following Hegel's attack in the Preface to the *Phenomenology of Spirit* (1807), after which Schelling witnessed, embittered, the triumph of Hegelianism and his own declining reputation.
+At Jena, [[Schelling]] experienced his most productive years and engaged with the Romantic circle — August Wilhelm von [[Schlegel]], [[Tieck]], and [[Novalis]]. He married [[Schlegel]] in 1803 after she divorced her husband. Following positions at Würzburg (1803-1806) and Munich, Schelling's friendship with [[Hegel]] ruptured following [[Hegel]]'s attack in the Preface to the *Phenomenology of Spirit* (1807), after which [[Schelling]] witnessed, embittered, the triumph of Hegelianism and his own declining reputation.
 
-The period saw revolutionary scientific developments in chemistry, electricity, and magnetism that influenced Schelling's Naturphilosophie. His philosophical development passed through distinct phases: Fichtean idealism (1795-96), philosophy of nature (1797-99), transcendental idealism (1800), identity philosophy (1801-04), theosophic philosophy and philosophy of freedom, and finally positive philosophy and philosophy of religion. In Munich, Schelling befriended the theosophist Franz von Baader, who introduced him to Jakob Böhme's mystical writings.
+The period saw revolutionary scientific developments in chemistry, electricity, and magnetism that influenced Schelling's Naturphilosophie. His philosophical development passed through distinct phases: Fichtean idealism (1795-96), philosophy of nature (1797-99), transcendental idealism (1800), identity philosophy (1801-04), theosophic philosophy and philosophy of freedom, and finally positive philosophy and philosophy of religion. In Munich, [[Schelling]] befriended the theosophist Franz von Baader, who introduced him to Jakob Böhme's mystical writings.
 
-In 1841, Schelling was called to Berlin to succeed Hegel, leading the reaction against Hegelianism. Among his auditors were Kierkegaard, Feuerbach, and Engels. He died in 1854 in Bad Ragaz, Switzerland.
+In 1841, [[Schelling]] was called to [[Berlin]] to succeed Hegel, leading the reaction against Hegelianism. Among his auditors were Kierkegaard, [[Feuerbach]], and Engels. He died in 1854 in Bad Ragaz, Switzerland.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -105,8 +114,8 @@ flowchart TD
 | Intellectual Intuition | The form of self-knowledge in which the I, by knowing itself, simultaneously produces itself — the unity of subject and object in self-consciousness | [[Schelling]], [[Fichte]] |
 | Immanent Finalism | The doctrine that nature possesses internal purposiveness without external divine programming — nature as self-organizing organism | [[Schelling]], [[Naturphilosophie]] |
 | Speculative Physics | Schelling's method of philosophizing about nature that proceeds systematically, showing how each empirical phenomenon belongs necessarily to an organic totality | [[Schelling]], [[Naturphilosophie]] |
-| Unconscious Production | The pre-conscious activity (like Fichte's productive imagination) through which the subject generates its objects without awareness | [[Schelling]], [[German Idealism]] |
-| Objective Idealism | Schelling's idealism that gives equal weight to nature (objective) alongside spirit, as opposed to Fichte's subjective idealism | [[Schelling]], [[German Idealism]] |
+| Unconscious Production | The pre-conscious activity (like [[Fichte]]'s productive imagination) through which the subject generates its objects without awareness | [[Schelling]], [[German Idealism]] |
+| Objective Idealism | Schelling's idealism that gives equal weight to nature (objective) alongside spirit, as opposed to [[Fichte]]'s subjective idealism | [[Schelling]], [[German Idealism]] |
 | Aesthetic Intuition | The supreme form of cognition that unites conscious and unconscious, revealing the Absolute in the artwork's synthesis of inspiration and execution | [[Schelling]], [[Aesthetics]] |
 
 #### Authors Comparison
@@ -141,18 +150,18 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | 1775 | [[Schelling]] born in Leonberg |
-| 1790 | [[Schelling]] enters theological seminary at Tübingen, meets [[Hölderlin]] and [[Hegel]] |
+| 1790 | [[Schelling]] enters theological seminary at Tübingen, meets [[Hölderlin]] and Hegel |
 | 1794 | [[Fichte]] publishes *Foundations of the Entire Doctrine of Science* |
 | 1797 | [[Schelling]] publishes *Ideas for a Philosophy of Nature* |
-| 1798 | [[Schelling]] publishes *On the World Soul*; appointed Fichte's assistant at Jena |
+| 1798 | [[Schelling]] publishes *On the World Soul*; appointed [[Fichte]]'s assistant at Jena |
 | 1799 | [[Schelling]] publishes *First Outline of a System of the Philosophy of Nature* |
 | 1800 | [[Schelling]] publishes *System of Transcendental Idealism* |
 | 1802 | [[Schelling]] publishes dialogue *Bruno* |
-| 1803 | [[Schelling]] marries Karoline Michaelis Schlegel; moves to Würzburg |
+| 1803 | [[Schelling]] marries [[Schlegel]]; moves to Würzburg |
 | 1806 | [[Schelling]] becomes secretary of the Academy of Fine Arts in Munich |
 | 1807 | [[Hegel]] attacks [[Schelling]] in preface to *Phenomenology of Spirit*; Karoline dies (1809) |
 | 1809 | [[Schelling]] publishes *Philosophical Investigations into the Essence of Human Freedom* |
-| 1841 | [[Schelling]] succeeds [[Hegel]]'s chair in Berlin; Kierkegaard, Feuerbach, Engels attend |
+| 1841 | [[Schelling]] succeeds [[Hegel]]'s chair in Berlin; Kierkegaard, [[Feuerbach]], Engels attend |
 | 1854 | [[Schelling]] dies in Bad Ragaz, Switzerland |
 
 #### Notable Quotes
@@ -163,18 +172,6 @@ flowchart TD
 
 > "The dead and unconscious products of nature are merely failed attempts of nature to reflect itself; so-called dead nature is above all an immature intelligence." — [[Schelling]]
 
-#### See Also
-
-- [[German Idealism]]
-- [[Naturphilosophie]]
-- [[Romanticism]]
-- [[Fichte]]
-- [[Hegel]]
-- [[Spinoza]]
-- [[Philosophy of Art]]
-- [[Absolute]]
-- [[Identity Philosophy]]
-- [[Transcendental Philosophy]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

@@ -6,26 +6,30 @@ subclasses:
   - Epistemology
   - Social-and-Political-Philosophy
 aliases:
-  - ockham
-  - nominalism
   - double truth
-  - razor
-  - duns scotus
-  - haecceitas
-  - voluntarism
-  - supposition
-  - marsilio
-  - fideism
 contributions:
   - Conceptual
 authors:
   - "[[Ockham]]"
   - "[[Scoto]]"
   - "[[Brabante]]"
-  - "[[Bacone]]"
+  - "[[Bacon]]"
   - "[[Padova]]"
   - "[[Eckhart]]"
-reference: "[[02 The search for thought - Unit 7 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Scholasticism]]"
+  - "[[Nominalism]]"
+  - "[[Averroism]]"
+  - "[[Voluntarism]]"
+  - "[[Fideism]]"
+  - "[[Natural Law]]"
+  - "[[Legal Positivism]]"
+  - "[[Medieval Political Philosophy]]"
+  - "[[Mysticism]]"
+  - "[[Ockham's Razor]]"
+  - "[[Problem of Universals]]"
+  - "[[Faith and Reason]]"
 ---
 
 #### Central Problem
@@ -64,6 +68,7 @@ Within this context, the consciousness of limits that philosophical inquiry enco
 
 #### Philosophical Lineage
 
+
 ```mermaid
 flowchart TD
     Aristotele --> Averroè
@@ -87,8 +92,8 @@ flowchart TD
 |---------|-------|----------|-----------|--------------|
 | [[Sigieri di Brabante]] | 1240-1284 | [[Averroism]] | *De anima intellectiva* | Double truth |
 | [[Duns Scoto]] | 1266-1308 | [[Scholasticism]] | *Opus Oxoniense* | Haecceitas |
-| [[Ruggero Bacone]] | 1214-1292 | [[Experimentalism]] | *Opus maius* | Experience and mathematics |
-| [[Ockham]] | 1290-1349 | [[Nominalism]] | *Summa logicae* | Ockham's Razor |
+| [[Roger Bacon]] | 1214-1292 | [[Experimentalism]] | *Opus maius* | Experience and mathematics |
+| [[Ockham]] | 1290-1349 | [[Nominalism]] | *Summa logicae* | [[Ockham]]'s Razor |
 | [[Marsilio da Padova]] | 1275-1343 | [[Political Philosophy]] | *Defensor pacis* | Popular sovereignty |
 | [[Eckhart]] | 1260-1327 | [[Mysticism]] | *German Sermons* | Divine spark |
 
@@ -101,7 +106,7 @@ flowchart TD
 | Intuitive cognition | Direct knowledge of an object present in its real existence, foundation of all knowledge | [[Ockham]], [[Epistemology]] |
 | Abstractive cognition | Knowledge that abstracts from the real existence of its object; derived from intuitive cognition | [[Ockham]], [[Duns Scoto]] |
 | Suppositio | The semantic dimension of terms in propositions; terms "stand for" (supposit) their referents | [[Ockham]], [[Logic]] |
-| Ockham's Razor | Principle of parsimony: entities should not be multiplied beyond necessity | [[Ockham]], [[Nominalism]] |
+| [[Ockham]]'s Razor | Principle of parsimony: entities should not be multiplied beyond necessity | [[Ockham]], [[Nominalism]] |
 | Voluntarism | The primacy of will over intellect; God's will creates moral law without rational constraints | [[Duns Scoto]], [[Ockham]] |
 | Natural sign | Concept as sign naturally produced by things themselves, predicable of many particulars | [[Ockham]], [[Nominalism]] |
 | Pars valentior | The "weightier part" of citizens that constitutes the legitimate legislator | [[Marsilio da Padova]], [[Political Philosophy]] |
@@ -145,10 +150,10 @@ flowchart TD
 | 1277 | Bishop Tempier condemns 219 propositions, including some Thomistic ones |
 | 1284 | Death of [[Sigieri di Brabante]] |
 | 1290 | [[Ockham]] born in Surrey, England |
-| 1292 | Death of [[Ruggero Bacone]] |
+| 1292 | Death of [[Roger Bacon]] |
 | 1308 | Death of [[Duns Scoto]] at Cologne |
 | 1324 | [[Ockham]] summoned to Avignon; [[Marsilio da Padova]] completes *Defensor pacis* |
-| 1326 | Papal commission censures 51 articles from Ockham's writings |
+| 1326 | Papal commission censures 51 articles from [[Ockham]]'s writings |
 | 1327 | Death of [[Eckhart]] |
 | 1328 | [[Ockham]] flees Avignon with Michael of Cesena |
 | 1343 | Death of [[Marsilio da Padova]] |
@@ -162,20 +167,6 @@ flowchart TD
 
 > "We cannot see God unless we see all things and ourselves as pure nothing." — [[Eckhart]]
 
-#### See Also
-
-- [[Scholasticism]]
-- [[Nominalism]]
-- [[Averroism]]
-- [[Voluntarism]]
-- [[Fideism]]
-- [[Natural Law]]
-- [[Legal Positivism]]
-- [[Medieval Political Philosophy]]
-- [[Mysticism]]
-- [[Ockham's Razor]]
-- [[Problem of Universals]]
-- [[Faith and Reason]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

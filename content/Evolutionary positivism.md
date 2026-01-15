@@ -8,16 +8,11 @@ subclasses:
   - Metaphysics
 aliases:
   - evolutionary positivism
-  - evolution
   - natural selection
   - survival fittest
-  - unknowable
   - cosmic evolution
-  - progress
   - social darwinism
   - synthetic philosophy
-  - agnosticism
-  - adaptation
   - homogeneous heterogeneous
 contributions:
   - Conceptual
@@ -28,14 +23,25 @@ authors:
   - "[[Ardigo]]"
   - "[[Lamarck]]"
   - "[[Huxley]]"
-reference: "[[05 The search for thought - Unit 3 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Positivism]]"
+  - "[[Natural Selection]]"
+  - "[[Social Darwinism]]"
+  - "[[Agnosticism]]"
+  - "[[Philosophy of Biology]]"
+  - "[[Progress]]"
+  - "[[Comte]]"
+  - "[[Lamarck]]"
+  - "[[Malthus]]"
+  - "[[Synthetic Philosophy]]"
 ---
 
 #### Central Problem
 
 Evolutionary positivism confronts the challenge of extending the concept of evolution—derived from biological science—into a comprehensive philosophical worldview capable of explaining all reality. The central problem is twofold: first, how can the particular findings of biology (the transformation of species through natural selection) be generalized into a universal law governing all phenomena? Second, how can science and religion be reconciled given that both confront the ultimate mystery of existence?
 
-The movement grapples with questions that arise once Darwin's theory dismantles the traditional view of fixed species created by God: What is the ultimate nature of reality if not divine creation? Is there purpose or direction in the universe, or only blind mechanical processes? How does consciousness emerge from matter? What becomes of human dignity if humans are merely evolved animals? And crucially: does evolution imply progress, and if so, what guarantees this progress?
+The movement grapples with questions that arise once [[Darwin]]'s theory dismantles the traditional view of fixed species created by God: What is the ultimate nature of reality if not divine creation? Is there purpose or direction in the universe, or only blind mechanical processes? How does consciousness emerge from matter? What becomes of human dignity if humans are merely evolved animals? And crucially: does evolution imply progress, and if so, what guarantees this progress?
 
 A subsidiary problem concerns the relationship between scientific knowledge and ultimate reality. If science can only know phenomena (appearances), what lies beyond? The evolutionary positivists, particularly Spencer, attempt to carve out a domain for religion by positing an "Unknowable" reality that science cannot reach but that grounds all phenomena.
 
@@ -43,7 +49,7 @@ A subsidiary problem concerns the relationship between scientific knowledge and 
 
 Evolutionary positivism holds that evolution is the universal law governing all phenomena—from cosmic nebulae to human societies—and that this evolution necessarily tends toward greater complexity, differentiation, and (implicitly) progress. The main theses can be articulated through its principal representatives:
 
-**Darwin's Theory of Natural Selection:** [[Darwin]] provides the scientific foundation by demonstrating that species are not fixed but transform through the mechanism of natural selection. Two key factors drive evolution: (a) random variations that occur in organisms, some of which prove advantageous; (b) the struggle for existence (derived from Malthus) that ensures only the fittest survive. Through heredity, advantageous traits accumulate over generations, eventually producing new species. Darwin explicitly extends this to humans in *The Descent of Man*, arguing that the difference between human and animal intelligence is one of degree, not kind.
+**Darwin's Theory of Natural Selection:** [[Darwin]] provides the scientific foundation by demonstrating that species are not fixed but transform through the mechanism of natural selection. Two key factors drive evolution: (a) random variations that occur in organisms, some of which prove advantageous; (b) the struggle for existence (derived from Malthus) that ensures only the fittest survive. Through heredity, advantageous traits accumulate over generations, eventually producing new species. [[Darwin]] explicitly extends this to humans in *The Descent of Man*, arguing that the difference between human and animal intelligence is one of degree, not kind.
 
 **Spencer's Cosmic Evolutionism:** [[Spencer]] generalizes biological evolution into a law governing all reality. Evolution is defined as "an integration of matter and concomitant dissipation of motion; during which the matter passes from an indefinite, incoherent homogeneity to a definite, coherent heterogeneity." This applies universally: to the formation of the solar system from nebulae, to biological organisms, to human societies, to language, to art. Evolution proceeds necessarily (homogeneity being unstable) and progressively toward greater perfection and happiness.
 
@@ -55,15 +61,16 @@ Evolutionary positivism holds that evolution is the universal law governing all 
 
 Evolutionary positivism emerges in the second half of the nineteenth century, building on earlier biological theories of species transformation. [[Buffon]], [[Lamarck]], and [[Saint-Hilaire]] had proposed transformist hypotheses in the eighteenth and early nineteenth centuries, but these could not prevail against [[Cuvier]]'s catastrophism (the theory that successive cataclysms destroyed species, which were then separately created anew). Only when [[Lyell]]'s geology demonstrated gradual geological change did the scientific context favor evolutionary theory.
 
-[[Darwin]]'s *Origin of Species* (1859) appeared at precisely the moment when the Romantic idea of progress—originally developed for human history—had achieved its maximum universality. The theory's immediate success (the first edition sold out in one day) reflects this cultural readiness. Darwin offered what the age demanded: a scientific basis for the belief in universal progress that would extend the historical optimism of Hegel and the social optimism of Comte to the entire natural world.
+[[Darwin]]'s *Origin of Species* (1859) appeared at precisely the moment when the Romantic idea of progress—originally developed for human history—had achieved its maximum universality. The theory's immediate success (the first edition sold out in one day) reflects this cultural readiness. [[Darwin]] offered what the age demanded: a scientific basis for the belief in universal progress that would extend the historical optimism of [[Hegel]] and the social optimism of Comte to the entire natural world.
 
-The term "agnosticism" was coined in 1869 by [[Huxley]] (Darwin's most enthusiastic defender) to describe the position that ultimate metaphysical questions cannot be answered—a stance Darwin himself adopted. This reflects the broader cultural negotiation between scientific naturalism and religious tradition that characterizes the period.
+The term "agnosticism" was coined in 1869 by [[Huxley]] (Darwin's most enthusiastic defender) to describe the position that ultimate metaphysical questions cannot be answered—a stance [[Darwin]] himself adopted. This reflects the broader cultural negotiation between scientific naturalism and religious tradition that characterizes the period.
 
-The concept of "Social Darwinism" emerged as Darwin's biological concepts (selection, struggle for existence) were extended to human society, often to justify existing class and racial inequalities as "natural." This ideological appropriation, while not Darwin's intention, demonstrates the cultural impact of evolutionary theory.
+The concept of "Social Darwinism" emerged as [[Darwin]]'s biological concepts (selection, struggle for existence) were extended to human society, often to justify existing class and racial inequalities as "natural." This ideological appropriation, while not [[Darwin]]'s intention, demonstrates the cultural impact of evolutionary theory.
 
 In Italy, [[Ardigò]] developed his own version of evolutionary positivism, modifying Spencer's concept while engaging in fierce polemics against the Hegelian idealism that would eventually triumph in Italian philosophy.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -89,7 +96,7 @@ flowchart TD
 |---------|-------|----------|-----------|--------------|
 | [[Darwin]] | 1809-1882 | [[Evolutionism]] | *Origin of Species* | Natural selection, survival of the fittest |
 | [[Spencer]] | 1820-1903 | [[Evolutionary Positivism]] | *First Principles* | Unknowable, universal evolution |
-| [[Huxley]] | 1825-1895 | [[Evolutionism]] | Various writings | Agnosticism, defense of Darwin |
+| [[Huxley]] | 1825-1895 | [[Evolutionism]] | Various writings | Agnosticism, defense of [[Darwin]] |
 | [[Ardigo]] | 1828-1920 | [[Italian Positivism]] | *Positive Psychology* | Indistinct to distinct, rejection of Unknowable |
 | [[Lamarck]] | 1744-1829 | [[Transformism]] | Various writings | Inheritance of acquired characteristics |
 
@@ -98,7 +105,7 @@ flowchart TD
 | Concept | Definition | Related to |
 |---------|------------|------------|
 | Natural Selection | Process by which organisms with advantageous variations survive and reproduce, accumulating beneficial traits over generations | [[Darwin]], [[Evolutionism]] |
-| Survival of the Fittest | Spencer's term for Darwin's natural selection; organisms best adapted to environment survive | [[Spencer]], [[Darwin]] |
+| Survival of the Fittest | Spencer's term for [[Darwin]]'s natural selection; organisms best adapted to environment survive | [[Spencer]], [[Darwin]] |
 | Unknowable | Ultimate reality that manifests in phenomena but remains forever beyond human comprehension | [[Spencer]], [[Agnosticism]] |
 | Evolution (Spencer) | Integration of matter with dissipation of motion; passage from indefinite incoherent homogeneity to definite coherent heterogeneity | [[Spencer]], [[Synthetic Philosophy]] |
 | Agnosticism | Position that ultimate metaphysical questions (God, absolute) cannot be known | [[Huxley]], [[Spencer]] |
@@ -150,7 +157,7 @@ flowchart TD
 | 1859 | [[Darwin]] publishes *Origin of Species* |
 | 1862 | [[Spencer]] publishes *First Principles* |
 | 1864-67 | [[Spencer]] publishes *Principles of Biology* |
-| 1869 | [[Huxley]] coins term "agnosticism"; [[Ardigo]] publishes essay on Pomponazzi |
+| 1869 | [[Huxley]] coins term "agnosticism"; [[Ardigo]] publishes essay on [[Pomponazzi]] |
 | 1871 | [[Darwin]] publishes *The Descent of Man* |
 | 1879 | [[Ardigo]] publishes *The Morality of Positivists* |
 | 1882 | [[Darwin]] dies |
@@ -164,18 +171,6 @@ flowchart TD
 
 > "What is a priori for the individual is a posteriori for the species." — [[Spencer]]
 
-#### See Also
-
-- [[Positivism]]
-- [[Natural Selection]]
-- [[Social Darwinism]]
-- [[Agnosticism]]
-- [[Philosophy of Biology]]
-- [[Progress]]
-- [[Comte]]
-- [[Lamarck]]
-- [[Malthus]]
-- [[Synthetic Philosophy]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

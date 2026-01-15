@@ -10,14 +10,11 @@ aliases:
   - artificial intelligence
   - turing test
   - chinese room
-  - functionalism
-  - connectionism
   - mind computer
   - strong ai
   - weak ai
   - machine intelligence
   - neural networks
-  - intentionality
   - computational mind
 contributions:
   - Conceptual
@@ -28,7 +25,18 @@ authors:
   - "[[Dreyfus]]"
   - "[[Putnam]]"
   - "[[Minsky]]"
-reference: "[[06 The search for thought - Unit 12 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Philosophy of Mind]]"
+  - "[[Cognitive Science]]"
+  - "[[Functionalism]]"
+  - "[[Phenomenology]]"
+  - "[[Consciousness]]"
+  - "[[Intentionality]]"
+  - "[[Computationalism]]"
+  - "[[Embodied Cognition]]"
+  - "[[Heidegger]]"
+  - "[[Speech Acts]]"
 ---
 
 #### Central Problem
@@ -83,6 +91,7 @@ However, by the 1970s and 1980s, AI encountered persistent difficulties that fel
 By the late twentieth century, the field largely shifted toward "weak AI"—the construction of useful intelligent tools rather than the reproduction of human intelligence—though ambiguity persists about ultimate goals.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -176,18 +185,6 @@ flowchart TD
 
 > "Every intelligibility and every intelligent behavior must be traced back to the common sense of what we are, which necessarily, if we want to avoid infinite regress, is knowledge that cannot be made explicit." — [[Dreyfus]]
 
-#### See Also
-
-- [[Philosophy of Mind]]
-- [[Cognitive Science]]
-- [[Functionalism]]
-- [[Phenomenology]]
-- [[Consciousness]]
-- [[Intentionality]]
-- [[Computationalism]]
-- [[Embodied Cognition]]
-- [[Heidegger]]
-- [[Speech Acts]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

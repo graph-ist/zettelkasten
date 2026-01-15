@@ -6,18 +6,11 @@ subclasses:
   - Ethics
   - Logic-and-Philosophy-of-Logic
 aliases:
-  - stoicism
   - stoic philosophy
   - zeno citium
-  - chrysippus
-  - seneca
-  - epictetus
-  - marcus aurelius
   - cataleptic representation
   - living nature
-  - apatheia
   - natural law
-  - cosmopolitanism
 contributions:
   - Conceptual
 authors:
@@ -27,8 +20,19 @@ authors:
   - "[[Seneca]]"
   - "[[Epitteto]]"
   - "[[Aurelio]]"
-  - "[[Cicerone]]"
-reference: "[[02 The search for thought - Unit 5 Chapter 2.pdf]]"
+  - "[[Cicero]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Hellenistic Philosophy]]"
+  - "[[Cynicism]]"
+  - "[[Epicureanism]]"
+  - "[[Skepticism]]"
+  - "[[Natural Law]]"
+  - "[[Roman Philosophy]]"
+  - "[[Propositional Logic]]"
+  - "[[Determinism]]"
+  - "[[Virtue Ethics]]"
+  - "[[Cosmopolitanism]]"
 ---
 
 #### Central Problem
@@ -43,7 +47,7 @@ The problem extends to social and political life: if there is a universal ration
 
 The Stoics maintain that philosophy is the "exercise of virtue" and that virtue is both necessary and sufficient for happiness. Their fundamental ethical maxim is "live according to nature"—meaning according to both universal nature (the rational cosmic order) and human nature (which is essentially rational).
 
-**Logic and Epistemology:** The criterion of truth is the "cataleptic representation" (phantasía kataleptiké)—a representation so clear and evident that it compels our assent. All knowledge derives from sense experience; the soul is like a blank slate (tabula rasa) upon which representations are inscribed. From accumulated representations, general concepts (prolépseis) naturally form. The Stoics developed propositional logic (distinct from Aristotle's term logic), analyzing five basic forms of valid inference (anapodeictic syllogisms) and studying logical connectives.
+**Logic and Epistemology:** The criterion of truth is the "cataleptic representation" (phantasía kataleptiké)—a representation so clear and evident that it compels our assent. All knowledge derives from sense experience; the soul is like a blank slate (tabula rasa) upon which representations are inscribed. From accumulated representations, general concepts (prolépseis) naturally form. The Stoics developed propositional logic (distinct from [[Aristotle]]'s term logic), analyzing five basic forms of valid inference (anapodeictic syllogisms) and studying logical connectives.
 
 **Physics and Theology:** The cosmos is governed by two principles: the active principle (God, reason, lógos) and the passive principle (matter). Both are corporeal—only bodies exist. God is identified with the "seminal reason" (lógos spermatikós) containing the seeds of all things. The universe undergoes eternal cycles, ending in conflagration (ekpýrosis) and regenerating identically (palingenesis). Everything happens according to fate, which is identical with providence and divine reason. This entails metaphysical optimism: the world, being rational, is perfect.
 
@@ -51,15 +55,16 @@ The Stoics maintain that philosophy is the "exercise of virtue" and that virtue 
 
 #### Historical Context
 
-Stoicism was founded around 300 BCE by Zeno of Citium (336-264 BCE), who arrived in Athens and was initially influenced by the Cynic Crates of Thebes. Zeno established his school in the "Painted Porch" (Stoá Poikíle), from which the school took its name.
+Stoicism was founded around 300 BCE by [[Zeno]] of Citium (336-264 BCE), who arrived in Athens and was initially influenced by the Cynic Crates of Thebes. [[Zeno]] established his school in the "Painted Porch" (Stoá Poikíle), from which the school took its name.
 
 The school developed through several phases: the Early Stoa (Zeno, Cleanthes, Chrysippus), the Middle Stoa (Panaetius, Posidonius, who introduced Stoicism to Rome), and the Late or Roman Stoa (Seneca, Epictetus, Marcus Aurelius). Chrysippus (281-205 BCE) was considered the "second founder" of Stoicism, systematizing its doctrines with prodigious literary output.
 
 The political context shifted dramatically from the Greek city-states to the vast Hellenistic kingdoms and eventually the Roman Empire. Stoicism's cosmopolitanism and emphasis on individual virtue made it adaptable to these new political realities. In Rome, Stoicism became the philosophy of choice for educated elites and even emperors, influencing law (the concept of natural law) and political thought.
 
-The Roman Stoics increasingly emphasized religious interiority and the theme of conscience. Seneca (4-65 CE), tutor and advisor to Nero, wrote extensively on practical ethics and the brotherhood of humanity. Epictetus (50-135 CE), a former slave, taught that freedom lies in controlling our judgments and desires. Marcus Aurelius (121-180 CE), the philosopher-emperor, composed his *Meditations* as private spiritual exercises.
+The Roman Stoics increasingly emphasized religious interiority and the theme of conscience. [[Seneca]] (4-65 CE), tutor and advisor to Nero, wrote extensively on practical ethics and the brotherhood of humanity. Epictetus (50-135 CE), a former slave, taught that freedom lies in controlling our judgments and desires. Marcus Aurelius (121-180 CE), the philosopher-emperor, composed his *Meditations* as private spiritual exercises.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -89,7 +94,7 @@ flowchart TD
 | [[Zenone di Cizio]] | 336-264 BCE | [[Stoicism]] | *Republic*, *On Nature* | Cataleptic representation, living according to nature |
 | [[Cleante]] | 304-231 BCE | [[Stoicism]] | *Hymn to Zeus* | Fate as providence |
 | [[Crisippo]] | 281-205 BCE | [[Stoicism]] | Logical treatises | Propositional logic, theory of meaning |
-| [[Cicerone]] | 106-43 BCE | [[Eclecticism]] | *On Duties*, *On Laws* | Natural law, consensus gentium |
+| [[Cicero]] | 106-43 BCE | [[Eclecticism]] | *On Duties*, *On Laws* | Natural law, consensus gentium |
 | [[Seneca]] | 4-65 CE | [[Roman Stoicism]] | *Letters to Lucilius* | Interiority, brotherhood of humanity |
 | [[Epitteto]] | 50-135 CE | [[Roman Stoicism]] | *Discourses*, *Manual* | Distinction between what is/isn't in our power |
 | [[Marco Aurelio]] | 121-180 CE | [[Roman Stoicism]] | *Meditations* | Inner meditation, flux of things |
@@ -106,7 +111,7 @@ flowchart TD
 | Adiáphora | "Indifferent things" that are neither good nor evil (wealth, health, life) | [[Stoicism]], [[Stoic Ethics]] |
 | Apátheia | Freedom from irrational emotions; the condition of the sage | [[Stoicism]], [[Seneca]], [[Epitteto]] |
 | Ekpýrosis | Cosmic conflagration ending each world-cycle | [[Stoicism]], [[Stoic Physics]] |
-| Natural law | Universal rational law governing all humanity, basis of justice | [[Stoicism]], [[Cicerone]] |
+| Natural law | Universal rational law governing all humanity, basis of justice | [[Stoicism]], [[Cicero]] |
 | Cosmopolitanism | Doctrine that the sage is citizen of the world, not of a particular state | [[Stoicism]], [[Cynicism]] |
 
 #### Authors Comparison
@@ -144,7 +149,7 @@ flowchart TD
 | c. 300 BCE | [[Zenone di Cizio]] founds the Stoic school in the Painted Porch at Athens |
 | 281 BCE | Birth of [[Crisippo]], "second founder" of Stoicism |
 | 156-155 BCE | Stoic [[Diogenes of Babylon]] visits Rome as ambassador |
-| 106 BCE | Birth of [[Cicerone]], who transmits Stoicism to Rome |
+| 106 BCE | Birth of [[Cicero]], who transmits Stoicism to Rome |
 | 4 CE | Birth of [[Seneca]] in Cordova |
 | c. 50 CE | Birth of [[Epitteto]] as slave in Phrygia |
 | 65 CE | Death of [[Seneca]] by order of Nero |
@@ -160,18 +165,6 @@ flowchart TD
 
 > "Look within: within is the fountain of good, always ready to spring forth if you will always dig." — [[Marco Aurelio]]
 
-#### See Also
-
-- [[Hellenistic Philosophy]]
-- [[Cynicism]]
-- [[Epicureanism]]
-- [[Skepticism]]
-- [[Natural Law]]
-- [[Roman Philosophy]]
-- [[Propositional Logic]]
-- [[Determinism]]
-- [[Virtue Ethics]]
-- [[Cosmopolitanism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

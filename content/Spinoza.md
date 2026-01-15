@@ -6,18 +6,10 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Ethics
 aliases:
-  - spinoza
-  - pantheism
-  - substance
   - god nature
-  - conatus
   - intellectual love
   - geometric method
   - attributes modes
-  - parallelism
-  - determinism
-  - affects
-  - beatitude
 contributions:
   - Conceptual
 authors:
@@ -26,22 +18,33 @@ authors:
   - "[[Hobbes]]"
   - "[[Bruno]]"
   - "[[Euclid]]"
-reference: "[[03 The search for thought - Unit 4 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Rationalism]]"
+  - "[[Pantheism]]"
+  - "[[Cartesianism]]"
+  - "[[Substance metaphysics]]"
+  - "[[Mind-body problem]]"
+  - "[[Determinism]]"
+  - "[[Ethics]]"
+  - "[[Dutch Golden Age]]"
+  - "[[Leibniz]]"
+  - "[[German Idealism]]"
 ---
 
 #### Central Problem
 
-The central problem addressed by Baruch Spinoza concerns the nature of reality itself: what is substance, and what is the relationship between God, nature, and finite beings? Spinoza confronts the fundamental tensions left unresolved by Cartesian philosophy—particularly the problematic dualism between mind (res cogitans) and body (res extensa), and the ambiguous status of created substances in relation to divine substance.
+The central problem addressed by [[Spinoza]] concerns the nature of reality itself: what is substance, and what is the relationship between God, nature, and finite beings? [[Spinoza]] confronts the fundamental tensions left unresolved by Cartesian philosophy—particularly the problematic dualism between mind (res cogitans) and body (res extensa), and the ambiguous status of created substances in relation to divine substance.
 
-Beyond metaphysics, Spinoza grapples with the existential question of human happiness and salvation: how can human beings achieve authentic well-being and freedom from the tyranny of passions? This problem emerges from his early recognition that conventional goods—wealth, honor, and sensory pleasures—are "vain and futile," incapable of providing lasting satisfaction. The challenge is to discover a "true good" capable of communicating itself to us and filling the soul with genuine, stable joy.
+Beyond metaphysics, [[Spinoza]] grapples with the existential question of human happiness and salvation: how can human beings achieve authentic well-being and freedom from the tyranny of passions? This problem emerges from his early recognition that conventional goods—wealth, honor, and sensory pleasures—are "vain and futile," incapable of providing lasting satisfaction. The challenge is to discover a "true good" capable of communicating itself to us and filling the soul with genuine, stable joy.
 
-Spinoza also addresses the problem of human freedom within a deterministic universe: if everything follows necessarily from the divine nature, what room remains for human liberty? His solution transforms the very concept of freedom from arbitrary choice to rational self-determination through adequate knowledge.
+[[Spinoza]] also addresses the problem of human freedom within a deterministic universe: if everything follows necessarily from the divine nature, what room remains for human liberty? His solution transforms the very concept of freedom from arbitrary choice to rational self-determination through adequate knowledge.
 
 #### Main Thesis
 
 Spinoza's central thesis is the radical identification of God with Nature (Deus sive Natura)—a pantheistic monism holding that there exists only one infinite, eternal, and necessary Substance, which can be conceived under infinite attributes, of which we know only two: thought and extension.
 
-**The Concept of Substance:** Spinoza defines substance as "that which is in itself and is conceived through itself"—something ontologically and conceptually self-sufficient. From this definition, he derives that substance must be uncreated (causa sui), eternal, infinite, and unique. Since only God fits this description, God is the sole substance, and what Descartes called separate substances (mind and matter) are merely attributes of the one divine Substance.
+**The Concept of Substance:** [[Spinoza]] defines substance as "that which is in itself and is conceived through itself"—something ontologically and conceptually self-sufficient. From this definition, he derives that substance must be uncreated (causa sui), eternal, infinite, and unique. Since only God fits this description, God is the sole substance, and what [[Descartes]] called separate substances (mind and matter) are merely attributes of the one divine Substance.
 
 **Attributes and Modes:** The attributes are the essential qualities constituting the Substance's essence—infinite in number, though humans perceive only thought and extension. The modes are modifications or particular manifestations of these attributes: individual bodies are modes of extension, individual minds are modes of thought. The distinction between Natura naturans (Nature as cause—God and his attributes) and Natura naturata (Nature as effect—the totality of modes) expresses God's immanent causality.
 
@@ -51,15 +54,16 @@ Spinoza's central thesis is the radical identification of God with Nature (Deus 
 
 #### Historical Context
 
-Spinoza lived during the Dutch Golden Age (1632-1677), when the Netherlands served as Europe's haven of religious tolerance and commercial prosperity. Born in Amsterdam to a Sephardic Jewish family that had fled Spanish religious persecution, Spinoza was educated in the Jewish community's school but was excommunicated and expelled in 1656 for "heresies practiced and taught." The dramatic cherem (excommunication) pronounced against him reveals the radical nature of his thought even before his major works appeared.
+[[Spinoza]] lived during the Dutch Golden Age (1632-1677), when the Netherlands served as Europe's haven of religious tolerance and commercial prosperity. Born in Amsterdam to a Sephardic Jewish family that had fled Spanish religious persecution, [[Spinoza]] was educated in the Jewish community's school but was excommunicated and expelled in 1656 for "heresies practiced and taught." The dramatic cherem (excommunication) pronounced against him reveals the radical nature of his thought even before his major works appeared.
 
-The intellectual context includes the aftermath of the Scientific Revolution—Galileo's mechanical physics, Descartes' rationalist philosophy, and Hobbes' materialist political theory had transformed European thought. Spinoza synthesizes these influences while transcending them: he accepts mechanism but embeds it in a metaphysical framework; he adopts Cartesian method but rejects Cartesian dualism; he shares Hobbes' naturalism but develops a more sophisticated psychology and ethics.
+The intellectual context includes the aftermath of the Scientific Revolution—Galileo's mechanical physics, [[Descartes]]' rationalist philosophy, and [[Hobbes]]' materialist political theory had transformed European thought. [[Spinoza]] synthesizes these influences while transcending them: he accepts mechanism but embeds it in a metaphysical framework; he adopts Cartesian method but rejects Cartesian dualism; he shares [[Hobbes]]' naturalism but develops a more sophisticated psychology and ethics.
 
-Spinoza lived modestly in Rijnsburg and later The Hague, supporting himself by grinding lenses for optical instruments—a craft that gave him fame as an optician before his philosophical reputation grew. He published only the Principles of Cartesian Philosophy (1663) under his name; the Theological-Political Treatise (1670) appeared anonymously and was immediately condemned. His masterwork, the Ethics Demonstrated in Geometric Order, circulated in manuscript among friends but was published only posthumously in 1677.
+[[Spinoza]] lived modestly in Rijnsburg and later The Hague, supporting himself by grinding lenses for optical instruments—a craft that gave him fame as an optician before his philosophical reputation grew. He published only the Principles of Cartesian Philosophy (1663) under his name; the Theological-Political Treatise (1670) appeared anonymously and was immediately condemned. His masterwork, the Ethics Demonstrated in Geometric Order, circulated in manuscript among friends but was published only posthumously in 1677.
 
-The Dutch context is essential: the tolerant bourgeois commercial society, with its pragmatic mentality and distrust of religious dogmatism, shaped Spinoza's rationalistic ethics and utilitarian political theory.
+The Dutch context is essential: the tolerant bourgeois commercial society, with its pragmatic mentality and distrust of religious dogmatism, shaped [[Spinoza]]'s rationalistic ethics and utilitarian political theory.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -135,7 +139,7 @@ flowchart TD
 |------|-------|
 | 1632 | [[Spinoza]] born in Amsterdam to Sephardic Jewish family |
 | 1639 | Begins studies at the Jewish-Portuguese community school |
-| 1654 | Death of Spinoza's father |
+| 1654 | Death of [[Spinoza]]'s father |
 | 1656 | Excommunicated from Jewish community |
 | 1658-1659 | Composes *Treatise on the Emendation of the Intellect* |
 | 1660 | Moves to Rijnsburg near Leiden |
@@ -153,18 +157,6 @@ flowchart TD
 
 > "The human mind cannot be absolutely destroyed with the body, but something of it remains which is eternal." — [[Spinoza]]
 
-#### See Also
-
-- [[Rationalism]]
-- [[Pantheism]]
-- [[Cartesianism]]
-- [[Substance metaphysics]]
-- [[Mind-body problem]]
-- [[Determinism]]
-- [[Ethics]]
-- [[Dutch Golden Age]]
-- [[Leibniz]]
-- [[German Idealism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

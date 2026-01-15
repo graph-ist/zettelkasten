@@ -6,19 +6,8 @@ subclasses:
   - 19th-Century-Philosophy
   - 20th-Century-Philosophy
 aliases:
-  - pragmatism
-  - instrumentalism
-  - pragmaticist
-  - fallibilism
-  - abduction
-  - semiotics
-  - belief
-  - inquiry
-  - verification
   - truth utility
   - democratic method
-  - naturalism
-  - transactional
 contributions:
   - Conceptual
   - Empirical
@@ -28,7 +17,18 @@ authors:
   - "[[Dewey]]"
   - "[[Vailati]]"
   - "[[Unamuno]]"
-reference: "[[05 The search for thought - Unit 5 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Empiricism]]"
+  - "[[Scientific Method]]"
+  - "[[Semiotics]]"
+  - "[[American Philosophy]]"
+  - "[[Logic]]"
+  - "[[Democracy]]"
+  - "[[Education]]"
+  - "[[Naturalism]]"
+  - "[[Fallibilism]]"
+  - "[[Theory of Inquiry]]"
 ---
 
 #### Central Problem
@@ -66,6 +66,7 @@ The American intellectual climate differed fundamentally from Europe's. The youn
 In Italy, [[Vailati]] developed a distinctive interpretation connecting pragmatism to mathematical logic. In Spain, [[Unamuno]]'s fideistic pragmatism represented an existentialist variant focused on religious belief and immortality. The European reception often misread pragmatism as a "philosophy of success" or "business philosophy," missing its deeper concern with moral, religious, and scientific fecundity.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -168,18 +169,6 @@ flowchart TD
 
 > "The intelligent recognition of the continuity between nature, man and society is the only basis for the development of a morality that is serious without being fanatical." — [[Dewey]]
 
-#### See Also
-
-- [[Empiricism]]
-- [[Scientific Method]]
-- [[Semiotics]]
-- [[American Philosophy]]
-- [[Logic]]
-- [[Democracy]]
-- [[Education]]
-- [[Naturalism]]
-- [[Fallibilism]]
-- [[Theory of Inquiry]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

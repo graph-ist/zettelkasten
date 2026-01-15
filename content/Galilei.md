@@ -7,16 +7,11 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Epistemology
 aliases:
-  - galileo galilei
   - scientific method
   - experimental science
-  - copernicanism
-  - heliocentrism
-  - principle of
   - falling bodies
   - telescope astronomy
   - science faith
-  - book of
   - sensate experiences
   - necessary demonstrations
   - galilean relativity
@@ -31,12 +26,25 @@ authors:
   - "[[Aristotele]]"
   - "[[Newton]]"
   - "[[Keplero]]"
-reference: "[[03 The search for thought - Unit 2 Chapter 2.pdf]]"
+reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia.
+related:
+  - "[[Scientific Revolution]]"
+  - "[[Copernicanism]]"
+  - "[[Heliocentric Theory]]"
+  - "[[Scientific Method]]"
+  - "[[Principle of Inertia]]"
+  - "[[Dynamics]]"
+  - "[[Galilean Relativity]]"
+  - "[[Primary and Secondary Qualities]]"
+  - "[[Science and Religion]]"
+  - "[[Counter-Reformation]]"
+  - "[[Inquisition]]"
+  - "[[Empiricism]]"
 ---
 
 #### Central Problem
 
-The chapter addresses multiple interconnected problems surrounding Galileo Galilei's work and its historical significance. The first fundamental question concerns the autonomy of science: how can the new scientific knowledge establish its independence from both religious authority (personified by the Church) and cultural authority (personified by Aristotelian scholastics)? This battle for scientific freedom was understood by Galilei as a historical necessity of primary importance, destined to influence the future of humanity itself.
+The chapter addresses multiple interconnected problems surrounding Galilei's work and its historical significance. The first fundamental question concerns the autonomy of science: how can the new scientific knowledge establish its independence from both religious authority (personified by the Church) and cultural authority (personified by Aristotelian scholastics)? This battle for scientific freedom was understood by Galilei as a historical necessity of primary importance, destined to influence the future of humanity itself.
 
 The second problem concerns the relationship between science and faith: when scientific discoveries appear to contradict biblical statements, how should this conflict be resolved? The Counter-Reformation had established that all knowledge must harmonize with sacred scriptures as interpreted by the Catholic Church. Cardinal Bellarmino and most theologians held that denying any factual claims in Scripture, even those of a "scientific" character, would invalidate the truth of the Bible as a whole, since it was written under inspiration of the Holy Spirit.
 
@@ -54,13 +62,14 @@ Galilei develops several interconnected theses that together constitute the foun
 
 #### Historical Context
 
-Galileo Galilei (1564-1642) lived during a period of intense religious and political conflict. The Counter-Reformation, following the Council of Trent (1563), had established strict control over intellectual life, requiring all knowledge to conform to Catholic interpretation of Scripture. The execution of Giordano Bruno in 1600 demonstrated the dangers facing those who challenged established cosmological views.
+Galilei (1564-1642) lived during a period of intense religious and political conflict. The Counter-Reformation, following the Council of Trent (1563), had established strict control over intellectual life, requiring all knowledge to conform to Catholic interpretation of Scripture. The execution of [[Bruno]] in 1600 demonstrated the dangers facing those who challenged established cosmological views.
 
 Galilei's career spanned several institutions: he held mathematics chairs at Pisa (1589) and Padua (1592), made his revolutionary astronomical discoveries using the telescope (1609-1610), and published his findings in the Sidereus Nuncius (1610). His defense of Copernicanism led to the "admonition" of 1616 by Cardinal Bellarmino, forbidding him from teaching or defending heliocentric theory. Despite this warning, he published the Dialogue Concerning the Two Chief World Systems (1632), leading to his trial, abjuration, and house arrest (1633). During his final years at Arcetri, he wrote the Discourses and Mathematical Demonstrations Relating to Two New Sciences (1638), his scientific masterpiece on mechanics and dynamics.
 
 The cultural landscape included hostile forces: official scholastic culture attached to Aristotelian physics, the Church defending scriptural literalism, and practitioners of occult sciences. Yet there were also favorable conditions: the alliance between technicians and scientists, urban-bourgeois civilization valuing practical knowledge, and the precedent of Renaissance naturalism.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -155,21 +164,7 @@ flowchart TD
 > "I hold that the sun is located at the center of the revolutions of the heavenly orbs and does not change place, and that the earth rotates on itself and moves around it... The Bible was written to accommodate the understanding of rough and undisciplined peoples... It teaches us how to go to heaven, not how the heavens go." — [[Galilei]]
 
 > "In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual." — [[Galilei]]
-
-#### See Also
-
-- [[Scientific Revolution]]
-- [[Copernicanism]]
-- [[Heliocentric Theory]]
-- [[Scientific Method]]
-- [[Principle of Inertia]]
-- [[Dynamics]]
-- [[Galilean Relativity]]
-- [[Primary and Secondary Qualities]]
-- [[Science and Religion]]
-- [[Counter-Reformation]]
-- [[Inquisition]]
-- [[Empiricism]]
-
+---
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

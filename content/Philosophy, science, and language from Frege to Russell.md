@@ -7,16 +7,11 @@ subclasses:
   - Epistemology
   - Analytic-Philosophy
 aliases:
-  - empiriocriticism
-  - conventionalism
-  - logicism
   - sense reference
-  - ideography
   - common sense
   - analytic philosophy
   - denotation theory
   - knowledge acquaintance
-  - holism
   - scientific method
   - logical atomism
 contributions:
@@ -30,7 +25,18 @@ authors:
   - "[[Moore]]"
   - "[[Russell]]"
   - "[[Avenarius]]"
-reference: "[[06 The search for thought - Unit 11 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Logical Positivism]]"
+  - "[[Vienna Circle]]"
+  - "[[Philosophy of Mathematics]]"
+  - "[[Philosophy of Language]]"
+  - "[[Sense and Reference]]"
+  - "[[Theory of Descriptions]]"
+  - "[[Non-Euclidean Geometry]]"
+  - "[[Principia Mathematica]]"
+  - "[[Common Sense Philosophy]]"
+  - "[[Emotivism]]"
 ---
 
 #### Central Problem
@@ -49,7 +55,7 @@ The chapter presents several interconnected positions that together constitute t
 
 **Conventionalism** ([[Poincaré]], [[Duhem]]): Geometric axioms are neither synthetic a priori judgments nor experimental facts, but conventions — our choice among possible conventions is guided by experience but remains free. However, [[Poincaré]] refuses to extend conventionalism to all science: scientific laws have objective value derived from their reference to a reality common to all thinking beings. [[Duhem]] develops **holism** (the "D-thesis"): scientific propositions cannot be verified individually but only as interconnected wholes.
 
-**Logicism and Semantic Theory** ([[Frege]]): Logic can be formalized as a calculus through **ideography** — an artificial language eliminating the ambiguities of ordinary language. Every expression has both **Bedeutung** (reference/denotation — the object designated) and **Sinn** (sense/meaning — the mode of presentation). Mathematics can be reduced to logic. Russell's paradox later revealed problems in Frege's theory of classes.
+**Logicism and Semantic Theory** ([[Frege]]): Logic can be formalized as a calculus through **ideography** — an artificial language eliminating the ambiguities of ordinary language. Every expression has both **Bedeutung** (reference/denotation — the object designated) and **Sinn** (sense/meaning — the mode of presentation). Mathematics can be reduced to logic. [[Russell]]'s paradox later revealed problems in Frege's theory of classes.
 
 **Common Sense Realism and Analysis** ([[Moore]]): Philosophy's task is the analysis of concepts through careful study of language and meaning. Against idealism, [[Moore]] defends the common-sense belief in an external world independent of perception, distinguishing between the content of perception (internally related to the act) and its object (externally related, existing independently).
 
@@ -57,15 +63,16 @@ The chapter presents several interconnected positions that together constitute t
 
 #### Historical Context
 
-The late nineteenth and early twentieth centuries witnessed a profound crisis in the foundations of mathematics, physics, and philosophy. The discovery of non-Euclidean geometries challenged Kant's claim that Euclidean geometry expressed synthetic a priori truths about space. The development of set theory by Cantor raised paradoxes that threatened the consistency of mathematics itself.
+The late nineteenth and early twentieth centuries witnessed a profound crisis in the foundations of mathematics, physics, and philosophy. The discovery of non-Euclidean geometries challenged [[Kant]]'s claim that Euclidean geometry expressed synthetic a priori truths about space. The development of set theory by [[Cantor]] raised paradoxes that threatened the consistency of mathematics itself.
 
-In physics, the classical Newtonian framework was being questioned, preparing the ground for Einstein's relativity and quantum mechanics. [[Mach]]'s critique of Newtonian absolute space and time directly influenced Einstein. The positivist confidence that science would progressively reveal the ultimate structure of reality gave way to more modest and critical conceptions.
+In physics, the classical Newtonian framework was being questioned, preparing the ground for [[Einstein]]'s relativity and quantum mechanics. [[Mach]]'s critique of Newtonian absolute space and time directly influenced [[Einstein]]. The positivist confidence that science would progressively reveal the ultimate structure of reality gave way to more modest and critical conceptions.
 
-[[Frege]], working in relative isolation at Jena, created modern mathematical logic with his *Begriffsschrift* (1879), though his work was initially ignored by leading mathematicians like Cantor, Dedekind, and Hilbert. [[Russell]]'s discovery of the paradox bearing his name (1902) devastated [[Frege]]'s logicist program but stimulated new developments in logic and set theory.
+[[Frege]], working in relative isolation at Jena, created modern mathematical logic with his *Begriffsschrift* (1879), though his work was initially ignored by leading mathematicians like [[Cantor]], Dedekind, and [[Hilbert]]. [[Russell]]'s discovery of the paradox bearing his name (1902) devastated [[Frege]]'s logicist program but stimulated new developments in logic and set theory.
 
-In Britain, [[Moore]] and [[Russell]] rebelled against the dominant neo-Hegelian idealism of Bradley, McTaggart, and Green, founding what would become analytic philosophy. [[Russell]]'s pacifism during World War I cost him his Cambridge position and led to imprisonment; his unconventional ethical views later caused scandal in America.
+In Britain, [[Moore]] and [[Russell]] rebelled against the dominant neo-Hegelian idealism of [[Bradley]], McTaggart, and Green, founding what would become analytic philosophy. [[Russell]]'s pacifism during World War I cost him his Cambridge position and led to imprisonment; his unconventional ethical views later caused scandal in America.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -126,7 +133,7 @@ flowchart TD
 | Mathematics | Empirical origin | Reducible to logic | — | Reducible to logic |
 | Ethics | — | — | Intuitionistic, non-natural good | Emotivist, desires |
 | Method | Analysis of sensations | Formal analysis | Conceptual analysis | Logical analysis |
-| Legacy | Influenced Einstein, positivism | Founded modern logic | Founded analytic philosophy | Founded analytic philosophy |
+| Legacy | Influenced [[Einstein]], positivism | Founded modern logic | Founded analytic philosophy | Founded analytic philosophy |
 
 #### Influences & Connections
 
@@ -179,18 +186,6 @@ flowchart TD
 
 > "The realization and interpretation of any physics experiment implies adherence to a whole set of theoretical propositions." — [[Duhem]]
 
-#### See Also
-
-- [[Logical Positivism]]
-- [[Vienna Circle]]
-- [[Philosophy of Mathematics]]
-- [[Philosophy of Language]]
-- [[Sense and Reference]]
-- [[Theory of Descriptions]]
-- [[Non-Euclidean Geometry]]
-- [[Principia Mathematica]]
-- [[Common Sense Philosophy]]
-- [[Emotivism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

@@ -6,7 +6,6 @@ subclasses:
   - Metaethics
   - 17th-18th-Century-Philosophy
 aliases:
-  - skepticism
   - impressions ideas
   - causation critique
   - habit custom
@@ -26,12 +25,24 @@ authors:
   - "[[Berkeley]]"
   - "[[Newton]]"
   - "[[Kant]]"
-reference: "[[03 The search for thought - Unit 5 Chapter 5.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[British Empiricism]]"
+  - "[[Skepticism]]"
+  - "[[Problem of Induction]]"
+  - "[[Causation]]"
+  - "[[Personal Identity]]"
+  - "[[Moral Sense Theory]]"
+  - "[[Treatise of Human Nature]]"
+  - "[[Is-Ought Problem]]"
+  - "[[Kant]]"
+  - "[[Scottish Enlightenment]]"
+  - "[[Naturalism]]"
 ---
 
 #### Central Problem
 
-David Hume confronts the ultimate epistemological challenge: can empiricism, when pursued with rigorous consistency, provide any foundation for knowledge at all? While Locke accepted the validity of knowledge within the limits of experience, and Berkeley preserved spiritual substance while denying material substance, Hume asks whether experience can justify even our most basic beliefs—in causation, the external world, and personal identity.
+[[Hume]] confronts the ultimate epistemological challenge: can empiricism, when pursued with rigorous consistency, provide any foundation for knowledge at all? While [[Locke]] accepted the validity of knowledge within the limits of experience, and Berkeley preserved spiritual substance while denying material substance, [[Hume]] asks whether experience can justify even our most basic beliefs—in causation, the external world, and personal identity.
 
 The problem has both theoretical and practical dimensions. Theoretically, if all our ideas derive from impressions (sensory experiences), what justifies our belief that the future will resemble the past, that causes necessarily produce effects, or that there exists a unified self persisting through time? Practically, given that our lives depend entirely on such beliefs, what is their actual foundation if not reason?
 
@@ -41,9 +52,9 @@ Hume's investigation represents the culmination and crisis of modern empiricism.
 
 Hume's central thesis is that human knowledge, when rigorously examined, proves to be founded not on reason but on habit, custom, and natural instinct. The necessity we attribute to causal connections is merely subjective—a product of psychological habit rather than objective rational insight. This leads to a "mitigated skepticism" that limits knowledge to relations of ideas (mathematics) and matters of fact (probable empirical generalizations).
 
-**Impressions and Ideas:** All mental contents ("perceptions") divide into impressions (vivid, forceful sensations, passions, emotions) and ideas (faint copies of impressions in memory and imagination). Every legitimate idea must derive from a corresponding impression—this is Hume's fundamental principle and criterion for evaluating concepts.
+**Impressions and Ideas:** All mental contents ("perceptions") divide into impressions (vivid, forceful sensations, passions, emotions) and ideas (faint copies of impressions in memory and imagination). Every legitimate idea must derive from a corresponding impression—this is [[Hume]]'s fundamental principle and criterion for evaluating concepts.
 
-**Relations of Ideas vs. Matters of Fact:** Hume distinguishes:
+**Relations of Ideas vs. Matters of Fact:** [[Hume]] distinguishes:
 - *Relations of ideas*: Propositions true by definition, discoverable by pure thought, whose denial is contradictory (mathematics, logic). These are certain but tell us nothing about existence.
 - *Matters of fact*: Propositions about existence, based on experience, whose denial is always conceivable. These tell us about the world but lack certainty.
 
@@ -57,17 +68,18 @@ Hume's central thesis is that human knowledge, when rigorously examined, proves 
 
 #### Historical Context
 
-Hume (1711-1776) lived during the Scottish Enlightenment, a remarkable period of intellectual flourishing in Edinburgh that produced major figures in philosophy, economics, and science. Scotland, though recently united with England (1707), developed its own distinctive intellectual culture, less ecclesiastical and more cosmopolitan than English thought.
+[[Hume]] (1711-1776) lived during the Scottish Enlightenment, a remarkable period of intellectual flourishing in Edinburgh that produced major figures in philosophy, economics, and science. Scotland, though recently united with England (1707), developed its own distinctive intellectual culture, less ecclesiastical and more cosmopolitan than English thought.
 
-Born in Edinburgh, Hume came to philosophy young, composing his *Treatise of Human Nature* (1739-40) before age 30 while living in France. The work's initial failure ("It fell dead-born from the press") led him to recast its ideas in more accessible form in the *Enquiries* (1748, 1751). His celebrity came through his *Essays* and *History of England*, making him the most famous British man of letters of his time.
+Born in Edinburgh, [[Hume]] came to philosophy young, composing his *Treatise of Human Nature* (1739-40) before age 30 while living in France. The work's initial failure ("It fell dead-born from the press") led him to recast its ideas in more accessible form in the *Enquiries* (1748, 1751). His celebrity came through his *Essays* and *History of England*, making him the most famous British man of letters of his time.
 
-The intellectual context included Newton's triumph in natural philosophy, which inspired Hume's ambition to become "the Newton of the moral sciences"—applying empirical, experimental method to human nature itself. Hume admired Newton's achievement while questioning whether similar certainty was attainable for knowledge of human affairs.
+The intellectual context included [[Newton]]'s triumph in natural philosophy, which inspired [[Hume]]'s ambition to become "the [[Newton]] of the moral sciences"—applying empirical, experimental method to human nature itself. [[Hume]] admired [[Newton]]'s achievement while questioning whether similar certainty was attainable for knowledge of human affairs.
 
 Hume's religious skepticism, expressed in *Dialogues Concerning Natural Religion* (published posthumously, 1779) and *Natural History of Religion* (1757), made him controversial. He was twice denied university positions on grounds of alleged atheism. Yet he was personally admired for his good humor, sociability, and moral character—demonstrating that philosophical skepticism need not undermine practical virtue.
 
-Hume's influence was decisive for Kant, who acknowledged that Hume "awakened me from my dogmatic slumber" and stimulated the critical philosophy that sought to overcome Humean skepticism.
+Hume's influence was decisive for [[Kant]], who acknowledged that [[Hume]] "awakened me from my dogmatic slumber" and stimulated the critical philosophy that sought to overcome Humean skepticism.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -128,7 +140,7 @@ flowchart TD
 
 - **Predecessors:** [[Hume]] ← influenced by ← [[Locke]] (empiricism), [[Berkeley]] (nominalism, critique of abstraction)
 - **Predecessors:** [[Hume]] ← influenced by ← [[Newton]] (experimental method), [[Hutcheson]] (moral sense theory)
-- **Contemporaries:** [[Hume]] ↔ dialogue with ↔ [[Adam Smith]] (sympathy, economics), [[Rousseau]] (brief friendship/quarrel)
+- **Contemporaries:** [[Hume]] ↔ dialogue with ↔ [[Smith]] (sympathy, economics), [[Rousseau]] (brief friendship/quarrel)
 - **Followers:** [[Hume]] → influenced → [[Kant]] (critical philosophy), [[Bentham]] (utilitarianism)
 - **Followers:** [[Hume]] → influenced → [[Mill]] (empiricism, utilitarianism), [[Logical Positivism]] (verification principle)
 - **Opposing views:** [[Hume]] ← criticized by ← [[Reid]] (common sense philosophy), [[Kant]] (transcendental response)
@@ -138,7 +150,7 @@ flowchart TD
 - **[[Hume]]:** All ideas derive from impressions; causation is mere constant conjunction plus psychological habit; reason is the slave of the passions; the self is a bundle of perceptions; morality rests on sentiment and sympathy.
 - **[[Locke]]:** Experience is the source and limit of knowledge; within those limits, reason can attain certainty about self, God, and present sensations.
 - **[[Berkeley]]:** All that exists are minds and their ideas; God guarantees the order and continuity of our perceptions.
-- **[[Kant]]:** Hume's skepticism must be overcome by showing that the mind's a priori categories make objective experience possible.
+- **[[Kant]]:** [[Hume]]'s skepticism must be overcome by showing that the mind's a priori categories make objective experience possible.
 
 #### Timeline
 
@@ -164,19 +176,6 @@ flowchart TD
 
 > "The mind is a kind of theatre, where several perceptions successively make their appearance; pass, re-pass, glide away, and mingle in an infinite variety of postures and situations." — [[Hume]]
 
-#### See Also
-
-- [[British Empiricism]]
-- [[Skepticism]]
-- [[Problem of Induction]]
-- [[Causation]]
-- [[Personal Identity]]
-- [[Moral Sense Theory]]
-- [[Treatise of Human Nature]]
-- [[Is-Ought Problem]]
-- [[Kant]]
-- [[Scottish Enlightenment]]
-- [[Naturalism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

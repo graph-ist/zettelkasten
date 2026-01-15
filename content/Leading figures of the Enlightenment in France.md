@@ -8,18 +8,7 @@ subclasses:
   - Social-and-Political-Philosophy
 aliases:
   - french enlightenment
-  - encyclopedists
-  - bayle
-  - montesquieu
-  - voltaire
   - separation powers
-  - deism
-  - tolerance
-  - condillac
-  - sensism
-  - materialism
-  - encyclopedie
-  - progress
 contributions:
   - Conceptual
 authors:
@@ -34,7 +23,21 @@ authors:
   - "[[Mettrie]]"
   - "[[d'Holbach]]"
   - "[[Helvétius]]"
-reference: "[[04 The search for thought - Unit 6 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[Enlightenment]]"
+  - "[[Deism]]"
+  - "[[Materialism]]"
+  - "[[Sensationalism]]"
+  - "[[Encyclopedia]]"
+  - "[[Separation of Powers]]"
+  - "[[Natural Law]]"
+  - "[[Progress]]"
+  - "[[Empiricism]]"
+  - "[[Tolerance]]"
+  - "[[French Revolution]]"
+  - "[[Locke]]"
+  - "[[Newton]]"
 ---
 
 #### Central Problem
@@ -69,7 +72,7 @@ The French Enlightenment flourished between approximately 1715 and 1789, spannin
 
 [[Montesquieu]]'s extended travels, particularly his stay in England (1729-1731), allowed direct observation of the post-Glorious Revolution constitutional monarchy that would inform his political theory. The contrast between English liberties and French absolutism shaped his thinking.
 
-[[Voltaire]]'s imprisonment in the Bastille (1726) and subsequent exile in England (1726-1728) proved transformative. His *Philosophical Letters* (1734) introduced English thought—Bacon, Locke, Newton—to French readers. The Lisbon earthquake of 1755, killing tens of thousands, provided the occasion for his critique of optimistic theodicy.
+[[Voltaire]]'s imprisonment in the Bastille (1726) and subsequent exile in England (1726-1728) proved transformative. His *Philosophical Letters* (1734) introduced English thought—Bacon, [[Locke]], Newton—to French readers. The Lisbon earthquake of 1755, killing tens of thousands, provided the occasion for his critique of optimistic theodicy.
 
 The Encyclopedia project (1751-1772) faced repeated censorship and suppression by religious and royal authorities, yet emerged as the defining monument of the French Enlightenment. [[Diderot]] persevered through two decades of difficulties to complete the work.
 
@@ -78,6 +81,7 @@ The materialist current developed against this background of conflict with relig
 The chapter spans from [[Bayle]]'s late 17th-century critical dictionary through [[Condorcet]]'s optimistic *Sketch* (1795), written while hiding from Revolutionary tribunals—a work affirming progress even as its author faced death.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -212,21 +216,6 @@ flowchart TD
 
 > "What is tolerance? It is the prerogative of humanity. We are all full of weakness and errors: let us mutually pardon each other's follies—it is the first law of nature." — [[Voltaire]]
 
-#### See Also
-
-- [[Enlightenment]]
-- [[Deism]]
-- [[Materialism]]
-- [[Sensationalism]]
-- [[Encyclopedia]]
-- [[Separation of Powers]]
-- [[Natural Law]]
-- [[Progress]]
-- [[Empiricism]]
-- [[Tolerance]]
-- [[French Revolution]]
-- [[Locke]]
-- [[Newton]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

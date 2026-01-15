@@ -7,18 +7,12 @@ subclasses:
   - 20th-Century-Philosophy
   - Continental-Philosophy
 aliases:
-  - feminism
   - feminist philosophy
   - gender studies
   - sexual difference
   - womens movement
   - subject crisis
-  - death of
-  - suffragism
   - equality difference
-  - simone beauvoir
-  - virginia woolf
-  - luce irigaray
   - nomadic subject
 contributions:
   - Conceptual
@@ -34,14 +28,25 @@ authors:
   - "[[Nietzsche]]"
   - "[[Heidegger]]"
   - "[[Lévi-Strauss]]"
-reference: "[[07 The search for thought - Unit 15 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Existentialism]]"
+  - "[[Structuralism]]"
+  - "[[Post-structuralism]]"
+  - "[[The Second Sex]]"
+  - "[[Gender Studies]]"
+  - "[[French Revolution]]"
+  - "[[Deconstruction]]"
+  - "[[Psychoanalysis]]"
+  - "[[Crisis of the Subject]]"
+  - "[[Nomadic Theory]]"
 ---
 
 #### Central Problem
 
-This chapter addresses two interconnected problems in contemporary philosophy. The first concerns the historical exclusion of women from philosophical discourse and their systematic subordination within Western thought, from Aristotle's characterization of women as naturally inferior (lacking full deliberative capacity) to modern struggles for equality and recognition of sexual difference. The second problem concerns the crisis of the modern subject: the dissolution of the Cartesian conception of the self as sovereign, rational, conscious foundation of reality. Both problems converge on a fundamental question: What remains of "the human" after the critique of traditional humanism?
+This chapter addresses two interconnected problems in contemporary philosophy. The first concerns the historical exclusion of women from philosophical discourse and their systematic subordination within Western thought, from [[Aristotle]]'s characterization of women as naturally inferior (lacking full deliberative capacity) to modern struggles for equality and recognition of sexual difference. The second problem concerns the crisis of the modern subject: the dissolution of the Cartesian conception of the self as sovereign, rational, conscious foundation of reality. Both problems converge on a fundamental question: What remains of "the human" after the critique of traditional humanism?
 
-The philosophical tradition, built on the principle of identity ("either A or not-A"), classified differences as deviations from a masculine norm rather than understanding them in their irreducible specificity. Women were defined as "the other" relative to the male subject, while the subject itself—supposedly the foundation of all knowledge—was revealed by Nietzsche, Heidegger, and the structuralists to be an accidental product of deeper forces: linguistic, social, biological, and economic structures that precede and condition consciousness.
+The philosophical tradition, built on the principle of identity ("either A or not-A"), classified differences as deviations from a masculine norm rather than understanding them in their irreducible specificity. Women were defined as "the other" relative to the male subject, while the subject itself—supposedly the foundation of all knowledge—was revealed by [[Nietzsche]], Heidegger, and the structuralists to be an accidental product of deeper forces: linguistic, social, biological, and economic structures that precede and condition consciousness.
 
 #### Main Thesis
 
@@ -51,13 +56,14 @@ Second, the "death of man" announced by structuralism and post-structuralism dis
 
 #### Historical Context
 
-The women's movement emerged from the French Revolution (1789), which proclaimed universal rights while excluding women from citizenship. [[Olympe de Gouges]]'s *Declaration of the Rights of Woman* (1791) and [[Wollstonecraft]]'s *Vindication of the Rights of Woman* (1792) initiated feminist discourse. The Seneca Falls Convention (1848) in the United States marked a milestone for suffragism. The 19th-century movement focused on education, property rights, and voting.
+The women's movement emerged from the French Revolution (1789), which proclaimed universal rights while excluding women from citizenship. [[Olympe de Gouges]]'s *Declaration of the Rights of Woman* (1791) and [[Wollstonecraft]]'s *Vindication of the Rights of Woman* (1792) initiated feminist discourse. The [[Seneca]] Falls Convention (1848) in the United States marked a milestone for suffragism. The 19th-century movement focused on education, property rights, and voting.
 
 The 20th century brought new developments: [[Woolf]]'s *A Room of One's Own* (1929) and *Three Guineas* (1938) articulated women's economic oppression and their estrangement from patriarchal war-culture; [[Beauvoir]]'s *The Second Sex* (1949) became foundational for feminist philosophy. The 1960s-70s witnessed the emergence of feminism proper, with [[Friedan]]'s *The Feminine Mystique* (1963), consciousness-raising groups, and the slogan "the personal is political." The 1970s saw the birth of "gender studies" and "the thought of sexual difference."
 
 Parallel to this, the crisis of the subject unfolded through [[Nietzsche]]'s genealogical critique, [[Heidegger]]'s overcoming of metaphysics, and the structuralist "death of man" proclaimed by [[Lévi-Strauss]] and [[Foucault]].
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -94,7 +100,7 @@ flowchart TD
 | [[Beauvoir]] | 1908-1986 | [[Existentialist Feminism]] | *The Second Sex* | "One is not born, but becomes, a woman" |
 | [[Friedan]] | 1921-2006 | [[Liberal Feminism]] | *The Feminine Mystique* | Demystification of housewife ideal |
 | [[Irigaray]] | 1930- | [[French Feminism]] | *Speculum of the Other Woman* | Deconstruction of phallocentrism |
-| [[Cavarero]] | 1947- | [[Italian Feminism]] | *In Spite of Plato* | Female language and subjectivity |
+| [[Cavarero]] | 1947- | [[Italian Feminism]] | *In Spite of [[Plato]]* | Female language and subjectivity |
 | [[Muraro]] | 1940- | [[Italian Feminism]] | *The Symbolic Order of the Mother* | Mother-daughter relationship, maternal genealogy |
 | [[Braidotti]] | 1954- | [[Nomadic Feminism]] | *Nomadic Subjects* | Nomadic subjectivity, becoming |
 
@@ -145,7 +151,7 @@ flowchart TD
 | 1791 | [[de Gouges]] publishes *Declaration of the Rights of Woman and Citizen* |
 | 1792 | [[Wollstonecraft]] publishes *Vindication of the Rights of Woman* |
 | 1793 | [[de Gouges]] executed; women's political associations abolished in France |
-| 1848 | Seneca Falls Convention issues *Declaration of Sentiments* |
+| 1848 | [[Seneca]] Falls Convention issues *Declaration of Sentiments* |
 | 1929 | [[Woolf]] publishes *A Room of One's Own* |
 | 1938 | [[Woolf]] publishes *Three Guineas* |
 | 1949 | [[Beauvoir]] publishes *The Second Sex* |
@@ -164,18 +170,6 @@ flowchart TD
 
 > "Man is only a recent invention, a figure not yet two centuries old, a simple fold in our knowledge, and he will disappear as soon as that knowledge has found a new form." — [[Foucault]]
 
-#### See Also
-
-- [[Existentialism]]
-- [[Structuralism]]
-- [[Post-structuralism]]
-- [[The Second Sex]]
-- [[Gender Studies]]
-- [[French Revolution]]
-- [[Deconstruction]]
-- [[Psychoanalysis]]
-- [[Crisis of the Subject]]
-- [[Nomadic Theory]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

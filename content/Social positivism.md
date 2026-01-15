@@ -7,20 +7,13 @@ subclasses:
   - Philosophy-of-Science
   - Social-and-Political-Philosophy
 aliases:
-  - positivism
   - positive philosophy
   - law three
   - social physics
-  - sociology
-  - utilitarianism
   - scientific method
   - industrial society
-  - progress
   - encyclopaedia sciences
-  - empiricism
-  - induction
   - uniformity nature
-  - altruism
 contributions:
   - Conceptual
   - Constructive
@@ -32,7 +25,18 @@ authors:
   - "[[Fourier]]"
   - "[[Proudhon]]"
   - "[[Cattaneo]]"
-reference: "[[05 The search for thought - Unit 3 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Enlightenment]]"
+  - "[[Utilitarianism]]"
+  - "[[Sociology]]"
+  - "[[Philosophy of Science]]"
+  - "[[Induction]]"
+  - "[[Social Philosophy]]"
+  - "[[Industrial Society]]"
+  - "[[Empiricism]]"
+  - "[[Scientism]]"
+  - "[[Spencer]]"
 ---
 
 #### Central Problem
@@ -65,6 +69,7 @@ The second phase (latter half of the century) coincides with the triumph of indu
 
 #### Philosophical Lineage
 
+
 ```mermaid
 flowchart TD
     Bacon --> Comte
@@ -95,7 +100,7 @@ flowchart TD
 | [[Fourier]] | 1772-1837 | [[Utopian Socialism]] | Various writings | Phalansteries, attractive labor |
 | [[Proudhon]] | 1809-1865 | [[Anarchism]] | *What Is Property?* | Property is theft, mutualism |
 | [[Bentham]] | 1748-1832 | [[Utilitarianism]] | Various writings | Greatest happiness principle |
-| [[James Mill]] | 1773-1836 | [[Utilitarianism]] | *Analysis of the Human Mind* | Associationist psychology |
+| [[Mill]] | 1773-1836 | [[Utilitarianism]] | *Analysis of the Human Mind* | Associationist psychology |
 | [[Mill]] | 1806-1873 | [[Utilitarianism]] | *System of Logic* | Induction, moral sciences |
 | [[Cattaneo]] | 1801-1869 | [[Italian Positivism]] | *Psychology of Associated Minds* | Experimental philosophy |
 
@@ -129,7 +134,7 @@ flowchart TD
 #### Influences & Connections
 
 - **Predecessors:** [[Comte]] ← influenced by ← [[Bacon]], [[Descartes]], [[Galilei]], [[Saint-Simon]], [[Enlightenment]]
-- **Predecessors:** [[Mill]] ← influenced by ← [[Hume]], [[Locke]], [[James Mill]], [[Comte]], [[Saint-Simon]]
+- **Predecessors:** [[Mill]] ← influenced by ← [[Hume]], [[Locke]], [[Mill]], [[Comte]], [[Saint-Simon]]
 - **Contemporaries:** [[Comte]] ↔ dialogue with ↔ [[Mill]] (correspondence, later critique)
 - **Contemporaries:** [[Saint-Simon]] → influenced → [[Fourier]], [[Proudhon]], socialist movements
 - **Followers:** [[Comte]] → influenced → [[Spencer]], [[Ardigò]], [[Cattaneo]], sociological tradition
@@ -172,18 +177,6 @@ flowchart TD
 
 > "The sole end for which mankind are warranted in interfering with the liberty of action of any of their number, is self-protection." — [[Mill]]
 
-#### See Also
-
-- [[Enlightenment]]
-- [[Utilitarianism]]
-- [[Sociology]]
-- [[Philosophy of Science]]
-- [[Induction]]
-- [[Social Philosophy]]
-- [[Industrial Society]]
-- [[Empiricism]]
-- [[Scientism]]
-- [[Herbert Spencer]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

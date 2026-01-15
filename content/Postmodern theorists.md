@@ -1,5 +1,4 @@
 ---
-key: ['Post-structuralism and Derida']
 cssclasses:
   - Philosophy
 subclasses:
@@ -7,18 +6,13 @@ subclasses:
   - Continental-Philosophy
   - Hermeneutics
 aliases:
-  - postmodernism
   - postmodern philosophy
   - weak thought
   - grand narratives
-  - metanarratives
   - end modernity
-  - nihilism
   - legitimation crisis
   - language games
-  - neopragmatism
   - pensiero debole
-  - relativism
 contributions:
   - Conceptual
 authors:
@@ -28,7 +22,18 @@ authors:
   - "[[Nietzsche]]"
   - "[[Heidegger]]"
   - "[[Habermas]]"
-reference: "[[07 The search for thought - Unit 16 Chapter 2.pdf]]"
+reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
+related:
+  - "[[Postmodernism]]"
+  - "[[Nihilism]]"
+  - "[[Hermeneutics]]"
+  - "[[Neopragmatism]]"
+  - "[[Deconstruction]]"
+  - "[[Post-structuralism]]"
+  - "[[Critical Theory]]"
+  - "[[Discourse Ethics]]"
+  - "[[Mass Media Philosophy]]"
+  - "[[Multiculturalism]]"
 ---
 
 #### Central Problem
@@ -41,17 +46,17 @@ The debate between postmodernists like [[Lyotard]] and [[Vattimo]] and defenders
 
 #### Main Thesis
 
-Postmodern philosophy argues that modernity, understood as the era from Descartes to [[Nietzsche]], was characterized by several fundamental tendencies that have now exhausted themselves: (a) belief in comprehensive worldviews providing legitimation; (b) faith in progress and the equation of "new" with "better"; (c) understanding history as emancipation toward predetermined goals; (d) conception of reason as technical-scientific mastery over nature; (e) subordination of multiplicity to unity and totality under strong hierarchical structures.
+Postmodern philosophy argues that modernity, understood as the era from [[Descartes]] to [[Nietzsche]], was characterized by several fundamental tendencies that have now exhausted themselves: (a) belief in comprehensive worldviews providing legitimation; (b) faith in progress and the equation of "new" with "better"; (c) understanding history as emancipation toward predetermined goals; (d) conception of reason as technical-scientific mastery over nature; (e) subordination of multiplicity to unity and totality under strong hierarchical structures.
 
 **[[Lyotard]]'s Thesis:** The postmodern condition is fundamentally defined as "incredulity toward metanarratives." The grand narratives of modernity—Enlightenment emancipation, Hegelian Spirit, Marxist revolution, capitalist progress—have been delegitimated both internally (through their own self-reflexive critique) and externally (through historical events like Auschwitz, Budapest 1956, May 1968). What remains is not chaos but a plurality of heterogeneous "language games" without a meta-game to unify them. Legitimation must now be "paralogy"—the invention of new moves in knowledge—based on local, temporary, revisable consensus rather than universal foundations.
 
 **[[Vattimo]]'s Thesis:** The transition from modern to postmodern is the transition from "strong thought" (*pensiero forte*) to "weak thought" (*pensiero debole*). Strong thought speaks in the name of truth, unity, and totality, seeking absolute foundations. Weak thought refuses these categories, accepting the "ontological weakening" revealed by [[Nietzsche]]'s death of God and [[Heidegger]]'s destruction of metaphysics. Nihilism becomes our "chance"—not as tragic loss but as liberation into a world of half-truths and interpretations, lived without neurosis. The postmodern individual accepts finitude and groundlessness, practicing *Verwindung* (convalescence/distortion) rather than *Überwindung* (overcoming) toward the metaphysical past.
 
-**[[Rorty]]'s Thesis:** Philosophy's self-image as foundational discipline—the tribunal of reason judging all other knowledge claims—must be abandoned. The "mirror of nature" metaphor, the idea that mind accurately represents reality, has held philosophy captive since Descartes and Kant. After this image dissolves, philosophy becomes "edifying" conversation rather than systematic science, therapeutic practice rather than foundational theory. Truth is what works for us in our practices, and intellectual life is an ongoing conversation without final arbitration.
+**[[Rorty]]'s Thesis:** Philosophy's self-image as foundational discipline—the tribunal of reason judging all other knowledge claims—must be abandoned. The "mirror of nature" metaphor, the idea that mind accurately represents reality, has held philosophy captive since [[Descartes]] and [[Kant]]. After this image dissolves, philosophy becomes "edifying" conversation rather than systematic science, therapeutic practice rather than foundational theory. Truth is what works for us in our practices, and intellectual life is an ongoing conversation without final arbitration.
 
 #### Historical Context
 
-The term "postmodern" has complex origins: Federico de Onís used it in the 1930s for literary counter-modernism; Arnold Toynbee applied it to late-nineteenth-century imperialism; from the 1960s it designated architectural and cultural trends, especially in America. [[Lyotard]]'s *The Postmodern Condition* (1979) gave it rigorous philosophical meaning. The term describes both an epochal condition and a mode of sensibility—perhaps, as Umberto Eco suggested, a "metahistorical category" applicable beyond any single period.
+The term "postmodern" has complex origins: Federico de Onís used it in the 1930s for literary counter-modernism; Arnold [[Toynbee]] applied it to late-nineteenth-century imperialism; from the 1960s it designated architectural and cultural trends, especially in America. [[Lyotard]]'s *The Postmodern Condition* (1979) gave it rigorous philosophical meaning. The term describes both an epochal condition and a mode of sensibility—perhaps, as [[Eco]] suggested, a "metahistorical category" applicable beyond any single period.
 
 The postmodern condition emerged from the ruins of modern certainties. [[Nietzsche]]'s proclamation of God's death signified the collapse of the entire metaphysical framework grounding Western values. The World Wars, Holocaust, failures of "really existing socialism," and ecological crises of industrial capitalism shattered Enlightenment optimism. The society that emerged was "post-industrial" and "complex"—pluralistic, multicultural, dominated by information technologies and mass media that fragment rather than unify worldviews.
 
@@ -60,6 +65,7 @@ The intellectual matrices of postmodernism include: [[Nietzsche]] and [[Heidegge
 Against accusations of neoconservatism ([[Habermas]]) or late-capitalist ideology (Fredric Jameson), postmodern thinkers emphasize their alliance with ecological, pluralist, multicultural, and minority-rights movements. As [[Vattimo]] insists: "the maximum of equality is the possibility of being different."
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -164,18 +170,6 @@ flowchart TD
 
 > "Pragmatists hold that philosophy's greatest aspiration is not to practice Philosophy." — [[Rorty]]
 
-#### See Also
-
-- [[Postmodernism]]
-- [[Nihilism]]
-- [[Hermeneutics]]
-- [[Neopragmatism]]
-- [[Deconstruction]]
-- [[Post-structuralism]]
-- [[Critical Theory]]
-- [[Discourse Ethics]]
-- [[Mass Media Philosophy]]
-- [[Multiculturalism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

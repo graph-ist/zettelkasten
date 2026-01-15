@@ -29,7 +29,18 @@ authors:
   - "[[Benjamin]]"
   - "[[Fromm]]"
   - "[[Habermas]]"
-reference: "[[06 The search for thought - Unit 10 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Western Marxism]]"
+  - "[[Psychoanalysis]]"
+  - "[[Dialectic of Enlightenment]]"
+  - "[[Culture Industry]]"
+  - "[[One-Dimensional Man]]"
+  - "[[Negative Dialectics]]"
+  - "[[Mass Media]]"
+  - "[[Totalitarianism]]"
+  - "[[Ideology Critique]]"
+  - "[[Aesthetic Theory]]"
 ---
 
 #### Central Problem
@@ -42,7 +53,7 @@ The Frankfurt School seeks to understand why, despite material abundance, modern
 
 #### Main Thesis
 
-The Frankfurt School argues that Enlightenment reason, in its historical development from Descartes and Bacon through positivism and pragmatism, has undergone a fateful transformation from objective to subjective rationality. **Objective reason** sought universal truths about reality and values, providing criteria for knowledge and action. **Subjective reason** (instrumental reason) refuses to evaluate ends, concerning itself solely with the efficiency of means — reducing rationality to functionality, knowledge to technique, truth to utility.
+The Frankfurt School argues that Enlightenment reason, in its historical development from [[Descartes]] and Bacon through positivism and pragmatism, has undergone a fateful transformation from objective to subjective rationality. **Objective reason** sought universal truths about reality and values, providing criteria for knowledge and action. **Subjective reason** (instrumental reason) refuses to evaluate ends, concerning itself solely with the efficiency of means — reducing rationality to functionality, knowledge to technique, truth to utility.
 
 This instrumental reason constitutes the "logic of domination" underlying Western civilization: the drive to master nature through rationalization, which inevitably extends to domination over human beings themselves. As [[Horkheimer]] and [[Adorno]] argue in *Dialectic of Enlightenment* (1947), the Enlightenment thus harbors an internal self-destructive dialectic: the drive to increase power over nature reverses into progressive domination of humans over humans and the general subjugation of individuals to the social system.
 
@@ -54,15 +65,16 @@ Against both Hegelian dialectics of reconciliation and positivist acceptance of 
 
 #### Historical Context
 
-The Frankfurt School emerged in 1922 at the Institute for Social Research in Frankfurt, founded by Felix Weil and initially directed by Carl Grünberg. The original nucleus included sociologists, economists, and philosophers: Karl August Wittfogel, Henryk Grossmann, Friedrich Pollock, Franz Borkenau, [[Horkheimer]], and [[Adorno]]. Later additions included Leo Löwenthal, Franz Neumann, [[Fromm]], [[Marcuse]], and [[Benjamin]]. In 1936, [[Horkheimer]] inaugurated the *Zeitschrift für Sozialforschung*, the School's prestigious journal.
+The Frankfurt School emerged in 1922 at the Institute for Social Research in Frankfurt, founded by Felix [[Weil]] and initially directed by Grünberg. The original nucleus included sociologists, economists, and philosophers: Wittfogel, Henryk Grossmann, Pollock, Borkenau, [[Horkheimer]], and [[Adorno]]. Later additions included Leo Löwenthal, Neumann, [[Fromm]], [[Marcuse]], and [[Benjamin]]. In 1936, [[Horkheimer]] inaugurated the *Zeitschrift für Sozialforschung*, the School's prestigious journal.
 
 Three historical coordinates define the Frankfurt School's philosophical project: the rise of Nazism and fascism (stimulating reflection on authority and its structural connections with modern industrial society); the establishment of Soviet communism (serving as a negative example of "failed revolution" and capitalism's other face); and the triumph of technological, affluent society (providing material for original meditations on the culture industry and the heterodirected individual).
 
-With Nazism's advent, the Frankfurt group emigrated — first to Geneva, then Paris, finally New York. After World War II, some remained in America ([[Marcuse]], [[Fromm]], Wittfogel), while others ([[Horkheimer]], [[Adorno]], Pollock) returned to Germany to revive the Institute. A new generation emerged, including Alfred Schmidt, Oskar Negt, and [[Habermas]], the School's most significant heir.
+With Nazism's advent, the Frankfurt group emigrated — first to Geneva, then Paris, finally New York. After World War II, some remained in America ([[Marcuse]], [[Fromm]], Wittfogel), while others ([[Horkheimer]], [[Adorno]], Pollock) returned to Germany to revive the Institute. A new generation emerged, including Schmidt, Oskar Negt, and [[Habermas]], the School's most significant heir.
 
 The Frankfurt theorists drew on three foundational figures: from **Hegel** and **Marx**, the dialectical and totalizing approach to society — dialectical in exposing internal contradictions, totalizing in questioning society as a whole rather than accepting analytical-statistical facts. From **Freud**, analytical tools for studying personality and authority's "introjection" mechanisms (evident in *Studies on Authority and the Family* [1936] and *The Authoritarian Personality* [1950]), plus concepts of pleasure-seeking and libido interpreted as creative instincts requiring liberation from authoritarian impositions.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -124,7 +136,7 @@ flowchart TD
 | Hope/alternative | Nostalgia for totally Other | Utopian-critical philosophy | Great Refusal, new sensibility | Messianic redemption |
 | Art's function | — | Denuncia and utopia | Liberating eros | Politicization vs. aestheticization |
 | Late position | Return to theology | Pessimism after '68 | Revolutionary optimism | Messianic Marxism |
-| On Freud | Tool for authority analysis | Critical appropriation | Creative synthesis with Marx | Marginal influence |
+| On [[Freud]] | Tool for authority analysis | Critical appropriation | Creative synthesis with [[Marx]] | Marginal influence |
 
 #### Influences & Connections
 
@@ -172,18 +184,6 @@ flowchart TD
 
 > "Dialectics is the consistent consciousness of non-identity." — [[Adorno]]
 
-#### See Also
-
-- [[Western Marxism]]
-- [[Psychoanalysis]]
-- [[Dialectic of Enlightenment]]
-- [[Culture Industry]]
-- [[One-Dimensional Man]]
-- [[Negative Dialectics]]
-- [[Mass Media]]
-- [[Totalitarianism]]
-- [[Ideology Critique]]
-- [[Aesthetic Theory]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

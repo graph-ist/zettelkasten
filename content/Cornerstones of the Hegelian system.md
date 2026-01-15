@@ -6,18 +6,13 @@ subclasses:
   - Metaphysics
   - Epistemology
 aliases:
-  - hegel
   - absolute idealism
-  - dialectic
-  - aufhebung
   - thesis antithesis
   - real rational
   - spirit idea
-  - panlogism
   - absolute spirit
   - speculative reason
   - finite infinite
-  - justificationism
 contributions:
   - Conceptual
 authors:
@@ -27,24 +22,35 @@ authors:
   - "[[Schelling]]"
   - "[[Spinoza]]"
   - "[[Rousseau]]"
-reference: "[[04 The search for thought - Unit 9 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[German Idealism]]"
+  - "[[Dialectic]]"
+  - "[[Phenomenology of Spirit]]"
+  - "[[Science of Logic]]"
+  - "[[Philosophy of Right]]"
+  - "[[Absolute Spirit]]"
+  - "[[Marx]]"
+  - "[[Kierkegaard]]"
+  - "[[Neo-Hegelianism]]"
+  - "[[French Revolution]]"
 ---
 
 #### Central Problem
 
-The central problem Hegel confronts is the fundamental split (Entzweiung) between finite and infinite, subject and object, reason and reality, thought and being — a dichotomy that had plagued modern philosophy from Kant through Fichte and Schelling. How can philosophy overcome the rigid oppositions of the understanding (Verstand) — between universal and particular, freedom and necessity, individual and community, ideal and real — and attain genuine knowledge of the Absolute?
+The central problem [[Hegel]] confronts is the fundamental split (Entzweiung) between finite and infinite, subject and object, reason and reality, thought and being — a dichotomy that had plagued modern philosophy from [[Kant]] through [[Fichte]] and [[Schelling]]. How can philosophy overcome the rigid oppositions of the understanding (Verstand) — between universal and particular, freedom and necessity, individual and community, ideal and real — and attain genuine knowledge of the Absolute?
 
-In his early theological-political writings, this problem takes the form of examining the relationship between inner religious-moral regeneration and outer political revolution. Hegel asks: how can genuine political transformation occur without a corresponding transformation of consciousness? The "positivity" of established religion — its external dogmas, rigid laws, and institutional forms — has severed humanity from the living spirit of love and communion originally preached by Jesus. The modern world has inherited the "unhappy consciousness" of Judaism, characterized by a divided existence in which God remains an alien, transcendent master and nature appears as hostile.
+In his early theological-political writings, this problem takes the form of examining the relationship between inner religious-moral regeneration and outer political revolution. [[Hegel]] asks: how can genuine political transformation occur without a corresponding transformation of consciousness? The "positivity" of established religion — its external dogmas, rigid laws, and institutional forms — has severed humanity from the living spirit of love and communion originally preached by Jesus. The modern world has inherited the "unhappy consciousness" of Judaism, characterized by a divided existence in which God remains an alien, transcendent master and nature appears as hostile.
 
-Against the Kantian dichotomy between duty and inclination, reason and sensibility, and against what Hegel sees as Fichte's "bad infinity" (an infinite striving that never attains its goal), Hegel seeks a philosophical comprehension of the Absolute as living totality — one in which all finite determinations are "moments" of infinite spirit's self-development.
+Against the Kantian dichotomy between duty and inclination, reason and sensibility, and against what [[Hegel]] sees as [[Fichte]]'s "bad infinity" (an infinite striving that never attains its goal), [[Hegel]] seeks a philosophical comprehension of the Absolute as living totality — one in which all finite determinations are "moments" of infinite spirit's self-development.
 
 #### Main Thesis
 
 Hegel's system rests on three foundational theses:
 
-**1. The Resolution of the Finite in the Infinite:** Reality is not an aggregate of independent substances but a unified organic totality (the Absolute) of which all finite entities are partial manifestations. The finite, as such, does not truly exist — what we call "finite" is merely an expression of the infinite. Just as a part cannot exist except in connection with the whole, so the finite exists only in and through the infinite. Unlike Spinoza's static Substance, however, Hegel's Absolute is a subject, a spiritual process that produces itself and only at the end reveals itself as what it truly is: Spirit.
+**1. The Resolution of the Finite in the Infinite:** Reality is not an aggregate of independent substances but a unified organic totality (the Absolute) of which all finite entities are partial manifestations. The finite, as such, does not truly exist — what we call "finite" is merely an expression of the infinite. Just as a part cannot exist except in connection with the whole, so the finite exists only in and through the infinite. Unlike [[Spinoza]]'s static Substance, however, [[Hegel]]'s Absolute is a subject, a spiritual process that produces itself and only at the end reveals itself as what it truly is: Spirit.
 
-**2. The Identity of Reason and Reality:** Hegel's famous aphorism — "What is rational is real; and what is real is rational" — expresses the complete identity of thought and being. Rationality is not mere abstraction or "ought-to-be" but the very substance of what exists; reality is not chaotic matter but the unfolding of a rational structure (the Idea or Reason). This manifests unconsciously in nature and consciously in humanity. Every aspect of the world, properly understood, reveals a network of necessary connections constituting the living articulation of the one Idea (panlogism).
+**2. The Identity of Reason and Reality:** [[Hegel]]'s famous aphorism — "What is rational is real; and what is real is rational" — expresses the complete identity of thought and being. Rationality is not mere abstraction or "ought-to-be" but the very substance of what exists; reality is not chaotic matter but the unfolding of a rational structure (the Idea or Reason). This manifests unconsciously in nature and consciously in humanity. Every aspect of the world, properly understood, reveals a network of necessary connections constituting the living articulation of the one Idea (panlogism).
 
 **3. The Justificatory Function of Philosophy:** Philosophy's task is not to prescribe how the world ought to be but to comprehend what is, recognizing the rational structures constituting reality. Like Minerva's owl that takes flight at dusk, philosophy arrives only when reality has completed its formative process. Philosophy must "maintain peace with reality" and demonstrate the intrinsic rationality of what exists — including, most controversially, the state and political institutions.
 
@@ -52,13 +58,14 @@ Hegel's system rests on three foundational theses:
 
 #### Historical Context
 
-Georg Wilhelm Friedrich Hegel (1770-1831) was born in Stuttgart and studied philosophy and theology at Tübingen (1788-1793), where he formed crucial friendships with Schelling and Hölderlin. The French Revolution profoundly shaped his thought — with his Tübingen friends he planted a "liberty tree" and remained the most ardent defender of revolutionary principles. When Napoleon entered Jena in 1806, Hegel famously described him as "this world-soul riding through the city."
+[[Hegel]] (1770-1831) was born in Stuttgart and studied philosophy and theology at Tübingen (1788-1793), where he formed crucial friendships with [[Schelling]] and Hölderlin. The French Revolution profoundly shaped his thought — with his Tübingen friends he planted a "liberty tree" and remained the most ardent defender of revolutionary principles. When Napoleon entered Jena in 1806, [[Hegel]] famously described him as "this world-soul riding through the city."
 
-After working as a private tutor in Bern (1793-1796) and Frankfurt (1797-1800), Hegel moved to Jena in 1801, publishing his first philosophical work (*Difference between Fichte's and Schelling's Systems of Philosophy*) and collaborating with Schelling on the *Critical Journal of Philosophy*. The *Phenomenology of Spirit* (1807) marked his break with Schelling. After serving as gymnasium director in Nuremberg (1808-1816), Hegel became professor at Heidelberg (1816) and then Berlin (1818), where he achieved his greatest success until his death (probably from cholera) in 1831.
+After working as a private tutor in Bern (1793-1796) and Frankfurt (1797-1800), [[Hegel]] moved to Jena in 1801, publishing his first philosophical work (*Difference between [[Fichte]]'s and Schelling's Systems of Philosophy*) and collaborating with [[Schelling]] on the *Critical Journal of Philosophy*. The *Phenomenology of Spirit* (1807) marked his break with [[Schelling]]. After serving as gymnasium director in Nuremberg (1808-1816), [[Hegel]] became professor at Heidelberg (1816) and then [[Berlin]] (1818), where he achieved his greatest success until his death (probably from cholera) in 1831.
 
-His early unpublished writings (*Life of Jesus*, *Positivity of the Christian Religion*, *Spirit of Christianity and Its Fate*) reveal a thinker grappling with the relationship between inner religious renewal and outer political transformation, heavily influenced by Rousseau, Lessing, and Spinoza. The German context was crucial: the intertwining of Protestant churches and German principalities meant religion and politics formed a single complex requiring reform.
+His early unpublished writings (*Life of Jesus*, *Positivity of the Christian Religion*, *Spirit of Christianity and Its Fate*) reveal a thinker grappling with the relationship between inner religious renewal and outer political transformation, heavily influenced by [[Rousseau]], [[Lessing]], and [[Spinoza]]. The German context was crucial: the intertwining of Protestant churches and German principalities meant religion and politics formed a single complex requiring reform.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -140,15 +147,15 @@ flowchart TD
 | 1789 | French Revolution begins; [[Hegel]] and friends plant liberty tree |
 | 1793-1796 | [[Hegel]] works as private tutor in Bern; writes *Life of Jesus*, *Positivity of the Christian Religion* |
 | 1797-1800 | [[Hegel]] in Frankfurt; writes *Spirit of Christianity and Its Fate* |
-| 1801 | [[Hegel]] publishes *Difference between Fichte's and Schelling's Systems* |
+| 1801 | [[Hegel]] publishes *Difference between [[Fichte]]'s and Schelling's Systems* |
 | 1802 | [[Hegel]] publishes *Faith and Knowledge* in *Critical Journal of Philosophy* |
 | 1806 | Napoleon enters Jena; [[Hegel]] sees "world-soul on horseback" |
 | 1807 | [[Hegel]] publishes *Phenomenology of Spirit*; breaks with [[Schelling]] |
 | 1812-1816 | [[Hegel]] publishes *Science of Logic* |
 | 1817 | [[Hegel]] publishes *Encyclopedia of the Philosophical Sciences* |
-| 1818 | [[Hegel]] becomes professor in Berlin |
+| 1818 | [[Hegel]] becomes professor in [[Berlin]] |
 | 1821 | [[Hegel]] publishes *Elements of the Philosophy of Right* |
-| 1831 | [[Hegel]] dies in Berlin, probably of cholera |
+| 1831 | [[Hegel]] dies in [[Berlin]], probably of cholera |
 
 #### Notable Quotes
 
@@ -158,18 +165,6 @@ flowchart TD
 
 > "Philosophy always arrives too late to give instruction on how the world ought to be. It paints its grey in grey only when a form of life has grown old... The owl of Minerva begins its flight only with the falling of dusk." — [[Hegel]]
 
-#### See Also
-
-- [[German Idealism]]
-- [[Dialectic]]
-- [[Phenomenology of Spirit]]
-- [[Science of Logic]]
-- [[Philosophy of Right]]
-- [[Absolute Spirit]]
-- [[Marx]]
-- [[Kierkegaard]]
-- [[Neo-Hegelianism]]
-- [[French Revolution]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

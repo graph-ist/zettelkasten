@@ -7,14 +7,9 @@ subclasses:
   - 19th-Century-Philosophy
   - Hermeneutics
 aliases:
-  - neokantanism
-  - historicism
-  - verstehen
   - lived experience
   - symbolic forms
   - animal symbolicum
-  - nomothetic
-  - idiographic
   - marburg school
   - baden school
   - sciences spirit
@@ -31,24 +26,35 @@ authors:
   - "[[Cohen]]"
   - "[[Simmel]]"
   - "[[Spengler]]"
-reference: "[[05 The search for thought - Unit 4 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Kant]]"
+  - "[[Hermeneutics]]"
+  - "[[Philosophy of History]]"
+  - "[[Epistemology]]"
+  - "[[Philosophy of Culture]]"
+  - "[[Verstehen]]"
+  - "[[Symbolic Forms]]"
+  - "[[Cultural Relativism]]"
+  - "[[Phenomenology]]"
+  - "[[Gadamer]]"
 ---
 
 #### Central Problem
 
 The chapter addresses two interconnected problems stemming from the reaction against positivism: (1) What are the conditions that guarantee the validity of scientific and other forms of human knowledge? (2) What distinguishes the human sciences (Geisteswissenschaften) from the natural sciences, and what methods are appropriate to each?
 
-Neo-Kantianism returns to Kant's fundamental teaching: philosophy must not be reduced to psychology, physiology, metaphysics, or theology, but must analyze the conditions of validity for the human world. It opposes both the metaphysics of matter (positivism) and the metaphysics of spirit (idealism), as well as empiricism and psychologism that reduce the validity of knowledge to mere subjective or psychological conditions.
+Neo-Kantianism returns to [[Kant]]'s fundamental teaching: philosophy must not be reduced to psychology, physiology, metaphysics, or theology, but must analyze the conditions of validity for the human world. It opposes both the metaphysics of matter (positivism) and the metaphysics of spirit (idealism), as well as empiricism and psychologism that reduce the validity of knowledge to mere subjective or psychological conditions.
 
-German Historicism confronts a parallel question: How can we establish a critique of historical reason analogous to Kant's critique of pure reason? What makes historical knowledge possible and valid? The historicists recognize that historical objects are fundamentally different from natural objects — they are individual, unrepeatable, and meaningful in ways that require a distinctive method of understanding (Verstehen) rather than causal explanation.
+German Historicism confronts a parallel question: How can we establish a critique of historical reason analogous to [[Kant]]'s critique of pure reason? What makes historical knowledge possible and valid? The historicists recognize that historical objects are fundamentally different from natural objects — they are individual, unrepeatable, and meaningful in ways that require a distinctive method of understanding (Verstehen) rather than causal explanation.
 
 A further problem emerges: if all values and knowledge are historically conditioned, does this lead to relativism? Can there be any absolute or universal values in a world where everything is subject to historical change?
 
 #### Main Thesis
 
-**Neo-Kantianism** maintains Kant's distinction between the validity of knowledge (or morality, or art) and the empirical, psychological, or subjective conditions under which these activities manifest themselves in humans. Philosophy's task is to analyze validity conditions, not to engage in metaphysics.
+**Neo-Kantianism** maintains [[Kant]]'s distinction between the validity of knowledge (or morality, or art) and the empirical, psychological, or subjective conditions under which these activities manifest themselves in humans. Philosophy's task is to analyze validity conditions, not to engage in metaphysics.
 
-The **Marburg School** (Cohen, Natorp, Cassirer) reduces subjective cognitive processes to objective methods guaranteeing validity, integrating Kant with Plato to argue that pure ideas ground the meaning and objective value of all possible knowledge.
+The **Marburg School** (Cohen, [[Natorp]], Cassirer) reduces subjective cognitive processes to objective methods guaranteeing validity, integrating [[Kant]] with [[Plato]] to argue that pure ideas ground the meaning and objective value of all possible knowledge.
 
 The **Baden School** (Windelband, Rickert) proposes a theory of values as absolute, universal, and eternal — independent of temporal and historical vicissitudes:
 - Windelband distinguishes **nomothetic sciences** (seeking general laws) from **idiographic sciences** (seeking the particular in its historically determined form)
@@ -66,15 +72,16 @@ The **Baden School** (Windelband, Rickert) proposes a theory of values as absolu
 
 #### Historical Context
 
-Neo-Kantianism emerged in Germany after the mid-nineteenth century as a "return to Kant," receiving its first impulse from Hermann Helmholtz's writings, Kuno Fischer's monograph on Kant (1860), and Eduard Zeller's work on epistemology (1862). In 1865, Otto Liebmann's *Kant and the Epigones* concluded each analysis of post-Kantian philosophy with the slogan: "We must therefore return to Kant."
+Neo-Kantianism emerged in Germany after the mid-nineteenth century as a "return to [[Kant]]," receiving its first impulse from [[Helmholtz]]'s writings, Kuno Fischer's monograph on [[Kant]] (1860), and Eduard Zeller's work on epistemology (1862). In 1865, Liebmann's *[[Kant]] and the Epigones* concluded each analysis of post-Kantian philosophy with the slogan: "We must therefore return to [[Kant]]."
 
-German Historicism developed between Dilthey's *Introduction to the Human Sciences* (1883) and Meinecke's *Origins of Historicism* (1936). Dilthey worked as a professor in Berlin alongside great German historians like Mommsen, Burckhardt, and Zeller, and devoted his life to a universal history of the European spirit.
+German Historicism developed between Dilthey's *Introduction to the Human Sciences* (1883) and Meinecke's *Origins of Historicism* (1936). Dilthey worked as a professor in [[Berlin]] alongside great German historians like Mommsen, [[Burckhardt]], and Zeller, and devoted his life to a universal history of the European spirit.
 
 The period witnessed the consolidation of positivistic natural science and growing recognition that human phenomena — history, culture, society — might require fundamentally different approaches than physics or biology. The question of methodology in the human sciences became acute as scholars sought to establish these disciplines on rigorous foundations while respecting their distinctive character.
 
 The early twentieth century brought crises that intensified these debates: World War I prompted Spengler's pessimistic *Decline of the West* (1918-1922) and Simmel's reflections on war and cultural conflict. The interwar period saw continued debates about historical relativism and the possibility of absolute values.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -102,7 +109,7 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Cohen]] | 1842-1918 | [[Marburg School]] | Kant interpretations | Pure idea as ground of validity |
+| [[Cohen]] | 1842-1918 | [[Marburg School]] | [[Kant]] interpretations | Pure idea as ground of validity |
 | [[Natorp]] | 1854-1924 | [[Marburg School]] | Neo-Kantian epistemology | Objective method |
 | [[Cassirer]] | 1874-1945 | [[Marburg School]] | *Philosophy of Symbolic Forms* | Animal symbolicum |
 | [[Windelband]] | 1848-1915 | [[Baden School]] | *History and Natural Science* | Nomothetic/idiographic distinction |
@@ -122,7 +129,7 @@ flowchart TD
 | Animal Symbolicum | Cassirer's definition of the human being as a symbol-using creature, replacing the traditional "animal rationale" | [[Cassirer]], language |
 | Symbolic Forms | The various modes (language, myth, art, science, religion) through which humans organize experience and constitute their world | [[Cassirer]], culture |
 | Dynamic Connection | A structure or totality centered around values and purposes; individuals, civilizations, epochs as self-centered structures | [[Dilthey]], historicism |
-| Objective Spirit | Dilthey's term (borrowed from Hegel) for the totality of manifestations in which life has objectified itself through historical development | [[Dilthey]], [[Hegel]] |
+| Objective Spirit | Dilthey's term (borrowed from [[Hegel]]) for the totality of manifestations in which life has objectified itself through historical development | [[Dilthey]], [[Hegel]] |
 | Culture/Civilization | Spengler's distinction: Culture (Kultur) is a living organism; Civilization (Zivilisation) is its final mature phase preceding death | [[Spengler]], decline |
 | Historical Relativism | The theory that values exist only "in relation to" determinate contexts, not absolutely | [[Dilthey]], [[Spengler]] |
 
@@ -164,7 +171,7 @@ flowchart TD
 |------|-------|
 | 1860 | Kuno Fischer publishes monograph on [[Kant]] |
 | 1862 | Eduard Zeller publishes *On the Significance of Epistemology* |
-| 1865 | Otto Liebmann publishes *Kant and the Epigones* ("return to Kant") |
+| 1865 | Liebmann publishes *[[Kant]] and the Epigones* ("return to [[Kant]]") |
 | 1867 | [[Dilthey]] publishes *Life of Schleiermacher* |
 | 1883 | [[Dilthey]] publishes *Introduction to the Human Sciences* |
 | 1894 | [[Dilthey]] publishes *Ideas for a Descriptive Psychology* |
@@ -185,18 +192,6 @@ flowchart TD
 
 > "The historical consciousness of the finitude of every historical phenomenon, of every human and social situation, the consciousness of the relativity of every form of belief, is the last step toward the liberation of humanity." — [[Dilthey]]
 
-#### See Also
-
-- [[Kant]]
-- [[Hermeneutics]]
-- [[Philosophy of History]]
-- [[Epistemology]]
-- [[Philosophy of Culture]]
-- [[Verstehen]]
-- [[Symbolic Forms]]
-- [[Cultural Relativism]]
-- [[Phenomenology]]
-- [[Gadamer]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

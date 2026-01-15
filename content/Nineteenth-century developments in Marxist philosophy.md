@@ -10,11 +10,8 @@ aliases:
   - marxism twentieth
   - dialectical materialism
   - class consciousness
-  - hegemony
   - western marxism
   - philosophy praxis
-  - reification
-  - totality
   - organic intellectuals
   - utopia hope
   - soviet marxism
@@ -31,16 +28,27 @@ authors:
   - "[[Labriola]]"
   - "[[Trotsky]]"
   - "[[Stalin]]"
-reference: "[[06 The search for thought - Unit 10 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Historical Materialism]]"
+  - "[[Dialectics]]"
+  - "[[Frankfurt School]]"
+  - "[[Critical Theory]]"
+  - "[[Ideology]]"
+  - "[[Class Struggle]]"
+  - "[[Revolution]]"
+  - "[[Alienation]]"
+  - "[[Praxis]]"
+  - "[[Utopia]]"
 ---
 
 #### Central Problem
 
-Twentieth-century Marxism confronted a fundamental crisis of identity and direction: how to recover the authentic theoretical content of Marx's thought after its distortion by the positivist, economistic, and evolutionary interpretations of the Second International (1889-1917). Under the influence of [[Kautsky]] and others, Marxism had been read through positivist lenses, reducing it to a fatalistic determinism that saw the transition from capitalism to communism as inevitable, scientifically predictable, and mechanistically guaranteed by economic laws.
+Twentieth-century Marxism confronted a fundamental crisis of identity and direction: how to recover the authentic theoretical content of [[Marx]]'s thought after its distortion by the positivist, economistic, and evolutionary interpretations of the Second International (1889-1917). Under the influence of [[Kautsky]] and others, Marxism had been read through positivist lenses, reducing it to a fatalistic determinism that saw the transition from capitalism to communism as inevitable, scientifically predictable, and mechanistically guaranteed by economic laws.
 
-This "bastardization" of Marxism had practical consequences: theoretical impotence translated into revolutionary impotence. The dialectical and philosophical core of Marx's thought — inherited from [[Hegel]] — had been progressively abandoned in favor of naturalistic, materialistic categories borrowed from the natural sciences. Revisionism (Bernstein) proposed abandoning revolution altogether; Austro-Marxism and neo-Kantian Marxism sought ethical rather than materialist foundations.
+This "bastardization" of Marxism had practical consequences: theoretical impotence translated into revolutionary impotence. The dialectical and philosophical core of [[Marx]]'s thought — inherited from [[Hegel]] — had been progressively abandoned in favor of naturalistic, materialistic categories borrowed from the natural sciences. Revisionism (Bernstein) proposed abandoning revolution altogether; Austro-Marxism and neo-Kantian Marxism sought ethical rather than materialist foundations.
 
-The challenge was thus to recover Marxism's philosophical autonomy, its dialectical structure, and its revolutionary potential. This recovery took different forms: Soviet dialectical materialism emphasized necessary laws of nature and history; Western Marxism (Lukács, Korsch, Bloch) returned to Hegel and focused exclusively on the historical-social world; Italian Marxism (Labriola, Gramsci) developed original analyses of culture, hegemony, and the role of intellectuals.
+The challenge was thus to recover Marxism's philosophical autonomy, its dialectical structure, and its revolutionary potential. This recovery took different forms: Soviet dialectical materialism emphasized necessary laws of nature and history; Western Marxism (Lukács, Korsch, [[Bloch]]) returned to [[Hegel]] and focused exclusively on the historical-social world; Italian Marxism (Labriola, Gramsci) developed original analyses of culture, hegemony, and the role of intellectuals.
 
 #### Main Thesis
 
@@ -63,6 +71,7 @@ The rise of fascism — which [[Lukács]] analyzed as the culmination of bourgeo
 After 1945, Soviet Marxism became the official ideology of Eastern bloc states, while Western Marxism developed in critical dialogue with (and often opposition to) Soviet orthodoxy. [[Bloch]]'s conflict with East German authorities exemplified this tension. In Italy, the PCI under Togliatti and later Berlinguer developed the "Italian road to socialism" based on Gramscian principles of hegemonic struggle within civil society.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -112,7 +121,7 @@ flowchart TD
 | Hegemony | Intellectual and moral direction exercised through civil society institutions, distinct from political domination | [[Gramsci]], [[Italian Marxism]] |
 | Organic intellectuals | Intellectuals organically connected to a class, elaborating and transmitting its worldview | [[Gramsci]], [[Italian Marxism]] |
 | Philosophy of praxis | Gramsci's term for Marxism, emphasizing human agency and revolutionary transformation | [[Gramsci]], [[Italian Marxism]] |
-| Ontology of not-yet | Bloch's view of being as incomplete process tending toward fulfillment through hope and utopia | [[Bloch]], [[Western Marxism]] |
+| Ontology of not-yet | [[Bloch]]'s view of being as incomplete process tending toward fulfillment through hope and utopia | [[Bloch]], [[Western Marxism]] |
 | Historic bloc | Alliance of social forces unified by hegemonic worldview | [[Gramsci]], [[Italian Marxism]] |
 | Modern Prince | The Communist Party as collective intellectual embodying proletarian will | [[Gramsci]], [[Machiavelli]] |
 
@@ -157,7 +166,7 @@ flowchart TD
 | 1926 | [[Gramsci]] arrested by fascist police |
 | 1929-1935 | [[Gramsci]] writes *Prison Notebooks* |
 | 1937 | [[Gramsci]] dies in Rome |
-| 1948 | [[Lukács]] publishes *The Young Hegel* |
+| 1948 | [[Lukács]] publishes *The Young [[Hegel]]* |
 | 1954-1959 | [[Bloch]] publishes *The Principle of Hope* |
 
 #### Notable Quotes
@@ -168,18 +177,6 @@ flowchart TD
 
 > "Only a party guided by an advanced theory can fulfill the function of an advanced combatant." — [[Lenin]]
 
-#### See Also
-
-- [[Historical Materialism]]
-- [[Dialectics]]
-- [[Frankfurt School]]
-- [[Critical Theory]]
-- [[Ideology]]
-- [[Class Struggle]]
-- [[Revolution]]
-- [[Alienation]]
-- [[Praxis]]
-- [[Utopia]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

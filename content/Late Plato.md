@@ -8,14 +8,10 @@ subclasses:
 aliases:
   - late plato
   - supreme genera
-  - demiurge
-  - timaeus
-  - dialectic
   - non being
   - unwritten doctrines
   - one diad
   - sophist dialogue
-  - parmenicide
 contributions:
   - Conceptual
   - Constructive
@@ -24,22 +20,35 @@ authors:
   - "[[Parmenides]]"
   - "[[Aristotle]]"
   - "[[Pythagoras]]"
-reference: "[[01 The search for thought - Unit 3 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+related:
+  - "[[Theory of Forms]]"
+  - "[[Parmenides]]"
+  - "[[Eleatic Philosophy]]"
+  - "[[Pythagorean Mathematics]]"
+  - "[[Cosmology]]"
+  - "[[Demiurge]]"
+  - "[[Dialectic]]"
+  - "[[Political Philosophy]]"
+  - "[[Unwritten Doctrines]]"
+  - "[[Neoplatonism]]"
+  - "[[Medieval Philosophy]]"
+  - "[[Scientific Revolution]]"
 ---
 
 #### Central Problem
 
-The late Platonic philosophy confronts two fundamental problems that emerge from the need to mitigate the rigid dualism between the immutable world of Ideas and the mutable world of things: first, how should the world of Ideas be adequately conceived? Second, how should the relationship between Ideas and natural realities be properly understood? These questions arise from Plato's continuous self-revision, representing the most typical Socratic inheritance in Platonism—the capacity to constantly question oneself and return to reconsider previous positions.
+The late Platonic philosophy confronts two fundamental problems that emerge from the need to mitigate the rigid dualism between the immutable world of Ideas and the mutable world of things: first, how should the world of Ideas be adequately conceived? Second, how should the relationship between Ideas and natural realities be properly understood? These questions arise from [[Plato]]'s continuous self-revision, representing the most typical Socratic inheritance in [[Plato]]nism—the capacity to constantly question oneself and return to reconsider previous positions.
 
-The first question is addressed primarily in the Sophist, prepared by the Theaetetus (which investigates the nature of knowledge) and the Parmenides (which examines the nature of being and its relationship to non-being). The second question is answered in the Timaeus, where Plato develops his cosmological vision. Additionally, the late Plato grapples with redefining the concept of the Good for human life in the Philebus, and with the problem of laws in politics in the Statesman and Laws. The philosopher also develops unwritten doctrines that propose the One and the Dyad as ultimate principles underlying all reality, including the Ideas themselves.
+The first question is addressed primarily in the Sophist, prepared by the Theaetetus (which investigates the nature of knowledge) and the [[Parmenides]] (which examines the nature of being and its relationship to non-being). The second question is answered in the Timaeus, where [[Plato]] develops his cosmological vision. Additionally, the late [[Plato]] grapples with redefining the concept of the Good for human life in the Philebus, and with the problem of laws in politics in the Statesman and Laws. The philosopher also develops unwritten doctrines that propose the One and the Dyad as ultimate principles underlying all reality, including the Ideas themselves.
 
 #### Main Thesis
 
-Plato's late philosophy accomplishes a decisive "parricide" of Parmenides by demonstrating that non-being exists—not as absolute nothingness, but as "otherness" or "being different." This breakthrough allows Plato to justify the plurality of Ideas and their mutual relations. The five supreme genera (megista gene) of being are: being, the same, the different, rest, and motion. Every Idea exists (participates in being), is identical to itself (participates in the same), is different from other Ideas (participates in the different), and can either remain in itself (rest) or enter into communication with other Ideas (motion).
+Plato's late philosophy accomplishes a decisive "parricide" of [[Parmenides]] by demonstrating that non-being exists—not as absolute nothingness, but as "otherness" or "being different." This breakthrough allows [[Plato]] to justify the plurality of Ideas and their mutual relations. The five supreme genera (megista gene) of being are: being, the same, the different, rest, and motion. Every Idea exists (participates in being), is identical to itself (participates in the same), is different from other Ideas (participates in the different), and can either remain in itself (rest) or enter into communication with other Ideas (motion).
 
 Being itself is redefined as "possibility"—anything that possesses any capacity whatsoever to act upon or be acted upon by something else. This relational definition applies not only to Ideas but to natural things and humans, representing a generalization that anticipates Aristotelian ontology.
 
-In the Timaeus, Plato introduces the Demiurge as a divine craftsman who mediates between Ideas and matter, ordering the chaotic primordial material (chora) according to ideal models. The cosmos is thus a living organism animated by a world-soul, with time as the "moving image of eternity." The imperfections of the world derive from the resistance of matter to the Demiurge's intelligent ordering.
+In the Timaeus, [[Plato]] introduces the Demiurge as a divine craftsman who mediates between Ideas and matter, ordering the chaotic primordial material (chora) according to ideal models. The cosmos is thus a living organism animated by a world-soul, with time as the "moving image of eternity." The imperfections of the world derive from the resistance of matter to the Demiurge's intelligent ordering.
 
 The Philebus establishes that the good for human beings is a mixed life of pleasure and intelligence, with proper measure and proportion. The hierarchy of values places measure and order first, followed by proportion and beauty, then intelligence, then knowledge and opinion, and finally pure pleasures.
 
@@ -47,13 +56,14 @@ The Laws represents a more practical approach to politics, recognizing human wea
 
 #### Historical Context
 
-The late dialogues were written during Plato's final decades at the Academy in Athens, approximately 360-347 BCE. This period followed the failure of Plato's political experiments in Syracuse and saw the philosopher returning to theoretical work with renewed vigor. The Academy had become an established center of learning, attracting students like Aristotle who would later develop their own philosophical systems partly in response to Plato's teachings.
+The late dialogues were written during [[Plato]]'s final decades at the Academy in Athens, approximately 360-347 BCE. This period followed the failure of [[Plato]]'s political experiments in Syracuse and saw the philosopher returning to theoretical work with renewed vigor. The Academy had become an established center of learning, attracting students like [[Aristotle]] who would later develop their own philosophical systems partly in response to [[Plato]]'s teachings.
 
-The intellectual context was marked by ongoing debates with various philosophical schools: the Eleatics who maintained that being is one and unchanging; the Heracliteans who emphasized flux; the materialists who reduced everything to body; and the mathematicians and Pythagoreans whose influence grew stronger in Plato's later thought. The relationship with Pythagorean mathematical philosophy becomes particularly pronounced in the Timaeus and in the unwritten doctrines.
+The intellectual context was marked by ongoing debates with various philosophical schools: the Eleatics who maintained that being is one and unchanging; the Heracliteans who emphasized flux; the materialists who reduced everything to body; and the mathematicians and Pythagoreans whose influence grew stronger in [[Plato]]'s later thought. The relationship with Pythagorean mathematical philosophy becomes particularly pronounced in the Timaeus and in the unwritten doctrines.
 
-Politically, the Greek world was experiencing profound transformations, with the rise of Macedonian power under Philip II threatening the autonomy of the city-states. This context reinforced Plato's conviction that political stability required a foundation in cosmic order and divine providence, leading to the astral theology developed in the Laws.
+Politically, the Greek world was experiencing profound transformations, with the rise of Macedonian power under Philip II threatening the autonomy of the city-states. This context reinforced [[Plato]]'s conviction that political stability required a foundation in cosmic order and divine providence, leading to the astral theology developed in the Laws.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -116,7 +126,7 @@ flowchart TD
 
 #### Summary Formulas
 
-- **[[Plato]] (Sophist):** Non-being exists as otherness, not as absolute nothingness; this "parricide" of Parmenides enables the plurality and communication of Ideas.
+- **[[Plato]] (Sophist):** Non-being exists as otherness, not as absolute nothingness; this "parricide" of [[Parmenides]] enables the plurality and communication of Ideas.
 - **[[Plato]] (Timaeus):** The cosmos is the product of a divine Demiurge who orders chaotic matter according to ideal models, creating time as the moving image of eternity.
 - **[[Plato]] (Philebus):** The good for human beings consists in the proper measure and proportion between pleasure and intelligence, with measure as the highest value.
 - **[[Plato]] (Laws):** Political stability requires the foundation of religion and astral theology, with laws serving an educational function to promote virtue in citizens.
@@ -126,7 +136,7 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | c. 369-362 BCE | [[Plato]] writes the Theaetetus on the nature of knowledge |
-| c. 360-355 BCE | [[Plato]] writes the Parmenides, examining problems in the theory of Forms |
+| c. 360-355 BCE | [[Plato]] writes the [[Parmenides]], examining problems in the theory of Forms |
 | c. 360-355 BCE | [[Plato]] writes the Sophist, introducing the five supreme genera |
 | c. 360-355 BCE | [[Plato]] writes the Statesman on political art and law |
 | c. 360-350 BCE | [[Plato]] writes the Philebus on the good for human life |
@@ -145,20 +155,6 @@ flowchart TD
 > "God, wishing that all things should be good and, as far as possible, nothing be imperfect, took all that was visible—not at rest but moving irregularly and in disorder—and brought it from disorder into order."
 > — [[Plato]]
 
-#### See Also
-
-- [[Theory of Forms]]
-- [[Parmenides]]
-- [[Eleatic Philosophy]]
-- [[Pythagorean Mathematics]]
-- [[Cosmology]]
-- [[Demiurge]]
-- [[Dialectic]]
-- [[Political Philosophy]]
-- [[Unwritten Doctrines]]
-- [[Neoplatonism]]
-- [[Medieval Philosophy]]
-- [[Scientific Revolution]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

@@ -7,13 +7,8 @@ subclasses:
   - Continental-Philosophy
   - Metaphysics
 aliases:
-  - spiritualism
-  - bergson
-  - duration
   - vital impulse
-  - intuition
   - creative evolution
-  - antipositivism
   - open society
   - closed society
   - static religion
@@ -32,7 +27,19 @@ authors:
   - "[[Boutroux]]"
   - "[[Biran]]"
   - "[[Laberthonnière]]"
-reference: "[[05 The search for thought - Unit 4 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Positivism]]"
+  - "[[Evolutionism]]"
+  - "[[Neo-Kantianism]]"
+  - "[[Historicism]]"
+  - "[[Phenomenology]]"
+  - "[[Philosophy of Life]]"
+  - "[[French Philosophy]]"
+  - "[[Mysticism]]"
+  - "[[Impressionism]]"
+  - "[[Matter and Memory]]"
+  - "[[Creative Evolution]]"
 ---
 
 #### Central Problem
@@ -77,13 +84,14 @@ Spiritualism, the first form of reaction against positivism, chooses interior au
 
 The chapter situates anti-positivist thought within the broader crisis of nineteenth-century philosophy dominated by two great movements: idealism (affirming Spirit or Reason as evolving reality) and positivism (affirming matter and force). Both shared a belief in necessary, progressive evolution but differed fundamentally on the nature of ultimate reality.
 
-By the latter half of the nineteenth century, positivism's dominance created a philosophical crisis by reducing philosophy to mere critical reflection on science, thereby losing philosophy's methodological autonomy and distinctive object of inquiry. The reaction emerged initially in Germany with figures like Immanuel Hermann Fichte and Eduard von Hartmann, then spread to France (Maine de Biran, Boutroux, Bergson) and Italy (Martinetti).
+By the latter half of the nineteenth century, positivism's dominance created a philosophical crisis by reducing philosophy to mere critical reflection on science, thereby losing philosophy's methodological autonomy and distinctive object of inquiry. The reaction emerged initially in Germany with figures like [[Fichte]] and Eduard von Hartmann, then spread to France (Maine de [[Biran]], Boutroux, Bergson) and Italy (Martinetti).
 
 The French context was particularly fertile, producing the philosophy of action (Blondel, Sorel) and the modernist movement within Catholicism (Laberthonnière), both emphasizing consciousness as will, activity, and creative moral action rather than mere contemplation.
 
 Bergson's specific intervention came against the backdrop of debates about evolutionary theory (Darwin, Spencer) and the new physics (Einstein's relativity). His 1889 *Essay on the Immediate Data of Consciousness* already announced his distinctive method: liberating the original life of consciousness from fictitious intellectual structures. His 1907 *Creative Evolution* represented "true evolutionism" and the "true prolongation of science."
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -171,11 +179,11 @@ flowchart TD
 | 1893 | [[Blondel]] publishes *L'Action* |
 | 1896 | [[Bergson]] publishes *Matter and Memory* |
 | 1900 | [[Bergson]] publishes essay *Laughter* |
-| 1905 | Einstein formulates special relativity (challenged by Bergson) |
+| 1905 | [[Einstein]] formulates special relativity (challenged by Bergson) |
 | 1907 | [[Bergson]] publishes *Creative Evolution* |
 | 1907 | Pope Pius X condemns modernism (encyclical *Pascendi*) |
 | 1908 | [[Sorel]] publishes *Reflections on Violence* |
-| 1922 | [[Bergson]] publishes *Duration and Simultaneity* (critique of Einstein) |
+| 1922 | [[Bergson]] publishes *Duration and Simultaneity* (critique of [[Einstein]]) |
 | 1928 | [[Bergson]] receives Nobel Prize for Literature |
 | 1932 | [[Bergson]] publishes *The Two Sources of Morality and Religion* |
 | 1941 | [[Bergson]] dies in Paris |
@@ -188,19 +196,6 @@ flowchart TD
 
 > "The vital impulse of which we speak consists, in essence, of an exigency for creation. It cannot create absolutely, because it encounters matter before it — that is, the movement contrary to its own; but it seizes this matter and tends to introduce into it the greatest possible sum of indetermination and freedom." — [[Bergson]]
 
-#### See Also
-
-- [[Positivism]]
-- [[Evolutionism]]
-- [[Neo-Kantianism]]
-- [[Historicism]]
-- [[Phenomenology]]
-- [[Philosophy of Life]]
-- [[French Philosophy]]
-- [[Mysticism]]
-- [[Impressionism]]
-- [[Matter and Memory]]
-- [[Creative Evolution]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

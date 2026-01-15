@@ -10,8 +10,6 @@ aliases:
   - justice theory
   - political philosophy
   - rawls justice
-  - liberalism
-  - communitarianism
   - social contract
   - distributive justice
   - original position
@@ -29,7 +27,18 @@ authors:
   - "[[MacIntyre]]"
   - "[[Locke]]"
   - "[[Kant]]"
-reference: "[[07 The search for thought - Unit 17 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Social Contract Theory]]"
+  - "[[Distributive Justice]]"
+  - "[[Libertarianism]]"
+  - "[[Welfare State]]"
+  - "[[Utilitarianism]]"
+  - "[[Virtue Ethics]]"
+  - "[[Political Liberalism]]"
+  - "[[Kantian Ethics]]"
+  - "[[Classical Liberalism]]"
+  - "[[Neoliberalism]]"
 ---
 
 #### Central Problem
@@ -38,11 +47,11 @@ Beginning in the 1970s, political philosophy witnessed a revival of ethical-poli
 
 The fundamental tension lies between the liberal tradition's emphasis on freedom and the socialist-communist tradition's emphasis on justice. These two concepts appeared perpetually in conflict throughout nineteenth and twentieth-century political doctrines. The challenge of democratic citizenship in an era of economic globalization, diminishing natural resources, and growing awareness of both justice and injustice demanded new philosophical approaches that transcended old dogmatic schematisms.
 
-As economist and philosopher [[Amartya Sen]] emphasized, the preliminary question "equality of what?" reveals the complexity of the problem. Human beings differ profoundly in their characteristics (age, sex, abilities, talents, predisposition to illness) and external circumstances (property, social background, environmental conditions). Demanding equality in one dimension inevitably conflicts with equality in another. A pregnant woman, for example, may face greater difficulties than a man of equal age and financial conditions. This "pervasive human diversity" requires flexible instruments for arguing in favor of justice, of which freedom itself is a fundamental component.
+As economist and philosopher [[Sen]] emphasized, the preliminary question "equality of what?" reveals the complexity of the problem. Human beings differ profoundly in their characteristics (age, sex, abilities, talents, predisposition to illness) and external circumstances (property, social background, environmental conditions). Demanding equality in one dimension inevitably conflicts with equality in another. A pregnant woman, for example, may face greater difficulties than a man of equal age and financial conditions. This "pervasive human diversity" requires flexible instruments for arguing in favor of justice, of which freedom itself is a fundamental component.
 
 #### Main Thesis
 
-[[John Rawls]] proposed a model of "justice as fairness" capable of harmonizing individual liberty with social (distributive) justice. His theory establishes that justice is "the first requisite of social institutions," just as truth is for systems of thought. Laws and institutions must be abolished or reformed if unjust, even if they provide some degree of welfare to society as a whole.
+[[Rawls]] proposed a model of "justice as fairness" capable of harmonizing individual liberty with social (distributive) justice. His theory establishes that justice is "the first requisite of social institutions," just as truth is for systems of thought. Laws and institutions must be abolished or reformed if unjust, even if they provide some degree of welfare to society as a whole.
 
 Rawls's position is explicitly anti-utilitarian: a just society cannot define itself as such by compensating sacrifices imposed on a few with greater advantages enjoyed by many. "Each person possesses an inviolability founded on justice that even the welfare of society as a whole cannot override." Equal liberty of citizenship must be taken for granted.
 
@@ -50,11 +59,11 @@ The theory rests on two principles of justice chosen from an "original position"
 1. **First Principle (Liberty):** Each person has an equal right to the most extensive system of fundamental liberties compatible with a similar system for all others.
 2. **Second Principle (Difference):** Social and economic inequalities are just only if they produce compensating benefits for everyone, particularly the least advantaged members of society, and are attached to positions open to all.
 
-[[Robert Nozick]] counters with radical individualism: there are only individuals with their personal lives and rights. The state must be "minimal," interfering as little as possible in individual life, limited to protection against force, theft, fraud, and contract enforcement. Any more extensive state "violates the rights of persons."
+[[Nozick]] counters with radical individualism: there are only individuals with their personal lives and rights. The state must be "minimal," interfering as little as possible in individual life, limited to protection against force, theft, fraud, and contract enforcement. Any more extensive state "violates the rights of persons."
 
 [[Friedrich von Hayek]] defends negative liberty (freedom from coercion) and argues that "social justice" is a quasi-religious superstition threatening free civilization. The state should guarantee only a minimum subsistence level through assistance, not through market intervention.
 
-[[Alasdair MacIntyre]] rejects both positions, arguing that morality cannot be severed from community. The Enlightenment project of founding morality on individual reason has failed. We need to return to the classical Aristotelian tradition where virtues are types of action rooted in shared community values.
+[[MacIntyre]] rejects both positions, arguing that morality cannot be severed from community. The Enlightenment project of founding morality on individual reason has failed. We need to return to the classical Aristotelian tradition where virtues are types of action rooted in shared community values.
 
 #### Historical Context
 
@@ -67,6 +76,7 @@ The welfare state expansion of the postwar period faced challenges from the econ
 The collapse of Soviet communism in 1989 further intensified these debates, as the apparent triumph of liberal democracy raised questions about whether history had reached its end or whether new challenges—multiculturalism, globalization, environmental crisis—demanded new theoretical frameworks.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -121,7 +131,7 @@ flowchart TD
 | Primary value | Justice as fairness | Individual rights | Negative liberty | Community virtue |
 | View of state | Regulatory, redistributive | Minimal, protective | Limited, non-interventionist | Embedded in community |
 | On equality | Fair equality of opportunity | Procedural only | Against "social justice" | Defined by social roles |
-| Philosophical ancestry | Kant, Social Contract | Locke, Classical Liberalism | Hume, Scottish Enlightenment | Aristotle, Aquinas |
+| Philosophical ancestry | [[Kant]], Social Contract | [[Locke]], Classical Liberalism | [[Hume]], Scottish Enlightenment | [[Aristotle]], [[Aquinas]] |
 | View of market | Needs regulation | Self-regulating | Spontaneous order | Subordinate to community |
 | Individualism | Moderate | Radical | Strong | Rejected |
 | Utilitarianism | Rejected | Rejected | Partially accepted | Rejected |
@@ -165,18 +175,6 @@ flowchart TD
 
 > "The widespread belief in 'social justice' is probably today the gravest threat to most other values of a free civilization." — [[Hayek]]
 
-#### See Also
-
-- [[Social Contract Theory]]
-- [[Distributive Justice]]
-- [[Libertarianism]]
-- [[Welfare State]]
-- [[Utilitarianism]]
-- [[Virtue Ethics]]
-- [[Political Liberalism]]
-- [[Kantian Ethics]]
-- [[Classical Liberalism]]
-- [[Neoliberalism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

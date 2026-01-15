@@ -11,8 +11,6 @@ aliases:
   - economic ethics
   - ethical finance
   - fair trade
-  - utilitarianism
-  - neoliberalism
   - ethical investment
   - corporate responsibility
   - welfare economics
@@ -30,7 +28,18 @@ authors:
   - "[[Roemer]]"
   - "[[Friedman]]"
   - "[[Novak]]"
-reference: "[[07 The search for thought - Unit 19 Chapter 4.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Utilitarianism]]"
+  - "[[Neoliberalism]]"
+  - "[[Business Ethics]]"
+  - "[[Welfare Economics]]"
+  - "[[Sen]]"
+  - "[[Rawls]]"
+  - "[[Applied Ethics]]"
+  - "[[Corporate Social Responsibility]]"
+  - "[[Fair Trade]]"
+  - "[[Analytical Marxism]]"
 ---
 
 #### Central Problem
@@ -45,9 +54,9 @@ The chapter argues that economic activity, being a human activity, can and shoul
 
 The text presents multiple approaches to integrating ethics with economics:
 
-**Utilitarianism vs. Neoliberalism:** Utilitarianism identifies utility as the criterion for collective action and foundation of individual happiness, aiming to maximize social welfare understood as the sum of individual utilities. Neo-utilitarianism, as formulated by John Harsanyi, views political, economic, and legal decisions as expressions of human rationality calculated to produce the greatest happiness for the greatest number. Neoliberalism (exemplified by Rawls) counters that society cannot rely solely on utility calculation but must ask whether choices are also just, presupposing a strong connection between freedom of initiative and responsibility.
+**Utilitarianism vs. Neoliberalism:** Utilitarianism identifies utility as the criterion for collective action and foundation of individual happiness, aiming to maximize social welfare understood as the sum of individual utilities. Neo-utilitarianism, as formulated by Harsanyi, views political, economic, and legal decisions as expressions of human rationality calculated to produce the greatest happiness for the greatest number. Neoliberalism (exemplified by Rawls) counters that society cannot rely solely on utility calculation but must ask whether choices are also just, presupposing a strong connection between freedom of initiative and responsibility.
 
-**Sen's Ethical Paradigm:** Amartya Sen argues that welfare economics can be substantially enriched by greater attention to ethics. The value of wealth must be conjoined not only with happiness (a relative and unquantifiable element) but with a concept of "well-being" that differs from simple "utility." Well-being does not consist only in having higher income but translates into better quality of life—a variable that must be considered in economic calculations.
+**Sen's Ethical Paradigm:** Sen argues that welfare economics can be substantially enriched by greater attention to ethics. The value of wealth must be conjoined not only with happiness (a relative and unquantifiable element) but with a concept of "well-being" that differs from simple "utility." Well-being does not consist only in having higher income but translates into better quality of life—a variable that must be considered in economic calculations.
 
 **Business Ethics as Normative Ethics:** Business ethics qualifies as an ethics of consequences, not intentions. It does not merely describe but prescribes behavioral models, representing one of the most significant manifestations of the late-twentieth-century rebirth of normative ethics.
 
@@ -62,6 +71,7 @@ In Italy, ethical investments took root in the late 1970s with the establishment
 The Catholic Church's post-conciliar engagement with social questions is reflected in papal encyclicals: Paul VI's *Populorum progressio* (1967) and *Octogesima adveniens* (1971), and John Paul II's *Sollicitudo rei socialis* (1987), calling for renewed synergy between ethical and economic rationality oriented toward human dignity.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -162,18 +172,6 @@ flowchart TD
 
 > "Morality is not a detached sector of life, but the lubricant and glue of the entire society." — [[De George]]
 
-#### See Also
-
-- [[Utilitarianism]]
-- [[Neoliberalism]]
-- [[Business Ethics]]
-- [[Welfare Economics]]
-- [[Amartya Sen]]
-- [[John Rawls]]
-- [[Applied Ethics]]
-- [[Corporate Social Responsibility]]
-- [[Fair Trade]]
-- [[Analytical Marxism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

@@ -9,11 +9,7 @@ aliases:
   - environmental ethics
   - animal ethics
   - deep ecology
-  - ecofeminism
-  - biocentrism
-  - ecocentrism
   - animal rights
-  - speciesism
   - ecological philosophy
   - land ethics
   - animal liberation
@@ -27,7 +23,18 @@ authors:
   - "[[Regan]]"
   - "[[Bookchin]]"
   - "[[Callicott]]"
-reference: "[[07 The search for thought - Unit 18 Chapter 4.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Environmental Ethics]]"
+  - "[[Animal Rights]]"
+  - "[[Deep Ecology]]"
+  - "[[Social Ecology]]"
+  - "[[Ecofeminism]]"
+  - "[[Biocentrism]]"
+  - "[[Speciesism]]"
+  - "[[Applied Ethics]]"
+  - "[[Utilitarianism]]"
+  - "[[Natural Rights]]"
 ---
 
 #### Central Problem
@@ -42,9 +49,9 @@ The "animal question" poses the problem sharply: What is the correct human attit
 
 Environmental philosophy has generated three fundamental paradigms for extending moral consideration beyond traditional anthropocentrism:
 
-**Anthropocentrism** (John Passmore): The most conservative position, granting moral status only to humans. Nature and non-human entities remain instrumental—means for human economic, scientific, and aesthetic needs.
+**Anthropocentrism** (Passmore): The most conservative position, granting moral status only to humans. Nature and non-human entities remain instrumental—means for human economic, scientific, and aesthetic needs.
 
-**Biocentrism** ([[Paul Taylor]]): Moral status extends to every form of life. Every living being is a "teleological center of life" possessing intrinsic value independent of our instrumental evaluations and regardless of whether it possesses consciousness.
+**Biocentrism** ([[Taylor]]): Moral status extends to every form of life. Every living being is a "teleological center of life" possessing intrinsic value independent of our instrumental evaluations and regardless of whether it possesses consciousness.
 
 **Ecocentrism** ([[Leopold]], [[Callicott]]): Moral consideration extends to non-individual and non-living environmental entities—the entire natural world and its ecosystems, animate and inanimate, individual and collective (populations, species).
 
@@ -66,15 +73,16 @@ On animal ethics specifically, two major philosophical approaches emerge:
 
 The ecological crisis emerged in the twentieth century as technological civilization's power to transform nature reached unprecedented and destructive levels. The Club of Rome reports, the first Earth Day (1970), and growing awareness of pollution, species extinction, and climate change created the context for environmental philosophy.
 
-[[Aldo Leopold]] (1887-1948), the American naturalist, deserves credit for the first explicit thematization of the need for radical change. His "land ethic" founded on the figure of humanity as "biotic citizen" inaugurated environmental ethics as a discipline.
+[[Leopold]] (1887-1948), the American naturalist, deserves credit for the first explicit thematization of the need for radical change. His "land ethic" founded on the figure of humanity as "biotic citizen" inaugurated environmental ethics as a discipline.
 
 Early twentieth-century philosophers like [[Heidegger]] and the Frankfurt School had already begun questioning the "philosophy of world domination," but academic legitimacy came in the Anglo-Saxon world where environmental philosophy (environmental ethics) became established, with the journal *Environmental Ethics* founded in 1979.
 
-[[Arne Naess]] coined "deep ecology" in 1973, distinguishing it from reformist "shallow ecology." [[Murray Bookchin]] developed social ecology from the 1960s onward. Ecofeminism emerged in the 1970s, with [[Françoise d'Eaubonne]] coining the term in 1974.
+[[Naess]] coined "deep ecology" in 1973, distinguishing it from reformist "shallow ecology." [[Bookchin]] developed social ecology from the 1960s onward. Ecofeminism emerged in the 1970s, with [[Françoise d'Eaubonne]] coining the term in 1974.
 
-The animal rights movement gained philosophical momentum with [[Peter Singer]]'s *Animal Liberation* (1975) and [[Tom Regan]]'s *The Case for Animal Rights* (1983), providing systematic foundations for anti-speciesist ethics.
+The animal rights movement gained philosophical momentum with [[Singer]]'s *Animal Liberation* (1975) and [[Regan]]'s *The Case for Animal Rights* (1983), providing systematic foundations for anti-speciesist ethics.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -174,18 +182,6 @@ flowchart TD
 
 > "Respecting someone only insofar as they are similar to us is a very poor conception of respect." — [[Battaglia]]
 
-#### See Also
-
-- [[Environmental Ethics]]
-- [[Animal Rights]]
-- [[Deep Ecology]]
-- [[Social Ecology]]
-- [[Ecofeminism]]
-- [[Biocentrism]]
-- [[Speciesism]]
-- [[Applied Ethics]]
-- [[Utilitarianism]]
-- [[Natural Rights]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

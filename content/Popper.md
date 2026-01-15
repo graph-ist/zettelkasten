@@ -6,18 +6,11 @@ subclasses:
   - Philosophy-of-Science
   - Analytic-Philosophy
 aliases:
-  - falsificationism
-  - popper
   - critical rationalism
-  - falsifiability
   - conjectures refutations
   - demarcation problem
-  - fallibilism
-  - corroboration
-  - verisimilitude
   - three worlds
   - scientific method
-  - antiinductivism
 contributions:
   - Conceptual
   - Empirical
@@ -29,14 +22,25 @@ authors:
   - "[[Hume]]"
   - "[[Kant]]"
   - "[[Tarski]]"
-reference: "[[06 The search for thought - Unit 11 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Falsificationism]]"
+  - "[[Vienna Circle]]"
+  - "[[Philosophy of Science]]"
+  - "[[Scientific Method]]"
+  - "[[Problem of Induction]]"
+  - "[[Critical Rationalism]]"
+  - "[[Post-Positivism]]"
+  - "[[Kuhn]]"
+  - "[[Lakatos]]"
+  - "[[Logical Positivism]]"
 ---
 
 #### Central Problem
 
 The central problem of Popper's epistemology is the **demarcation problem**: what distinguishes genuine science from pseudo-science and non-science? This question emerges from dissatisfaction with the neopositivist verification criterion, which held that a statement is meaningful only if empirically verifiable. Popper recognized that this criterion fails to capture what actually makes scientific theories scientific, while simultaneously being too restrictive (excluding meaningful metaphysical claims) and too permissive (allowing unfalsifiable theories like Marxism and psychoanalysis to masquerade as science).
 
-The problem branches into interconnected issues: How do scientific theories relate to experience? Can induction justify scientific knowledge? What is the logical structure of scientific testing? How does science progress? What role does error play in knowledge? Popper's engagement with these questions was decisively shaped by Einstein's revolution in physics, which showed that even Newton's apparently certain theory could be overthrown, and by his observation that Marxism and psychoanalysis, unlike Einstein's relativity, seemed designed to accommodate any possible evidence rather than risk genuine refutation.
+The problem branches into interconnected issues: How do scientific theories relate to experience? Can induction justify scientific knowledge? What is the logical structure of scientific testing? How does science progress? What role does error play in knowledge? Popper's engagement with these questions was decisively shaped by [[Einstein]]'s revolution in physics, which showed that even [[Newton]]'s apparently certain theory could be overthrown, and by his observation that Marxism and psychoanalysis, unlike [[Einstein]]'s relativity, seemed designed to accommodate any possible evidence rather than risk genuine refutation.
 
 #### Main Thesis
 
@@ -54,15 +58,16 @@ Popper's central thesis is **falsificationism**: a theory is scientific not beca
 
 #### Historical Context
 
-Popper (1902-1994) developed his philosophy in Vienna during the 1920s-1930s, in dialogue with but distinct from the Vienna Circle. While acquainted with Schlick, Carnap, and other neopositivists, Popper claimed to have formulated his core ideas before encountering their work. His fundamental inspiration came not from neopositivism but from Einstein's revolution in physics.
+Popper (1902-1994) developed his philosophy in Vienna during the 1920s-1930s, in dialogue with but distinct from the Vienna Circle. While acquainted with [[Schlick]], Carnap, and other neopositivists, Popper claimed to have formulated his core ideas before encountering their work. His fundamental inspiration came not from neopositivism but from [[Einstein]]'s revolution in physics.
 
-The young Popper was struck by the contrast between Einstein's theory of relativity and the pseudo-scientific pretensions of Marxism and psychoanalysis. Einstein's theory made "risky" predictions that could be tested and potentially falsified (the 1919 eclipse observations), while Marx and Freud seemed able to explain everything and hence predicted nothing specific. This observation crystallized into the falsifiability criterion.
+The young Popper was struck by the contrast between [[Einstein]]'s theory of relativity and the pseudo-scientific pretensions of Marxism and psychoanalysis. [[Einstein]]'s theory made "risky" predictions that could be tested and potentially falsified (the 1919 eclipse observations), while [[Marx]] and [[Freud]] seemed able to explain everything and hence predicted nothing specific. This observation crystallized into the falsifiability criterion.
 
 With the rise of Nazism, Popper fled to New Zealand (1937-1945), where he wrote *The Open Society and Its Enemies* and *The Poverty of Historicism*, applying his epistemological principles to political philosophy. After the war, he settled in London at the London School of Economics, where he became one of the most influential philosophers of science of the twentieth century.
 
-Popper's influence extended through his students (Lakatos, Feyerabend, Agassi) and critics (Kuhn, Quine), shaping the subsequent development of philosophy of science even among those who rejected his specific proposals.
+Popper's influence extended through his students (Lakatos, [[Feyerabend]], Agassi) and critics (Kuhn, Quine), shaping the subsequent development of philosophy of science even among those who rejected his specific proposals.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -130,7 +135,7 @@ flowchart TD
 #### Summary Formulas
 
 - **[[Popper]]:** Science proceeds by conjectures and refutations; a theory is scientific if falsifiable, and all knowledge remains conjectural—we learn from our errors, approaching but never reaching truth.
-- **[[Einstein]] (as interpreted by Popper):** Scientific theories are bold hypotheses making risky predictions; Newton's overthrow proves that even our best-confirmed theories remain fallible conjectures.
+- **[[Einstein]] (as interpreted by Popper):** Scientific theories are bold hypotheses making risky predictions; [[Newton]]'s overthrow proves that even our best-confirmed theories remain fallible conjectures.
 - **[[Hume]] (Popper's reading):** Induction cannot logically justify universal laws; no finite number of observations validates a general statement, though one negative instance can refute it.
 - **[[Tarski]] (as adopted by Popper):** Truth is correspondence between statements and facts; though we cannot know we have reached truth, we can rationally prefer theories that seem closer to it.
 
@@ -139,7 +144,7 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | 1902 | [[Popper]] born in Vienna |
-| 1919 | Einstein's relativity confirmed by eclipse observations; Popper begins questioning Marxism and psychoanalysis |
+| 1919 | [[Einstein]]'s relativity confirmed by eclipse observations; Popper begins questioning Marxism and psychoanalysis |
 | 1928 | [[Popper]] completes doctorate in philosophy |
 | 1934 | *Logik der Forschung* (*Logic of Scientific Discovery*) published in German |
 | 1937 | [[Popper]] emigrates to New Zealand |
@@ -158,18 +163,6 @@ flowchart TD
 
 > "Our knowledge can only be finite, while our ignorance must necessarily be infinite." — [[Popper]]
 
-#### See Also
-
-- [[Falsificationism]]
-- [[Vienna Circle]]
-- [[Philosophy of Science]]
-- [[Scientific Method]]
-- [[Problem of Induction]]
-- [[Critical Rationalism]]
-- [[Post-Positivism]]
-- [[Kuhn]]
-- [[Lakatos]]
-- [[Logical Positivism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

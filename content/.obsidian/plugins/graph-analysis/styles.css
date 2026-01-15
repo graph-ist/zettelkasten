@@ -42,6 +42,59 @@ td.GA-node {
   /* background-color: yellow */
 }
 
+/* Force table to display as simple list */
+.GA-View table.GA-table,
+table.GA-table {
+  display: block !important;
+  border: none !important;
+  width: 100% !important;
+}
+.GA-View table.GA-table thead,
+table.GA-table thead {
+  display: none !important;
+}
+.GA-View table.GA-table tbody,
+table.GA-table tbody {
+  display: block !important;
+  width: 100% !important;
+}
+.GA-View table.GA-table tr,
+table.GA-table tr {
+  display: flex !important;
+  align-items: center !important;
+  height: 28px !important;
+  padding: 2px 4px !important;
+  border: none !important;
+  border-bottom: 1px solid var(--background-modifier-border) !important;
+  width: 100% !important;
+}
+.GA-View table.GA-table td,
+table.GA-table td {
+  display: inline-block !important;
+  border: none !important;
+  height: auto !important;
+  max-height: none !important;
+  padding: 0 4px !important;
+  vertical-align: middle !important;
+}
+.GA-View table.GA-table td:first-child,
+table.GA-table td:first-child {
+  flex: 1 !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap !important;
+}
+.GA-View table.GA-table td:nth-child(2),
+table.GA-table td:nth-child(2) {
+  width: 50px !important;
+  text-align: right !important;
+}
+.GA-View table.GA-table td:nth-child(3),
+table.GA-table td:nth-child(3) {
+  width: 24px !important;
+  text-align: center !important;
+}
+
 select.dropdown.GA-DD {
   line-height: normal;
   padding: 0.2em 1.9em 0.2em 0.4em;
@@ -79,10 +132,14 @@ body.is-mobile .GA-details::before {
 }
 
 .GA-View ::-webkit-scrollbar {
-  width: 1em;
+  width: 0px;
   height: 0px;
-  border-radius: 10px;
-  background-color: var(--scrollbar-bg);
+  display: none;
+}
+
+.GA-View {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
 }
 
 .scrollContainer {

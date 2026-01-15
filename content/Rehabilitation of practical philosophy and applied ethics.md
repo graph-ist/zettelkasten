@@ -8,15 +8,10 @@ subclasses:
 aliases:
   - normative ethics
   - applied ethics
-  - metaethics
-  - emotivism
   - moral philosophy
   - ethical theory
   - practical philosophy
-  - neoutilitarianism
-  - cognitivism
   - ethical rehabilitation
-  - bioethics
 contributions:
   - Conceptual
   - Constructive
@@ -28,7 +23,18 @@ authors:
   - "[[Apel]]"
   - "[[Habermas]]"
   - "[[MacIntyre]]"
-reference: "[[07 The search for thought - Unit 18 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Metaethics]]"
+  - "[[Normative Ethics]]"
+  - "[[Applied Ethics]]"
+  - "[[Utilitarianism]]"
+  - "[[Neo-Kantianism]]"
+  - "[[Communitarianism]]"
+  - "[[Bioethics]]"
+  - "[[Environmental Ethics]]"
+  - "[[Emotivism]]"
+  - "[[Moral Philosophy]]"
 ---
 
 #### Central Problem
@@ -54,11 +60,11 @@ The key insight was articulated clearly: "A philosophical ethics makes sense onl
 This normative turn produced a remarkable diversity of ethical theories:
 
 - **[[Lévinas]]:** Ethics as "first philosophy"—morality lies in openness to the Other who exceeds the ego
-- **Neo-Aristotelianism** (Arendt, Gadamer, Ritter, Buber): Virtue as practical wisdom within concrete traditions
+- **Neo-Aristotelianism** (Arendt, [[Gadamer]], [[Ritter]], [[Buber]]): Virtue as practical wisdom within concrete traditions
 - **Post-Kantianism** (Apel, Habermas): Universal structures of communicative rationality ground morality
 - **[[Jonas]]:** Responsibility toward future generations; ecological ethics as new categorical imperative
 - **[[Rawls]]:** Egalitarian neo-contractualism; justice as fairness; deontological anti-utilitarianism
-- **Libertarianism** (Nozick, Dworkin): Defense of individual liberty; minimal state theory
+- **Libertarianism** (Nozick, [[Dworkin]]): Defense of individual liberty; minimal state theory
 - **Neo-Utilitarianism** ([[Harsanyi]], [[Hare]]): Rule utilitarianism with universalizability requirements
 - **Communitarianism** (MacIntyre, Sandel, Taylor): Ethics grounded in concrete éthos of historical communities
 - **Postmodernism** (Vattimo): Ethics of charity; reduction of violence
@@ -68,15 +74,16 @@ The result has been an explosion of **applied ethics**—bioethics, environmenta
 
 #### Historical Context
 
-The "renaissance of ethics" emerged from multiple converging pressures. The devastation of World War II shattered any remaining illusions about progress and made ethical neutrality untenable. As [[Bertrand Russell]] wrote, one cannot place a discourse about the goodness of oysters on the same plane as a discourse about the permissibility of torturing Jews.
+The "renaissance of ethics" emerged from multiple converging pressures. The devastation of World War II shattered any remaining illusions about progress and made ethical neutrality untenable. As [[Russell]] wrote, one cannot place a discourse about the goodness of oysters on the same plane as a discourse about the permissibility of torturing Jews.
 
-The "rehabilitation of practical philosophy" movement, anticipated by [[Leo Strauss]] and [[Eric Voegelin]] (who attended to the normative dimensions of classical political philosophy), saw in ethical divisionism a logical consequence of modern scientism. They argued for recovering authentic practical philosophy—knowledge that is not merely descriptive, that does not limit itself to knowing facts and establishing laws, but is capable of indicating values and judging reality in terms of good and evil, just and unjust.
+The "rehabilitation of practical philosophy" movement, anticipated by [[Strauss]] and [[Voegelin]] (who attended to the normative dimensions of classical political philosophy), saw in ethical divisionism a logical consequence of modern scientism. They argued for recovering authentic practical philosophy—knowledge that is not merely descriptive, that does not limit itself to knowing facts and establishing laws, but is capable of indicating values and judging reality in terms of good and evil, just and unjust.
 
 The 1970s witnessed the emergence of **applied ethics** as a distinct field. The new figure of the professional "ethicist" appeared, responding to technological developments that could intervene not only on environmental mechanisms but on human biological and psychological constitution itself. The complexity of contemporary life demanded new behavioral codes, while increased sensitivity toward the Other (human and non-human) required ethical frameworks adequate to pluralistic societies.
 
 Contemporary ethics thus operates predominantly within a **dialogical** rather than monological paradigm—viewing humans not in isolated individuality but within the web of relationships that constitute them.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -179,18 +186,6 @@ flowchart TD
 
 > "If reason is not made to coincide entirely with science, one can hypothesize that practical reason, while distinct from scientific reason, possesses its own peculiar form of rationality." — [[Berti]]
 
-#### See Also
-
-- [[Metaethics]]
-- [[Normative Ethics]]
-- [[Applied Ethics]]
-- [[Utilitarianism]]
-- [[Neo-Kantianism]]
-- [[Communitarianism]]
-- [[Bioethics]]
-- [[Environmental Ethics]]
-- [[Emotivism]]
-- [[Moral Philosophy]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

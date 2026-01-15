@@ -8,11 +8,8 @@ subclasses:
   - 20th-Century-Philosophy
 aliases:
   - discourse ethics
-  - habermas
-  - apel
   - communicative action
   - practical philosophy
-  - lifeworld
   - system lifeworld
   - universal pragmatics
   - post metaphysics
@@ -30,7 +27,18 @@ authors:
   - "[[Weber]]"
   - "[[Gadamer]]"
   - "[[Peirce]]"
-reference: "[[07 The search for thought - Unit 16 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Critical Theory]]"
+  - "[[Frankfurt School]]"
+  - "[[Communicative Rationality]]"
+  - "[[Deliberative Democracy]]"
+  - "[[Neo-Aristotelianism]]"
+  - "[[Hermeneutics]]"
+  - "[[Postmodernism]]"
+  - "[[Kantian Ethics]]"
+  - "[[Public Sphere]]"
+  - "[[Post-Secular Society]]"
 ---
 
 #### Central Problem
@@ -43,7 +51,7 @@ The central tension lies between "contextualists" (neo-Aristotelians like [[Gada
 
 [[Habermas]] and [[Apel]] develop an "ethics of discourse" (*Diskursethik*) that grounds morality in the universal presuppositions of rational argumentation. Their thesis holds that anyone who engages in sincere argumentation implicitly accepts certain "validity claims": correctness (following argumentative norms), truth (making true statements), and sincerity (expressing genuine beliefs). These presuppositions entail an "ideal speech situation"—a counterfactual model of communication among free and equal participants where only the "force of the better argument" prevails.
 
-The ethics of discourse is: (a) **cognitivist**—moral judgments have rational foundations, not merely emotional ones; (b) **deontological**—focused on right action and binding principles; (c) **formal**—specifying procedures rather than content; (d) **universalist**—valid for all rational beings; (e) **post-Kantian**—transforming Kant's monological categorical imperative into a dialogical principle requiring collective verification.
+The ethics of discourse is: (a) **cognitivist**—moral judgments have rational foundations, not merely emotional ones; (b) **deontological**—focused on right action and binding principles; (c) **formal**—specifying procedures rather than content; (d) **universalist**—valid for all rational beings; (e) **post-Kantian**—transforming [[Kant]]'s monological categorical imperative into a dialogical principle requiring collective verification.
 
 [[Habermas]] distinguishes "system" (governed by money and power, instrumental rationality) from "lifeworld" (governed by communicative rationality, shared traditions, cultural reproduction). Modernity's pathology lies in the system's "colonization" of the lifeworld. Against postmodernist critics who declare modernity exhausted, Habermas argues it is merely "incomplete"—the Enlightenment project of emancipation remains valid and must be realized.
 
@@ -51,15 +59,16 @@ The ethics of discourse is: (a) **cognitivist**—moral judgments have rational 
 
 #### Historical Context
 
-The "rehabilitation of practical philosophy" began in 1960s Germany, led by [[Karl-Heinz Ilting]] and [[Manfred Riedel]], as a reaction against positivism, scientism, and the separation of facts from values characteristic of modern thought. This movement sought to recover the Aristotelian tradition of *phronesis* (practical wisdom) that Kant had displaced with autonomous disciplines (moral science, economics, political science, jurisprudence).
+The "rehabilitation of practical philosophy" began in 1960s Germany, led by [[Karl-Heinz Ilting]] and [[Riedel]], as a reaction against positivism, scientism, and the separation of facts from values characteristic of modern thought. This movement sought to recover the Aristotelian tradition of *phronesis* (practical wisdom) that [[Kant]] had displaced with autonomous disciplines (moral science, economics, political science, jurisprudence).
 
-[[Habermas]] emerged from the Frankfurt School, initially sharing [[Adorno]]'s critique of the "administered society" and instrumental reason. However, he progressively distanced himself from Frankfurt School pessimism, developing a communicative conception of reason that preserves critical-emancipatory potential. His "linguistic turn" in the 1970s, influenced by Austin, Searle, Chomsky, and Mead, led to the mature theory of communicative action (1981).
+[[Habermas]] emerged from the Frankfurt School, initially sharing [[Adorno]]'s critique of the "administered society" and instrumental reason. However, he progressively distanced himself from Frankfurt School pessimism, developing a communicative conception of reason that preserves critical-emancipatory potential. His "linguistic turn" in the 1970s, influenced by Austin, [[Searle]], Chomsky, and [[Mead]], led to the mature theory of communicative action (1981).
 
 The debate with [[Gadamer]] (hermeneutics), the confrontation with [[Weber]]'s theory of rationalization, and opposition to [[Lyotard]] and postmodern thought shaped Habermas's defense of modernity. His later work addresses the challenges of multiculturalism, globalization, and religion in "post-secular" societies.
 
 [[Apel]] developed independently, transforming Kantian transcendental philosophy through semiotics (theory of signs) and Peirce's pragmatism, arriving at a "transformation of philosophy" that grounds rationality in the intersubjective community of language users rather than the solitary thinking subject.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -111,7 +120,7 @@ flowchart TD
 |-------|--------------|----------|
 | Foundation of ethics | Universal pragmatics (hypothetical-scientific) | Transcendental pragmatics (a priori, ultimate) |
 | Status of presuppositions | High-level empirical generalizations | Necessary, undeniable conditions |
-| Relation to Kant | Post-Kantian transformation | Semiotic transformation of transcendentalism |
+| Relation to [[Kant]] | Post-Kantian transformation | Semiotic transformation of transcendentalism |
 | Against relativism | Dialogical rationality | Performative self-contradiction argument |
 | Key concept | Communicative rationality | Unlimited communication community |
 | Political application | Deliberative democracy, constitutional state | Planetary ethics, global public sphere |
@@ -154,18 +163,6 @@ flowchart TD
 
 > "Anyone who argues already presupposes the validity of logical rules and the norms of a communication community—these cannot be denied without performative self-contradiction." — [[Apel]]
 
-#### See Also
-
-- [[Critical Theory]]
-- [[Frankfurt School]]
-- [[Communicative Rationality]]
-- [[Deliberative Democracy]]
-- [[Neo-Aristotelianism]]
-- [[Hermeneutics]]
-- [[Postmodernism]]
-- [[Kantian Ethics]]
-- [[Public Sphere]]
-- [[Post-Secular Society]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

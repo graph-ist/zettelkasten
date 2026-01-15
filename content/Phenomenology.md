@@ -6,18 +6,10 @@ subclasses:
   - Epistemology
   - 20th-Century-Philosophy
 aliases:
-  - phenomenology
-  - husserl
-  - intentionality
-  - epoch
   - eidetic reduction
-  - consciousness
-  - lifeworld
   - noesis noema
   - transcendental ego
   - essence intuition
-  - intersubjectivity
-  - brentano
 contributions:
   - Conceptual
 authors:
@@ -26,7 +18,18 @@ authors:
   - "[[Bolzano]]"
   - "[[Scheler]]"
   - "[[Frege]]"
-reference: "[[06 The search for thought - Unit 8 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Phenomenology]]"
+  - "[[Intentionality]]"
+  - "[[Transcendental Philosophy]]"
+  - "[[Lifeworld]]"
+  - "[[Existentialism]]"
+  - "[[Hermeneutics]]"
+  - "[[Heidegger]]"
+  - "[[Brentano]]"
+  - "[[Value Ethics]]"
+  - "[[Crisis of Sciences]]"
 ---
 
 #### Central Problem
@@ -35,36 +38,37 @@ The chapter addresses the fundamental problem of how philosophy can become a rig
 
 The phenomenological approach seeks to overcome the limitations of both positions by developing a method that suspends ("brackets") our natural assumptions about reality in order to focus on how objects appear to consciousness — not as facts among other facts, but as phenomena revealing their essential structures. This requires clarifying the nature of consciousness itself as intentionality: consciousness is always consciousness *of* something.
 
-A further problem emerges in Husserl's later work: the crisis of modern science, which has become alienated from the "world of life" (Lebenswelt) through its mathematization and objectivism, losing touch with the human subject who is the source and purpose of all scientific activity.
+A further problem emerges in [[Husserl]]'s later work: the crisis of modern science, which has become alienated from the "world of life" (Lebenswelt) through its mathematization and objectivism, losing touch with the human subject who is the source and purpose of all scientific activity.
 
 #### Main Thesis
 
-Phenomenology, as developed by Husserl, conceives philosophy as the analysis of consciousness in its intentionality. Since consciousness is essentially intentionality — always consciousness *of* something — analyzing it means examining all possible ways in which something can be "given" to consciousness and all types of "meaning" or "validity" that can be attributed to objects of consciousness.
+Phenomenology, as developed by [[Husserl]], conceives philosophy as the analysis of consciousness in its intentionality. Since consciousness is essentially intentionality — always consciousness *of* something — analyzing it means examining all possible ways in which something can be "given" to consciousness and all types of "meaning" or "validity" that can be attributed to objects of consciousness.
 
 **The Phenomenological Method:** Two fundamental operations are required:
 - **Eidetic Reduction:** Replacing consideration of facts or natural things with the intuition of essences (eide) — universal, invariant structures of which individual objects are merely particular instances
 - **Epoché (Bracketing):** Suspending the thesis of the effective existence of the real world — not denying it, but putting it "out of action" to focus on phenomena as they appear to consciousness
 
-**The Structure of Consciousness:** Husserl distinguishes:
+**The Structure of Consciousness:** [[Husserl]] distinguishes:
 - **Noesis:** The acts of consciousness (perceiving, remembering, imagining)
 - **Noema:** The objective element of lived experience — the object considered in its various modes of being given (perceived, remembered, imagined)
 - The object itself remains a transcendent pole around which noematic experiences are oriented
 
-**The Transcendental Turn:** In his later works, Husserl moves toward a transcendental idealism, positing a transcendental ego that cannot itself be subjected to epoché since it is the very subject performing the bracketing. This raises the problem of solipsism, which Husserl addresses through the concept of intersubjectivity: the world must be founded on the constitutive activity of multiple co-subjects within transcendental subjectivity.
+**The Transcendental Turn:** In his later works, [[Husserl]] moves toward a transcendental idealism, positing a transcendental ego that cannot itself be subjected to epoché since it is the very subject performing the bracketing. This raises the problem of solipsism, which [[Husserl]] addresses through the concept of intersubjectivity: the world must be founded on the constitutive activity of multiple co-subjects within transcendental subjectivity.
 
-**The Crisis of European Sciences:** Husserl's final work diagnoses modern science as having lost contact with the Lebenswelt — the pre-categorical, concrete dimension of lived experience. Science has become a "sustruzione" (construction upon) that covers over its vital roots. The task of phenomenology is to restore science's connection to human life and to reassert the philosopher's role as "functionary of humanity."
+**The Crisis of European Sciences:** [[Husserl]]'s final work diagnoses modern science as having lost contact with the Lebenswelt — the pre-categorical, concrete dimension of lived experience. Science has become a "sustruzione" (construction upon) that covers over its vital roots. The task of phenomenology is to restore science's connection to human life and to reassert the philosopher's role as "functionary of humanity."
 
 #### Historical Context
 
 Phenomenology emerged in the early 20th century as a response to two dominant tendencies: the psychologism that sought to ground logic and mathematics in psychological processes, and the positivist-naturalist worldview that reduced all knowledge to factual sciences.
 
-Husserl (1859-1938) was born in Moravia to a Jewish family. He studied mathematics in Berlin with Weierstrass and Kronecker before encountering Franz Brentano in Vienna, which turned him toward philosophy. He converted to Protestantism in 1886 and began his academic career at Halle (1887), later moving to Göttingen (1901) and Freiburg (1916).
+[[Husserl]] (1859-1938) was born in Moravia to a Jewish family. He studied mathematics in [[Berlin]] with Weierstrass and Kronecker before encountering Brentano in Vienna, which turned him toward philosophy. He converted to Protestantism in 1886 and began his academic career at Halle (1887), later moving to Göttingen (1901) and Freiburg (1916).
 
-The phenomenological movement grew through the circles at Munich and Göttingen, including figures like Adolf Reinach, Alexandre Koyré, Roman Ingarden, and Edith Stein. Husserl's relationship with Heidegger, initially one of friendship and collaboration, soured after *Being and Time* (1927) developed phenomenology in a direction Husserl found incompatible with his own.
+The phenomenological movement grew through the circles at Munich and Göttingen, including figures like Adolf Reinach, Alexandre Koyré, Roman Ingarden, and Edith Stein. [[Husserl]]'s relationship with [[Heidegger]], initially one of friendship and collaboration, soured after *Being and Time* (1927) developed phenomenology in a direction [[Husserl]] found incompatible with his own.
 
-In 1933, following the Nazi rise to power, Husserl was removed from the academic body due to his Jewish origins. He remained in Germany, continuing to work on *The Crisis of European Sciences* until his death in 1938. His massive archive of over 40,000 pages of stenographic manuscripts was saved by the Franciscan friar Herman Leo van Breda and transferred to the Husserl Archives at Leuven.
+In 1933, following the Nazi rise to power, [[Husserl]] was removed from the academic body due to his Jewish origins. He remained in Germany, continuing to work on *The Crisis of European Sciences* until his death in 1938. His massive archive of over 40,000 pages of stenographic manuscripts was saved by the Franciscan friar Herman Leo van Breda and transferred to the [[Husserl]] Archives at Leuven.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -108,7 +112,7 @@ flowchart TD
 | Transcendental Ego | The pure ego presupposed by all reduction, protagonist of meaning-conferral, distinct from empirical-natural ego | [[Husserl]], [[Phenomenology]] |
 | Lebenswelt (Lifeworld) | The pre-categorical dimension of concrete lived experience; the "realm of original evidences" underlying science | [[Husserl]], Crisis |
 | Intersubjectivity | The constitutive role of other egos as co-subjects; solution to the problem of transcendental solipsism | [[Husserl]], phenomenology |
-| Material Value Ethics | Ethics based on objective values given to emotional intuition, contrasted with Kant's formal ethics | [[Scheler]], values |
+| Material Value Ethics | Ethics based on objective values given to emotional intuition, contrasted with [[Kant]]'s formal ethics | [[Scheler]], values |
 | Sustruzione | Construction-upon: science's overlay on the lifeworld that conceals its vital roots | [[Husserl]], Crisis |
 
 #### Authors Comparison
@@ -160,18 +164,6 @@ flowchart TD
 
 > "Philosophers become functionaries of humanity, responsible not only before themselves, but before the destiny of the species." — [[Husserl]]
 
-#### See Also
-
-- [[Phenomenology]]
-- [[Intentionality]]
-- [[Transcendental Philosophy]]
-- [[Lifeworld]]
-- [[Existentialism]]
-- [[Hermeneutics]]
-- [[Heidegger]]
-- [[Brentano]]
-- [[Value Ethics]]
-- [[Crisis of Sciences]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

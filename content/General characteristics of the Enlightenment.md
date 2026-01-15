@@ -7,17 +7,10 @@ subclasses:
   - Social-and-Political-Philosophy
   - Epistemology
 aliases:
-  - enlightenment
-  - illuminismo
   - age reason
   - sapere aude
-  - philosophes
-  - deism
-  - tolerance
-  - progress
   - natural rights
   - public happiness
-  - encyclopedists
   - despotism enlightened
 contributions:
   - Conceptual
@@ -30,14 +23,26 @@ authors:
   - "[[Locke]]"
   - "[[Newton]]"
   - "[[Condorcet]]"
-reference: "[[04 The search for thought - Unit 6 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[French Revolution]]"
+  - "[[Encyclopedia]]"
+  - "[[Deism]]"
+  - "[[Natural Rights]]"
+  - "[[Liberalism]]"
+  - "[[Tolerance]]"
+  - "[[Scientific Revolution]]"
+  - "[[Progress]]"
+  - "[[Social Contract Theory]]"
+  - "[[Physiocracy]]"
+  - "[[Romanticism]]"
 ---
 
 #### Central Problem
 
 The Enlightenment confronts the fundamental question of human emancipation: How can humanity escape from its self-imposed "minority" (Unmündigkeit) and achieve genuine progress through the autonomous and public use of reason? This cultural movement, which developed in the eighteenth century across major European countries, represents one of the most significant intellectual turning points in Western modernity.
 
-The central challenge lies in the recognition that humans, despite possessing the precious gift of intellect, have historically failed to employ it properly, remaining in a state of immaturity that has left them prey to irrational forces: tradition, authority, political power, religious dogma, and metaphysical systems. As Kant famously articulated in his 1784 essay "What is Enlightenment?": "Enlightenment is man's emergence from his self-incurred minority. Minority is the inability to use one's own understanding without the guidance of another."
+The central challenge lies in the recognition that humans, despite possessing the precious gift of intellect, have historically failed to employ it properly, remaining in a state of immaturity that has left them prey to irrational forces: tradition, authority, political power, religious dogma, and metaphysical systems. As [[Kant]] famously articulated in his 1784 essay "What is Enlightenment?": "Enlightenment is man's emergence from his self-incurred minority. Minority is the inability to use one's own understanding without the guidance of another."
 
 The problem thus becomes: How can reason be used freely and publicly to achieve genuine improvement in human life? This requires not merely celebrating rational powers in the abstract, but deploying reason critically against all those forces — prejudices, myths, superstitions, inherited authorities — that have obstructed human flourishing. The deeper problem concerns whether such rational critique can be extended from the natural sciences to the domains of religion, politics, and morality, and whether this extension can lead to genuine social reform and the "public happiness" of humankind.
 
@@ -51,7 +56,7 @@ The Enlightenment's fundamental thesis is that the free, public, and critical us
 
 **Science as Model:** The scientific method, particularly Newtonian physics, provides the paradigm for genuine knowledge. The Enlightenment represents the true "philosophy" of the scientific revolution, recognizing both the anti-metaphysical implications and the social importance of scientific progress.
 
-**Reason Within Experience:** Unlike Cartesian rationalism, Enlightenment reason is limited to experience (following Locke and Newton). It rejects both innate ideas and metaphysical speculation beyond the empirical. However, unlike pure empiricism, it maintains confidence in reason's power to reform society.
+**Reason Within Experience:** Unlike Cartesian rationalism, Enlightenment reason is limited to experience (following [[Locke]] and [[Newton]]). It rejects both innate ideas and metaphysical speculation beyond the empirical. However, unlike pure empiricism, it maintains confidence in reason's power to reform society.
 
 **Deism vs. Atheism:** Two major currents emerge regarding religion. Deism (the predominant view) distinguishes between a rational core of natural religion (God as cosmic "clockmaker") and the superstitious accretions of positive religions. Atheism (Meslier, d'Holbach) sees religion as inherently pathological, rooted in fear and political manipulation.
 
@@ -63,13 +68,14 @@ The Enlightenment's fundamental thesis is that the free, public, and critical us
 
 The Enlightenment emerged in the eighteenth century as the theoretical expression and intellectual weapon of the ascending bourgeoisie, the class that since the sixteenth century had been economically expanding and politically rising. The movement can be seen as the philosophical counterpart to this social revolution against feudal institutions and the Church's dominance.
 
-The Enlightenment inherited and radicalized the Renaissance program of human dignity and worldly values, while also building upon the Scientific Revolution (Galileo, Newton) and the philosophical achievements of both rationalism (Descartes) and empiricism (Locke). Unlike the Renaissance, however, the Enlightenment pursued a more thorough secularization: God, while not typically declared non-existent, was relegated to a sphere having little to do with human affairs (deism).
+The Enlightenment inherited and radicalized the Renaissance program of human dignity and worldly values, while also building upon the Scientific Revolution (Galileo, [[Newton]]) and the philosophical achievements of both rationalism (Descartes) and empiricism (Locke). Unlike the Renaissance, however, the Enlightenment pursued a more thorough secularization: God, while not typically declared non-existent, was relegated to a sphere having little to do with human affairs (deism).
 
 The French Enlightenment, in particular, emerged as political philosophy became possible after the crisis of Louis XIV's absolutism. The pressing of forces opposed to royal absolutism, especially the bourgeoisie, generated an intense debate that would first provide the theoretical platform for "enlightened despotism" and later constitute the ideological preparation for the French Revolution.
 
 The movement culminated in the Encyclopedia project (1751-1772), edited by Diderot and d'Alembert, which attempted to systematize all human knowledge according to Enlightenment principles — a monumental testimony to the belief in reason's power to organize and advance human civilization.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -179,19 +185,6 @@ flowchart TD
 
 > "The safety of property is the essential foundation of the economic order of society." — [[Quesnay]]
 
-#### See Also
-
-- [[French Revolution]]
-- [[Encyclopedia]]
-- [[Deism]]
-- [[Natural Rights]]
-- [[Liberalism]]
-- [[Tolerance]]
-- [[Scientific Revolution]]
-- [[Progress]]
-- [[Social Contract Theory]]
-- [[Physiocracy]]
-- [[Romanticism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

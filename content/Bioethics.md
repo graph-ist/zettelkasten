@@ -7,7 +7,6 @@ subclasses:
   - Ethics
   - 20th-Century-Philosophy
 aliases:
-  - bioethics
   - medical ethics
   - life ethics
   - sanctity life
@@ -28,7 +27,18 @@ authors:
   - "[[Childress]]"
   - "[[Engelhardt]]"
   - "[[Scarpelli]]"
-reference: "[[07 The search for thought - Unit 18 Chapter 5.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Applied Ethics]]"
+  - "[[Medical Ethics]]"
+  - "[[Natural Law]]"
+  - "[[Catholic Philosophy]]"
+  - "[[Secular Ethics]]"
+  - "[[Utilitarianism]]"
+  - "[[Personalism]]"
+  - "[[Autonomy]]"
+  - "[[Euthanasia]]"
+  - "[[Abortion Ethics]]"
 ---
 
 #### Central Problem
@@ -65,7 +75,7 @@ This bioethics is **anti-absolutist**: either consequentialist (oriented to outc
 
 #### Historical Context
 
-The term "bioethics" was coined by oncologist [[Van Rensselaer Potter]] in 1970-71, originally meaning an attempt to join life sciences with an ethics capable of ensuring human survival against the "cancer" of scientific-technological revolution. However, the term gained wider currency through the Kennedy Institute of Ethics (founded 1971) at Georgetown University, where [[Warren Reich]] defined bioethics as "the systematic study of human conduct in the area of the life sciences and health care, when such conduct is examined in the light of moral values and principles."
+The term "bioethics" was coined by oncologist [[Van Rensselaer Potter]] in 1970-71, originally meaning an attempt to join life sciences with an ethics capable of ensuring human survival against the "cancer" of scientific-technological revolution. However, the term gained wider currency through the Kennedy Institute of Ethics (founded 1971) at Georgetown University, where [[Reich]] defined bioethics as "the systematic study of human conduct in the area of the life sciences and health care, when such conduct is examined in the light of moral values and principles."
 
 Bioethics became a phenomenon of planetary relevance in the 1990s, with the founding of the International Association of Bioethics in 1992. As [[Scarpelli]] wrote, if Tocqueville had predicted that private property would be the great "battlefield" of the nineteenth century, "the great battlefield at the end of this century is biology with its ethics."
 
@@ -74,6 +84,7 @@ The discipline emerged from multiple factors: crisis of common moral beliefs, co
 The Italian debate has been particularly marked by the opposition between Catholic and secular bioethics, producing significant documents like the "Manifesto of Secular Bioethics" (1996) and the "New Manifesto of Secular Bioethics" (2007).
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -171,18 +182,6 @@ flowchart TD
 
 > "The great battlefield at the end of this century is biology with its ethics." — [[Scarpelli]]
 
-#### See Also
-
-- [[Applied Ethics]]
-- [[Medical Ethics]]
-- [[Natural Law]]
-- [[Catholic Philosophy]]
-- [[Secular Ethics]]
-- [[Utilitarianism]]
-- [[Personalism]]
-- [[Autonomy]]
-- [[Euthanasia]]
-- [[Abortion Ethics]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

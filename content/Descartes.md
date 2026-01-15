@@ -28,24 +28,35 @@ authors:
   - "[[Gassendi]]"
   - "[[Hobbes]]"
   - "[[Arnauld]]"
-reference: "[[03 The search for thought - Unit 3 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Rationalism]]"
+  - "[[Scientific Revolution]]"
+  - "[[Methodical Doubt]]"
+  - "[[Mind-Body Problem]]"
+  - "[[Cartesian Dualism]]"
+  - "[[Epistemology]]"
+  - "[[Innate Ideas]]"
+  - "[[Mechanicism]]"
+  - "[[Discourse on Method]]"
+  - "[[Meditations on First Philosophy]]"
 ---
 
 #### Central Problem
 
-How can human beings establish a secure foundation for knowledge that withstands radical skepticism and provides a universal method applicable to all fields of inquiry? René Descartes confronts the crisis of knowledge inherited from Renaissance skepticism, particularly the Pyrrhonist revival by thinkers like [[Montaigne]], which questioned whether any certain knowledge is attainable.
+How can human beings establish a secure foundation for knowledge that withstands radical skepticism and provides a universal method applicable to all fields of inquiry? [[Descartes]] confronts the crisis of knowledge inherited from Renaissance skepticism, particularly the Pyrrhonist revival by thinkers like [[Montaigne]], which questioned whether any certain knowledge is attainable.
 
-The problem emerged from Descartes' own educational experience at the Jesuit college of La Flèche, where despite successfully assimilating the learned traditions of his time, he found himself without any reliable criterion for distinguishing truth from falsehood. The inherited scholastic philosophy appeared incapable of grounding the new sciences, while the new sciences themselves lacked philosophical justification.
+The problem emerged from [[Descartes]]' own educational experience at the Jesuit college of La Flèche, where despite successfully assimilating the learned traditions of his time, he found himself without any reliable criterion for distinguishing truth from falsehood. The inherited scholastic philosophy appeared incapable of grounding the new sciences, while the new sciences themselves lacked philosophical justification.
 
-Descartes seeks a method that is simultaneously theoretical and practical: it must enable the distinction between true and false knowledge while also providing practical benefits for human life, making humanity "master and possessor of nature." The fundamental tension lies between the need for absolute certainty as the foundation of knowledge and the apparent impossibility of escaping doubt about any particular belief.
+[[Descartes]] seeks a method that is simultaneously theoretical and practical: it must enable the distinction between true and false knowledge while also providing practical benefits for human life, making humanity "master and possessor of nature." The fundamental tension lies between the need for absolute certainty as the foundation of knowledge and the apparent impossibility of escaping doubt about any particular belief.
 
 #### Main Thesis
 
 Descartes' central thesis is that certain knowledge must be grounded in the self-evident existence of the thinking subject (*cogito ergo sum*), from which all other knowledge can be systematically derived through the application of a universal method modeled on mathematical reasoning.
 
-**The Method:** Descartes formulates four rules: (1) **Evidence** — accept only what presents itself clearly and distinctly to the mind; (2) **Analysis** — divide complex problems into simpler elements; (3) **Synthesis** — proceed from simple to complex knowledge in orderly fashion; (4) **Enumeration and Review** — ensure completeness through thorough checking.
+**The Method:** [[Descartes]] formulates four rules: (1) **Evidence** — accept only what presents itself clearly and distinctly to the mind; (2) **Analysis** — divide complex problems into simpler elements; (3) **Synthesis** — proceed from simple to complex knowledge in orderly fashion; (4) **Enumeration and Review** — ensure completeness through thorough checking.
 
-**The Cogito:** Through methodical doubt extended to its hyperbolic extreme (the "evil genius" hypothesis), Descartes discovers that the one thing immune to doubt is the existence of the doubting subject itself. Even if deceived about everything else, the act of doubting proves existence: "I think, therefore I am."
+**The Cogito:** Through methodical doubt extended to its hyperbolic extreme (the "evil genius" hypothesis), [[Descartes]] discovers that the one thing immune to doubt is the existence of the doubting subject itself. Even if deceived about everything else, the act of doubting proves existence: "I think, therefore I am."
 
 **The Nature of the Self:** The thinking subject exists as *res cogitans* — an immaterial, conscious, free substance whose essence is thought. This is distinguished absolutely from *res extensa* — material, spatial, unconscious, mechanically determined substance.
 
@@ -55,15 +66,16 @@ Descartes' central thesis is that certain knowledge must be grounded in the self
 
 #### Historical Context
 
-Descartes (1596-1650) developed his philosophy during a period of profound intellectual and political upheaval. The Scientific Revolution had challenged the Aristotelian-Ptolemaic worldview, with [[Galilei]]'s condemnation in 1633 demonstrating the continuing conflict between new science and traditional authority. Descartes himself suppressed his *Treatise on Light* (which supported Copernicanism) following Galilei's trial.
+[[Descartes]] (1596-1650) developed his philosophy during a period of profound intellectual and political upheaval. The Scientific Revolution had challenged the Aristotelian-Ptolemaic worldview, with [[Galilei]]'s condemnation in 1633 demonstrating the continuing conflict between new science and traditional authority. [[Descartes]] himself suppressed his *Treatise on Light* (which supported Copernicanism) following Galilei's trial.
 
-The Thirty Years' War (1618-1648) devastated Europe, creating an atmosphere of instability. Religious conflicts between Catholics and Protestants had undermined confidence in traditional authorities. Descartes lived primarily in the Netherlands (1629-1649), seeking the intellectual freedom unavailable in Catholic France.
+The Thirty Years' War (1618-1648) devastated Europe, creating an atmosphere of instability. Religious conflicts between Catholics and Protestants had undermined confidence in traditional authorities. [[Descartes]] lived primarily in the Netherlands (1629-1649), seeking the intellectual freedom unavailable in Catholic France.
 
 The recovery of ancient skepticism, particularly through [[Montaigne]]'s *Essays*, had created an intellectual crisis regarding the possibility of certain knowledge. The new mathematical physics of [[Galilei]] and [[Kepler]] demanded philosophical justification that scholastic Aristotelianism could not provide.
 
-Descartes was educated in the Jesuit tradition, which combined scholastic philosophy with humanistic learning and some openness to new science. His *Discourse on Method* (1637) was deliberately written in French rather than Latin to reach a broader audience, signaling a break with academic tradition. His major works — *Meditations on First Philosophy* (1641), *Principles of Philosophy* (1644), and *Passions of the Soul* (1649) — established the agenda for seventeenth-century philosophy.
+[[Descartes]] was educated in the Jesuit tradition, which combined scholastic philosophy with humanistic learning and some openness to new science. His *Discourse on Method* (1637) was deliberately written in French rather than Latin to reach a broader audience, signaling a break with academic tradition. His major works — *Meditations on First Philosophy* (1641), *Principles of Philosophy* (1644), and *Passions of the Soul* (1649) — established the agenda for seventeenth-century philosophy.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -158,18 +170,6 @@ flowchart TD
 
 > "Archimedes, to move the terrestrial globe from its place and transport it elsewhere, asked only for one fixed and immobile point. Similarly, I shall have the right to conceive great hopes, if I am fortunate enough to find only one thing that is certain and indubitable." — [[Descartes]]
 
-#### See Also
-
-- [[Rationalism]]
-- [[Scientific Revolution]]
-- [[Methodical Doubt]]
-- [[Mind-Body Problem]]
-- [[Cartesian Dualism]]
-- [[Epistemology]]
-- [[Innate Ideas]]
-- [[Mechanicism]]
-- [[Discourse on Method]]
-- [[Meditations on First Philosophy]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

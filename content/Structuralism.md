@@ -7,15 +7,10 @@ subclasses:
   - Continental-Philosophy
   - Philosophy-of-Language
 aliases:
-  - structuralism
   - langue parole
   - signifier signified
   - synchronic diacronic
-  - death of
-  - episteme
-  - antihumanism
   - unconscious structures
-  - semiology
 contributions:
   - Conceptual
 authors:
@@ -26,7 +21,18 @@ authors:
   - "[[Althusser]]"
   - "[[Piaget]]"
   - "[[Jakobson]]"
-reference: "[[07 The search for thought - Unit 15 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Semiology]]"
+  - "[[Post-Structuralism]]"
+  - "[[Deconstruction]]"
+  - "[[Psychoanalysis]]"
+  - "[[Linguistic Turn]]"
+  - "[[French Philosophy]]"
+  - "[[Antihumanism]]"
+  - "[[Archaeology of Knowledge]]"
+  - "[[Panopticon]]"
+  - "[[Ideology]]"
 ---
 
 #### Central Problem
@@ -50,19 +56,20 @@ Structuralism maintains that reality constitutes a system of relations in which 
 
 **The Death of Man:** Foucault's archaeological investigations reveal that "man" as object-subject of knowledge is a recent historical invention, emerging only at the end of the eighteenth century. But this epistemic "birth" paradoxically entails man's simultaneous "death": when human sciences become genuinely scientific (through psychoanalysis, ethnology, linguistics), they discover that what makes man possible is a set of structures "of which he is not the subject, the sovereign consciousness."
 
-**The Unconscious as Language:** Lacan radicalizes Freud through structuralist linguistics, declaring that "the unconscious is structured like a language." The center of the human being lies not in consciousness or cogito but in the Other—the unconscious that dominates conscious life and speaks through the subject.
+**The Unconscious as Language:** Lacan radicalizes [[Freud]] through structuralist linguistics, declaring that "the unconscious is structured like a language." The center of the human being lies not in consciousness or cogito but in the Other—the unconscious that dominates conscious life and speaks through the subject.
 
 #### Historical Context
 
 Structuralism emerged in France during the 1960s and 1970s as a specific "cultural atmosphere" that crystallized diverse intellectual currents into a movement united more by what it opposed than by shared positive doctrines. The historical success of structuralism derived largely from its attempt to sweep away the dominant philosophical traditions of the first half of the twentieth century in favor of a new, more scientific worldview.
 
-The movement's roots lie in Saussure's *Course in General Linguistics* (1916), which revolutionized the study of language by treating it as a self-contained system of signs. The Prague Linguistic Circle (founded 1926) and the Copenhagen School developed these insights, particularly in phonology and glossematics. The influence of Bachelard's philosophy of science, along with selective readings of Nietzsche, Heidegger, Marx, and Freud, also shaped the structuralist synthesis.
+The movement's roots lie in Saussure's *Course in General Linguistics* (1916), which revolutionized the study of language by treating it as a self-contained system of signs. The Prague Linguistic Circle (founded 1926) and the Copenhagen School developed these insights, particularly in phonology and glossematics. The influence of Bachelard's philosophy of science, along with selective readings of [[Nietzsche]], Heidegger, [[Marx]], and [[Freud]], also shaped the structuralist synthesis.
 
 The post-World War II period saw disillusionment with existentialist humanism and its emphasis on freedom, engagement, and the individual subject. The political failures of humanist Marxism, the perceived inadequacies of phenomenology, and the rise of new human sciences created receptive conditions for a movement promising rigorous, scientific analysis of human phenomena. The "Four Musketeers" of structuralism—Lévi-Strauss, Foucault, Lacan, and Althusser—each contributed distinctive versions of the structuralist critique of subjectivity.
 
 The movement's decline began in the late 1960s, with figures like Foucault and others moving toward "post-structuralism," though structuralist methodologies continued to influence anthropology, linguistics, and literary theory.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -94,7 +101,7 @@ flowchart TD
 | [[Lévi-Strauss]] | 1908-2009 | [[Structuralism]] | *Structural Anthropology* | Unconscious structures, transformation |
 | [[Foucault]] | 1926-1984 | [[Structuralism]] | *The Order of Things* | Episteme, death of man |
 | [[Lacan]] | 1901-1981 | [[Structuralism]] | *Écrits* | Unconscious as language |
-| [[Althusser]] | 1918-1990 | [[Structural Marxism]] | *For Marx* | Ideology/science, overdetermination |
+| [[Althusser]] | 1918-1990 | [[Structural Marxism]] | *For [[Marx]]* | Ideology/science, overdetermination |
 | [[Jakobson]] | 1896-1982 | [[Prague Circle]] | *Fundamentals of Language* | Phonology, linguistic functions |
 | [[Piaget]] | 1896-1980 | [[Genetic Epistemology]] | *Structuralism* | Structure as transformation system |
 
@@ -154,7 +161,7 @@ flowchart TD
 | 1958 | [[Lévi-Strauss]] publishes *Structural Anthropology* |
 | 1961 | [[Foucault]] publishes *History of Madness* |
 | 1962 | [[Lévi-Strauss]] publishes *The Savage Mind* |
-| 1965 | [[Althusser]] publishes *For Marx* and *Reading Capital* |
+| 1965 | [[Althusser]] publishes *For [[Marx]]* and *Reading Capital* |
 | 1966 | [[Foucault]] publishes *The Order of Things*; [[Lacan]] publishes *Écrits* |
 | 1969 | [[Foucault]] publishes *The Archaeology of Knowledge* |
 | 1975 | [[Foucault]] publishes *Discipline and Punish* |
@@ -167,18 +174,6 @@ flowchart TD
 
 > "One discovers that what makes man possible is a set of structures—structures that he can certainly think and describe, but of which he is not the subject, the sovereign consciousness." — [[Foucault]]
 
-#### See Also
-
-- [[Semiology]]
-- [[Post-Structuralism]]
-- [[Deconstruction]]
-- [[Psychoanalysis]]
-- [[Linguistic Turn]]
-- [[French Philosophy]]
-- [[Antihumanism]]
-- [[Archaeology of Knowledge]]
-- [[Panopticon]]
-- [[Ideology]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

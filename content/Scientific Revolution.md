@@ -9,13 +9,9 @@ subclasses:
 aliases:
   - scientific revolution
   - copernican revolution
-  - heliocentrism
-  - geocentrism
   - infinite universe
   - experimental method
   - mathematical physics
-  - astronomy
-  - cosmology
   - new science
   - nature laws
 contributions:
@@ -26,7 +22,18 @@ authors:
   - "[[Kepler]]"
   - "[[Brahe]]"
   - "[[Galilei]]"
-reference: "[[03 The search for thought - Unit 2 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Galilei]]"
+  - "[[Newton]]"
+  - "[[Mechanism]]"
+  - "[[Empiricism]]"
+  - "[[Rationalism]]"
+  - "[[Philosophy of Science]]"
+  - "[[Cosmology]]"
+  - "[[Infinite Universe]]"
+  - "[[Heliocentrism]]"
+  - "[[Renaissance]]"
 ---
 
 #### Central Problem
@@ -35,7 +42,7 @@ The chapter addresses the fundamental historiographical question: what factors p
 
 The central problem encompasses multiple dimensions: What were the circumstances, events, and figures that favored the advent of science? What relationship exists between the new knowledge and old culture? Why was science born only in the modern age and not before? What forces opposed its birth and what forces ensured its eventual triumph?
 
-A secondary but crucial problem concerns the astronomical revolution: how did humanity transition from the closed, finite, geocentric universe of Aristotle and Ptolemy to the open, infinite, heliocentric universe of the moderns? This transformation involved not merely scientific observations but profound philosophical and theological implications.
+A secondary but crucial problem concerns the astronomical revolution: how did humanity transition from the closed, finite, geocentric universe of [[Aristotle]] and [[Ptolemy]] to the open, infinite, heliocentric universe of the moderns? This transformation involved not merely scientific observations but profound philosophical and theological implications.
 
 #### Main Thesis
 
@@ -63,6 +70,7 @@ The late medieval Ockhamist school had already begun critiquing Aristotelian the
 The old Aristotelian-Ptolemaic cosmology had been integrated with Christian theology: Earth at the center suited doctrines of creation, incarnation, and redemption that presupposed Earth as the privileged stage of sacred history. The new science therefore faced opposition from official culture, Church authorities (who saw their cosmological framework and biblical authority challenged), and practitioners of occult sciences.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -98,7 +106,7 @@ flowchart TD
 
 | Concept | Definition | Related to |
 |---------|------------|------------|
-| Scientific Revolution | Radical transformation of knowledge from Copernico (1543) to Newton (1687), establishing experimental-mathematical science | [[Philosophy of Science]], [[Modernity]] |
+| Scientific Revolution | Radical transformation of knowledge from Copernico (1543) to [[Newton]] (1687), establishing experimental-mathematical science | [[Philosophy of Science]], [[Modernity]] |
 | Nature as objective order | Nature stripped of anthropomorphic attributes, studied as causal relations between facts governed by laws | [[Galilei]], [[Mechanism]] |
 | Efficient causality | The only scientifically admissible cause — the forces that produce a fact, excluding final causes | [[Galilei]], [[Anti-finalism]] |
 | Experimental method | Knowledge based on observation, with hypotheses justified empirically through controlled experiments | [[Galilei]], [[Empiricism]] |
@@ -163,18 +171,6 @@ flowchart TD
 
 > "Knowledge is power." — [[Bacon]]
 
-#### See Also
-
-- [[Galilei]]
-- [[Newton]]
-- [[Mechanism]]
-- [[Empiricism]]
-- [[Rationalism]]
-- [[Philosophy of Science]]
-- [[Cosmology]]
-- [[Infinite Universe]]
-- [[Heliocentrism]]
-- [[Renaissance]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

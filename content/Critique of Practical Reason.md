@@ -10,8 +10,6 @@ aliases:
   - categorical imperative
   - moral law
   - duty ethics
-  - autonomy
-  - postulates
   - pure practical
   - kingdom ends
   - good will
@@ -27,7 +25,18 @@ authors:
   - "[[Wolff]]"
   - "[[Epicurus]]"
   - "[[Hutcheson]]"
-reference: "[[04 The search for thought - Unit 7 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[Critique of Pure Reason]]"
+  - "[[Groundwork of the Metaphysics of Morals]]"
+  - "[[Categorical Imperative]]"
+  - "[[Deontological Ethics]]"
+  - "[[Autonomy]]"
+  - "[[German Idealism]]"
+  - "[[Enlightenment Philosophy]]"
+  - "[[Moral Philosophy]]"
+  - "[[Freedom and Determinism]]"
+  - "[[Practical Reason]]"
 ---
 
 #### Central Problem
@@ -67,9 +76,10 @@ The rationalist tradition (represented by [[Wolff]]) had based morality on metap
 
 [[Rousseau]]'s influence is evident in [[Kant]]'s emphasis on human dignity and the idea that in the "kingdom of ends" each person is simultaneously subject and legislator. The English moral sense theorists like [[Hutcheson]] had emphasized moral feeling, which [[Kant]] transformed into his concept of "respect for the law" as the only legitimate moral sentiment.
 
-[[Kant]] explicitly criticizes all "heteronomous" moral systems — those that ground duty in forces external to human reason itself, whether in education (Montaigne), civil government (Mandeville), physical sentiment ([[Epicurus]]), moral sentiment ([[Hutcheson]]), perfection ([[Wolff]] and the Stoics), or divine will (Crusius and theological moralists).
+[[Kant]] explicitly criticizes all "heteronomous" moral systems — those that ground duty in forces external to human reason itself, whether in education (Montaigne), civil government (Mandeville), physical sentiment ([[Epicurus]]), moral sentiment ([[Hutcheson]]), perfection ([[Wolff]] and the Stoics), or divine will ([[Crusius]] and theological moralists).
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -161,18 +171,6 @@ flowchart TD
 
 > "Two things fill the mind with ever new and increasing admiration and reverence: the starry heavens above me and the moral law within me." — [[Kant]]
 
-#### See Also
-
-- [[Critique of Pure Reason]]
-- [[Groundwork of the Metaphysics of Morals]]
-- [[Categorical Imperative]]
-- [[Deontological Ethics]]
-- [[Autonomy]]
-- [[German Idealism]]
-- [[Enlightenment Philosophy]]
-- [[Moral Philosophy]]
-- [[Freedom and Determinism]]
-- [[Practical Reason]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

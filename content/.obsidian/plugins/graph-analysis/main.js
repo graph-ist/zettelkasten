@@ -2581,8 +2581,11 @@ const DEFAULT_SETTINGS = {
     algsToShow: [
         'Adamic Adar',
         'Jaccard',
-        'Otsuka-Chiai',
+        'Overlap',
         'Co-Citations',
+        'HITS',
+        'Clustering Coefficient',
+        'Louvain',
         'Label Propagation',
     ],
 };
@@ -2597,96 +2600,119 @@ const ANALYSIS_TYPES = [
     {
         anl: 'Co-Citations',
         subtype: 'Co-Citations',
-        desc: 'See which of your notes are referenced together most often.',
+        label: 'Co-cited',
+        desc: 'Notes are similar if cited together by the same notes.\n\nIf note A and note B are both linked from notes C, D, E, they have 3 co-citations.\n\nUseful for: finding thematically related notes that share sources.',
         global: false,
         nlp: false,
     },
     {
         anl: 'Centrality',
         subtype: 'HITS',
-        desc: 'An authority has lots of links coming in\nA hub has lots of links going out.',
+        label: 'Authority',
+        desc: 'Finds "Authorities" (notes with many incoming links) and "Hubs" (notes with many outgoing links).\n\nAuthority = how much a note is referenced by others.\nHub = how much a note references others.\n\nUseful for: finding central/important notes in your vault.',
         global: true,
         nlp: false,
     },
     {
         anl: 'Link Prediction',
         subtype: 'Adamic Adar',
-        desc: 'Based on the structure of your graph, this alg predicts which notes _should_ be linked to the current note.',
+        label: 'Predict',
+        desc: 'Predicts which notes SHOULD be linked based on graph structure.\n\nWeights rare common neighbors higher than popular ones.\nScore shown as X/5 scale.\n\nUseful for: discovering missing links you should create.\n🟢 High score = strongly recommended link.',
         global: false,
         nlp: false,
     },
-    // {
-    //   anl: 'Link Prediction',
-    //   subtype: 'Common Neighbours',
-    //   desc: 'Tells you how many notes are linked to the current (active) note, and the note in the table.\nHover over a cell in the table to see a list of common neighbours',
-    //   global: false,
-    //   nlp: false,
-    // },
     {
         anl: 'Similarity',
         subtype: 'Jaccard',
-        desc: "Based on the structure of your graph, this alg predicts which notes are most similar to the current note.\n\nIt shows the ratio of the numbers of neighbours two notes have in common, to the total number of neighbours they each have.\n\n'🔗' means that this note is linked to the group name.",
+        label: 'Similar',
+        desc: 'Measures how similar two notes are by their shared links.\n\nFormula: (common neighbors) / (total unique neighbors)\nShown as percentage.\n\nUseful for: finding notes with similar connection patterns.\n🔗 = already linked to current note.',
         global: false,
         nlp: false,
     },
     {
         anl: 'Similarity',
         subtype: 'Overlap',
-        desc: '<No description given yet>',
+        label: 'Common',
+        desc: 'Shows how much one note is "contained" in another.\n\nDisplays X/Y where:\n  X = number of links in common\n  Y = total links of the smaller note\n\nUseful for: finding hub/MOC notes that encompass this topic.\n🟢 High ratio = good candidate for parent note.',
         global: false,
         nlp: false,
     },
     {
         anl: 'Community Detection',
         subtype: 'Label Propagation',
-        desc: "Start by giving each node a unique label (its own name). Then, look at each node's neighbours, and change it's label to the most common among it's neighbours. Repeat this process `iterations` number of times. Show the nodes grouped by the last label they had.\n\n'🔗' means that this note is linked to the group name.",
+        label: 'Groups',
+        desc: 'Fast clustering by propagating labels through neighbors.\n\nEach note starts with its own label, then adopts the most common label among neighbors.\n\nUseful for: quick grouping of related notes.\n🔗 = linked to the group name.',
         global: true,
         nlp: false,
     },
     {
         anl: 'Community Detection',
         subtype: 'Louvain',
-        desc: "Show the Louvain community that the current note is in.\n\n'🔗' means that this note is linked to the group name.",
+        label: 'Community',
+        desc: 'Detects communities of interconnected notes using the Louvain algorithm.\n\nShows all notes in the same community as the current note.\n\nUseful for: discovering natural clusters in your vault.\n🔗 = linked to the group name.',
         global: false,
         nlp: false,
     },
     {
         anl: 'Community Detection',
         subtype: 'Clustering Coefficient',
-        desc: 'Gives the likelihood that a nodes _neighbours_ are connected to each other.',
+        label: 'Density',
+        desc: 'Measures how connected a note\'s neighbors are to each other.\n\nShown as percentage:\n  100% = all neighbors link to each other\n  0% = none of them are connected\n\nUseful for: finding well-integrated vs isolated notes.',
         global: true,
         nlp: false,
     },
-    {
-        anl: 'NLP',
-        subtype: 'BoW',
-        desc: 'Split a note into its words, count how many times each word appears, and use that to compare similarity between notes.',
-        global: false,
-        nlp: true,
-    },
-    // {
-    //   anl: 'NLP',
-    //   subtype: 'Tversky',
-    //   desc: '',
-    //   global: false,
-    //   nlp: true,
-    // },
-    {
-        anl: 'NLP',
-        subtype: 'Otsuka-Chiai',
-        desc: 'Returns the "Otsuka-Chiai" similarity between the current note and every other note.',
-        global: false,
-        nlp: true,
-    },
-    {
-        anl: 'NLP',
-        subtype: 'Sentiment',
-        desc: 'Gives the sentiment of every note. Positive → higher sentiment.',
-        global: true,
-        nlp: true,
-    },
 ];
 const IMG_EXTENSIONS = ['png', 'jpg', 'jpeg', 'svg', 'gif', 'webp'];
+// Subtypes that should show the Priority column (excluding HITS which has its own table)
+const PRIORITY_SUBTYPES = ['Adamic Adar', 'Jaccard', 'Overlap', 'Clustering Coefficient'];
+// Absolute thresholds for each algorithm (conservative approach)
+// Format: { high: threshold_for_high, mid: threshold_for_mid }
+const PRIORITY_THRESHOLDS = {
+    'Adamic Adar': { high: 2.0, mid: 1.0 },        // Predict: adjusted thresholds based on typical values
+    'Jaccard': { high: 0.25, mid: 0.10 },          // Similar: 0-1 range, intersection/union ratio
+    'Overlap': { high: 3, mid: 2 },               // Common: count of common neighbors
+    'Clustering Coefficient': { high: 0.5, mid: 0.25 }  // Density: 0-1 range, neighbor connectivity
+};
+// Format measure value based on algorithm type for user-friendly display
+function formatMeasure(measure, subtype, extra, total) {
+    if (measure === undefined || measure === null) return '';
+    switch(subtype) {
+        case 'Jaccard':           // Similar: 0-1 → percentage
+        case 'Clustering Coefficient':  // Density: 0-1 → percentage
+        case 'HITS':              // Authority: 0-1 → percentage
+            return Math.round(measure * 100) + '%';
+        case 'Overlap':           // Common: X in common / Y possible
+            const count = extra && extra.length !== undefined ? extra.length : Math.round(Math.sqrt(measure));
+            if (total && total > 0) {
+                return count + '/' + total;
+            }
+            return count;
+        case 'Adamic Adar':       // Predict: 0-∞ → score out of 5
+            const score = Math.min(5, Math.max(1, Math.round(measure / 1.2)));
+            return score + '/5';
+        default:
+            return typeof measure === 'number' ? measure.toFixed(4) : measure;
+    }
+}
+// Calculate priority based on absolute thresholds per algorithm
+function calculatePriority(measure, subtype) {
+    const thresholds = PRIORITY_THRESHOLDS[subtype];
+    if (!thresholds) return '';
+    if (measure >= thresholds.high) return '●';
+    if (measure >= thresholds.mid) return '●';
+    return '●';
+}
+function getPriorityClass(priority) {
+    if (priority === '●') return 'GA-priority-dot';  // Will be colored by measure
+    return 'GA-priority-dot';
+}
+function getPriorityDotClass(measure, subtype) {
+    const thresholds = PRIORITY_THRESHOLDS[subtype];
+    if (!thresholds) return 'GA-dot-low';
+    if (measure >= thresholds.high) return 'GA-dot-high';
+    if (measure >= thresholds.mid) return 'GA-dot-mid';
+    return 'GA-dot-low';
+}
 const iconSVG = `<path fill="currentColor" stroke="currentColor" d="M88.8,67.5c-3,0-5.7,1.2-7.7,3.1l-12.2-7c0.7-1.9,1.2-3.9,1.2-6.1C70,47.8,62.2,40,52.5,40c-1.3,0-2.6,0.2-3.8,0.5l-5-10.8
 c2.3-2.1,3.8-5,3.8-8.4c0-6.2-5-11.3-11.3-11.3S25,15,25,21.3s5,11.3,11.3,11.3c0.1,0,0.3,0,0.4,0l5.2,11.2
 c-4.2,3.2-6.9,8.2-6.9,13.8C35,67.2,42.8,75,52.5,75c4.8,0,9.2-1.9,12.3-5.1l12.8,7.3c-0.1,0.5-0.2,1-0.2,1.5
@@ -3268,25 +3294,41 @@ function looserIsLinked(app, from, to, directed = true) {
  * @param  {App} app
  */
 const createOrUpdateYaml = (key, value, file, app) => __awaiter(void 0, void 0, void 0, function* () {
-    var _a, _b;
-    // @ts-ignore
-    const api = (_a = app.plugins.plugins.metaedit) === null || _a === void 0 ? void 0 : _a.api;
-    if (!api) {
-        new obsidian.Notice('Metaedit must be enabled for this function to work');
-        return;
-    }
-    let valueStr = value.toString();
+    var _b;
+    const newNoteName = value.toString();
     const frontmatter = (_b = app.metadataCache.getFileCache(file)) === null || _b === void 0 ? void 0 : _b.frontmatter;
+    const fileContent = yield app.vault.read(file);
+    const newLink = `"[[${newNoteName}]]"`;
+    
     if (!frontmatter || frontmatter[key] === undefined) {
-        yield api.createYamlProperty(key, `['${valueStr}']`, file);
-    }
-    else if ([...[frontmatter[key]]].flat(3).some((val) => val == valueStr)) {
-        return;
+        // Add new key at the end of frontmatter (before closing ---)
+        const newField = `${key}:\n  - ${newLink}`;
+        let newContent;
+        if (fileContent.startsWith('---')) {
+            // Insert before the closing ---
+            newContent = fileContent.replace(/\n---(\n|$)/, `\n${newField}\n---$1`);
+        } else {
+            newContent = `---\n${newField}\n---\n${fileContent}`;
+        }
+        yield app.vault.modify(file, newContent);
     }
     else {
-        const oldValueFlat = [...[frontmatter[key]]].flat(4);
-        const newValue = [...oldValueFlat, valueStr].map((val) => `'${val}'`);
-        yield api.update(key, `[${newValue.join(', ')}]`, file);
+        const existingRaw = frontmatter[key];
+        const existingNotes = new Set();
+        const linkRegex = /\[\[([^\]]+)\]\]/g;
+        let match;
+        const rawStr = Array.isArray(existingRaw) ? existingRaw.join(' ') : String(existingRaw);
+        while ((match = linkRegex.exec(rawStr)) !== null) {
+            existingNotes.add(match[1]);
+        }
+        if (existingNotes.has(newNoteName)) {
+            return;
+        }
+        existingNotes.add(newNoteName);
+        const allLinks = Array.from(existingNotes).map(name => `  - "[[${name}]]"`).join('\n');
+        const keyRegex = new RegExp(`^${key}:.*(?:\\n  - .*)*`, 'm');
+        const newContent = fileContent.replace(keyRegex, `${key}:\n${allLinks}`);
+        yield app.vault.modify(file, newContent);
     }
 });
 function openMenu(event, app, copyObj = undefined) {
@@ -3302,35 +3344,18 @@ function openMenu(event, app, copyObj = undefined) {
     }
     else {
         menu.addItem((item) => item
-            .setTitle('Create Link: Current')
-            .setIcon('documents')
+            .setTitle('Create Link')
+            .setIcon('link')
             .onClick((e) => {
             try {
                 const currFile = app.workspace.getActiveFile();
                 // @ts-ignore
                 const targetStr = tdEl.innerText;
-                createOrUpdateYaml('key', targetStr, currFile, app);
-                new obsidian.Notice('Write Successful');
+                createOrUpdateYaml('related', targetStr, currFile, app);
+                new obsidian.Notice('Link created');
             }
             catch (error) {
-                new obsidian.Notice('Write failed');
-            }
-        }));
-        menu.addItem((item) => item
-            .setTitle('Create Link: Target')
-            .setIcon('documents')
-            .onClick((e) => {
-            const currStr = app.workspace.getActiveFile().basename;
-            const { target } = event;
-            // @ts-ignore
-            const targetStr = target.innerText;
-            const targetFile = app.metadataCache.getFirstLinkpathDest(targetStr, '');
-            if (!targetFile) {
-                new obsidian.Notice(`${targetStr} does not exist in your vault yet`);
-                return;
-            }
-            else {
-                createOrUpdateYaml('key', currStr, targetFile, app);
+                new obsidian.Notice('Failed to create link');
             }
         }));
     }
@@ -7799,12 +7824,6 @@ function create_each_block$6(ctx) {
 function create_key_block$5(ctx) {
 	let t0;
 	let infinitescroll;
-	let t1;
-	let t2_value = /*visibleData*/ ctx[6].length + "";
-	let t2;
-	let t3;
-	let t4_value = /*sortedResults*/ ctx[31].length + "";
-	let t4;
 	let current;
 	let each_value = /*visibleData*/ ctx[6];
 	let each_blocks = [];
@@ -7839,10 +7858,6 @@ function create_key_block$5(ctx) {
 
 			t0 = space();
 			create_component(infinitescroll.$$.fragment);
-			t1 = space();
-			t2 = text(t2_value);
-			t3 = text(" / ");
-			t4 = text(t4_value);
 		},
 		m(target, anchor) {
 			for (let i = 0; i < each_blocks.length; i += 1) {
@@ -7851,10 +7866,6 @@ function create_key_block$5(ctx) {
 
 			insert(target, t0, anchor);
 			mount_component(infinitescroll, target, anchor);
-			insert(target, t1, anchor);
-			insert(target, t2, anchor);
-			insert(target, t3, anchor);
-			insert(target, t4, anchor);
 			current = true;
 		},
 		p(new_ctx, dirty) {
@@ -7891,8 +7902,6 @@ function create_key_block$5(ctx) {
 			if (dirty[0] & /*promiseSortedResults, visibleData*/ 8256) infinitescroll_changes.hasMore = /*sortedResults*/ ctx[31].length > /*visibleData*/ ctx[6].length;
 			if (dirty[0] & /*current_component*/ 512) infinitescroll_changes.elementScroll = /*current_component*/ ctx[9].parentNode;
 			infinitescroll.$set(infinitescroll_changes);
-			if ((!current || dirty[0] & /*visibleData*/ 64) && t2_value !== (t2_value = /*visibleData*/ ctx[6].length + "")) set_data(t2, t2_value);
-			if ((!current || dirty[0] & /*promiseSortedResults*/ 8192) && t4_value !== (t4_value = /*sortedResults*/ ctx[31].length + "")) set_data(t4, t4_value);
 		},
 		i(local) {
 			if (current) return;
@@ -8329,8 +8338,8 @@ function instance$a($$self, $$props, $$invalidate) {
 			? null
 			: plugin.g.algs["Louvain"](currNode, { resolution }).then(results => {
 					const componentResults = [];
-
 					results.forEach(to => {
+						if (!to.endsWith('.md')) return;
 						const resolved = !to.endsWith(".md") || isInVault(app, to);
 						const linked = isLinked(resolvedLinks, currNode, to, false);
 
@@ -9249,12 +9258,6 @@ function create_each_block$5(ctx) {
 function create_key_block$4(ctx) {
 	let t0;
 	let infinitescroll;
-	let t1;
-	let t2_value = /*visibleData*/ ctx[5].length + "";
-	let t2;
-	let t3;
-	let t4_value = /*sortedResults*/ ctx[32].length + "";
-	let t4;
 	let current;
 	let each_value = /*visibleData*/ ctx[5];
 	let each_blocks = [];
@@ -9289,10 +9292,6 @@ function create_key_block$4(ctx) {
 
 			t0 = space();
 			create_component(infinitescroll.$$.fragment);
-			t1 = space();
-			t2 = text(t2_value);
-			t3 = text(" / ");
-			t4 = text(t4_value);
 		},
 		m(target, anchor) {
 			for (let i = 0; i < each_blocks.length; i += 1) {
@@ -9301,10 +9300,6 @@ function create_key_block$4(ctx) {
 
 			insert(target, t0, anchor);
 			mount_component(infinitescroll, target, anchor);
-			insert(target, t1, anchor);
-			insert(target, t2, anchor);
-			insert(target, t3, anchor);
-			insert(target, t4, anchor);
 			current = true;
 		},
 		p(new_ctx, dirty) {
@@ -9341,8 +9336,6 @@ function create_key_block$4(ctx) {
 			if (dirty[0] & /*promiseSortedResults, visibleData*/ 8224) infinitescroll_changes.hasMore = /*sortedResults*/ ctx[32].length > /*visibleData*/ ctx[5].length;
 			if (dirty[0] & /*current_component*/ 512) infinitescroll_changes.elementScroll = /*current_component*/ ctx[9].parentNode;
 			infinitescroll.$set(infinitescroll_changes);
-			if ((!current || dirty[0] & /*visibleData*/ 32) && t2_value !== (t2_value = /*visibleData*/ ctx[5].length + "")) set_data(t2, t2_value);
-			if ((!current || dirty[0] & /*promiseSortedResults*/ 8192) && t4_value !== (t4_value = /*sortedResults*/ ctx[32].length + "")) set_data(t4, t4_value);
 		},
 		i(local) {
 			if (current) return;
@@ -9368,10 +9361,6 @@ function create_key_block$4(ctx) {
 			destroy_each(each_blocks, detaching);
 			if (detaching) detach(t0);
 			destroy_component(infinitescroll, detaching);
-			if (detaching) detach(t1);
-			if (detaching) detach(t2);
-			if (detaching) detach(t3);
-			if (detaching) detach(t4);
 		}
 	};
 }
@@ -10378,12 +10367,6 @@ function create_each_block$4(ctx) {
 function create_key_block$3(ctx) {
 	let t0;
 	let infinitescroll;
-	let t1;
-	let t2_value = /*visibleData*/ ctx[5].length + "";
-	let t2;
-	let t3;
-	let t4_value = /*sortedResults*/ ctx[31].length + "";
-	let t4;
 	let current;
 	let each_value = /*visibleData*/ ctx[5];
 	let each_blocks = [];
@@ -10418,10 +10401,6 @@ function create_key_block$3(ctx) {
 
 			t0 = space();
 			create_component(infinitescroll.$$.fragment);
-			t1 = space();
-			t2 = text(t2_value);
-			t3 = text(" / ");
-			t4 = text(t4_value);
 		},
 		m(target, anchor) {
 			for (let i = 0; i < each_blocks.length; i += 1) {
@@ -10430,10 +10409,6 @@ function create_key_block$3(ctx) {
 
 			insert(target, t0, anchor);
 			mount_component(infinitescroll, target, anchor);
-			insert(target, t1, anchor);
-			insert(target, t2, anchor);
-			insert(target, t3, anchor);
-			insert(target, t4, anchor);
 			current = true;
 		},
 		p(new_ctx, dirty) {
@@ -10470,8 +10445,6 @@ function create_key_block$3(ctx) {
 			if (dirty[0] & /*promiseSortedResults, visibleData*/ 4128) infinitescroll_changes.hasMore = /*sortedResults*/ ctx[31].length > /*visibleData*/ ctx[5].length;
 			if (dirty[0] & /*current_component*/ 128) infinitescroll_changes.elementScroll = /*current_component*/ ctx[7].parentNode;
 			infinitescroll.$set(infinitescroll_changes);
-			if ((!current || dirty[0] & /*visibleData*/ 32) && t2_value !== (t2_value = /*visibleData*/ ctx[5].length + "")) set_data(t2, t2_value);
-			if ((!current || dirty[0] & /*promiseSortedResults*/ 4096) && t4_value !== (t4_value = /*sortedResults*/ ctx[31].length + "")) set_data(t4, t4_value);
 		},
 		i(local) {
 			if (current) return;
@@ -10497,10 +10470,6 @@ function create_key_block$3(ctx) {
 			destroy_each(each_blocks, detaching);
 			if (detaching) detach(t0);
 			destroy_component(infinitescroll, detaching);
-			if (detaching) detach(t1);
-			if (detaching) detach(t2);
-			if (detaching) detach(t3);
-			if (detaching) detach(t4);
 		}
 	};
 }
@@ -10892,9 +10861,8 @@ function instance$7($$self, $$props, $$invalidate) {
 					const greater = ascOrder ? 1 : -1;
 					const lesser = ascOrder ? -1 : 1;
 					const componentResults = [];
-
 					Object.keys(comms).forEach(label => {
-						let comm = comms[label];
+						let comm = comms[label].filter(node => node.endsWith('.md'));
 
 						if (comm.length > 1) {
 							componentResults.push({ label, comm });
@@ -11163,7 +11131,7 @@ class IoIosChatbubbles extends SvelteComponent {
 function add_css$3() {
 	var style = element("style");
 	style.id = "svelte-z95de7-style";
-	style.textContent = ".container.svelte-z95de7.svelte-z95de7{overflow:auto;white-space:nowrap}.GA-Button.svelte-z95de7.svelte-z95de7{width:fit-content !important;padding:8px 5px !important;margin-right:0px}.item.svelte-z95de7.svelte-z95de7{display:inline-block;border:1px solid transparent;background-color:var(--background-primary-alt);border-radius:10px;color:var(--text-normal);text-align:center;padding:0px 4px;margin:0px 3px;width:fit-content;font-size:small}.currSubtype.svelte-z95de7.svelte-z95de7{font-weight:800 !important;color:var(--text-accent) !important}.container.svelte-z95de7>button.svelte-z95de7:last-child{margin-right:10px}.container.svelte-z95de7>button.svelte-z95de7:first-child{margin-left:10px}.item.svelte-z95de7.svelte-z95de7:hover{background-color:var(--interactive-accent)}";
+	style.textContent = ".container.svelte-z95de7.svelte-z95de7{overflow-x:scroll;overflow-y:hidden;white-space:nowrap;margin-bottom:8px;padding-bottom:8px;display:flex;align-items:center}.GA-Button.svelte-z95de7.svelte-z95de7{width:fit-content !important;padding:8px 5px !important;margin-right:0px}.item.svelte-z95de7.svelte-z95de7{display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--background-modifier-border);background-color:var(--background-primary-alt);border-radius:4px;color:var(--text-normal);text-align:center;padding:4px 10px;margin:0px 3px;width:fit-content;font-size:small;font-weight:700;box-shadow:none;line-height:1}.currSubtype.svelte-z95de7.svelte-z95de7{color:var(--text-on-accent) !important;background-color:var(--interactive-accent) !important;box-shadow:none}.container.svelte-z95de7>button.svelte-z95de7:last-child{margin-right:10px}.container.svelte-z95de7>button.svelte-z95de7:first-child{margin-left:10px}.item.svelte-z95de7.svelte-z95de7:hover{background-color:var(--interactive-hover);color:var(--text-on-accent)}.GA-icon.svelte-z95de7{display:none}";
 	append(document.head, style);
 }
 
@@ -11224,7 +11192,7 @@ function create_if_block_1$3(ctx) {
 	let button;
 	let t0;
 	let t1;
-	let t2_value = /*sub*/ ctx[3].subtype + "";
+	let t2_value = (/*sub*/ ctx[3].label || /*sub*/ ctx[3].subtype) + "";
 	let t2;
 	let t3;
 	let button_class_value;
@@ -11586,7 +11554,7 @@ function create_fragment$4(ctx) {
 }
 
 const mouseover_handler = function () {
-	this.ariaLabel = "`Shift + Scroll` to scroll sideways";
+	// Tooltip disabled to prevent layout jumping
 };
 
 function instance$4($$self, $$props, $$invalidate) {
@@ -11621,7 +11589,7 @@ class ScrollSelector extends SvelteComponent {
 function add_css$2() {
 	var style = element("style");
 	style.id = "svelte-1d9aab-style";
-	style.textContent = "table.GA-table.svelte-1d9aab.svelte-1d9aab{border-collapse:collapse}table.GA-table.svelte-1d9aab.svelte-1d9aab,table.GA-table.svelte-1d9aab tr.svelte-1d9aab,table.GA-table.svelte-1d9aab td.svelte-1d9aab{border:1px solid var(--background-modifier-border)}table.GA-table.svelte-1d9aab td.svelte-1d9aab{padding:2px}.is-unresolved.svelte-1d9aab.svelte-1d9aab{color:var(--text-muted)}.GA-node.svelte-1d9aab.svelte-1d9aab{overflow:hidden}";
+	style.textContent = "table.GA-table.svelte-1d9aab.svelte-1d9aab{display:block;border:none;width:100%}table.GA-table.svelte-1d9aab thead{display:none}table.GA-table.svelte-1d9aab tbody{display:block;width:100%}table.GA-table.svelte-1d9aab tr.svelte-1d9aab{display:flex;align-items:center;height:28px;padding:2px 12px 2px 12px;border:none;border-bottom:1px solid var(--background-modifier-border);width:100%}table.GA-table.svelte-1d9aab td.svelte-1d9aab{display:inline-block;border:none;height:auto;padding:0;vertical-align:middle}table.GA-table.svelte-1d9aab td.svelte-1d9aab:first-child{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}table.GA-table.svelte-1d9aab td.svelte-1d9aab:nth-child(2){width:auto;text-align:right;padding-right:8px}table.GA-table.svelte-1d9aab td.svelte-1d9aab:nth-child(3){width:14px;text-align:right}.is-unresolved.svelte-1d9aab.svelte-1d9aab{color:var(--text-muted)}.GA-node.svelte-1d9aab.svelte-1d9aab{overflow:hidden}.GA-priority-dot{text-align:center;font-size:14px}.GA-dot-high{color:#22c55e}.GA-dot-mid{color:#f97316}.GA-dot-low{color:#ef4444}";
 	append(document.head, style);
 }
 
@@ -11769,9 +11737,15 @@ function create_if_block_1$2(ctx) {
 	let td0_aria_label_value;
 	let t4;
 	let td1;
-	let t5_value = /*node*/ ctx[35].measure + "";
+	let t5_value = formatMeasure(/*node*/ ctx[35].measure, /*currSubtypeInfo*/ ctx[13]?.subtype, /*node*/ ctx[35].extra, /*node*/ ctx[35].total);
 	let t5;
 	let td1_class_value;
+	// Priority cell variables
+	let td2;
+	let t6;
+	let t6_value;
+	let td2_class_value;
+	let showPriorityCell = PRIORITY_SUBTYPES.includes(/*currSubtypeInfo*/ ctx[13]?.subtype);
 	let tr_class_value;
 	let current;
 	let mounted;
@@ -11803,6 +11777,15 @@ function create_if_block_1$2(ctx) {
 			t4 = space();
 			td1 = element("td");
 			t5 = text(t5_value);
+			// Priority cell creation
+			if (showPriorityCell) {
+				const subtype = /*currSubtypeInfo*/ ctx[13]?.subtype;
+				const priority = calculatePriority(/*node*/ ctx[35].measure, subtype);
+				t6_value = priority;
+				td2 = element("td");
+				t6 = text(t6_value);
+				attr(td2, "class", "GA-priority-dot " + getPriorityDotClass(/*node*/ ctx[35].measure, subtype) + " svelte-1d9aab");
+			}
 			attr(span, "class", span_class_value = "internal-link " + (/*node*/ ctx[35].resolved ? "" : "is-unresolved") + " svelte-1d9aab");
 			attr(td0, "aria-label", td0_aria_label_value = /*node*/ ctx[35].extra.map(presentPath).join("\n"));
 			attr(td0, "aria-label-position", "left");
@@ -11824,6 +11807,11 @@ function create_if_block_1$2(ctx) {
 			append(tr, t4);
 			append(tr, td1);
 			append(td1, t5);
+			// Mount priority cell
+			if (showPriorityCell && td2) {
+				append(td2, t6);
+				append(tr, td2);
+			}
 			current = true;
 
 			if (!mounted) {
@@ -11900,7 +11888,18 @@ function create_if_block_1$2(ctx) {
 				attr(td0, "aria-label", td0_aria_label_value);
 			}
 
-			if ((!current || dirty[0] & /*visibleData*/ 128) && t5_value !== (t5_value = /*node*/ ctx[35].measure + "")) set_data(t5, t5_value);
+			if ((!current || dirty[0] & /*visibleData, currSubtypeInfo*/ 8320) && t5_value !== (t5_value = formatMeasure(/*node*/ ctx[35].measure, /*currSubtypeInfo*/ ctx[13]?.subtype, /*node*/ ctx[35].extra, /*node*/ ctx[35].total))) set_data(t5, t5_value);
+
+			// Update priority cell
+			if (showPriorityCell && td2 && (dirty[0] & /*visibleData*/ 128)) {
+				const subtype = /*currSubtypeInfo*/ ctx[13]?.subtype;
+				const newPriority = calculatePriority(/*node*/ ctx[35].measure, subtype);
+				if (t6_value !== newPriority) {
+					t6_value = newPriority;
+					set_data(t6, t6_value);
+					attr(td2, "class", "GA-priority-dot " + getPriorityDotClass(/*node*/ ctx[35].measure, subtype) + " svelte-1d9aab");
+				}
+			}
 
 			if (!current || dirty[0] & /*visibleData*/ 128 && tr_class_value !== (tr_class_value = "" + ((/*node*/ ctx[35].linked ? LINKED : NOT_LINKED) + " \n            " + classExt(/*node*/ ctx[35].to) + " svelte-1d9aab"))) {
 				attr(tr, "class", tr_class_value);
@@ -12059,12 +12058,6 @@ function create_each_block$2(ctx) {
 function create_key_block$1(ctx) {
 	let t0;
 	let infinitescroll;
-	let t1;
-	let t2_value = /*visibleData*/ ctx[7].length + "";
-	let t2;
-	let t3;
-	let t4_value = /*sortedResults*/ ctx[34].length + "";
-	let t4;
 	let current;
 	let each_value = /*visibleData*/ ctx[7];
 	let each_blocks = [];
@@ -12099,10 +12092,6 @@ function create_key_block$1(ctx) {
 
 			t0 = space();
 			create_component(infinitescroll.$$.fragment);
-			t1 = space();
-			t2 = text(t2_value);
-			t3 = text(" / ");
-			t4 = text(t4_value);
 		},
 		m(target, anchor) {
 			for (let i = 0; i < each_blocks.length; i += 1) {
@@ -12111,10 +12100,6 @@ function create_key_block$1(ctx) {
 
 			insert(target, t0, anchor);
 			mount_component(infinitescroll, target, anchor);
-			insert(target, t1, anchor);
-			insert(target, t2, anchor);
-			insert(target, t3, anchor);
-			insert(target, t4, anchor);
 			current = true;
 		},
 		p(new_ctx, dirty) {
@@ -12151,8 +12136,6 @@ function create_key_block$1(ctx) {
 			if (dirty[0] & /*promiseSortedResults, visibleData*/ 16512) infinitescroll_changes.hasMore = /*sortedResults*/ ctx[34].length > /*visibleData*/ ctx[7].length;
 			if (dirty[0] & /*current_component*/ 1024) infinitescroll_changes.elementScroll = /*current_component*/ ctx[10].parentNode;
 			infinitescroll.$set(infinitescroll_changes);
-			if ((!current || dirty[0] & /*visibleData*/ 128) && t2_value !== (t2_value = /*visibleData*/ ctx[7].length + "")) set_data(t2, t2_value);
-			if ((!current || dirty[0] & /*promiseSortedResults*/ 16384) && t4_value !== (t4_value = /*sortedResults*/ ctx[34].length + "")) set_data(t4, t4_value);
 		},
 		i(local) {
 			if (current) return;
@@ -12178,10 +12161,6 @@ function create_key_block$1(ctx) {
 			destroy_each(each_blocks, detaching);
 			if (detaching) detach(t0);
 			destroy_component(infinitescroll, detaching);
-			if (detaching) detach(t1);
-			if (detaching) detach(t2);
-			if (detaching) detach(t3);
-			if (detaching) detach(t4);
 		}
 	};
 }
@@ -12314,6 +12293,7 @@ function create_fragment$3(ctx) {
 	binding_callbacks.push(() => bind(subtypeoptions, "promiseSortedResults", subtypeoptions_promiseSortedResults_binding));
 	binding_callbacks.push(() => bind(subtypeoptions, "page", subtypeoptions_page_binding));
 	let if_block = /*promiseSortedResults*/ ctx[14] && create_if_block$2(ctx);
+	let showPriority = PRIORITY_SUBTYPES.includes(/*currSubtypeInfo*/ ctx[13]?.subtype);
 
 	return {
 		c() {
@@ -12322,8 +12302,8 @@ function create_fragment$3(ctx) {
 			table = element("table");
 			thead = element("thead");
 
-			thead.innerHTML = `<tr class="svelte-1d9aab"><th scope="col">Note</th> 
-      <th scope="col">Value</th></tr>`;
+			thead.innerHTML = `<tr class="svelte-1d9aab"><th scope="col" style="text-align:left">Note</th> 
+      <th scope="col" style="text-align:left">Value</th>${showPriority ? '<th scope="col" style="text-align:center">#</th>' : ''}</tr>`;
 
 			t4 = space();
 			if (if_block) if_block.c();
@@ -12344,6 +12324,13 @@ function create_fragment$3(ctx) {
 			if (dirty[0] & /*app*/ 1) subtypeoptions_changes.app = /*app*/ ctx[0];
 			if (dirty[0] & /*plugin*/ 2) subtypeoptions_changes.plugin = /*plugin*/ ctx[1];
 			if (dirty[0] & /*view*/ 4) subtypeoptions_changes.view = /*view*/ ctx[2];
+
+			// Update header when currSubtypeInfo changes
+			if (dirty[0] & /*currSubtypeInfo*/ 8192) {
+				showPriority = PRIORITY_SUBTYPES.includes(/*currSubtypeInfo*/ ctx[13]?.subtype);
+				thead.innerHTML = `<tr class="svelte-1d9aab"><th scope="col" style="text-align:left">Note</th> 
+      <th scope="col" style="text-align:left">Value</th>${showPriority ? '<th scope="col" style="text-align:center">#</th>' : ''}</tr>`;
+			}
 
 			if (!updating_currSubtypeInfo && dirty[0] & /*currSubtypeInfo*/ 8192) {
 				updating_currSubtypeInfo = true;
@@ -12593,9 +12580,9 @@ function instance$3($$self, $$props, $$invalidate) {
 					const greater = ascOrder ? 1 : -1;
 					const lesser = ascOrder ? -1 : 1;
 					const componentResults = [];
-
 					plugin.g.forEachNode(to => {
-						const { measure, extra } = results[to];
+						if (!to.endsWith('.md')) return;
+						const { measure, extra, total } = results[to];
 
 						if (!(noInfinity && measure === Infinity) && !(noZero && measure === 0)) {
 							const resolved = !to.endsWith(".md") || isInVault(app, to);
@@ -12611,6 +12598,7 @@ function instance$3($$self, $$props, $$invalidate) {
 								to,
 								resolved,
 								extra,
+								total,
 								img
 							});
 						}
@@ -12860,12 +12848,12 @@ function create_if_block_1$1(ctx) {
 	let show_if = isImg(/*node*/ ctx[34].to);
 	let t3;
 	let td1;
-	let t4_value = /*node*/ ctx[34].authority + "";
+	let t4_value = formatMeasure(/*node*/ ctx[34].authority, 'HITS');
 	let t4;
 	let td1_class_value;
 	let t5;
 	let td2;
-	let t6_value = /*node*/ ctx[34].hub + "";
+	let t6_value = '●';
 	let t6;
 	let td2_class_value;
 	let tr_class_value;
@@ -12906,7 +12894,7 @@ function create_if_block_1$1(ctx) {
 
 			attr(td0, "class", "svelte-6qr5sj");
 			attr(td1, "class", td1_class_value = "" + (null_to_empty(MEASURE) + " svelte-6qr5sj"));
-			attr(td2, "class", td2_class_value = "" + (null_to_empty(MEASURE) + " svelte-6qr5sj"));
+			attr(td2, "class", "GA-priority-dot " + (/*node*/ ctx[34].authority >= 0.4 ? 'GA-dot-high' : /*node*/ ctx[34].authority >= 0.15 ? 'GA-dot-mid' : 'GA-dot-low') + " svelte-6qr5sj");
 			attr(tr, "class", tr_class_value = "\n              " + classExt(/*node*/ ctx[34].to) + " svelte-6qr5sj");
 		},
 		m(target, anchor) {
@@ -12974,8 +12962,11 @@ function create_if_block_1$1(ctx) {
 				check_outros();
 			}
 
-			if ((!current || dirty[0] & /*visibleData*/ 128) && t4_value !== (t4_value = /*node*/ ctx[34].authority + "")) set_data(t4, t4_value);
-			if ((!current || dirty[0] & /*visibleData*/ 128) && t6_value !== (t6_value = /*node*/ ctx[34].hub + "")) set_data(t6, t6_value);
+			if ((!current || dirty[0] & /*visibleData*/ 128) && t4_value !== (t4_value = formatMeasure(/*node*/ ctx[34].authority, 'HITS'))) set_data(t4, t4_value);
+			// Update priority dot class based on authority value
+			if (dirty[0] & /*visibleData*/ 128) {
+				attr(td2, "class", "GA-priority-dot " + (/*node*/ ctx[34].authority >= 0.4 ? 'GA-dot-high' : /*node*/ ctx[34].authority >= 0.15 ? 'GA-dot-mid' : 'GA-dot-low') + " svelte-6qr5sj");
+			}
 
 			if (!current || dirty[0] & /*visibleData*/ 128 && tr_class_value !== (tr_class_value = "\n              " + classExt(/*node*/ ctx[34].to) + " svelte-6qr5sj")) {
 				attr(tr, "class", tr_class_value);
@@ -13096,12 +13087,6 @@ function create_each_block$1(ctx) {
 function create_key_block(ctx) {
 	let t0;
 	let infinitescroll;
-	let t1;
-	let t2_value = /*visibleData*/ ctx[7].length + "";
-	let t2;
-	let t3;
-	let t4_value = /*sortedResults*/ ctx[33].length + "";
-	let t4;
 	let current;
 	let each_value = /*visibleData*/ ctx[7];
 	let each_blocks = [];
@@ -13136,10 +13121,6 @@ function create_key_block(ctx) {
 
 			t0 = space();
 			create_component(infinitescroll.$$.fragment);
-			t1 = space();
-			t2 = text(t2_value);
-			t3 = text(" / ");
-			t4 = text(t4_value);
 		},
 		m(target, anchor) {
 			for (let i = 0; i < each_blocks.length; i += 1) {
@@ -13148,10 +13129,6 @@ function create_key_block(ctx) {
 
 			insert(target, t0, anchor);
 			mount_component(infinitescroll, target, anchor);
-			insert(target, t1, anchor);
-			insert(target, t2, anchor);
-			insert(target, t3, anchor);
-			insert(target, t4, anchor);
 			current = true;
 		},
 		p(new_ctx, dirty) {
@@ -13188,8 +13165,6 @@ function create_key_block(ctx) {
 			if (dirty[0] & /*promiseSortedResults, visibleData*/ 16512) infinitescroll_changes.hasMore = /*sortedResults*/ ctx[33].length > /*visibleData*/ ctx[7].length;
 			if (dirty[0] & /*current_component*/ 512) infinitescroll_changes.elementScroll = /*current_component*/ ctx[9].parentNode;
 			infinitescroll.$set(infinitescroll_changes);
-			if ((!current || dirty[0] & /*visibleData*/ 128) && t2_value !== (t2_value = /*visibleData*/ ctx[7].length + "")) set_data(t2, t2_value);
-			if ((!current || dirty[0] & /*promiseSortedResults*/ 16384) && t4_value !== (t4_value = /*sortedResults*/ ctx[33].length + "")) set_data(t4, t4_value);
 		},
 		i(local) {
 			if (current) return;
@@ -13215,10 +13190,6 @@ function create_key_block(ctx) {
 			destroy_each(each_blocks, detaching);
 			if (detaching) detach(t0);
 			destroy_component(infinitescroll, detaching);
-			if (detaching) detach(t1);
-			if (detaching) detach(t2);
-			if (detaching) detach(t3);
-			if (detaching) detach(t4);
 		}
 	};
 }
@@ -13359,9 +13330,9 @@ function create_fragment$2(ctx) {
 			table = element("table");
 			thead = element("thead");
 
-			thead.innerHTML = `<tr class="svelte-6qr5sj"><th scope="col">Note</th> 
-      <th scope="col">Authority</th> 
-      <th scope="col">Hub</th></tr>`;
+			thead.innerHTML = `<tr class="svelte-6qr5sj"><th scope="col" style="text-align:left">Note</th> 
+      <th scope="col" style="text-align:left">Value</th> 
+      <th scope="col" style="text-align:center">#</th></tr>`;
 
 			t6 = space();
 			if (if_block) if_block.c();
@@ -13630,8 +13601,8 @@ function instance$2($$self, $$props, $$invalidate) {
 			: plugin.g.algs["HITS"]("").then(results => {
 					console.log("hits");
 					const componentResults = [];
-
 					plugin.g.forEachNode(to => {
+						if (!to.endsWith('.md')) return;
 						const authority = roundNumber(results.authorities[to]);
 						const hub = roundNumber(results.hubs[to]);
 
@@ -35129,11 +35100,12 @@ class MyGraph extends graphology_umd_min {
                 this.forEachNode((to) => {
                     const Nb = this.neighbors(to);
                     const Nab = intersection(Na, Nb);
+                    const minNeighbors = Math.min(Na.length, Nb.length);
                     let measure = Na.length !== 0 && Nb.length !== 0
                         ? // The square weights the final result by the number of nodes in the overlap
-                            roundNumber(Math.pow(Nab.length, 2) / Math.min(Na.length, Nb.length))
+                            roundNumber(Math.pow(Nab.length, 2) / minNeighbors)
                         : Infinity;
-                    results[to] = { measure, extra: Nab };
+                    results[to] = { measure, extra: Nab, total: minNeighbors };
                 });
                 return results;
             }),
@@ -35611,7 +35583,7 @@ class MyGraph extends graphology_umd_min {
                 !tags ||
                 tags.findIndex((t) => exclusionTags.includes(t.tag)) === -1;
             const includeRegex = (node) => exclusionRegex === '' || !regex.test(node);
-            const includeExt = (node) => allFileExtensions || node.endsWith('md');
+            const includeExt = (node) => node.endsWith('.md');
             for (const source in resolvedLinks) {
                 const tags = (_a = this.app.metadataCache.getCache(source)) === null || _a === void 0 ? void 0 : _a.tags;
                 if (includeTag(tags) && includeRegex(source) && includeExt(source)) {
@@ -35675,7 +35647,7 @@ function getNLPPlugin(app) {
 function add_css() {
 	var style = element("style");
 	style.id = "svelte-x906hs-style";
-	style.textContent = ".grid.svelte-x906hs{display:grid;grid-template-columns:1fr 1fr 1fr}";
+	style.textContent = ".grid.svelte-x906hs{display:grid;grid-template-columns:1fr 1fr;gap:12px 20px;padding:15px 10px}";
 	append(document.head, style);
 }
 
@@ -35692,7 +35664,7 @@ function create_each_block(ctx) {
 	let input;
 	let input_value_value;
 	let t0;
-	let t1_value = /*option*/ ctx[10] + "";
+	let t1_value = /*option*/ ctx[10].label + "";
 	let t1;
 	let t2;
 	let mounted;
@@ -35707,7 +35679,7 @@ function create_each_block(ctx) {
 			t1 = text(t1_value);
 			t2 = space();
 			attr(input, "type", "checkbox");
-			input.__value = input_value_value = /*option*/ ctx[10];
+			input.__value = input_value_value = /*option*/ ctx[10].value;
 			input.value = input.__value;
 			/*$$binding_groups*/ ctx[8][0].push(input);
 		},
@@ -35730,7 +35702,7 @@ function create_each_block(ctx) {
 			}
 		},
 		p(ctx, dirty) {
-			if (dirty & /*options*/ 1 && input_value_value !== (input_value_value = /*option*/ ctx[10])) {
+			if (dirty & /*options*/ 1 && input_value_value !== (input_value_value = /*option*/ ctx[10].value)) {
 				input.__value = input_value_value;
 				input.value = input.__value;
 			}
@@ -35739,7 +35711,7 @@ function create_each_block(ctx) {
 				input.checked = ~/*selected*/ ctx[1].indexOf(input.__value);
 			}
 
-			if (dirty & /*options*/ 1 && t1_value !== (t1_value = /*option*/ ctx[10] + "")) set_data(t1, t1_value);
+			if (dirty & /*options*/ 1 && t1_value !== (t1_value = /*option*/ ctx[10].label + "")) set_data(t1, t1_value);
 		},
 		d(detaching) {
 			if (detaching) detach(div);
@@ -35922,8 +35894,10 @@ class SampleSettingTab extends obsidian.PluginSettingTab {
             .addDropdown((dd) => {
             dd.setValue(settings.defaultSubtypeType);
             const dict = {};
-            settings.algsToShow.forEach((subtype) => {
-                dict[subtype] = subtype;
+            ANALYSIS_TYPES.forEach((type) => {
+                if (settings.algsToShow.includes(type.subtype)) {
+                    dict[type.subtype] = type.label || type.subtype;
+                }
             });
             dd.addOptions(dict).onChange((option) => __awaiter(this, void 0, void 0, function* () {
                 settings.defaultSubtypeType = option;
@@ -35931,10 +35905,135 @@ class SampleSettingTab extends obsidian.PluginSettingTab {
             }));
         });
         containerEl.createEl('h3', { text: 'Algorithms to Show' });
+        const algoCategories = {
+            'Link-Based Similarity': {
+                'Co-cited (Co-Citations)': 'Notes are similar if cited together by the same notes.',
+                'Similar (Jaccard)': 'Measures link overlap: common links / total links.',
+                'Predict (Adamic Adar)': 'Like Similar, but weights rare common links higher.',
+                'Common (Overlap)': 'How much one note is "contained" in another.'
+            },
+            'Graph Structure': {
+                'Authority (HITS)': 'Finds "Hubs" (link out) and "Authorities" (linked to).',
+                'Density (Clustering Coefficient)': 'How connected a note\'s neighbors are to each other.',
+                'Community (Louvain)': 'Detects communities of interconnected notes.',
+                'Groups (Label Propagation)': 'Groups notes by propagating labels. Fast clustering.'
+            },
+            // NLP algorithms removed (require unavailable NLP library)
+        };
+        const descEl = containerEl.createEl('div', { cls: 'GA-algo-descriptions' });
+        descEl.style.marginBottom = '1em';
+        descEl.style.padding = '12px';
+        descEl.style.borderRadius = '5px';
+        descEl.style.fontSize = '0.85em';
+        descEl.style.backgroundColor = 'var(--background-secondary)';
+        Object.entries(algoCategories).forEach(([category, algos]) => {
+            const catHeader = descEl.createEl('div', { text: category });
+            catHeader.style.fontWeight = 'bold';
+            catHeader.style.marginTop = '8px';
+            catHeader.style.marginBottom = '4px';
+            catHeader.style.color = 'var(--text-accent)';
+            catHeader.style.borderBottom = '1px solid var(--background-modifier-border)';
+            Object.entries(algos).forEach(([name, desc]) => {
+                const item = descEl.createEl('div', { cls: 'GA-algo-desc-item' });
+                item.style.marginBottom = '3px';
+                item.style.marginLeft = '10px';
+                const nameSpan = item.createEl('strong', { text: name + ': ' });
+                nameSpan.style.color = 'var(--text-muted)';
+                item.createEl('span', { text: desc });
+            });
+        });
+        // Value Display Format section
+        const formatHeader = descEl.createEl('div', { text: 'Value Display Format' });
+        formatHeader.style.fontWeight = 'bold';
+        formatHeader.style.marginTop = '12px';
+        formatHeader.style.marginBottom = '4px';
+        formatHeader.style.color = 'var(--text-accent)';
+        formatHeader.style.borderBottom = '1px solid var(--background-modifier-border)';
+        const formats = {
+            'Similar, Authority, Density': 'Percentage (e.g., 45%)',
+            'Predict (Adamic Adar)': 'Scale 0-5 (e.g., 3/5)',
+            'Common (Overlap)': 'X/Y where X=common links, Y=total links of smaller node',
+            'Co-cited, Community, Groups': 'Raw value or label'
+        };
+        Object.entries(formats).forEach(([algo, format]) => {
+            const item = descEl.createEl('div', { cls: 'GA-algo-desc-item' });
+            item.style.marginBottom = '3px';
+            item.style.marginLeft = '10px';
+            const nameSpan = item.createEl('strong', { text: algo + ': ' });
+            nameSpan.style.color = 'var(--text-muted)';
+            item.createEl('span', { text: format });
+        });
+        // Priority Colors section
+        const colorHeader = descEl.createEl('div', { text: 'Priority Dot Colors (realistic thresholds)' });
+        colorHeader.style.fontWeight = 'bold';
+        colorHeader.style.marginTop = '12px';
+        colorHeader.style.marginBottom = '4px';
+        colorHeader.style.color = 'var(--text-accent)';
+        colorHeader.style.borderBottom = '1px solid var(--background-modifier-border)';
+        const colorInfo = [
+            { color: '#22c55e', symbol: '●', name: 'Green (High)', threshold: 'Similar ≥25%, Density ≥50%, Predict ≥2, Common ≥3' },
+            { color: '#f97316', symbol: '●', name: 'Orange (Medium)', threshold: 'Similar ≥10%, Density ≥25%, Predict ≥1, Common ≥2' },
+            { color: '#ef4444', symbol: '●', name: 'Red (Low)', threshold: 'Below medium thresholds' }
+        ];
+        colorInfo.forEach((info) => {
+            const item = descEl.createEl('div', { cls: 'GA-algo-desc-item' });
+            item.style.marginBottom = '3px';
+            item.style.marginLeft = '10px';
+            const dot = item.createEl('span', { text: info.symbol + ' ' });
+            dot.style.color = info.color;
+            dot.style.fontSize = '1.1em';
+            const nameSpan = item.createEl('strong', { text: info.name + ': ' });
+            nameSpan.style.color = 'var(--text-muted)';
+            item.createEl('span', { text: info.threshold });
+        });
+        // When to Use Each Algorithm section
+        const usageHeader = descEl.createEl('div', { text: 'When to Use Each Algorithm' });
+        usageHeader.style.fontWeight = 'bold';
+        usageHeader.style.marginTop = '12px';
+        usageHeader.style.marginBottom = '4px';
+        usageHeader.style.color = 'var(--text-accent)';
+        usageHeader.style.borderBottom = '1px solid var(--background-modifier-border)';
+        const usageInfo = [
+            { goal: '"I want to improve a specific note"', steps: 'Similar → verify current connections → Predict → find missing links 🟢 → Common → find related hub note' },
+            { goal: '"I want to understand my vault"', steps: 'Authority → which notes are central? → Community → what clusters exist? → Density → are clusters cohesive?' },
+            { goal: '"I want to find forgotten notes"', steps: 'Authority → notes with low score but many outlinks = undervalued hubs → Co-cited → notes cited together but not linked = missing connections' }
+        ];
+        usageInfo.forEach((info) => {
+            const item = descEl.createEl('div', { cls: 'GA-algo-desc-item' });
+            item.style.marginBottom = '6px';
+            item.style.marginLeft = '10px';
+            const goalSpan = item.createEl('strong', { text: info.goal + ' ' });
+            goalSpan.style.color = 'var(--text-muted)';
+            item.createEl('br');
+            const stepsSpan = item.createEl('span', { text: '  → ' + info.steps });
+            stepsSpan.style.fontSize = '0.9em';
+        });
+        // Quick Reference
+        const quickHeader = descEl.createEl('div', { text: 'Quick Reference' });
+        quickHeader.style.fontWeight = 'bold';
+        quickHeader.style.marginTop = '12px';
+        quickHeader.style.marginBottom = '4px';
+        quickHeader.style.color = 'var(--text-accent)';
+        quickHeader.style.borderBottom = '1px solid var(--background-modifier-border)';
+        const quickRef = [
+            { action: 'Connect better', algo: 'Predict' },
+            { action: 'Verify quality', algo: 'Similar' },
+            { action: 'Find hubs/MOCs', algo: 'Common or Authority' },
+            { action: 'See clusters', algo: 'Community' },
+            { action: 'Quick analysis', algo: 'Groups or Density' }
+        ];
+        quickRef.forEach((info) => {
+            const item = descEl.createEl('div', { cls: 'GA-algo-desc-item' });
+            item.style.marginBottom = '3px';
+            item.style.marginLeft = '10px';
+            const actionSpan = item.createEl('strong', { text: info.action + ': ' });
+            actionSpan.style.color = 'var(--text-muted)';
+            item.createEl('span', { text: info.algo });
+        });
         new Checkboxes({
             target: containerEl,
             props: {
-                options: ANALYSIS_TYPES.map((type) => type.subtype),
+                options: ANALYSIS_TYPES.map((type) => ({ label: type.label || type.subtype, value: type.subtype })),
                 plugin,
                 settingName: 'algsToShow',
             },
@@ -36107,10 +36206,42 @@ class GraphAnalysisPlugin extends obsidian.Plugin {
             this.addSettingTab(new SampleSettingTab(this.app, this));
             this.registerView(VIEW_TYPE_GRAPH_ANALYSIS, (leaf) => new AnalysisView(leaf, this, null));
             this.app.workspace.onLayoutReady(() => __awaiter(this, void 0, void 0, function* () {
-                const noFiles = this.app.vault.getMarkdownFiles().length;
-                while (!this.resolvedLinksComplete(noFiles)) {
+                const MAX_WAIT_ATTEMPTS = 30; // 30 seconds max
+                let attempts = 0;
+                let lastResolvedCount = 0;
+                let stableCount = 0;
+                
+                while (attempts < MAX_WAIT_ATTEMPTS) {
+                    const { resolvedLinks } = this.app.metadataCache;
+                    const currentResolved = Object.keys(resolvedLinks).length;
+                    const noFiles = this.app.vault.getMarkdownFiles().length;
+                    
+                    // Check if indexing is complete
+                    if (currentResolved >= noFiles && noFiles > 0) {
+                        break;
+                    }
+                    
+                    // Check if resolved count has stabilized (no changes for 3 seconds)
+                    if (currentResolved === lastResolvedCount && currentResolved > 0) {
+                        stableCount++;
+                        if (stableCount >= 3) {
+                            console.log('Graph Analysis: Resolved links stabilized, proceeding...');
+                            break;
+                        }
+                    } else {
+                        stableCount = 0;
+                        lastResolvedCount = currentResolved;
+                    }
+                    
                     yield wait(1000);
+                    attempts++;
                 }
+                
+                if (attempts >= MAX_WAIT_ATTEMPTS) {
+                    console.warn('Graph Analysis: Timeout waiting for Obsidian to finish indexing. Proceeding with partial data.');
+                    new obsidian.Notice('Graph Analysis: Timeout waiting for index. Some notes may be missing.');
+                }
+                
                 yield this.refreshGraph();
                 yield openView(this.app, VIEW_TYPE_GRAPH_ANALYSIS, AnalysisView);
             }));
@@ -36118,7 +36249,7 @@ class GraphAnalysisPlugin extends obsidian.Plugin {
     }
     resolvedLinksComplete(noFiles) {
         const { resolvedLinks } = this.app.metadataCache;
-        return Object.keys(resolvedLinks).length === noFiles;
+        return Object.keys(resolvedLinks).length >= noFiles;
     }
     refreshGraph() {
         return __awaiter(this, void 0, void 0, function* () {

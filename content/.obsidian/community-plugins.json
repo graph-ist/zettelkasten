@@ -1,8 +1,8 @@
 [
-  "virtual-linker",
   "advanced-canvas",
   "dataview",
   "metaedit",
   "graph-analysis",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "virtual-linker"
 ]

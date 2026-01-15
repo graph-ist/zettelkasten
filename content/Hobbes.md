@@ -6,18 +6,12 @@ subclasses:
   - Epistemology
   - 17th-18th-Century-Philosophy
 aliases:
-  - hobbes
-  - leviathan
   - social contract
-  - state of
-  - materialism
-  - absolutism
   - political philosophy
   - natural law
   - natural right
   - bellum omnium
   - homo homini
-  - sovereign
 contributions:
   - Conceptual
 authors:
@@ -29,14 +23,25 @@ authors:
   - "[[Spinoza]]"
   - "[[Locke]]"
   - "[[Grozio]]"
-reference: "[[03 The search for thought - Unit 5 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Social Contract Theory]]"
+  - "[[Natural Law]]"
+  - "[[Absolutism]]"
+  - "[[Materialism]]"
+  - "[[Political Philosophy]]"
+  - "[[State of Nature]]"
+  - "[[Sovereignty]]"
+  - "[[Leviathan]]"
+  - "[[English Civil War]]"
+  - "[[Rationalism]]"
 ---
 
 #### Central Problem
 
-The central problem addressed by Thomas Hobbes concerns the foundations of political order and peaceful coexistence among human beings. How can a stable and orderly society be established given the fundamentally egoistic and conflictual nature of humans? Hobbes rejects the Aristotelian conception of man as a naturally political animal, arguing instead that without a supreme authority, humans would exist in a perpetual "state of nature" characterized by a war of all against all (bellum omnium contra omnes).
+The central problem addressed by [[Hobbes]] concerns the foundations of political order and peaceful coexistence among human beings. How can a stable and orderly society be established given the fundamentally egoistic and conflictual nature of humans? [[Hobbes]] rejects the Aristotelian conception of man as a naturally political animal, arguing instead that without a supreme authority, humans would exist in a perpetual "state of nature" characterized by a war of all against all (bellum omnium contra omnes).
 
-The philosophical challenge Hobbes confronts is twofold: first, to establish a purely rational foundation for political philosophy that excludes supernatural revelation and ancient authorities, finding inspiration solely in the world of nature; second, to demonstrate how reason itself can lead humans out of their miserable natural condition toward a commonwealth that guarantees peace and security. This requires reconceiving the nature of reason itself—not as a faculty for discovering eternal truths, but as a calculative technique for predicting consequences and making advantageous choices.
+The philosophical challenge [[Hobbes]] confronts is twofold: first, to establish a purely rational foundation for political philosophy that excludes supernatural revelation and ancient authorities, finding inspiration solely in the world of nature; second, to demonstrate how reason itself can lead humans out of their miserable natural condition toward a commonwealth that guarantees peace and security. This requires reconceiving the nature of reason itself—not as a faculty for discovering eternal truths, but as a calculative technique for predicting consequences and making advantageous choices.
 
 Hobbes's project also involves addressing fundamental metaphysical questions about the nature of reality and knowledge. His materialist framework holds that only bodies exist and can be objects of scientific knowledge, which has profound implications for understanding human nature, morality, and the foundations of political authority.
 
@@ -54,15 +59,16 @@ Hobbes's main thesis is that reason, understood as a calculative faculty operati
 
 #### Historical Context
 
-Thomas Hobbes (1588-1679) lived through one of the most turbulent periods in English history, marked by civil war, regicide, and the struggle between parliamentary and royal authority. Born in Westport, England, his education at Oxford was supplemented by extensive travels on the European continent, where he encountered the leading intellectual figures of his age: [[Galilei]], [[Gassendi]], [[Mersenne]], and through the latter, [[Descartes]] (to whom he sent his Objections to the Meditations).
+[[Hobbes]] (1588-1679) lived through one of the most turbulent periods in English history, marked by civil war, regicide, and the struggle between parliamentary and royal authority. Born in Westport, England, his education at Oxford was supplemented by extensive travels on the European continent, where he encountered the leading intellectual figures of his age: [[Galilei]], [[Gassendi]], [[Mersenne]], and through the latter, [[Descartes]] (to whom he sent his Objections to the Meditations).
 
-The English Civil War (1642-1651), the execution of Charles I (1649), and Cromwell's Commonwealth profoundly shaped Hobbes's political thought. His masterwork, the Leviathan (1651), appeared during this period of upheaval, offering a philosophical justification for absolute sovereignty that could, in principle, be exercised by any form of government capable of maintaining order.
+The English Civil War (1642-1651), the execution of Charles I (1649), and Cromwell's Commonwealth profoundly shaped [[Hobbes]]'s political thought. His masterwork, the Leviathan (1651), appeared during this period of upheaval, offering a philosophical justification for absolute sovereignty that could, in principle, be exercised by any form of government capable of maintaining order.
 
 Hobbes's intellectual context includes the Scientific Revolution and the new mechanical philosophy. His materialism and mechanicism reflect the influence of Galilean physics, while his geometric method in political philosophy parallels the mathematical approach to nature championed by the new science. His nominalism about language and conventionalism about morality represent a decisive break with scholastic philosophy.
 
-The natural law tradition, particularly as represented by [[Grozio]]'s De iure belli ac pacis (1625), provided both a framework and a foil for Hobbes's political theory. While accepting the possibility of treating politics as a science and the need to prescind from historical contingency, Hobbes radically transformed the content of natural law from a set of eternal moral principles to prudential rules for self-preservation.
+The natural law tradition, particularly as represented by [[Grozio]]'s De iure belli ac pacis (1625), provided both a framework and a foil for [[Hobbes]]'s political theory. While accepting the possibility of treating politics as a science and the need to prescind from historical contingency, [[Hobbes]] radically transformed the content of natural law from a set of eternal moral principles to prudential rules for self-preservation.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -104,7 +110,7 @@ flowchart TD
 | Leviathan | The absolute sovereign (individual or assembly) created by social contract; a "mortal god" | [[Hobbes]], [[Absolutism]] |
 | Social contract | Agreement among individuals to transfer their natural rights to a sovereign in exchange for peace and security | [[Hobbes]], [[Political Philosophy]] |
 | Legibus solutus | "Unbound by law"; the sovereign's position above the laws, since law derives from sovereign authority | [[Hobbes]], [[Absolutism]] |
-| Pactum unionis | Pact of union among individuals; in Hobbes, coincides with the pactum subiectionis | [[Hobbes]], [[Contract Theory]] |
+| Pactum unionis | Pact of union among individuals; in [[Hobbes]], coincides with the pactum subiectionis | [[Hobbes]], [[Contract Theory]] |
 | Geometric method | Application of mathematical-deductive reasoning to moral and political philosophy | [[Hobbes]], [[Method]] |
 
 #### Authors Comparison
@@ -159,18 +165,6 @@ flowchart TD
 
 > "The condition of man is a condition of war of everyone against everyone." — [[Hobbes]]
 
-#### See Also
-
-- [[Social Contract Theory]]
-- [[Natural Law]]
-- [[Absolutism]]
-- [[Materialism]]
-- [[Political Philosophy]]
-- [[State of Nature]]
-- [[Sovereignty]]
-- [[Leviathan]]
-- [[English Civil War]]
-- [[Rationalism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

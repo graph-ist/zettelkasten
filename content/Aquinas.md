@@ -6,16 +6,12 @@ subclasses:
   - Metaphysics
   - Epistemology
 aliases:
-  - thomism
-  - aquinas
   - five ways
   - essence existence
   - natural law
   - faith reason
   - analogy being
-  - transcendentals
   - actus essendi
-  - adaequatio
 contributions:
   - Conceptual
 authors:
@@ -25,7 +21,20 @@ authors:
   - "[[Avicenna]]"
   - "[[Averroè]]"
   - "[[Bonaventura]]"
-reference: "[[02 The search for thought - Unit 7 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Scholasticism]]"
+  - "[[Aristotelianism]]"
+  - "[[Natural Theology]]"
+  - "[[Essence and Existence]]"
+  - "[[Five Ways]]"
+  - "[[Natural Law]]"
+  - "[[Divine Attributes]]"
+  - "[[Transcendentals]]"
+  - "[[Faith and Reason]]"
+  - "[[Analogy of Being]]"
+  - "[[Neothomism]]"
+  - "[[Summa Theologiae]]"
 ---
 
 #### Central Problem
@@ -34,7 +43,7 @@ The central problem of Thomistic philosophy is the systematic harmonization of A
 
 The problem manifests in several dimensions: metaphysically, how can the Aristotelian conception of necessary, eternal forms be reconciled with the Christian doctrine of creation *ex nihilo*? Epistemologically, what is the proper scope of rational inquiry concerning divine truths, and where must faith supplement reason? Anthropologically, how can the Aristotelian conception of soul as form of the body be compatible with personal immortality and resurrection? Ethically, how do natural virtue and divine grace relate in achieving human flourishing and salvation?
 
-Aquinas inherits from [[Alberto Magno]] the project of incorporating Aristotle into Christian thought, but realizes that mere piecemeal adaptation is insufficient. A radical reformation of the entire philosophical-theological system is required, one that neither reduces faith to reason (as the Averroists tended) nor abandons reason for authority (as anti-dialecticians urged).
+[[Aquinas]] inherits from [[Alberto Magno]] the project of incorporating [[Aristotle]] into Christian thought, but realizes that mere piecemeal adaptation is insufficient. A radical reformation of the entire philosophical-theological system is required, one that neither reduces faith to reason (as the Averroists tended) nor abandons reason for authority (as anti-dialecticians urged).
 
 #### Main Thesis
 
@@ -58,11 +67,12 @@ Aquinas inherits from [[Alberto Magno]] the project of incorporating Aristotle i
 
 The Aristotelian worldview appeared to conflict with fundamental Christian doctrines: the eternity and necessity of the world contradicted creation; the identification of soul with bodily form seemed to preclude immortality; the thesis of a single universal intellect (as interpreted by [[Averroè]]) eliminated individual immortality. The faculty of arts at Paris witnessed the rise of Latin Averroism under [[Sigieri di Brabante]], teaching positions apparently incompatible with faith.
 
-Ecclesiastical authorities responded with condemnations (1210, 1215, 1270, 1277), prohibiting the teaching of Aristotle's natural philosophy. Meanwhile, the Franciscan school, led by [[Bonaventura]], defended the Augustinian-Platonic tradition against Aristotelian innovations, advocating divine illumination and the primacy of will over intellect.
+Ecclesiastical authorities responded with condemnations (1210, 1215, 1270, 1277), prohibiting the teaching of [[Aristotle]]'s natural philosophy. Meanwhile, the Franciscan school, led by [[Bonaventura]], defended the Augustinian-Platonic tradition against Aristotelian innovations, advocating divine illumination and the primacy of will over intellect.
 
 Into this contested terrain came [[Tommaso]], a Dominican friar trained under [[Alberto Magno]] at Paris and Cologne. His project—continued throughout teaching positions at Paris, Rome, and Naples—was to demonstrate that authentic Aristotelianism, properly understood and reformed, could serve as the rational foundation for Christian theology. His two great *Summae* (the *Summa contra Gentiles* and the unfinished *Summa Theologiae*) represent the most comprehensive medieval synthesis of philosophy and theology.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -88,10 +98,10 @@ flowchart TD
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
 | [[Tommaso]] | 1225-1274 | [[Thomism]] | *Summa Theologiae* | Essence-existence distinction |
-| [[Alberto Magno]] | 1193-1280 | [[Aristotelianism]] | *Commentaries on Aristotle* | Philosophy-theology distinction |
+| [[Alberto Magno]] | 1193-1280 | [[Aristotelianism]] | *Commentaries on [[Aristotle]]* | Philosophy-theology distinction |
 | [[Bonaventura]] | 1221-1274 | [[Augustinianism]] | *Itinerarium mentis in Deum* | Divine illumination |
 | [[Avicenna]] | 980-1037 | [[Islamic Philosophy]] | *Book of Healing* | Necessary being |
-| [[Averroè]] | 1126-1198 | [[Aristotelianism]] | *Commentaries on Aristotle* | Unity of intellect |
+| [[Averroè]] | 1126-1198 | [[Aristotelianism]] | *Commentaries on [[Aristotle]]* | Unity of intellect |
 | [[Sigieri di Brabante]] | 1240-1284 | [[Averroism]] | *De anima intellectiva* | Double truth |
 
 #### Key Concepts
@@ -119,7 +129,7 @@ flowchart TD
 | Intellect | Individual active intellect in each soul | Requires divine illumination | Single universal intellect |
 | Eternity of world | Neither demonstrable nor refutable | Demonstrably false | Demonstrably true |
 | Metaphysical framework | Reformed Aristotelianism | Augustinian Neoplatonism | Pure Aristotelianism |
-| Greek philosophy | Aristotle as "the Philosopher" | Plato preferred | Aristotle as "the Philosopher" |
+| Greek philosophy | [[Aristotle]] as "the Philosopher" | [[Plato]] preferred | [[Aristotle]] as "the Philosopher" |
 
 #### Influences & Connections
 
@@ -133,7 +143,7 @@ flowchart TD
 #### Summary Formulas
 
 - **[[Tommaso]]:** Essence and existence are really distinct in creatures but identical in God; all finite being participates in divine Being; faith and reason harmoniously cooperate, each in its proper domain.
-- **[[Alberto Magno]]:** Philosophy must proceed by demonstration alone, distinct from theology which proceeds from revealed principles; Aristotle represents the perfection of human reason.
+- **[[Alberto Magno]]:** Philosophy must proceed by demonstration alone, distinct from theology which proceeds from revealed principles; [[Aristotle]] represents the perfection of human reason.
 - **[[Bonaventura]]:** The mind's journey to God requires divine illumination at every stage; natural reason is insufficient without the light of faith; the soul is a spiritual substance, not merely form.
 - **[[Averroè]]:** The world is eternal and necessary; the intellect (both agent and possible) is one for all humanity; philosophy expresses demonstratively what religion teaches symbolically.
 
@@ -163,20 +173,6 @@ flowchart TD
 
 > "Truth is the adequation of thing and intellect." — [[Tommaso]], citing Isaac Ben Israeli
 
-#### See Also
-
-- [[Scholasticism]]
-- [[Aristotelianism]]
-- [[Natural Theology]]
-- [[Essence and Existence]]
-- [[Five Ways]]
-- [[Natural Law]]
-- [[Divine Attributes]]
-- [[Transcendentals]]
-- [[Faith and Reason]]
-- [[Analogy of Being]]
-- [[Neothomism]]
-- [[Summa Theologiae]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

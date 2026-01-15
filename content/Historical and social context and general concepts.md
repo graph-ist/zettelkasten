@@ -7,17 +7,13 @@ subclasses:
   - Social-and-Political-Philosophy
   - Epistemology
 aliases:
-  - humanism
-  - renaissance
   - homo faber
   - dignity man
   - return antiquity
-  - anthropocentrism
   - secular knowledge
   - historical perspective
   - lay intellectual
   - civic humanism
-  - microcosm
   - active life
 contributions:
   - Conceptual
@@ -30,7 +26,18 @@ authors:
   - "[[Montaigne]]"
   - "[[Burckhardt]]"
   - "[[Garin]]"
-reference: "[[03 The search for thought - Unit 1 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Scholasticism]]"
+  - "[[Medieval Philosophy]]"
+  - "[[Neoplatonism]]"
+  - "[[Civic Humanism]]"
+  - "[[Platonic Academy]]"
+  - "[[Protestant Reformation]]"
+  - "[[Scientific Revolution]]"
+  - "[[Philology]]"
+  - "[[Dignity of Man]]"
+  - "[[Italian Renaissance]]"
 ---
 
 #### Central Problem
@@ -66,6 +73,7 @@ Economically, urban civilization and mercantile economy replace the "closed" eco
 The culture-bearing class shifts from ecclesiastics to lay intellectuals, often merchants, financiers, or professionals who become "professionals of the pen" serving princely courts. Academies (Platonic Academy in Florence, Roman Academy, Neapolitan Academy) emerge as alternative centers of learning alongside medieval universities.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -166,18 +174,6 @@ flowchart TD
 
 > "We have no communication with being, because the entire human nature is always between birth and death." — [[Montaigne]]
 
-#### See Also
-
-- [[Scholasticism]]
-- [[Medieval Philosophy]]
-- [[Neoplatonism]]
-- [[Civic Humanism]]
-- [[Platonic Academy]]
-- [[Protestant Reformation]]
-- [[Scientific Revolution]]
-- [[Philology]]
-- [[Dignity of Man]]
-- [[Italian Renaissance]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

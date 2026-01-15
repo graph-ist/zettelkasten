@@ -6,16 +6,12 @@ subclasses:
   - Analytic-Philosophy
   - 20th-Century-Philosophy
 aliases:
-  - wittgenstein
-  - tractatus
   - language games
   - picture theory
   - logical atomism
-  - tautology
   - ordinary language
   - linguistic turn
   - saying showing
-  - nonsense
   - philosophy therapy
   - family resemblance
 contributions:
@@ -26,7 +22,18 @@ authors:
   - "[[Frege]]"
   - "[[Moore]]"
   - "[[Ramsey]]"
-reference: "[[06 The search for thought - Unit 13 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Analytic Philosophy]]"
+  - "[[Logical Positivism]]"
+  - "[[Ordinary Language Philosophy]]"
+  - "[[Vienna Circle]]"
+  - "[[Philosophy of Language]]"
+  - "[[Tractatus Logico-Philosophicus]]"
+  - "[[Philosophical Investigations]]"
+  - "[[Logical Atomism]]"
+  - "[[Speech Act Theory]]"
+  - "[[Private Language Argument]]"
 ---
 
 #### Central Problem
@@ -64,19 +71,20 @@ The later work rejects the idea of one ideal logical language. Instead:
 
 #### Historical Context
 
-Wittgenstein was born in Vienna in 1889 into one of Europe's wealthiest families (steel magnates). Initially trained as an engineer in Berlin and Manchester, his interest shifted to the foundations of mathematics. The decisive encounter came in 1911 when he met [[Frege]] in Jena, who directed him to Cambridge to study with [[Russell]].
+Wittgenstein was born in Vienna in 1889 into one of Europe's wealthiest families (steel magnates). Initially trained as an engineer in [[Berlin]] and Manchester, his interest shifted to the foundations of mathematics. The decisive encounter came in 1911 when he met [[Frege]] in Jena, who directed him to Cambridge to study with [[Russell]].
 
-At Cambridge (1912-1913), Wittgenstein engaged intensively with Russell, who was publishing the *Principia Mathematica*. Their relationship became one of mutual influence — Russell credited Wittgenstein with key insights about the tautological nature of logic.
+At Cambridge (1912-1913), Wittgenstein engaged intensively with [[Russell]], who was publishing the *Principia Mathematica*. Their relationship became one of mutual influence — [[Russell]] credited Wittgenstein with key insights about the tautological nature of logic.
 
-In 1913 Wittgenstein retreated to Norway in solitude. When World War I broke out, he enlisted in the Austrian army and was captured by Italians in 1918. While imprisoned near Cassino, he completed the *Tractatus*. The work appeared in German in 1921 and in English (with Russell's introduction) in 1922.
+In 1913 Wittgenstein retreated to Norway in solitude. When World War I broke out, he enlisted in the Austrian army and was captured by Italians in 1918. While imprisoned near Cassino, he completed the *Tractatus*. The work appeared in German in 1921 and in English (with [[Russell]]'s introduction) in 1922.
 
-After the war, believing he had solved the essential problems of philosophy, Wittgenstein abandoned academic life. He gave away his inheritance, worked as an elementary school teacher in rural Austria (1920-1926), then as a gardener and architect (designing his sister's house in Vienna with architect Paul Engelmann — a building that embodied the Tractatus's principles of logical clarity and absence of ornament).
+After the war, believing he had solved the essential problems of philosophy, Wittgenstein abandoned academic life. He gave away his inheritance, worked as an elementary school teacher in rural Austria (1920-1926), then as a gardener and architect (designing his sister's house in Vienna with architect Engelmann — a building that embodied the Tractatus's principles of logical clarity and absence of ornament).
 
 In 1929, encouraged by his friends and the Vienna Circle philosophers who had adopted the *Tractatus* as foundational, Wittgenstein returned to Cambridge. He became professor in 1939 (succeeding Moore) and obtained British citizenship after Austria's annexation by Nazi Germany. During World War II he worked as a hospital orderly.
 
 From the early 1930s, Wittgenstein began radically revising his earlier views, influenced by discussions with Ramsey, Brouwer, and members of the Vienna Circle. The *[[Wittgenstein on Language and Thought|Philosophical Investigations]]*, composed between 1935-1949, was published posthumously in 1953. Wittgenstein died of prostate cancer in 1951.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -178,18 +186,6 @@ flowchart TD
 
 > "Philosophy is a battle against the bewitchment of our intelligence by means of language." — [[Wittgenstein]]
 
-#### See Also
-
-- [[Analytic Philosophy]]
-- [[Logical Positivism]]
-- [[Ordinary Language Philosophy]]
-- [[Vienna Circle]]
-- [[Philosophy of Language]]
-- [[Tractatus Logico-Philosophicus]]
-- [[Philosophical Investigations]]
-- [[Logical Atomism]]
-- [[Speech Act Theory]]
-- [[Private Language Argument]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

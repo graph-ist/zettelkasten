@@ -6,17 +6,12 @@ subclasses:
   - Metaphysics
   - 17th-18th-Century-Philosophy
 aliases:
-  - kant
-  - criticism
   - critical philosophy
-  - transcendental
   - precritical period
   - philosophy limit
   - critique reason
   - phenomenon noumenon
   - space time
-  - dogmatism
-  - finitude
   - pure intuition
 contributions:
   - Conceptual
@@ -27,30 +22,41 @@ authors:
   - "[[Hume]]"
   - "[[Leibniz]]"
   - "[[Locke]]"
-reference: "[[04 The search for thought - Unit 7 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[Critique of Pure Reason]]"
+  - "[[Transcendental Philosophy]]"
+  - "[[German Idealism]]"
+  - "[[Empiricism]]"
+  - "[[Rationalism]]"
+  - "[[Enlightenment]]"
+  - "[[Epistemology]]"
+  - "[[Metaphysics]]"
+  - "[[Scientific Revolution]]"
+  - "[[Moral Philosophy]]"
 ---
 
 #### Central Problem
 
-Immanuel Kant (1724-1804) confronts the fundamental question of how to establish the legitimate scope and limits of human reason in the wake of the scientific revolution and the progressive crisis of traditional metaphysics. The central problem emerges from the tension between two competing philosophical traditions: rationalist dogmatism (represented by the Leibniz-Wolff school), which claimed that pure reason could attain metaphysical knowledge beyond experience, and British empiricism (Locke, Hume), which challenged such pretensions but risked collapsing into skepticism.
+[[Kant]] (1724-1804) confronts the fundamental question of how to establish the legitimate scope and limits of human reason in the wake of the scientific revolution and the progressive crisis of traditional metaphysics. The central problem emerges from the tension between two competing philosophical traditions: rationalist dogmatism (represented by the [[Leibniz]]-Wolff school), which claimed that pure reason could attain metaphysical knowledge beyond experience, and British empiricism (Locke, [[Hume]]), which challenged such pretensions but risked collapsing into skepticism.
 
-How can philosophy secure certain knowledge while acknowledging the limitations of human cognitive faculties? Can metaphysics become a genuine science, and if so, under what conditions? What are the boundaries within which human knowledge, morality, and aesthetic judgment can claim validity? These interconnected questions drive Kant's systematic inquiry, which seeks to establish the conditions of possibility for legitimate knowledge, ethical action, and aesthetic experience by examining reason's own structure and limitations.
+How can philosophy secure certain knowledge while acknowledging the limitations of human cognitive faculties? Can metaphysics become a genuine science, and if so, under what conditions? What are the boundaries within which human knowledge, morality, and aesthetic judgment can claim validity? These interconnected questions drive [[Kant]]'s systematic inquiry, which seeks to establish the conditions of possibility for legitimate knowledge, ethical action, and aesthetic experience by examining reason's own structure and limitations.
 
 The problem is not merely epistemological but concerns the entire scope of human existence: knowledge (what can I know?), morality (what ought I to do?), religion (what may I hope?), and ultimately anthropology (what is man?).
 
 #### Main Thesis
 
-Kant's philosophy, known as **criticism** (*Kritizismus*), makes critique the fundamental instrument of philosophy. "Criticize," in Kant's technical language, means to judge, distinguish, evaluate, and weigh—that is, to systematically interrogate the foundations of human experiences to clarify:
+Kant's philosophy, known as **criticism** (*Kritizismus*), makes critique the fundamental instrument of philosophy. "Criticize," in [[Kant]]'s technical language, means to judge, distinguish, evaluate, and weigh—that is, to systematically interrogate the foundations of human experiences to clarify:
 
 - Their **possibility** (the conditions enabling their existence)
 - Their **validity** (their titles of legitimacy or illegitimacy)  
 - Their **limits** (the boundaries of their validity)
 
-The central and qualifying aspect of Kantian critique is the concept of **limit**. Criticism constitutes a "philosophy of limit" or, as Nicola Abbagnano termed it, a "hermeneutics of finitude"—an interpretation of existence aimed at establishing the "Pillars of Hercules of the human" and recognizing the finite, conditioned character of existential possibilities.
+The central and qualifying aspect of Kantian critique is the concept of **limit**. Criticism constitutes a "philosophy of limit" or, as Abbagnano termed it, a "hermeneutics of finitude"—an interpretation of existence aimed at establishing the "Pillars of Hercules of the human" and recognizing the finite, conditioned character of existential possibilities.
 
-**Key Methodological Innovation:** Unlike empiricism, which merely describes cognitive mechanisms, and unlike dogmatic rationalism, which proceeds without preliminary self-examination, criticism seeks to establish the **conditions of possibility** and **limits of validity** for each domain of human experience. The fundamental principle is "to find in the limit of validity the validity of the limit" (Pietro Chiodi): the impossibility of transcending experiential limits becomes the very foundation of knowledge's validity within those limits.
+**Key Methodological Innovation:** Unlike empiricism, which merely describes cognitive mechanisms, and unlike dogmatic rationalism, which proceeds without preliminary self-examination, criticism seeks to establish the **conditions of possibility** and **limits of validity** for each domain of human experience. The fundamental principle is "to find in the limit of validity the validity of the limit" (Chiodi): the impossibility of transcending experiential limits becomes the very foundation of knowledge's validity within those limits.
 
-**Precritical Development:** Kant's path to the transcendental standpoint evolved through distinct phases:
+**Precritical Development:** [[Kant]]'s path to the transcendental standpoint evolved through distinct phases:
 1. Early naturalistic studies influenced by Newtonian physics (1755: *Universal Natural History and Theory of the Heavens*)
 2. Critical examination of metaphysics under empiricist influence (1762-1765)
 3. The 1770 Inaugural Dissertation establishing the transcendental view of space and time for sensible knowledge
@@ -63,17 +69,18 @@ The central and qualifying aspect of Kantian critique is the concept of **limit*
 
 #### Historical Context
 
-Kant was born in 1724 in Königsberg, Prussia, into a modest family of Pietist artisans. His student Johann Gottfried Herder later described him as a teacher who "encouraged and gently compelled one to think for oneself; despotism was foreign to his spirit." Kant's existence was dedicated entirely to thought, marked by rigid habits (his afternoon walk was so punctual that Königsberg citizens reportedly set their clocks by it), few dramatic events, and intense intellectual labor.
+[[Kant]] was born in 1724 in Königsberg, Prussia, into a modest family of Pietist artisans. His student Gottfried [[Herder]] later described him as a teacher who "encouraged and gently compelled one to think for oneself; despotism was foreign to his spirit." [[Kant]]'s existence was dedicated entirely to thought, marked by rigid habits (his afternoon walk was so punctual that Königsberg citizens reportedly set their clocks by it), few dramatic events, and intense intellectual labor.
 
 The intellectual context was defined by two major developments: the **scientific revolution** (Newton's physics provided the model of legitimate knowledge through description of phenomena without metaphysical speculation) and the **progressive crisis of traditional metaphysics** (the impossibility of resolving disputes by pure reason alone). This situation affected ethics, traditionally derived from metaphysics, generating the need for an autonomous moral foundation.
 
-Kant sympathized with the American War of Independence and the French Revolution, viewing both as realizations of political freedom. His political ideal, articulated in *Perpetual Peace* (1795), envisioned a republican constitution founded on freedom, independence, and equality.
+[[Kant]] sympathized with the American War of Independence and the French Revolution, viewing both as realizations of political freedom. His political ideal, articulated in *Perpetual Peace* (1795), envisioned a republican constitution founded on freedom, independence, and equality.
 
-The only notable biographical incident was his conflict with the Prussian government after publishing *Religion within the Limits of Reason Alone* (1794), which led to official censure. With Frederick William III's accession (1797), press freedom was restored, and Kant could vindicate intellectual liberty in *The Conflict of the Faculties* (1798).
+The only notable biographical incident was his conflict with the Prussian government after publishing *Religion within the Limits of Reason Alone* (1794), which led to official censure. With Frederick William III's accession (1797), press freedom was restored, and [[Kant]] could vindicate intellectual liberty in *The Conflict of the Faculties* (1798).
 
-Kant died in 1804, murmuring "Es ist gut" ("It is well"). His tombstone bears words from the *Critique of Practical Reason*: "The starry heavens above me and the moral law within me."
+[[Kant]] died in 1804, murmuring "Es ist gut" ("It is well"). His tombstone bears words from the *Critique of Practical Reason*: "The starry heavens above me and the moral law within me."
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -171,18 +178,6 @@ flowchart TD
 
 > "Metaphysics is the science of the limits of human reason; for it, as for a small country, it matters more to know well and maintain one's possessions than to blindly seek conquests." — [[Kant]]
 
-#### See Also
-
-- [[Critique of Pure Reason]]
-- [[Transcendental Philosophy]]
-- [[German Idealism]]
-- [[Empiricism]]
-- [[Rationalism]]
-- [[Enlightenment]]
-- [[Epistemology]]
-- [[Metaphysics]]
-- [[Scientific Revolution]]
-- [[Moral Philosophy]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

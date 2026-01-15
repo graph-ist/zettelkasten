@@ -9,15 +9,10 @@ aliases:
   - natural philosophy
   - renaissance magic
   - nature philosophy
-  - panpsychism
   - infinite universe
-  - animism
   - macrocosm microcosm
-  - naturalism
   - world soul
   - heroic fury
-  - telesio
-  - bruno
 contributions:
   - Conceptual
 authors:
@@ -26,7 +21,18 @@ authors:
   - "[[Campanella]]"
   - "[[Agrippa]]"
   - "[[Paracelsus]]"
-reference: "[[03 The search for thought - Unit 1 Chapter 5.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Renaissance Magic]]"
+  - "[[Neoplatonism]]"
+  - "[[Panpsychism]]"
+  - "[[Scientific Revolution]]"
+  - "[[Hermeticism]]"
+  - "[[Natural Religion]]"
+  - "[[Infinite Universe]]"
+  - "[[Cosmology]]"
+  - "[[Utopia]]"
+  - "[[Counter-Reformation]]"
 ---
 
 #### Central Problem
@@ -43,9 +49,9 @@ The chapter presents three distinct approaches to understanding nature:
 
 **Magic (Agrippa, Paracelsus):** Nature is universally animated by forces similar to those operating in humans, coordinated by universal sympathy. The human, situated at the center of three worlds (elemental, celestial, intelligible), can penetrate nature's secrets and dominate its forces through formulas, incantations, and the correspondence between macrocosm and microcosm. Paracelsus anticipates scientific method by insisting that theory and practice must proceed together, but his research retains magical character through the macrocosm-microcosm principle.
 
-**Natural Philosophy (Telesio):** Nature is an autonomous world governed by its own principles (heat, cold, and corporeal mass) and can be explained only through these principles, excluding metaphysical forces. The human, as sensibility, is itself nature — sensation is nature's self-revelation to that part of itself which is human. This establishes the objectivity and autonomy of nature that will become the foundation of scientific research (Leonardo, Copernicus, Kepler, Galileo).
+**Natural Philosophy (Telesio):** Nature is an autonomous world governed by its own principles (heat, cold, and corporeal mass) and can be explained only through these principles, excluding metaphysical forces. The human, as sensibility, is itself nature — sensation is nature's self-revelation to that part of itself which is human. This establishes the objectivity and autonomy of nature that will become the foundation of scientific research (Leonardo, [[Copernicus]], [[Kepler]], [[Galileo]]).
 
-**Philosophical Religion of Nature (Bruno):** Nature is divine and infinite — "either God himself or divine virtue manifesting in things." The universe is one, infinite, and immobile, containing all contraries in unity. Bruno's naturalism is a "religion" of nature, a heroic fury through which the philosopher, going beyond every limit with heroic effort, achieves superhuman identification with the cosmic process. His contemplation of nature is not mystical ecstasy but magical vision of nature's unity and inexhaustible life.
+**Philosophical Religion of Nature (Bruno):** Nature is divine and infinite — "either God himself or divine virtue manifesting in things." The universe is one, infinite, and immobile, containing all contraries in unity. [[Bruno]]'s naturalism is a "religion" of nature, a heroic fury through which the philosopher, going beyond every limit with heroic effort, achieves superhuman identification with the cosmic process. His contemplation of nature is not mystical ecstasy but magical vision of nature's unity and inexhaustible life.
 
 **Theological Politics (Campanella):** Building on Telesio's physics with magical and metaphysical integrations, Campanella grounds his political-religious project in natural philosophy. All things possess innate self-consciousness through the three "primalities" of being: power, wisdom, and love. Natural religion is innate in all humans and serves as the norm for measuring positive religions.
 
@@ -60,6 +66,7 @@ The Renaissance recovery of ancient texts — Hermetic writings, Neoplatonic phi
 [[Campanella]] (1568-1639) was imprisoned for 27 years for organizing a conspiracy to establish a theocratic republic in Calabria. In prison he wrote his major works, including *The City of the Sun*, describing an ideal state governed by natural religion. He later found refuge in Paris under Louis XIII's protection.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -157,18 +164,6 @@ flowchart TD
 
 > "Nature is either God himself or divine virtue manifesting in things." — [[Bruno]]
 
-#### See Also
-
-- [[Renaissance Magic]]
-- [[Neoplatonism]]
-- [[Panpsychism]]
-- [[Scientific Revolution]]
-- [[Hermeticism]]
-- [[Natural Religion]]
-- [[Infinite Universe]]
-- [[Cosmology]]
-- [[Utopia]]
-- [[Counter-Reformation]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

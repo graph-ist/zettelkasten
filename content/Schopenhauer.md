@@ -6,16 +6,7 @@ subclasses:
   - Metaphysics
   - Ethics
 aliases:
-  - schopenhauer
-  - will to
   - world representation
-  - pessimism
-  - veil of
-  - thing in
-  - suffering
-  - asceticism
-  - denial of
-  - noluntas
   - cosmic pessimism
   - eternal recurrence
 contributions:
@@ -26,34 +17,46 @@ authors:
   - "[[Plato]]"
   - "[[Fichte]]"
   - "[[Hegel]]"
-reference: "[[05 The search for thought - Unit 1 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Pessimism]]"
+  - "[[Voluntarism]]"
+  - "[[German Idealism]]"
+  - "[[Indian Philosophy]]"
+  - "[[Buddhism]]"
+  - "[[Kant]]"
+  - "[[Nietzsche]]"
+  - "[[Freud]]"
+  - "[[Philosophy of Will]]"
+  - "[[Asceticism]]"
 ---
 
 #### Central Problem
 
-How can we understand the true nature of reality beyond appearances, and what follows from such understanding for human existence and happiness? Arthur Schopenhauer confronts the fundamental tension between the phenomenal world of experience (what appears to us) and the noumenal reality (what things are in themselves). Building on Kant's critical philosophy but radically departing from it, Schopenhauer asks: if the world as we perceive it is merely representation shaped by our cognitive apparatus, what lies beneath this veil of appearances? And if we can access this deeper reality, what does it reveal about existence, suffering, and the possibility of liberation?
+How can we understand the true nature of reality beyond appearances, and what follows from such understanding for human existence and happiness? [[Schopenhauer]] confronts the fundamental tension between the phenomenal world of experience (what appears to us) and the noumenal reality (what things are in themselves). Building on [[Kant]]'s critical philosophy but radically departing from it, [[Schopenhauer]] asks: if the world as we perceive it is merely representation shaped by our cognitive apparatus, what lies beneath this veil of appearances? And if we can access this deeper reality, what does it reveal about existence, suffering, and the possibility of liberation?
 
-The problem extends beyond epistemology into existential and ethical domains. Schopenhauer challenges the prevailing optimism of German Idealism and Enlightenment progressivism, asking: is existence fundamentally good, rational, and purposeful, or is it characterized by suffering, irrationality, and meaninglessness? The answer to this question determines whether human life can achieve genuine fulfillment or whether liberation requires a radical negation of life itself.
+The problem extends beyond epistemology into existential and ethical domains. [[Schopenhauer]] challenges the prevailing optimism of German Idealism and Enlightenment progressivism, asking: is existence fundamentally good, rational, and purposeful, or is it characterized by suffering, irrationality, and meaninglessness? The answer to this question determines whether human life can achieve genuine fulfillment or whether liberation requires a radical negation of life itself.
 
 #### Main Thesis
 
-Schopenhauer maintains that reality has two fundamental aspects: the world as representation (Vorstellung) and the world as will (Wille). As representation, the world is phenomenal appearance structured by the subject's cognitive forms (space, time, causality), constituting what Indian philosophy calls the "veil of Maya" — an illusory dream concealing true reality. Unlike Kant, for whom phenomena constitute genuine empirical reality, Schopenhauer treats phenomena as mere illusion.
+[[Schopenhauer]] maintains that reality has two fundamental aspects: the world as representation (Vorstellung) and the world as will (Wille). As representation, the world is phenomenal appearance structured by the subject's cognitive forms (space, time, causality), constituting what Indian philosophy calls the "veil of Maya" — an illusory dream concealing true reality. Unlike [[Kant]], for whom phenomena constitute genuine empirical reality, [[Schopenhauer]] treats phenomena as mere illusion.
 
 The breakthrough insight comes through introspection: by experiencing our own body from within (not merely observing it from without), we discover that our essence is will — an unconscious, blind, eternal striving without purpose or goal. By analogy, this will to live (Wille zum Leben) constitutes the thing-in-itself of the entire universe. The will objectifies itself first in eternal Ideas (Platonic archetypes) and then in the multiplicity of individual phenomena through space and time.
 
-This metaphysics grounds Schopenhauer's cosmic pessimism: since will is endless striving, and striving implies lack and desire, existence is essentially suffering. Pleasure is merely the temporary cessation of pain; desire satisfied immediately generates new desire. Life oscillates like a pendulum between pain and boredom, with fleeting pleasure in between. Even love serves merely the will's drive to perpetuate the species, making individuals "puppets" of nature's blind purposes.
+This metaphysics grounds [[Schopenhauer]]'s cosmic pessimism: since will is endless striving, and striving implies lack and desire, existence is essentially suffering. Pleasure is merely the temporary cessation of pain; desire satisfied immediately generates new desire. Life oscillates like a pendulum between pain and boredom, with fleeting pleasure in between. Even love serves merely the will's drive to perpetuate the species, making individuals "puppets" of nature's blind purposes.
 
 Liberation from suffering comes not through suicide (which affirms will by rejecting only particular conditions) but through progressive denial of will: first through art (temporary contemplation of Ideas), then through morality (justice and compassion overcoming egoism), and finally through asceticism — the complete renunciation of desire leading to nirvana-like extinction of will.
 
 #### Historical Context
 
-Schopenhauer (1788-1860) wrote during the dominance of German Idealism, positioning himself as its radical critic. Born in Danzig to a wealthy banking family, he studied at Göttingen under G.E. Schulze and attended Fichte's lectures in Berlin (1811). His doctoral thesis, *On the Fourfold Root of the Principle of Sufficient Reason* (1813), and his masterwork, *The World as Will and Representation* (1818), received virtually no attention during the Idealist heyday. Only after 1848, when revolutionary failures bred widespread pessimism across Europe, did his philosophy gain recognition.
+[[Schopenhauer]] (1788-1860) wrote during the dominance of German Idealism, positioning himself as its radical critic. Born in Danzig to a wealthy banking family, he studied at Göttingen under G.E. [[Schulze]] and attended [[Fichte]]'s lectures in [[Berlin]] (1811). His doctoral thesis, *On the Fourfold Root of the Principle of Sufficient Reason* (1813), and his masterwork, *The World as Will and Representation* (1818), received virtually no attention during the Idealist heyday. Only after 1848, when revolutionary failures bred widespread pessimism across Europe, did his philosophy gain recognition.
 
-Schopenhauer's intellectual formation drew from heterogeneous sources: Plato's theory of eternal Ideas; Kant's distinction between phenomenon and noumenon (read through post-Kantian interpreters); Enlightenment materialism and ideology's physiological approach to mind; Romantic themes of irrationalism, artistic supremacy, and the infinite; and crucially, Indian philosophy — the Vedas, Upanishads, and Buddhism — which he encountered through Friedrich Majer. While scholars debate the depth of Indian influence (recent research suggests his system developed independently, with Eastern thought providing confirmation and imagery rather than foundation), Schopenhauer pioneered Western philosophical engagement with Asian traditions.
+Schopenhauer's intellectual formation drew from heterogeneous sources: [[Plato]]'s theory of eternal Ideas; [[Kant]]'s distinction between phenomenon and noumenon (read through post-Kantian interpreters); Enlightenment materialism and ideology's physiological approach to mind; Romantic themes of irrationalism, artistic supremacy, and the infinite; and crucially, Indian philosophy — the Vedas, Upanishads, and Buddhism — which he encountered through Majer. While scholars debate the depth of Indian influence (recent research suggests his system developed independently, with Eastern thought providing confirmation and imagery rather than foundation), [[Schopenhauer]] pioneered Western philosophical engagement with Asian traditions.
 
-His violent opposition to Hegel — whom he called a "charlatan" and "assassin of truth" — reflected not scholarly disagreement but fundamental incompatibility: where Hegel saw rational Spirit progressively realizing itself in history, Schopenhauer saw blind will eternally reproducing suffering. This anti-historicism made him, in Max Scheler's phrase, "the first deserter from Europe and its faith in history."
+His violent opposition to [[Hegel]] — whom he called a "charlatan" and "assassin of truth" — reflected not scholarly disagreement but fundamental incompatibility: where [[Hegel]] saw rational Spirit progressively realizing itself in history, [[Schopenhauer]] saw blind will eternally reproducing suffering. This anti-historicism made him, in [[Scheler]]'s phrase, "the first deserter from Europe and its faith in history."
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -109,7 +112,7 @@ flowchart TD
 
 - **Predecessors:** [[Schopenhauer]] ← influenced by ← [[Kant]], [[Plato]], [[Berkeley]], [[Voltaire]], [[Indian Philosophy]]
 - **Contemporaries:** [[Schopenhauer]] ← opposed to ← [[Hegel]], [[Fichte]], [[Schelling]]
-- **Followers:** [[Schopenhauer]] → influenced → [[Nietzsche]], [[Wagner]], [[Freud]], [[Wittgenstein]], [[Tolstoy]], [[Thomas Mann]]
+- **Followers:** [[Schopenhauer]] → influenced → [[Nietzsche]], [[Wagner]], [[Freud]], [[Wittgenstein]], [[Tolstoy]], [[Mann]]
 - **Opposing views:** [[Schopenhauer]] ← criticized by ← [[German Idealists]], [[Hegel]]
 
 #### Summary Formulas
@@ -125,12 +128,12 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | 1788 | [[Schopenhauer]] born in Danzig |
-| 1811 | [[Schopenhauer]] attends [[Fichte]]'s lectures in Berlin |
+| 1811 | [[Schopenhauer]] attends [[Fichte]]'s lectures in [[Berlin]] |
 | 1813 | [[Schopenhauer]] publishes doctoral thesis *On the Fourfold Root of the Principle of Sufficient Reason* |
 | 1816 | [[Schopenhauer]] publishes *On Vision and Colors* defending [[Goethe]]'s theory |
 | 1818 | [[Schopenhauer]] publishes *The World as Will and Representation* (dated 1819) |
-| 1820 | [[Schopenhauer]] begins unsuccessful lectures at Berlin University |
-| 1831 | [[Schopenhauer]] leaves Berlin due to cholera epidemic |
+| 1820 | [[Schopenhauer]] begins unsuccessful lectures at [[Berlin]] University |
+| 1831 | [[Schopenhauer]] leaves [[Berlin]] due to cholera epidemic |
 | 1836 | [[Schopenhauer]] publishes *On the Will in Nature* |
 | 1841 | [[Schopenhauer]] publishes *The Two Fundamental Problems of Ethics* |
 | 1851 | [[Schopenhauer]] publishes *Parerga and Paralipomena*; fame begins |
@@ -144,18 +147,6 @@ flowchart TD
 
 > "Every volition springs from lack, from deficiency, and thus from suffering." — [[Schopenhauer]]
 
-#### See Also
-
-- [[Pessimism]]
-- [[Voluntarism]]
-- [[German Idealism]]
-- [[Indian Philosophy]]
-- [[Buddhism]]
-- [[Kant]]
-- [[Nietzsche]]
-- [[Freud]]
-- [[Philosophy of Will]]
-- [[Asceticism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

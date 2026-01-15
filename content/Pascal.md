@@ -6,16 +6,12 @@ subclasses:
   - Philosophy-of-Religion
   - Epistemology
 aliases:
-  - pascal
-  - jansenism
   - wager argument
-  - divertissement
   - hidden god
   - esprit finesse
   - heart reasons
   - original sin
   - human condition
-  - apologetics
   - fallen king
   - geometric spirit
 contributions:
@@ -27,7 +23,18 @@ authors:
   - "[[Jansenius]]"
   - "[[Arnauld]]"
   - "[[Montaigne]]"
-reference: "[[03 The search for thought - Unit 4 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Jansenism]]"
+  - "[[Original Sin]]"
+  - "[[Grace]]"
+  - "[[Existentialism]]"
+  - "[[Skepticism]]"
+  - "[[Apologetics]]"
+  - "[[Faith and Reason]]"
+  - "[[Probability Theory]]"
+  - "[[Port-Royal]]"
+  - "[[Provincial Letters]]"
 ---
 
 #### Central Problem
@@ -36,7 +43,7 @@ What is the meaning of human existence, and how can human beings find certainty 
 
 The central tension emerges from the paradoxical condition of humanity: humans are simultaneously great and miserable, capable of thought yet incapable of attaining truth or happiness, positioned midway between the infinitely large and infinitely small, between all and nothing. This "monster incomprehensible to itself" cannot be explained by philosophy alone — it requires the light of Christian revelation, specifically the doctrine of original sin, to make sense of why one being can harbor such contradictory qualities.
 
-How should we respond to the impossibility of rationally demonstrating God's existence while recognizing our need for the divine? This leads to Pascal's famous wager argument and his distinction between the "God of the philosophers" and the "God of Abraham, Isaac, and Jacob."
+How should we respond to the impossibility of rationally demonstrating God's existence while recognizing our need for the divine? This leads to [[Pascal]]'s famous wager argument and his distinction between the "God of the philosophers" and the "God of Abraham, Isaac, and Jacob."
 
 #### Main Thesis
 
@@ -60,11 +67,12 @@ How should we respond to the impossibility of rationally demonstrating God's exi
 
 In 1654, Pascal experienced a profound religious conversion, documented in the *Memorial* found sewn into his clothing after death: "God of Abraham, God of Isaac, God of Jacob. Not of philosophers and scholars." He joined the "solitaires" of Port-Royal, a religious community reconstructed by the abbot of Saint-Cyran and associated with the Jansenist movement.
 
-[[Jansenius]] (1585-1638), Bishop of Ypres, had published *Augustinus* (1640), attempting Catholic reform through return to Augustine's fundamental theses, especially on grace. According to Jansenism, original sin removed human freedom of will, making humans incapable of good and necessarily inclined to evil. Only God grants the elect the grace of salvation — and the elect are few. This rigorist position opposed the laxer morality of the Jesuits, who followed [[Molina]]'s doctrine of "sufficient grace" available to all.
+[[Jansenius]] (1585-1638), Bishop of Ypres, had published *Augustinus* (1640), attempting Catholic reform through return to [[Augustine]]'s fundamental theses, especially on grace. According to Jansenism, original sin removed human freedom of will, making humans incapable of good and necessarily inclined to evil. Only God grants the elect the grace of salvation — and the elect are few. This rigorist position opposed the laxer morality of the Jesuits, who followed [[Molina]]'s doctrine of "sufficient grace" available to all.
 
 In 1653, Pope Innocent X condemned five propositions summarizing Jansenist doctrine. Pascal intervened in the controversy by publishing the *Provincial Letters* (1656-1657), masterpieces of depth and humor defending Jansenism against Jesuit casuistry. His unfinished *Apology for the Christian Religion* was published posthumously as the *Pensées* (1669).
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -160,18 +168,6 @@ flowchart TD
 
 > "The eternal silence of these infinite spaces frightens me." — [[Pascal]]
 
-#### See Also
-
-- [[Jansenism]]
-- [[Original Sin]]
-- [[Grace]]
-- [[Existentialism]]
-- [[Skepticism]]
-- [[Apologetics]]
-- [[Faith and Reason]]
-- [[Probability Theory]]
-- [[Port-Royal]]
-- [[Provincial Letters]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

@@ -6,8 +6,9 @@ subclasses:
   - Epistemology
   - 17th-18th-Century-Philosophy
   - Hermeneutics
+contributions:
+  - Conceptual
 aliases:
-  - vico
   - philosophy history
   - scienza nuova
   - verum factum
@@ -17,10 +18,7 @@ aliases:
   - providence history
   - corsi ricorsi
   - civil world
-  - fantasia
   - philology philosophy
-contributions:
-  - Conceptual
 authors:
   - "[[Vico]]"
   - "[[Descartes]]"
@@ -29,16 +27,28 @@ authors:
   - "[[Bacon]]"
   - "[[Grotius]]"
   - "[[Hobbes]]"
-reference: "[[04 The search for thought - Unit 6 Chapter 1.pdf]]"
+reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.
+related:
+  - "[[Philosophy of History]]"
+  - "[[Hermeneutics]]"
+  - "[[Verum-Factum Principle]]"
+  - "[[Scienza Nuova]]"
+  - "[[Poetic Wisdom]]"
+  - "[[Historical Cycles]]"
+  - "[[Providence]]"
+  - "[[Anti-Cartesianism]]"
+  - "[[Italian Philosophy]]"
+  - "[[Enlightenment]]"
+  - "[[Romanticism]]"
 ---
 
 #### Central Problem
 
-The central problem addressed by Giambattista Vico concerns the possibility and method of knowledge regarding the historical world. While modern philosophy since Descartes had focused predominantly on the natural world and mathematical certainty, Vico raises a fundamental question: Can humans achieve genuine knowledge of history, and if so, how? This question emerges from Vico's recognition that Cartesian rationalism, with its criterion of clear and distinct ideas, cannot provide adequate foundations for understanding the "civil world" — the realm of human institutions, customs, laws, and nations.
+The central problem addressed by Giambattista Vico concerns the possibility and method of knowledge regarding the historical world. While modern philosophy since [[Descartes]] had focused predominantly on the natural world and mathematical certainty, Vico raises a fundamental question: Can humans achieve genuine knowledge of history, and if so, how? This question emerges from Vico's recognition that Cartesian rationalism, with its criterion of clear and distinct ideas, cannot provide adequate foundations for understanding the "civil world" — the realm of human institutions, customs, laws, and nations.
 
-Vico challenges the Cartesian assumption that the cogito provides certain knowledge. He argues that self-consciousness (coscienza) is not the same as scientific knowledge (scienza), because true knowledge requires understanding the causes and genesis of things. Since humans did not create themselves, they cannot truly know their own metaphysical nature. This epistemological crisis opens the door to a new inquiry: what can humans genuinely know? Vico's revolutionary answer is that humans can know what they themselves have made — and this leads directly to history as the proper domain of human knowledge.
+[[Vico]] challenges the Cartesian assumption that the cogito provides certain knowledge. He argues that self-consciousness (coscienza) is not the same as scientific knowledge (scienza), because true knowledge requires understanding the causes and genesis of things. Since humans did not create themselves, they cannot truly know their own metaphysical nature. This epistemological crisis opens the door to a new inquiry: what can humans genuinely know? Vico's revolutionary answer is that humans can know what they themselves have made — and this leads directly to history as the proper domain of human knowledge.
 
-The deeper problem concerns the meaning and order of historical events. Is history merely a chaotic succession of contingent happenings, or does it possess an intelligible structure? If history has order, what is its source — human action, divine providence, fate, or chance? Vico rejects both the fatalism of Stoics and Spinoza (which denies human freedom) and the randomness posited by Epicureans (which denies providential order), seeking instead a conception that preserves both human agency and transcendent meaning.
+The deeper problem concerns the meaning and order of historical events. Is history merely a chaotic succession of contingent happenings, or does it possess an intelligible structure? If history has order, what is its source — human action, divine providence, fate, or chance? Vico rejects both the fatalism of Stoics and [[Spinoza]] (which denies human freedom) and the randomness posited by Epicureans (which denies providential order), seeking instead a conception that preserves both human agency and transcendent meaning.
 
 #### Main Thesis
 
@@ -56,15 +66,16 @@ Vico's fundamental thesis is encapsulated in his famous principle: **verum ipsum
 
 #### Historical Context
 
-Vico lived and worked in Naples during the late seventeenth and early eighteenth centuries (1668-1744), a period when Cartesian rationalism dominated European philosophy. Naples was under Spanish rule, and the Italian intellectual climate was marked by both scholastic traditions and the new influences of Enlightenment thought spreading from France and England.
+[[Vico]] lived and worked in Naples during the late seventeenth and early eighteenth centuries (1668-1744), a period when Cartesian rationalism dominated European philosophy. Naples was under Spanish rule, and the Italian intellectual climate was marked by both scholastic traditions and the new influences of Enlightenment thought spreading from France and England.
 
 Vico's career was marked by relative obscurity and financial hardship. He held the modest chair of rhetoric at the University of Naples from 1699, unsuccessfully aspiring to a more prestigious and better-paid chair of jurisprudence in 1723. He spent formative years (1689-1695) as a tutor at the castle of Vatolla in Cilento, where the rich library of the Marquis Rocca allowed him to develop his vast erudition.
 
-The complexity and originality of Vico's thought, combined with his erudite and difficult writing style, meant that recognition came only posthumously. He was writing against the dominant currents of his time — the mathematical-mechanical worldview of Descartes and Newton, the abstract natural law theories of Grotius and Pufendorf, and the nascent Enlightenment with its emphasis on reason and progress. His work anticipated later developments in hermeneutics, philosophy of history, and aesthetics that would only be fully appreciated in the nineteenth and twentieth centuries.
+The complexity and originality of Vico's thought, combined with his erudite and difficult writing style, meant that recognition came only posthumously. He was writing against the dominant currents of his time — the mathematical-mechanical worldview of [[Descartes]] and [[Newton]], the abstract natural law theories of [[Grotius]] and Pufendorf, and the nascent Enlightenment with its emphasis on reason and progress. His work anticipated later developments in hermeneutics, philosophy of history, and aesthetics that would only be fully appreciated in the nineteenth and twentieth centuries.
 
-The intellectual sources of Vico's thought include the seventeenth-century philosophy he both drew upon and criticized: Hobbes's idea that we know what we make; Malebranche's notion of God as mover of the human mind; various forms of Neoplatonism; and the humanistic tradition of philological scholarship.
+The intellectual sources of Vico's thought include the seventeenth-century philosophy he both drew upon and criticized: [[Hobbes]]'s idea that we know what we make; Malebranche's notion of God as mover of the human mind; various forms of Neoplatonism; and the humanistic tradition of philological scholarship.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -165,19 +176,6 @@ flowchart TD
 
 > "Philosophy contemplates reason, whence comes the science of the true; philology observes the authority of human choice, whence comes the consciousness of the certain." — [[Vico]]
 
-#### See Also
-
-- [[Philosophy of History]]
-- [[Hermeneutics]]
-- [[Verum-Factum Principle]]
-- [[Scienza Nuova]]
-- [[Poetic Wisdom]]
-- [[Historical Cycles]]
-- [[Providence]]
-- [[Anti-Cartesianism]]
-- [[Italian Philosophy]]
-- [[Enlightenment]]
-- [[Romanticism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

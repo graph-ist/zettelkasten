@@ -27,7 +27,18 @@ authors:
   - "[[Aristotle]]"
   - "[[Plotinus]]"
   - "[[Averroes]]"
-reference: "[[03 The search for thought - Unit 1 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Neoplatonism]]"
+  - "[[Florentine Academy]]"
+  - "[[University of Padua]]"
+  - "[[Hermeticism]]"
+  - "[[Learned Ignorance]]"
+  - "[[Soul]]"
+  - "[[Immortality]]"
+  - "[[Faith and Reason]]"
+  - "[[Double Truth]]"
+  - "[[Human Dignity]]"
 ---
 
 #### Central Problem
@@ -40,7 +51,7 @@ These questions were not merely academic: they reflected the broader Renaissance
 
 #### Main Thesis
 
-**Renaissance Platonism**, centered at the Florentine Academy founded by [[Ficino]] and supported by Cosimo de' Medici, sought to renew religious and philosophical life through a return to Plato — understood not in his authentic form but through Neoplatonic and Hermetic lenses as the synthesis of all ancient religious wisdom. The Platonists held that Plato's doctrine derived from Moses through an unbroken tradition, representing the most ancient religious wisdom of humanity.
+**Renaissance Platonism**, centered at the Florentine Academy founded by [[Ficino]] and supported by Cosimo de' Medici, sought to renew religious and philosophical life through a return to [[Plato]] — understood not in his authentic form but through Neoplatonic and Hermetic lenses as the synthesis of all ancient religious wisdom. The Platonists held that [[Plato]]'s doctrine derived from Moses through an unbroken tradition, representing the most ancient religious wisdom of humanity.
 
 **Key Platonic Doctrines:**
 - [[Cusanus]]'s "learned ignorance" (docta ignorantia): human knowledge can never attain the infinite truth of God; the highest wisdom is awareness of our limitations
@@ -50,7 +61,7 @@ These questions were not merely academic: they reflected the broader Renaissance
 
 **Renaissance Aristotelianism**, centered at the University of Padua, pursued a different agenda: natural philosophy and rational inquiry into the physical world. This movement split into two main currents:
 - **Averroists**: maintained a single separate immortal intellect, while individual souls are mortal
-- **Alexandrists** (following Alexander of Aphrodisias): denied any immortal intellect, holding that nothing survives bodily death
+- **Alexandrists** (following [[Alexander]] of Aphrodisias): denied any immortal intellect, holding that nothing survives bodily death
 
 **[[Pomponazzi]]'s Position:** The world has a necessary rational order; so-called miracles are natural phenomena explicable through celestial influences. The immortality of the soul cannot be demonstrated rationally — it can only be accepted on faith. Yet this does not destroy morality, since virtue is its own reward.
 
@@ -58,15 +69,16 @@ Both traditions shared the "double truth" doctrine: what philosophy demonstrates
 
 #### Historical Context
 
-The rediscovery of Plato was facilitated by crucial historical events: the Council of Florence (1438-1445), which brought Greek scholars to Italy for discussions of Church reunification, and the fall of Constantinople (1453), which prompted the emigration of Byzantine intellectuals westward. Where the Middle Ages had known only fragments of Plato (Meno, Phaedo, Timaeus), the Renaissance now possessed the complete Dialogues and could read them in the original Greek.
+The rediscovery of [[Plato]] was facilitated by crucial historical events: the Council of Florence (1438-1445), which brought Greek scholars to Italy for discussions of Church reunification, and the fall of Constantinople (1453), which prompted the emigration of Byzantine intellectuals westward. Where the Middle Ages had known only fragments of [[Plato]] (Meno, Phaedo, Timaeus), the Renaissance now possessed the complete Dialogues and could read them in the original Greek.
 
-[[Ficino]] translated all of Plato's dialogues into Latin, along with Plotinus's Enneads and the Hermetic corpus — texts attributed to Hermes Trismegistus, believed to be an ancient Egyptian prophet. The Platonic Academy in Florence became the center of this religious-mystical interpretation of Platonism.
+[[Ficino]] translated all of [[Plato]]'s dialogues into Latin, along with [[Plotinus]]'s Enneads and the Hermetic corpus — texts attributed to Hermes Trismegistus, believed to be an ancient Egyptian prophet. The Platonic Academy in Florence became the center of this religious-mystical interpretation of Platonism.
 
-Meanwhile, Aristotelianism continued its medieval tradition at universities, especially Padua, where scholars had studied the Stagirite since the 13th century using Averroes's commentaries. The humanist demand to discover the "true" Aristotle led to new philological translations based on Greek commentators like Alexander of Aphrodisias and Simplicius.
+Meanwhile, Aristotelianism continued its medieval tradition at universities, especially Padua, where scholars had studied the Stagirite since the 13th century using Averroes's commentaries. The humanist demand to discover the "true" [[Aristotle]] led to new philological translations based on Greek commentators like [[Alexander]] of Aphrodisias and Simplicius.
 
-The dispute between Platonists and Aristotelians began when the Byzantine scholar Gemistus Pletho wrote "Differences between the Philosophies of Plato and Aristotle" (c. 1439), provoking responses from George of Trebizond (defending Aristotle) and Cardinal Bessarion (seeking reconciliation).
+The dispute between Platonists and Aristotelians began when the Byzantine scholar Gemistus Pletho wrote "Differences between the Philosophies of [[Plato]] and [[Aristotle]]" (c. 1439), provoking responses from George of Trebizond (defending [[Aristotle]]) and Cardinal Bessarion (seeking reconciliation).
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -96,8 +108,8 @@ flowchart TD
 | [[Ficino]] | 1433-1499 | [[Renaissance Platonism]] | *Platonic Theology* | Soul as copula mundi, love |
 | [[Pico]] | 1463-1494 | [[Renaissance Platonism]] | *Oration on the Dignity of Man* | Universal synthesis, human dignity |
 | [[Pomponazzi]] | 1462-1525 | [[Renaissance Aristotelianism]] | *On the Immortality of the Soul* | Soul's mortality, virtue as its own reward |
-| [[Gemistus Pletho]] | 1355-1452 | [[Byzantine Platonism]] | *Differences of Plato and Aristotle* | Platonic superiority |
-| [[Bessarion]] | 1403-1472 | [[Conciliationism]] | *Against a Calumniator of Plato* | Plato-Aristotle harmony |
+| [[Pletho]] | 1355-1452 | [[Byzantine Platonism]] | *Differences of [[Plato]] and [[Aristotle]]* | Platonic superiority |
+| [[Bessarion]] | 1403-1472 | [[Conciliationism]] | *Against a Calumniator of [[Plato]]* | Plato-Aristotle harmony |
 
 #### Key Concepts
 
@@ -123,7 +135,7 @@ flowchart TD
 | Soul's nature | Limited but reaches toward infinite | Copula mundi, immortal mediator | Inseparable from body, mortality probable |
 | Method | Mathematical analogies, negative theology | Neoplatonic hierarchy, love | Aristotelian naturalism |
 | Cosmology | Infinite universe, no center | Hierarchical emanation | Natural causation through stars |
-| Faith and reason | Complementary, reason points to faith | Unity in Platonic wisdom | Separate domains (double truth) |
+| Faith and reason | Complementary, reason points to faith | Unity in [[Plato]]nic wisdom | Separate domains (double truth) |
 
 #### Influences & Connections
 
@@ -149,11 +161,11 @@ flowchart TD
 | 1401 | Birth of [[Cusanus]] |
 | 1438-1445 | Council of Florence brings Greek scholars to Italy |
 | 1440 | [[Cusanus]] writes *On Learned Ignorance* |
-| 1439 | [[Gemistus Pletho]] writes *Differences of Plato and Aristotle* |
+| 1439 | [[Pletho]] writes *Differences of [[Plato]] and [[Aristotle]]* |
 | 1453 | Fall of Constantinople; Greek scholars emigrate West |
 | 1462 | [[Ficino]] founds Platonic Academy in Florence |
 | 1463 | Birth of [[Pico]] |
-| 1469 | [[Ficino]] completes Latin translation of Plato's dialogues |
+| 1469 | [[Ficino]] completes Latin translation of [[Plato]]'s dialogues |
 | 1486 | [[Pico]] proposes disputation on 900 theses; writes *Oration on the Dignity of Man* |
 | 1489 | [[Pico]] writes *Heptaplus* and *On Being and the One* |
 | 1516 | [[Pomponazzi]] publishes *On the Immortality of the Soul* |
@@ -166,18 +178,6 @@ flowchart TD
 
 > "The essential reward of virtue is virtue itself, which makes man happy; and the punishment of vice is vice itself, which makes him miserable." — [[Pomponazzi]]
 
-#### See Also
-
-- [[Neoplatonism]]
-- [[Florentine Academy]]
-- [[University of Padua]]
-- [[Hermeticism]]
-- [[Learned Ignorance]]
-- [[Soul]]
-- [[Immortality]]
-- [[Faith and Reason]]
-- [[Double Truth]]
-- [[Human Dignity]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

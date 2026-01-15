@@ -11,10 +11,24 @@
             "id": "67f235374c4760f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "type": "markdown",
+              "state": {
+                "file": "Skepticism.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Skepticism"
             }
           }
         ],
@@ -71,8 +85,7 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +170,7 @@
             }
           },
           {
-            "id": "6f3a071ed57e9972",
+            "id": "c979746c7b242ab2",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -167,55 +180,55 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 356.5,
-    "collapsed": true
+    "width": 356.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crea nuova Base": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": true,
-      "random-note:Apri nota casuale": false,
-      "bases:Create new base": false
+      "random-note:Apri nota casuale": false
     }
   },
-  "active": "67f235374c4760f5",
+  "active": "ef59495ac432a59c",
   "lastOpenFiles": [
-    "Descartes.md",
-    "Habermas.md",
-    "Galilei.md",
-    "Drafting/Unresolved Links Analysis.md",
-    "Zettelkasten.md",
-    "Luhmann.md",
-    "Russell.md",
-    "German Idealism.md",
-    "Rawls.md",
-    "Epistemology.md",
-    "Nietzsche.md",
-    "Plato.md",
-    "Aristotle.md",
-    "Hegel.md",
-    "Kant.md",
-    "Pragmatism.md",
-    "Schopenhauer.md",
-    "Blueprints/Template.md",
+    "Clippings/Wittgenstein on Language and Thought.md",
+    "Clippings/William Morris vs Christopher Dresser.md",
+    "Clippings/Wabi-Sabi and Imperfection.md",
+    "Clippings/Vilém Flusser.md",
+    "Clippings/Time fluidity concept.md",
+    "Clippings/The carpet as symbolic space.md",
+    "Clippings/The carpet as a journey through space-time.md",
+    "Clippings/Success through design and promotion.md",
+    "Clippings/School self-taught education.md",
+    "Clippings/Reading Images Requires Knowledge.md",
+    "Clippings/Pesce on Art and Design.md",
+    "Clippings/Perception as Semiosis and Abduction.md",
+    "Clippings/Peirce's Semiotic Theory and Logical Systems.md",
+    "Clippings/Making sense of statistics in HCI.md",
+    "Clippings/Imaginal Realm in Design.md",
+    "Clippings/Ethics in Design.md",
+    "Clippings/Design.md",
+    "Clippings/Design Universality.md",
+    "Clippings/Design Schools and Modernity.md",
+    "Clippings/Design in Italy.md",
+    "Clippings/Design as Epistemic Practice.md",
+    "Clippings/Design and Ethics.md",
+    "Clippings/Critique and Politics in Design.md",
+    "Clippings/Color and Soul in Art.md",
+    "Clippings/Co-working Spaces in London.md",
+    "Clippings/Carpet as Symbolic Space.md",
     "Appendix/Rudimenti di etica per il design (Visual).canvas",
-    "Drafting/Wittgenstein on Language and Thought.md",
-    "Analytical philosophy.md",
-    "Wittgenstein.md",
-    "Drafting/Marriage as Choice or Necessity.md",
-    "Drafting/War Machine Concept.md",
-    "Drafting/William Morris vs Christopher Dresser.md",
-    "index.md",
     "Senza nome.canvas",
-    "Drafting",
+    "Clippings",
     "Clippings",
     "Appendix/William Morris.jpg",
     "Appendix/Vladimir Lenin.jpg",

@@ -8,9 +8,7 @@ subclasses:
   - Ethics
 aliases:
   - political philosophy
-  - totalitarianism
   - mass society
-  - decisionismo
   - friend enemy
   - vita activa
   - labor work
@@ -27,7 +25,18 @@ authors:
   - "[[Weil]]"
   - "[[Kelsen]]"
   - "[[Marx]]"
-reference: "[[07 The search for thought - Unit 17 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Totalitarianism]]"
+  - "[[Political Philosophy]]"
+  - "[[Mass Society]]"
+  - "[[Phenomenology]]"
+  - "[[Critical Theory]]"
+  - "[[Legal Positivism]]"
+  - "[[Democracy]]"
+  - "[[Public Sphere]]"
+  - "[[Labor Theory]]"
+  - "[[Existentialism]]"
 ---
 
 #### Central Problem
@@ -44,7 +53,7 @@ The crisis of parliamentary democracy, the atomization of individuals in mass so
 
 **[[Arendt]]'s Thesis:** Totalitarianism represents a radically new form of domination, distinct from all previous tyrannies, arising from the atomization of mass society. Its essence is the perverse combination of *terror* (secret police, concentration camps) and *ideology* (totalizing worldview claiming to know history's secrets). The camps transform humans into things; ideology transforms minds. Against this, [[Arendt]] retrieves the ancient Greek conception of political life—the *vita activa* comprising labor (biological necessity), work (fabrication of durable world), and *action* (political engagement through speech and deed in the public sphere). Authentic politics is not domination but the revelation of unique human identity through speech and action among equals—a "second birth" into the public realm.
 
-**[[Weil]]'s Thesis:** The oppression inherent in industrial labor cannot be overcome merely by changing property relations, as Marx believed. Bureaucracy and technology produce alienation regardless of capitalist or socialist organization. The solution lies not in revolution but in reimagining labor itself—making manual work the "supreme value" not for its products but for the worker, connecting theory and practice, spirit and matter. This remains utopia, but a necessary one. Against totalitarianism's roots in force, prestige, and nationalism (traceable to Rome), power must be decentralized and colonized peoples liberated.
+**[[Weil]]'s Thesis:** The oppression inherent in industrial labor cannot be overcome merely by changing property relations, as [[Marx]] believed. Bureaucracy and technology produce alienation regardless of capitalist or socialist organization. The solution lies not in revolution but in reimagining labor itself—making manual work the "supreme value" not for its products but for the worker, connecting theory and practice, spirit and matter. This remains utopia, but a necessary one. Against totalitarianism's roots in force, prestige, and nationalism (traceable to Rome), power must be decentralized and colonized peoples liberated.
 
 #### Historical Context
 
@@ -57,6 +66,7 @@ The twentieth century presented political philosophy with unprecedented challeng
 The postwar period brought the United Nations and the Nuremberg trials—attempts, in [[Schmitt]]'s critical view, to impose universal moral judgment on politics, transforming enemies into criminals and legitimate war into police action.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -114,7 +124,7 @@ flowchart TD
 | Violence | Constitutive possibility | Negation of politics | To be overcome |
 | Mass society | Requires strong state | Produces totalitarianism | Produces alienation |
 | Relation to Nazism | Brief collaboration | Fled, analyzed | Fought, analyzed |
-| Philosophical sources | Hobbes, Weber, theology | Aristotle, Heidegger, Augustine | Marx, Descartes, mysticism |
+| Philosophical sources | [[Hobbes]], Weber, theology | [[Aristotle]], Heidegger, Augustine | [[Marx]], [[Descartes]], mysticism |
 
 #### Influences & Connections
 
@@ -139,7 +149,7 @@ flowchart TD
 |------|-------|
 | 1922 | [[Schmitt]] publishes *Political Theology* |
 | 1927 | [[Schmitt]] publishes *The Concept of the Political* |
-| 1929 | [[Weil]] completes thesis on Descartes |
+| 1929 | [[Weil]] completes thesis on [[Descartes]] |
 | 1931 | [[Schmitt]] publishes *The Guardian of the Constitution* |
 | 1933 | [[Schmitt]] joins Nazi Party; [[Arendt]] flees Germany |
 | 1934 | [[Weil]] publishes *Reflections on Liberty and Oppression* |
@@ -159,18 +169,6 @@ flowchart TD
 
 > "Manual labor must become the supreme value, not for its relation to what it produces but for its relation to the human being who performs it." — [[Weil]]
 
-#### See Also
-
-- [[Totalitarianism]]
-- [[Political Philosophy]]
-- [[Mass Society]]
-- [[Phenomenology]]
-- [[Critical Theory]]
-- [[Legal Positivism]]
-- [[Democracy]]
-- [[Public Sphere]]
-- [[Labor Theory]]
-- [[Existentialism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

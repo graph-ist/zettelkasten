@@ -9,14 +9,10 @@ subclasses:
 aliases:
   - greek philosophy
   - birth philosophy
-  - presocratic
   - orientalism debate
-  - occidentalism
-  - polis
   - greek rationality
   - myth logos
   - seven sages
-  - theogony
 contributions:
   - Conceptual
 authors:
@@ -26,7 +22,18 @@ authors:
   - "[[Homer]]"
   - "[[Thales]]"
   - "[[Pythagoras]]"
-reference: "[[01 The search for thought - Unit 1 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+related:
+  - "[[Presocratic Philosophy]]"
+  - "[[Ancient Greek Philosophy]]"
+  - "[[Milesian School]]"
+  - "[[Pythagoreanism]]"
+  - "[[Orphism]]"
+  - "[[Greek Polis]]"
+  - "[[Myth and Logos]]"
+  - "[[Oriental Philosophy]]"
+  - "[[Seven Sages]]"
+  - "[[Greek Democracy]]"
 ---
 
 #### Central Problem
@@ -70,6 +77,7 @@ The cultural background included: Homeric and Hesiodic poetry, which had already
 
 #### Philosophical Lineage
 
+
 ```mermaid
 flowchart TD
     Homer --> Hesiod
@@ -109,7 +117,7 @@ flowchart TD
 | Hýbris | Excess, transgression of proper limits; the violation of cosmic-moral order punished by divine justice | [[Greek Ethics]], [[Tragedy]] |
 | Isonomía | Equality before the law; the democratic principle that emerged from struggles between social classes in the polis | [[Greek Democracy]], [[Political Philosophy]] |
 | Theōría | Contemplation, disinterested observation; the specifically Greek attitude toward knowledge as an end in itself | [[Aristotle]], [[Epistemology]] |
-| Orphism | Mystery religion teaching soul's immortality, transmigration, and need for purification; influenced Pythagoras and Plato | [[Pythagoras]], [[Plato]] |
+| Orphism | Mystery religion teaching soul's immortality, transmigration, and need for purification; influenced Pythagoras and [[Plato]] | [[Pythagoras]], [[Plato]] |
 | Cosmology | Inquiry into the origins and structure of the universe; the first form taken by Greek philosophical speculation | [[Presocratic Philosophy]], [[Metaphysics]] |
 | Arché | First principle, origin; what the earliest philosophers sought as the fundamental element underlying all things | [[Thales]], [[Presocratic Philosophy]] |
 
@@ -146,7 +154,7 @@ flowchart TD
 | c. 1300-1200 BCE | Earliest parts of Indian Rig Veda composed |
 | 8th-7th c. BCE | [[Hesiod]] composes *Theogony* |
 | c. 700 BCE | [[Homer]]'s epics establish Greek cultural foundations |
-| 7th c. BCE | Zarathustra in Persia; Lao-Tze in China |
+| 7th c. BCE | [[Zarathustra]] in Persia; Lao-Tze in China |
 | c. 624 BCE | Birth of [[Thales]], first philosopher |
 | c. 600 BCE | Pherecydes of Syros develops cosmological speculation |
 | 6th c. BCE | Mystery religions (Orphism) spread in Greece |
@@ -162,18 +170,6 @@ flowchart TD
 
 > "First of all was Chaos, then broad-bosomed Earth [...] and Love, who excels among the immortal gods." — [[Hesiod]]
 
-#### See Also
-
-- [[Presocratic Philosophy]]
-- [[Ancient Greek Philosophy]]
-- [[Milesian School]]
-- [[Pythagoreanism]]
-- [[Orphism]]
-- [[Greek Polis]]
-- [[Myth and Logos]]
-- [[Oriental Philosophy]]
-- [[Seven Sages]]
-- [[Greek Democracy]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

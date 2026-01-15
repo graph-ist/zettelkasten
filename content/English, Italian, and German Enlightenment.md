@@ -11,14 +11,8 @@ aliases:
   - italian enlightenment
   - german enlightenment
   - moral sense
-  - deism
   - common sense
-  - aesthetics
-  - beccaria
-  - wolff
-  - lessing
   - sympathy ethics
-  - sensationalism
   - natural religion
 contributions:
   - Conceptual
@@ -34,7 +28,21 @@ authors:
   - "[[Baumgarten]]"
   - "[[Mendelssohn]]"
   - "[[Lessing]]"
-reference: "[[04 The search for thought - Unit 6 Chapter 4.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[Moral Sense Theory]]"
+  - "[[Scottish Enlightenment]]"
+  - "[[Scottish Common Sense]]"
+  - "[[Deism]]"
+  - "[[Utilitarianism]]"
+  - "[[Criminal Law Reform]]"
+  - "[[German Rationalism]]"
+  - "[[Aesthetics]]"
+  - "[[Philosophy of History]]"
+  - "[[Leibniz]]"
+  - "[[Hume]]"
+  - "[[Kant]]"
+  - "[[Romanticism]]"
 ---
 
 #### Central Problem
@@ -49,13 +57,13 @@ Each national Enlightenment tradition developed distinctive responses to the fun
 
 **English Enlightenment:** The debate centered on whether morality derives from reason or sentiment. [[Shaftesbury]] posited a "rational sentiment" that reflects cosmic harmony and opposes fanaticism through irony. [[Hutcheson]] developed the concept of "moral sense" as an irreducible faculty approving actions conducive to "the greatest happiness of the greatest number." [[Mandeville]] provocatively argued the opposite—that "private vices" produce "public benefits," since society depends on self-interested passions rather than virtue. [[Smith]] synthesized these views through "sympathy"—the capacity to see ourselves as others see us—grounded in providential harmony. [[Reid]] and the Scottish school defended "common sense" against Humean skepticism, affirming that basic beliefs about external reality and causation are warranted by their universal acceptance.
 
-**Italian Enlightenment:** Practical reform dominated. [[Beccaria]]'s *On Crimes and Punishments* applied social contract theory to argue that punishment must be proportionate, certain, and aimed at deterrence rather than retribution—condemning both torture and capital punishment. [[Pietro Verri]] developed a pessimistic hedonism: pleasure is merely the cessation of pain, and pain is the "motive principle of all humanity."
+**Italian Enlightenment:** Practical reform dominated. [[Beccaria]]'s *On Crimes and Punishments* applied social contract theory to argue that punishment must be proportionate, certain, and aimed at deterrence rather than retribution—condemning both torture and capital punishment. [[Verri]] developed a pessimistic hedonism: pleasure is merely the cessation of pain, and pain is the "motive principle of all humanity."
 
 **German Enlightenment:** [[Wolff]] created a comprehensive philosophical system using mathematical method, dividing philosophy into theoretical (ontology, cosmology, psychology, rational theology) and practical branches, all grounded in the principles of non-contradiction and sufficient reason. [[Baumgarten]] founded aesthetics as a discipline, recognizing the autonomous value of sensible knowledge and beauty. [[Lessing]] culminated German Enlightenment with a philosophy of history as progressive education, in which revelation accompanies humanity's development toward the complete coincidence of positive religion with natural reason.
 
 #### Historical Context
 
-**England:** The Glorious Revolution (1688) had established parliamentary government and religious toleration, creating conditions fundamentally different from Continental absolutism. Locke and Newton provided the philosophical and scientific foundations. English Enlightenment thinkers thus focused less on political critique and more on refining moral and religious philosophy within an already relatively liberal society.
+**England:** The Glorious Revolution (1688) had established parliamentary government and religious toleration, creating conditions fundamentally different from Continental absolutism. [[Locke]] and [[Newton]] provided the philosophical and scientific foundations. English Enlightenment thinkers thus focused less on political critique and more on refining moral and religious philosophy within an already relatively liberal society.
 
 **Italy:** The peninsula suffered from economic backwardness, political fragmentation, unstable dynasties (Spanish, Austrian, Bourbon), and Counter-Reformation intellectual constraints. Only after the Treaty of Aix-la-Chapelle (1748) brought forty years of peace did reform become possible. Milan under the Habsburgs and Naples under the Bourbons became centers of "enlightened despotism" and reform. The journal "Il Caffè" (1764-1766), modeled on the English *Spectator*, became the vehicle for Milanese illuministi. [[Beccaria]]'s work achieved European fame and influenced criminal law reform across the continent.
 
@@ -64,6 +72,7 @@ Each national Enlightenment tradition developed distinctive responses to the fun
 The period culminated with [[Lessing]]'s *Education of the Human Race* (1780), which provided a philosophy of historical progress that would profoundly influence German Romanticism and Idealism.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -190,21 +199,6 @@ flowchart TD
 
 > "For punishment not to be violence by one or many against a private citizen, it must be essentially public, prompt, necessary, the minimum possible under the given circumstances, proportionate to crimes, and dictated by laws." — [[Beccaria]]
 
-#### See Also
-
-- [[Moral Sense Theory]]
-- [[Scottish Enlightenment]]
-- [[Scottish Common Sense]]
-- [[Deism]]
-- [[Utilitarianism]]
-- [[Criminal Law Reform]]
-- [[German Rationalism]]
-- [[Aesthetics]]
-- [[Philosophy of History]]
-- [[Leibniz]]
-- [[Hume]]
-- [[Kant]]
-- [[Romanticism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

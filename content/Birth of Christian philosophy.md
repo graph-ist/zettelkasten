@@ -6,17 +6,11 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Ancient-Greek-and-Roman-Philosophy
 aliases:
-  - patristics
   - church fathers
   - christian philosophy
-  - apologetics
   - logos theology
   - faith reason
-  - gnosticism
-  - revelation
   - justin martyr
-  - tertullian
-  - origen
 contributions:
   - Conceptual
 authors:
@@ -26,7 +20,18 @@ authors:
   - "[[Origen]]"
   - "[[Nyssa]]"
   - "[[Paul]]"
-reference: "[[02 The search for thought - Unit 6 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Neoplatonism]]"
+  - "[[Gnosticism]]"
+  - "[[Alexandrian School]]"
+  - "[[Cappadocian Fathers]]"
+  - "[[Faith and Reason]]"
+  - "[[Logos]]"
+  - "[[Trinity]]"
+  - "[[Biblical Hermeneutics]]"
+  - "[[Augustine]]"
+  - "[[Scholasticism]]"
 ---
 
 #### Central Problem
@@ -39,7 +44,7 @@ Unlike Greek philosophy, which was an autonomous search that first established i
 
 #### Main Thesis
 
-The Patristic writers establish that Christianity represents the culmination and fulfillment of Greek philosophy, not its rejection. [[Justin Martyr]] articulates this most clearly: the *Logos* (reason/word) that became incarnate in Christ is the same rational principle that illuminated all human beings throughout history. Those who lived according to reason—including Socrates, Heraclitus, and Abraham—were "Christians before Christ."
+The Patristic writers establish that Christianity represents the culmination and fulfillment of Greek philosophy, not its rejection. [[Justin Martyr]] articulates this most clearly: the *Logos* (reason/word) that became incarnate in Christ is the same rational principle that illuminated all human beings throughout history. Those who lived according to reason—including [[Socrates]], [[Heraclitus]], and Abraham—were "Christians before Christ."
 
 **The Logos Doctrine:** Drawing on Stoic philosophy and the Gospel of John ("In the beginning was the Word, and the Word was with God, and the Word was God"), the Fathers identify Christ with the divine *Logos* that mediates between the transcendent God and the created world. This Logos is present as "seeds" (*lógoi spermatikói*) in all rational beings, enabling partial knowledge of truth even before Christ's revelation.
 
@@ -60,6 +65,7 @@ Key historical events shaped doctrinal development: the persecutions under vario
 The sacred scriptures—Hebrew Bible (Old Testament) and Greek New Testament—provided the foundational texts requiring interpretation. The Gospels presented Christ's life and teaching; Paul's Letters established key doctrinal concepts (original sin, grace, justification by faith, the Church as Christ's body); John's Gospel offered the first philosophical interpretation of Christ as the divine Logos.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -151,24 +157,12 @@ flowchart TD
 
 #### Notable Quotes
 
-> "We have learned that Christ is the firstborn of God, and that He is the Reason [Logos] of which every race of men partakes. And those who lived according to Reason are Christians, even though they were accounted atheists—such as Socrates and Heraclitus among the Greeks." — [[Justin Martyr]]
+> "We have learned that Christ is the firstborn of God, and that He is the Reason [Logos] of which every race of men partakes. And those who lived according to Reason are Christians, even though they were accounted atheists—such as [[Socrates]] and [[Heraclitus]] among the Greeks." — [[Justin Martyr]]
 
 > "What has Athens to do with Jerusalem? What has the Academy to do with the Church?" — [[Tertullian]]
 
 > "In the beginning was the Word, and the Word was with God, and the Word was God... All things were made through Him, and without Him nothing was made that has been made." — Gospel of [[John]]
 
-#### See Also
-
-- [[Neoplatonism]]
-- [[Gnosticism]]
-- [[Alexandrian School]]
-- [[Cappadocian Fathers]]
-- [[Faith and Reason]]
-- [[Logos]]
-- [[Trinity]]
-- [[Biblical Hermeneutics]]
-- [[Augustine]]
-- [[Scholasticism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

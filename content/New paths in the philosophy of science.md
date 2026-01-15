@@ -27,14 +27,25 @@ authors:
   - "[[Putnam]]"
   - "[[Carnap]]"
   - "[[Duhem]]"
-reference: "[[06 The search for thought - Unit 12 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Logical Positivism]]"
+  - "[[Vienna Circle]]"
+  - "[[Analytic Philosophy]]"
+  - "[[Holism]]"
+  - "[[Scientific Realism]]"
+  - "[[Constructivism]]"
+  - "[[Philosophy of Language]]"
+  - "[[Naturalism]]"
+  - "[[Pragmatism]]"
+  - "[[Carnap]]"
 ---
 
 #### Central Problem
 
 Post-positivist philosophy of science confronts the fundamental question: what is the relationship between scientific theories, language, and reality? After the decline of logical positivism's "standard conception," epistemologists grappled with several interconnected problems: Can we distinguish analytic truths (true by virtue of meaning) from synthetic truths (true by virtue of experience)? Can individual scientific statements be verified or falsified in isolation? What is the relationship between our conceptual schemes and the world they purport to describe? Do scientific theories describe reality as it actually is, or are they merely useful constructions?
 
-The central tension lies in reconciling the critique of empiricism—which revealed that facts are always theory-laden and observations never neutral—with the need to maintain some connection to experience that would justify the success and progress of science. While extreme positions like Feyerabend's seemed to dissolve scientific rationality altogether, other post-positivists sought to defend the scientific enterprise while acknowledging the force of anti-empiricist critiques, sometimes paradoxically recovering aspects of neopositivist thought in revised forms.
+The central tension lies in reconciling the critique of empiricism—which revealed that facts are always theory-laden and observations never neutral—with the need to maintain some connection to experience that would justify the success and progress of science. While extreme positions like [[Feyerabend]]'s seemed to dissolve scientific rationality altogether, other post-positivists sought to defend the scientific enterprise while acknowledging the force of anti-empiricist critiques, sometimes paradoxically recovering aspects of neopositivist thought in revised forms.
 
 #### Main Thesis
 
@@ -66,6 +77,7 @@ The broader intellectual context included: the maturation of logical analysis as
 By the 1970s and 1980s, debates about scientific realism came to dominate philosophy of science, with [[Putnam]]'s evolving positions—from metaphysical realism to internal realism—representing one of the most influential trajectories in this discussion.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -162,18 +174,6 @@ flowchart TD
 
 > "To believe in the existence of chairs and not in that of the Homeric gods is only due to the cultural context in which we find ourselves: objects are mere 'cultural posits.'" — [[Quine]]
 
-#### See Also
-
-- [[Logical Positivism]]
-- [[Vienna Circle]]
-- [[Analytic Philosophy]]
-- [[Holism]]
-- [[Scientific Realism]]
-- [[Constructivism]]
-- [[Philosophy of Language]]
-- [[Naturalism]]
-- [[Pragmatism]]
-- [[Carnap]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

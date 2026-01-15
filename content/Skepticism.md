@@ -6,16 +6,8 @@ subclasses:
   - Epistemology
   - Ethics
 aliases:
-  - skepticism
-  - pyrrhonism
-  - epoch
   - suspension judgment
-  - ataraxia
-  - tropes
-  - probabilism
-  - diallele
   - dogmatism critique
-  - pyrrho
 contributions:
   - Conceptual
 authors:
@@ -26,7 +18,18 @@ authors:
   - "[[Aenesidemus]]"
   - "[[Agrippa]]"
   - "[[Empiricus]]"
-reference: "[[02 The search for thought - Unit 5 Chapter 4.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Hellenistic Philosophy]]"
+  - "[[Stoicism]]"
+  - "[[Epicureanism]]"
+  - "[[Epistemology]]"
+  - "[[Pyrrhonism]]"
+  - "[[Academic Skepticism]]"
+  - "[[Sophists]]"
+  - "[[Socratic Method]]"
+  - "[[Problem of Knowledge]]"
+  - "[[Methodical Doubt]]"
 ---
 
 #### Central Problem
@@ -53,15 +56,16 @@ The skeptical program unfolds through systematic argumentation against dogmatic 
 
 #### Historical Context
 
-Skepticism emerged in the Hellenistic period, when the collapse of the Greek city-state system and the vast uncertainties of the post-Alexander world created conditions ripe for philosophies offering individual salvation through inner tranquility. [[Pyrrho]] of Elis (c. 365-275 BCE) participated in Alexander's Eastern campaign, where he encountered Indian sages (the "gymnosophists") who taught the vanity of worldly concerns and the imperturbability of the wise.
+Skepticism emerged in the Hellenistic period, when the collapse of the Greek city-state system and the vast uncertainties of the post-Alexander world created conditions ripe for philosophies offering individual salvation through inner tranquility. [[Pyrrho]] of Elis (c. 365-275 BCE) participated in [[Alexander]]'s Eastern campaign, where he encountered Indian sages (the "gymnosophists") who taught the vanity of worldly concerns and the imperturbability of the wise.
 
-The skeptical tradition has intellectual roots in earlier Greek thought: the Sophists' relativism (despite [[Pyrrho]]'s negative judgment of Protagoras), Socrates' profession of ignorance, and the dialectical methods of the Eleatic-Megaric school. The skeptics radicalized these tendencies into a systematic philosophical position.
+The skeptical tradition has intellectual roots in earlier Greek thought: the Sophists' relativism (despite [[Pyrrho]]'s negative judgment of Protagoras), [[Socrates]]' profession of ignorance, and the dialectical methods of the Eleatic-Megaric school. The skeptics radicalized these tendencies into a systematic philosophical position.
 
-After [[Pyrrho]]'s school declined, skepticism was taken up by the Platonic Academy. Plato had denied that the sensible world could be object of true knowledge (*episteme*); when interest in the transcendent world of Forms waned, what remained was only the negative part of Platonism. [[Arcesilaus]] (c. 315-240 BCE) inaugurated this Academic skepticism, followed by [[Carneades]] (c. 214-129 BCE), whose famous Roman embassy (156-155 BCE) included arguing both for and against justice on consecutive days.
+After [[Pyrrho]]'s school declined, skepticism was taken up by the Platonic Academy. [[Plato]] had denied that the sensible world could be object of true knowledge (*episteme*); when interest in the transcendent world of Forms waned, what remained was only the negative part of Platonism. [[Arcesilaus]] (c. 315-240 BCE) inaugurated this Academic skepticism, followed by [[Carneades]] (c. 214-129 BCE), whose famous Roman embassy (156-155 BCE) included arguing both for and against justice on consecutive days.
 
 The later "Pyrrhonists"—[[Aenesidemus]], [[Agrippa]], and [[Sextus Empiricus]]—revived the original Pyrrhonian tradition from the 1st century BCE to the 2nd century CE, systematizing the arguments (*tropes*) for suspension of judgment.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -140,7 +144,7 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | c. 365 BCE | [[Pyrrho]] born in Elis |
-| 334-323 BCE | [[Pyrrho]] participates in Alexander's Eastern campaign; encounters Indian sages |
+| 334-323 BCE | [[Pyrrho]] participates in [[Alexander]]'s Eastern campaign; encounters Indian sages |
 | c. 320 BCE | [[Timon]] of Phlius born |
 | c. 315 BCE | [[Arcesilaus]] of Pitane born |
 | 275 BCE | Death of [[Pyrrho]] |
@@ -159,18 +163,6 @@ flowchart TD
 
 > "The phenomenon always prevails, wherever it appears." — [[Timon]]
 
-#### See Also
-
-- [[Hellenistic Philosophy]]
-- [[Stoicism]]
-- [[Epicureanism]]
-- [[Epistemology]]
-- [[Pyrrhonism]]
-- [[Academic Skepticism]]
-- [[Sophists]]
-- [[Socratic Method]]
-- [[Problem of Knowledge]]
-- [[Methodical Doubt]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

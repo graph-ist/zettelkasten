@@ -8,17 +8,13 @@ subclasses:
   - 20th-Century-Philosophy
   - Critical-Theory
 aliases:
-  - globalization
   - global village
   - mass media
   - cultural imperialism
-  - multiculturalism
   - empire theory
   - world system
   - media theory
-  - eurocentrism
   - anthropological decentering
-  - cosmopolitanism
 contributions:
   - Conceptual
   - Empirical
@@ -31,7 +27,18 @@ authors:
   - "[[Sen]]"
   - "[[Packard]]"
   - "[[Habermas]]"
-reference: "[[07 The search for thought - Unit 19 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Mass Media]]"
+  - "[[Capitalism]]"
+  - "[[Postcolonialism]]"
+  - "[[Multiculturalism]]"
+  - "[[Eurocentrism]]"
+  - "[[World System Theory]]"
+  - "[[Digital Revolution]]"
+  - "[[Cultural Studies]]"
+  - "[[Development Economics]]"
+  - "[[Cosmopolitanism]]"
 ---
 
 #### Central Problem
@@ -65,6 +72,7 @@ The 1970s saw the planetary diffusion of media and the advent of personal comput
 The historical context also includes the collapse of Eurocentrism as a self-evident framework. [[Spengler]]'s *Decline of the West* questioned whether Western historical categories applied universally. [[Toynbee]] emphasized the plurality and incommunicability of civilizations. [[Lévi-Strauss]] accused the West of intellectual and practical "cannibalism." [[Ricoeur]] declared Eurocentrism dead in the 20th century. This deconstructive trend has intensified with attention to Asian and African history, which has disrupted traditional periodizations (ancient-medieval-modern) that assumed Western development as the norm.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -161,18 +169,6 @@ flowchart TD
 
 > "Empire emerges at the twilight of European sovereignty. Unlike imperialism, Empire establishes no center of power and does not rely on fixed borders or barriers. It is a decentered and deterritorializing apparatus of rule." — [[Negri]]
 
-#### See Also
-
-- [[Mass Media]]
-- [[Capitalism]]
-- [[Postcolonialism]]
-- [[Multiculturalism]]
-- [[Eurocentrism]]
-- [[World System Theory]]
-- [[Digital Revolution]]
-- [[Cultural Studies]]
-- [[Development Economics]]
-- [[Cosmopolitanism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

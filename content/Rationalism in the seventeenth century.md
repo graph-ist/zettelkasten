@@ -6,15 +6,11 @@ subclasses:
   - Metaphysics
   - Philosophy-of-Religion
 aliases:
-  - occasionalism
-  - cartesianism
   - port royal
   - divine causation
   - vision god
-  - libertinism
   - english platonism
   - rational religion
-  - deism
   - struggle reason
   - finite reason
   - natural religion
@@ -27,14 +23,25 @@ authors:
   - "[[Arnauld]]"
   - "[[Gassendi]]"
   - "[[Hobbes]]"
-reference: "[[03 The search for thought - Unit 3 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Rationalism]]"
+  - "[[Occasionalism]]"
+  - "[[Cartesian Dualism]]"
+  - "[[Jansenism]]"
+  - "[[Port-Royal Logic]]"
+  - "[[Deism]]"
+  - "[[Libertinism]]"
+  - "[[Mind-Body Problem]]"
+  - "[[Causation]]"
+  - "[[Enlightenment]]"
 ---
 
 #### Central Problem
 
 How should the philosophy of [[Descartes]] be understood and developed — as a methodological technique of autonomous rational inquiry applicable to all domains, or as a metaphysical system of doctrines about mind, body, and God? The seventeenth century witnessed a profound "struggle for reason" (*lotta per la ragione*) in which competing interpretations of rationalism battled over the scope, nature, and limits of human reason.
 
-The central questions included: Can the Cartesian method be extended beyond physics to morality, politics, and religion? What is the relationship between the two radically heterogeneous substances — thinking and extended — that Descartes posited? If mind and body cannot causally interact (as seems implied by their complete heterogeneity), how do we explain the apparent coordination between mental and physical events? And how should the claims of reason be balanced against the claims of faith?
+The central questions included: Can the Cartesian method be extended beyond physics to morality, politics, and religion? What is the relationship between the two radically heterogeneous substances — thinking and extended — that [[Descartes]] posited? If mind and body cannot causally interact (as seems implied by their complete heterogeneity), how do we explain the apparent coordination between mental and physical events? And how should the claims of reason be balanced against the claims of faith?
 
 Two fundamentally opposed conceptions of reason emerged: (1) the Cartesian view of reason as an infinite, infallible, omnipotent force requiring nothing outside itself; (2) the view (developed by [[Gassendi]] and [[Hobbes]]) that reason is a finite, conditioned power, limited by the specific domains of its activity.
 
@@ -63,6 +70,7 @@ Universities remained largely closed to Cartesianism. The Sorbonne was restricte
 [[Gassendi]]'s circles in Paris brought together scholars, magistrates, politicians, and moralists whose underground critique of traditional beliefs would eventually surface in the Enlightenment. The transition from libertinism to Enlightenment required [[Locke]]'s clarification of finite reason and [[Newton]]'s natural philosophy.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -103,7 +111,7 @@ flowchart TD
 | Struggle for reason | The seventeenth-century philosophical project of establishing reason's autonomy in all domains | [[Rationalism]], [[Enlightenment]] |
 | Infinite reason | The Cartesian conception of reason as unlimited, infallible, self-sufficient | [[Descartes]], [[Spinoza]] |
 | Finite reason | The conception of reason as conditioned and limited by domains of application | [[Gassendi]], [[Hobbes]], [[Locke]] |
-| Cartesian scolasticism | The use of Cartesian philosophy to defend religious faith, analogous to medieval use of Aristotle | [[Occasionalism]], [[Jansenism]] |
+| Cartesian scolasticism | The use of Cartesian philosophy to defend religious faith, analogous to medieval use of [[Aristotle]] | [[Occasionalism]], [[Jansenism]] |
 | Mentalism | Logical theory focusing on mental operations (conceiving, judging, reasoning, ordering) rather than terms | [[Arnauld]], [[Port-Royal Logic]] |
 | Deism | Belief in a natural or rational religion reducible to essential truths common to all faiths | [[Herbert of Cherbury]], [[English Platonism]] |
 | Libertinism | Seventeenth-century movement of free thought critiquing traditional religious beliefs | [[Gassendi]], [[Cyrano de Bergerac]] |
@@ -113,7 +121,7 @@ flowchart TD
 
 | Theme | [[Malebranche]] | [[Arnauld]] | [[Gassendi]] |
 |-------|-----------------|-------------|--------------|
-| Relation to Descartes | Cartesian scholasticism | Accepts Cartesianism fully | Critical, uses skeptical arguments |
+| Relation to [[Descartes]] | Cartesian scholasticism | Accepts Cartesianism fully | Critical, uses skeptical arguments |
 | Theory of knowledge | Vision in God | Immediate perception | Empiricist-atomist |
 | Role of God | Sole cause, guarantor of ideas | Guarantor of natural faculties | Creator of atoms and motion |
 | Approach to faith | Rational theology, vision | Augustinian Jansenism | Faith as prudent choice |
@@ -160,18 +168,6 @@ flowchart TD
 
 > "What we see in God are not things themselves, but their ideas, that is, their archetypes or models." — [[Malebranche]]
 
-#### See Also
-
-- [[Rationalism]]
-- [[Occasionalism]]
-- [[Cartesian Dualism]]
-- [[Jansenism]]
-- [[Port-Royal Logic]]
-- [[Deism]]
-- [[Libertinism]]
-- [[Mind-Body Problem]]
-- [[Causation]]
-- [[Enlightenment]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

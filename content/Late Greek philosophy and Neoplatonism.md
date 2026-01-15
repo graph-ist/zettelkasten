@@ -6,15 +6,8 @@ subclasses:
   - Metaphysics
   - Philosophy-of-Religion
 aliases:
-  - neoplatonism
-  - plotinus
   - the one
-  - emanation
-  - hypostases
   - philo alexandria
-  - henology
-  - mysticism
-  - ecstasy
   - return one
 contributions:
   - Conceptual
@@ -25,7 +18,18 @@ authors:
   - "[[Proclus]]"
   - "[[Numenius]]"
   - "[[Plutarch]]"
-reference: "[[02 The search for thought - Unit 5 Chapter 5.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Platonism]]"
+  - "[[Middle Platonism]]"
+  - "[[Hellenistic Philosophy]]"
+  - "[[Mysticism]]"
+  - "[[Negative Theology]]"
+  - "[[Christian Philosophy]]"
+  - "[[Emanationism]]"
+  - "[[Henology]]"
+  - "[[Late Antiquity]]"
+  - "[[Byzantine Philosophy]]"
 ---
 
 #### Central Problem
@@ -62,6 +66,7 @@ Neoplatonism emerged during the declining centuries of the Roman Empire (3rd-6th
 
 #### Philosophical Lineage
 
+
 ```mermaid
 flowchart TD
     Plato --> Philo
@@ -87,9 +92,9 @@ flowchart TD
 |---------|-------|----------|-----------|--------------|
 | [[Philo]] | c. 30 BCE - 50 CE | [[Hellenistic Judaism]] | Biblical commentaries | Logos as divine intermediary |
 | [[Plotinus]] | 205-270 CE | [[Neoplatonism]] | *Enneads* | The One, emanation, ecstasy |
-| [[Porphyry]] | 233-305 CE | [[Neoplatonism]] | *Life of Plotinus*, *Isagoge* | Defense of paganism |
+| [[Porphyry]] | 233-305 CE | [[Neoplatonism]] | *Life of [[Plotinus]]*, *Isagoge* | Defense of paganism |
 | [[Proclus]] | 410-485 CE | [[Neoplatonism]] | *Elements of Theology* | Triadic emanation |
-| [[Numenius]] | 2nd c. CE | [[Middle Platonism]] | Lost works | Plato as "Moses speaking Greek" |
+| [[Numenius]] | 2nd c. CE | [[Middle Platonism]] | Lost works | [[Plato]] as "Moses speaking Greek" |
 
 #### Key Concepts
 
@@ -123,7 +128,7 @@ flowchart TD
 - **Predecessors:** [[Plotinus]] ← influenced by ← [[Plato]], [[Aristotle]], [[Stoics]], [[Philo]], [[Numenius]]
 - **Contemporaries:** [[Plotinus]] ↔ teaching with ↔ [[Porphyry]], [[Amelius]]
 - **Followers:** [[Plotinus]] → influenced → [[Proclus]], [[Augustine]], [[Pseudo-Dionysius]], [[Boethius]]
-- **Later reception:** [[Plotinus]] → influenced → [[Eriugena]], [[Meister Eckhart]], [[Ficino]], [[Hegel]]
+- **Later reception:** [[Plotinus]] → influenced → [[Eriugena]], [[Eckhart]], [[Ficino]], [[Hegel]]
 - **Opposing views:** [[Plotinus]] ← criticized by ← [[Christians]] (on creation), [[Gnostics]] (on matter)
 
 #### Summary Formulas
@@ -156,18 +161,6 @@ flowchart TD
 
 > "This is the life of gods and of divine and blessed men: separation from all things here below, a life that takes no pleasure in earthly things, flight of the alone to the Alone." — [[Plotinus]]
 
-#### See Also
-
-- [[Platonism]]
-- [[Middle Platonism]]
-- [[Hellenistic Philosophy]]
-- [[Mysticism]]
-- [[Negative Theology]]
-- [[Christian Philosophy]]
-- [[Emanationism]]
-- [[Henology]]
-- [[Late Antiquity]]
-- [[Byzantine Philosophy]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

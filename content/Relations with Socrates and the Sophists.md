@@ -6,7 +6,6 @@ subclasses:
   - Epistemology
   - Ethics
 aliases:
-  - platonism
   - socratic dialogues
   - platonic philosophy
   - apology socrates
@@ -27,26 +26,37 @@ authors:
   - "[[Protagoras]]"
   - "[[Gorgias]]"
   - "[[Cratylus]]"
-reference: "[[01 The search for thought - Unit 3 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+related:
+  - "[[Theory of Ideas]]"
+  - "[[Platonic Academy]]"
+  - "[[Socratic Method]]"
+  - "[[Sophism]]"
+  - "[[Greek Ethics]]"
+  - "[[Rhetoric]]"
+  - "[[Philosophy of Language]]"
+  - "[[Political Philosophy]]"
+  - "[[Eudemonism]]"
+  - "[[Intellectualism]]"
 ---
 
 #### Central Problem
 
-The central problem addressed in this chapter is how Platonism emerged as a philosophical response to the profound political and cultural crisis of 4th-century Athens. Following the defeat in the Peloponnesian War (404 BCE), the failed oligarchic experiment of the Thirty Tyrants (404-403 BCE), and the condemnation of Socrates (399 BCE), Plato confronted a world in which traditional certainties had collapsed and relativism threatened to undermine all stable values.
+The central problem addressed in this chapter is how Platonism emerged as a philosophical response to the profound political and cultural crisis of 4th-century Athens. Following the defeat in the Peloponnesian War (404 BCE), the failed oligarchic experiment of the Thirty Tyrants (404-403 BCE), and the condemnation of [[Socrates]] (399 BCE), [[Plato]] confronted a world in which traditional certainties had collapsed and relativism threatened to undermine all stable values.
 
-The fundamental question becomes: how can philosophy provide stable foundations for ethical and political life in a world where the Sophists have reduced all values to conventions, where rhetoric replaces truth, and where the most just man of all time—Socrates—was condemned to death by his own city? Plato recognized that the ethical-political crisis derived primarily from an intellectual crisis: without stable truths and universal definitions, society descends into moral and civic chaos.
+The fundamental question becomes: how can philosophy provide stable foundations for ethical and political life in a world where the Sophists have reduced all values to conventions, where rhetoric replaces truth, and where the most just man of all time—Socrates—was condemned to death by his own city? [[Plato]] recognized that the ethical-political crisis derived primarily from an intellectual crisis: without stable truths and universal definitions, society descends into moral and civic chaos.
 
-This leads to the core philosophical problem: can genuine knowledge of virtue be attained? Is virtue teachable? And if so, what kind of knowledge does virtue represent? The chapter traces Plato's systematic defense of Socratic intellectualism against sophistical relativism while simultaneously preparing the ground for his own theory of Ideas.
+This leads to the core philosophical problem: can genuine knowledge of virtue be attained? Is virtue teachable? And if so, what kind of knowledge does virtue represent? The chapter traces [[Plato]]'s systematic defense of Socratic intellectualism against sophistical relativism while simultaneously preparing the ground for his own theory of Ideas.
 
 #### Main Thesis
 
 Plato's fundamental thesis, developed through his early dialogues, is that **virtue is one and identical with knowledge (science)**, and therefore it can be taught. This Socratic position is defended against the Sophists through a multi-pronged philosophical strategy:
 
-**1. The Unity of Virtue:** Against the sophistical view that virtues are multiple and separable, Plato demonstrates (through dialogues like *Eutyphro*, *Laches*, and *Charmides*) that individual virtues—piety, courage, temperance—cannot be defined in isolation. They are all manifestations of a single virtue: knowledge of the good.
+**1. The Unity of Virtue:** Against the sophistical view that virtues are multiple and separable, [[Plato]] demonstrates (through dialogues like *Eutyphro*, *Laches*, and *Charmides*) that individual virtues—piety, courage, temperance—cannot be defined in isolation. They are all manifestations of a single virtue: knowledge of the good.
 
 **2. The Good as Sole Value:** The *Hippias Major* and *Lysis* show that beauty, utility, and other apparent values cannot be defined independently. The only true value that encompasses all others is the good itself.
 
-**3. Virtue as Teachable Science:** In the *Protagoras*, Plato establishes that virtue can only be transmitted through teaching insofar as it is science. The Sophists' "virtue" is merely accumulated experience—a private patrimony that cannot be truly communicated.
+**3. Virtue as Teachable Science:** In the *Protagoras*, [[Plato]] establishes that virtue can only be transmitted through teaching insofar as it is science. The Sophists' "virtue" is merely accumulated experience—a private patrimony that cannot be truly communicated.
 
 **4. Philosophy vs. Rhetoric:** The *Gorgias* delivers a devastating critique of rhetoric as mere "flattery" that aims at pleasure rather than truth. True persuasion requires knowledge of the object discussed. The dialogue also introduces an ethics of the afterlife: the soul's immortality becomes the ultimate guarantee of moral life.
 
@@ -54,20 +64,21 @@ Plato's fundamental thesis, developed through his early dialogues, is that **vir
 
 #### Historical Context
 
-Plato was born in 427 BCE to an aristocratic Athenian family during the midst of the Peloponnesian War (431-404 BCE). The golden age of Periclean Athens was drawing to a close, and Plato witnessed the progressive decline of his city.
+[[Plato]] was born in 427 BCE to an aristocratic Athenian family during the midst of the Peloponnesian War (431-404 BCE). The golden age of Periclean Athens was drawing to a close, and [[Plato]] witnessed the progressive decline of his city.
 
-The decisive historical events shaping Plato's thought include:
+The decisive historical events shaping [[Plato]]'s thought include:
 
-- **404 BCE:** Athens defeated by Sparta; establishment of the oligarchic government of the Thirty Tyrants, which included Plato's relatives Critias and Charmides
+- **404 BCE:** Athens defeated by Sparta; establishment of the oligarchic government of the Thirty Tyrants, which included [[Plato]]'s relatives [[Critias]] and Charmides
 - **404-403 BCE:** The failed oligarchic experiment, marked by violence and injustice
 - **403 BCE:** Restoration of democracy under Thrasybulus
-- **399 BCE:** Trial and execution of Socrates—the event that definitively shaped Plato's philosophical vocation
+- **399 BCE:** Trial and execution of [[Socrates]]—the event that definitively shaped [[Plato]]'s philosophical vocation
 
-The death of Socrates represented for Plato the ultimate proof of societal sickness: if the most just man could be condemned to death, radical reform was necessary. Plato concluded that neither oligarchy nor democracy could guarantee justice without philosophical foundation.
+The death of [[Socrates]] represented for [[Plato]] the ultimate proof of societal sickness: if the most just man could be condemned to death, radical reform was necessary. [[Plato]] concluded that neither oligarchy nor democracy could guarantee justice without philosophical foundation.
 
-Culturally, the period was marked by the decline of the Sophistic movement into eristic (contentious argumentation) and the dissolution of Socraticism into minor schools. Against this backdrop of intellectual and political crisis, Plato founded the Academy (c. 387 BCE) as an institution for philosophical education modeled on Pythagorean communities.
+Culturally, the period was marked by the decline of the Sophistic movement into eristic (contentious argumentation) and the dissolution of Socraticism into minor schools. Against this backdrop of intellectual and political crisis, [[Plato]] founded the Academy (c. 387 BCE) as an institution for philosophical education modeled on Pythagorean communities.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -100,11 +111,11 @@ flowchart TD
 | Concept | Definition | Related to |
 |---------|------------|------------|
 | Virtue as Science | The Socratic thesis that virtue is identical with knowledge—those who know the good necessarily do the good | [[Socrates]], [[Intellectualism]] |
-| Platonic Dialogue | The literary form chosen by Plato to express the open, never-concluded character of philosophical inquiry | [[Plato]], [[Dialectic]] |
+| Platonic Dialogue | The literary form chosen by [[Plato]] to express the open, never-concluded character of philosophical inquiry | [[Plato]], [[Dialectic]] |
 | Platonic Myth | Fantastic narratives used to communicate doctrines beyond the limits of rigorous rational investigation | [[Plato]], [[Allegory]] |
 | Eristic | The sophistical art of verbal combat, confuting any thesis regardless of its truth | [[Sophism]], [[Euthydemus]] |
-| Rhetoric | For Sophists: technique of persuasion independent of content; for Plato: mere "flattery" lacking genuine knowledge | [[Gorgias]], [[Sophism]] |
-| Unwritten Doctrines | Plato's oral teachings on metaphysical principles (One and Dyad) not committed to writing | [[Plato]], [[Pythagoreans]] |
+| Rhetoric | For Sophists: technique of persuasion independent of content; for [[Plato]]: mere "flattery" lacking genuine knowledge | [[Gorgias]], [[Sophism]] |
+| Unwritten Doctrines | [[Plato]]'s oral teachings on metaphysical principles (One and Dyad) not committed to writing | [[Plato]], [[Pythagoreans]] |
 | Eudemonism | The Greek ethical principle that virtue and happiness are intrinsically connected | [[Socrates]], [[Greek Ethics]] |
 
 #### Authors Comparison
@@ -140,10 +151,10 @@ flowchart TD
 | 427 BCE | [[Plato]] born in Athens to aristocratic family |
 | 411 BCE | Death of [[Protagoras]] |
 | 407 BCE | [[Plato]] meets [[Socrates]] and becomes his disciple |
-| 404 BCE | Athens defeated; Thirty Tyrants take power (including Critias and Charmides) |
+| 404 BCE | Athens defeated; Thirty Tyrants take power (including [[Critias]] and Charmides) |
 | 403 BCE | Democracy restored in Athens |
 | 399 BCE | Trial and execution of [[Socrates]] |
-| 399 BCE | [[Plato]] travels to Megara to join Euclid |
+| 399 BCE | [[Plato]] travels to Megara to join [[Euclid]] |
 | 388 BCE | [[Plato]]'s first voyage to Sicily; meets Dion at Syracuse |
 | 387 BCE | [[Plato]] founds the Academy in Athens |
 | 367 BCE | [[Plato]]'s second voyage to Sicily under Dionysius II |
@@ -158,18 +169,6 @@ flowchart TD
 
 > "We need a science in which making and knowing how to use what is made coincide." — [[Socrates]]
 
-#### See Also
-
-- [[Theory of Ideas]]
-- [[Platonic Academy]]
-- [[Socratic Method]]
-- [[Sophism]]
-- [[Greek Ethics]]
-- [[Rhetoric]]
-- [[Philosophy of Language]]
-- [[Political Philosophy]]
-- [[Eudemonism]]
-- [[Intellectualism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

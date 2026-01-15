@@ -7,18 +7,13 @@ subclasses:
   - Social-and-Political-Philosophy
   - 19th-Century-Philosophy
 aliases:
-  - weber
   - ideal types
   - value freedom
-  - disenchantment
   - verstehen sociology
-  - rationalization
-  - bureaucracy
   - protestant ethic
   - capitalism spirit
   - charismatic authority
   - causal imputation
-  - methodology
 contributions:
   - Conceptual
   - Empirical
@@ -28,14 +23,25 @@ authors:
   - "[[Rickert]]"
   - "[[Dilthey]]"
   - "[[Comte]]"
-reference: "[[05 The search for thought - Unit 4 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Neo-Kantianism]]"
+  - "[[German Historicism]]"
+  - "[[Verstehen]]"
+  - "[[Sociology of Religion]]"
+  - "[[Historical Materialism]]"
+  - "[[Bureaucracy]]"
+  - "[[Rationalization]]"
+  - "[[Modernity]]"
+  - "[[Charisma]]"
+  - "[[Protestant Ethic]]"
 ---
 
 #### Central Problem
 
 How can the human and social sciences achieve objective, scientifically valid knowledge while recognizing that their objects of study are fundamentally shaped by human values and cultural meanings? This methodological problem encompasses several interconnected questions: What distinguishes the historical-social sciences from the natural sciences? How can research grounded in subjective value-orientations produce universally valid results? What is the proper relationship between scientific description and value judgment?
 
-Max Weber confronts these questions against the backdrop of the late nineteenth-century methodological debates (Methodenstreit) between the marginalists and the historical school of economics, and the broader controversy over the nature of the Geisteswissenschaften. Weber rejects both the positivist attempt to reduce social science to natural science and the romantic-historicist retreat into pure intuition and empathy. His solution involves a sophisticated account of how value-relevance (Wertbeziehung) shapes research without compromising scientific objectivity, and how causal explanation can operate in the domain of unique historical individuals.
+Weber confronts these questions against the backdrop of the late nineteenth-century methodological debates (Methodenstreit) between the marginalists and the historical school of economics, and the broader controversy over the nature of the Geisteswissenschaften. Weber rejects both the positivist attempt to reduce social science to natural science and the romantic-historicist retreat into pure intuition and empathy. His solution involves a sophisticated account of how value-relevance (Wertbeziehung) shapes research without compromising scientific objectivity, and how causal explanation can operate in the domain of unique historical individuals.
 
 Beyond methodology, Weber addresses the broader question of modernity itself: What are the distinctive features of modern Western civilization? What has been gained and lost through the progressive rationalization of life? These questions culminate in his famous analysis of the "disenchantment of the world" (Entzauberung der Welt) — the process by which magical and religious worldviews give way to scientific-technical rationality.
 
@@ -61,9 +67,10 @@ The broader philosophical context included Dilthey's attempt to ground the Geist
 
 Politically, Weber lived through the German Empire's rise, World War I, and the birth of the Weimar Republic. He participated in drafting the Weimar Constitution, including the controversial Article 48 granting emergency powers to the president. His political sociology reflects both democratic commitment and skeptical realism about mass politics and bureaucracy.
 
-The intellectual ferment of pre-war Heidelberg, where Weber's home became a salon for leading thinkers (Simmel, Jaspers, Lukács, Bloch, Troeltsch), provided the crucible for his mature thought. His personal crisis — a severe nervous breakdown from 1897 that interrupted his academic career for years — also shaped his reflections on the tensions between scientific vocation and existential commitment.
+The intellectual ferment of pre-war Heidelberg, where Weber's home became a salon for leading thinkers (Simmel, Jaspers, Lukács, [[Bloch]], Troeltsch), provided the crucible for his mature thought. His personal crisis — a severe nervous breakdown from 1897 that interrupted his academic career for years — also shaped his reflections on the tensions between scientific vocation and existential commitment.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -143,7 +150,7 @@ flowchart TD
 |------|-------|
 | 1864 | [[Weber]] born in Erfurt, Thuringia |
 | 1889 | [[Weber]] doctoral thesis on medieval trading companies |
-| 1894 | Dreyfus Affair begins in France |
+| 1894 | [[Dreyfus]] Affair begins in France |
 | 1897 | [[Weber]] suffers severe nervous breakdown |
 | 1903-1906 | [[Weber]] writes main methodological essays on historical-social sciences |
 | 1904-1905 | [[Weber]] publishes *The Protestant Ethic and the Spirit of Capitalism* |
@@ -161,18 +168,6 @@ flowchart TD
 
 > "The disenchantment of the world means the consciousness or belief that one need only will it to experience everything at any time; that there are in principle no mysterious incalculable forces at work, but rather that one can, in principle, master everything by calculation." — [[Weber]]
 
-#### See Also
-
-- [[Neo-Kantianism]]
-- [[German Historicism]]
-- [[Verstehen]]
-- [[Sociology of Religion]]
-- [[Historical Materialism]]
-- [[Bureaucracy]]
-- [[Rationalization]]
-- [[Modernity]]
-- [[Charisma]]
-- [[Protestant Ethic]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

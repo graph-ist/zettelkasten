@@ -1,5 +1,4 @@
 ---
-key: ['Post-structuralism and Derida']
 cssclasses:
   - Philosophy
 subclasses:
@@ -7,13 +6,8 @@ subclasses:
   - 20th-Century-Philosophy
   - Continental-Philosophy
 aliases:
-  - hermeneutics
-  - gadamer
   - truth method
   - hermeneutic circle
-  - preunderstanding
-  - prejudice
-  - tradition
   - fusion horizons
   - interpretation theory
   - effective history
@@ -29,7 +23,18 @@ authors:
   - "[[Betti]]"
   - "[[Pareyson]]"
   - "[[Ricoeur]]"
-reference: "[[06 The search for thought - Unit 14 Chapter 2.pdf]]"
+reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
+related:
+  - "[[Phenomenology]]"
+  - "[[Heidegger]]"
+  - "[[Being and Time]]"
+  - "[[Historicism]]"
+  - "[[Philosophy of Language]]"
+  - "[[Aesthetics]]"
+  - "[[Critical Theory]]"
+  - "[[Ricoeur]]"
+  - "[[Schleiermacher]]"
+  - "[[Dilthey]]"
 ---
 
 #### Central Problem
@@ -38,7 +43,7 @@ Hermeneutics confronts the fundamental question: what are the conditions that ma
 
 The central tension lies between the modern scientific ideal of objective, methodically verifiable knowledge and the distinctive character of humanistic understanding. Can the human sciences (Geisteswissenschaften) achieve the same kind of objective truth as the natural sciences? Or does understanding operate according to different principles altogether?
 
-Gadamer, building on Heidegger's existential analysis, argues that understanding is not merely one possible attitude among others, but constitutes "the mode of being of existence as such." This universalization of hermeneutics challenges the Enlightenment assumption that prejudice must be eliminated for true knowledge, and instead reveals how all understanding necessarily operates within historical tradition and through pre-understandings that cannot be bracketed away.
+Gadamer, building on [[Heidegger]]'s existential analysis, argues that understanding is not merely one possible attitude among others, but constitutes "the mode of being of existence as such." This universalization of hermeneutics challenges the Enlightenment assumption that prejudice must be eliminated for true knowledge, and instead reveals how all understanding necessarily operates within historical tradition and through pre-understandings that cannot be bracketed away.
 
 #### Main Thesis
 
@@ -46,7 +51,7 @@ Gadamer's fundamental thesis, expressed in the title of his masterwork *Truth an
 
 **The Hermeneutic Circle:** Understanding is always circular — we can only approach what we seek to understand through pre-understandings inherited from our social and historical context. Rather than a vicious circle to be escaped, Heidegger showed this to be the ontological structure of understanding itself. The task is not to exit the circle but to enter it properly, remaining open to having our pre-suppositions challenged by the "otherness of the text."
 
-**Rehabilitation of Prejudice:** Against the Enlightenment's "prejudice against prejudice," Gadamer argues that prejudices are not necessarily false. Legitimate prejudices constitute our historical being — we always already understand ourselves "according to unreflected schemas, in the family, in society, and in the State." Their elimination would mean the annihilation of our concrete selfhood.
+**Rehabilitation of Prejudice:** Against the Enlightenment's "prejudice against prejudice," [[Gadamer]] argues that prejudices are not necessarily false. Legitimate prejudices constitute our historical being — we always already understand ourselves "according to unreflected schemas, in the family, in society, and in the State." Their elimination would mean the annihilation of our concrete selfhood.
 
 **Rehabilitation of Authority and Tradition:** Authority, properly understood, rests not on blind obedience but on rational recognition of another's superior judgment. Similarly, tradition is not opposed to reason and freedom but requires free rational acceptance to be authentically human.
 
@@ -58,15 +63,16 @@ Gadamer's fundamental thesis, expressed in the title of his masterwork *Truth an
 
 #### Historical Context
 
-Gadamer (1900-2002) studied philosophy with the neo-Kantians at Marburg and completed his habilitation under Heidegger in 1929. After teaching at Marburg, Leipzig, and Frankfurt, he succeeded Jaspers at Heidelberg in 1949, becoming one of the most influential figures in German academic life during the 1950s and 1960s.
+[[Gadamer]] (1900-2002) studied philosophy with the neo-Kantians at Marburg and completed his habilitation under [[Heidegger]] in 1929. After teaching at Marburg, Leipzig, and Frankfurt, he succeeded Jaspers at Heidelberg in 1949, becoming one of the most influential figures in German academic life during the 1950s and 1960s.
 
-The development of hermeneutics reflects the modern struggle to legitimate the human sciences. Schleiermacher (early 19th century) extended interpretation beyond biblical exegesis to any text whose meaning is obscured by linguistic, historical, or psychological distance. Dilthey further universalized hermeneutics as the methodology for all historical-spiritual knowledge.
+The development of hermeneutics reflects the modern struggle to legitimate the human sciences. [[Schleiermacher]] (early 19th century) extended interpretation beyond biblical exegesis to any text whose meaning is obscured by linguistic, historical, or psychological distance. Dilthey further universalized hermeneutics as the methodology for all historical-spiritual knowledge.
 
-Heidegger's existential transformation of hermeneutics in *Being and Time* (1927) — where understanding becomes a constitutive structure of Dasein's being-in-the-world — provided the decisive foundation for Gadamer's philosophical hermeneutics. The publication of *Truth and Method* in 1960 marked the emergence of hermeneutics as a major philosophical movement with implications for epistemology, aesthetics, ethics, and social theory.
+Heidegger's existential transformation of hermeneutics in *Being and Time* (1927) — where understanding becomes a constitutive structure of Dasein's being-in-the-world — provided the decisive foundation for [[Gadamer]]'s philosophical hermeneutics. The publication of *Truth and Method* in 1960 marked the emergence of hermeneutics as a major philosophical movement with implications for epistemology, aesthetics, ethics, and social theory.
 
-The postwar context of German reconstruction, the confrontation with scientific positivism, and the question of how to relate to a compromised historical tradition all shaped Gadamer's rehabilitation of tradition and his critique of both Enlightenment objectivism and romantic subjectivism.
+The postwar context of German reconstruction, the confrontation with scientific positivism, and the question of how to relate to a compromised historical tradition all shaped [[Gadamer]]'s rehabilitation of tradition and his critique of both Enlightenment objectivism and romantic subjectivism.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -123,8 +129,8 @@ flowchart TD
 | On objectivity | Impossible and unnecessary | Essential goal of interpretation | Dialectical tension |
 | On tradition | Constitutive of understanding | Context to be transcended | Resource and obstacle |
 | On method | Truth exceeds method | Method ensures valid interpretation | Explanation and understanding complement |
-| Relation to Heidegger | Direct inheritance | Critical distance | Creative appropriation |
-| Key accusation | Relativism (by Betti) | Objectivism (by Gadamer) | Masters of suspicion |
+| Relation to [[Heidegger]] | Direct inheritance | Critical distance | Creative appropriation |
+| Key accusation | Relativism (by Betti) | Objectivism (by [[Gadamer]]) | Masters of suspicion |
 
 #### Influences & Connections
 
@@ -138,14 +144,14 @@ flowchart TD
 - **[[Gadamer]]:** Being that can be understood is language; truth is an extra-methodical event of self-presentation that happens to us through belonging to tradition, not a conquest of method.
 - **[[Betti]]:** Interpretation requires objective methodology to preserve the autonomy of the hermeneutic object against subjective arbitrariness.
 - **[[Pareyson]]:** Truth is one but its interpretations are many; the task is to think both the metatemporal unity of truth and the historical plurality of its manifestations.
-- **[[Ricoeur]]:** The "masters of suspicion" (Marx, Nietzsche, Freud) reveal the need to integrate hermeneutics of trust with hermeneutics of suspicion in mediating the conflict of interpretations.
+- **[[Ricoeur]]:** The "masters of suspicion" (Marx, [[Nietzsche]], [[Freud]]) reveal the need to integrate hermeneutics of trust with hermeneutics of suspicion in mediating the conflict of interpretations.
 
 #### Timeline
 
 | Year | Event |
 |------|-------|
 | 1900 | [[Gadamer]] born in Marburg |
-| 1922 | [[Gadamer]] completes doctorate with Natorp |
+| 1922 | [[Gadamer]] completes doctorate with [[Natorp]] |
 | 1927 | [[Heidegger]] publishes *Being and Time* |
 | 1929 | [[Gadamer]] completes habilitation under [[Heidegger]] |
 | 1949 | [[Gadamer]] succeeds [[Jaspers]] at Heidelberg |
@@ -164,18 +170,6 @@ flowchart TD
 
 > "The true authority does not need to assert itself in an authoritarian manner." — [[Gadamer]]
 
-#### See Also
-
-- [[Phenomenology]]
-- [[Heidegger]]
-- [[Being and Time]]
-- [[Historicism]]
-- [[Philosophy of Language]]
-- [[Aesthetics]]
-- [[Critical Theory]]
-- [[Ricoeur]]
-- [[Schleiermacher]]
-- [[Dilthey]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

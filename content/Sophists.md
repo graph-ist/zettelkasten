@@ -6,19 +6,8 @@ subclasses:
   - Epistemology
   - Ethics
 aliases:
-  - sophists
-  - sophistry
-  - protagoras
-  - gorgias
-  - relativism
   - man is
-  - rhetoric
-  - humanism
-  - phenomenism
-  - paideia
   - greek enlightenment
-  - eristic
-  - antilogic
 contributions:
   - Conceptual
 authors:
@@ -30,7 +19,9 @@ authors:
   - "[[Thrasymachus]]"
   - "[[Critias]]"
   - "[[Callicles]]"
-reference: "[[01 The search for thought - Unit 2 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+related:
+  - "[[Socrates]]"
 ---
 
 #### Central Problem
@@ -43,9 +34,10 @@ The Sophists shift philosophical inquiry from nature (physis) to humanity (anthr
 
 #### Historical Context
 
-The Sophists emerged in 5th century BCE Athens during the height of Periclean democracy, when the city was flourishing after victory over the Persians. The democratic polis required new skills: participation in assemblies, public speaking, legal advocacy, and political debate. Traditional aristocratic education based on birth was inadequate; the Sophists responded by offering professional instruction in rhetoric, grammar, and argumentation for payment. They were itinerant teachers who traveled throughout Greece, exposing them to diverse customs and challenging provincial certainties. While Plato and Aristotle "demonized" them as false sages interested only in money and success, contemporary scholarship recognizes their crucial role in developing humanistic education (paideia) and critical rationality.
+The Sophists emerged in 5th century BCE Athens during the height of Periclean democracy, when the city was flourishing after victory over the Persians. The democratic polis required new skills: participation in assemblies, public speaking, legal advocacy, and political debate. Traditional aristocratic education based on birth was inadequate; the Sophists responded by offering professional instruction in rhetoric, grammar, and argumentation for payment. They were itinerant teachers who traveled throughout Greece, exposing them to diverse customs and challenging provincial certainties. While [[Plato]] and [[Aristotle]] "demonized" them as false sages interested only in money and success, contemporary scholarship recognizes their crucial role in developing humanistic education (paideia) and critical rationality.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -127,12 +119,12 @@ flowchart TD
 | c. 490 BCE | Birth of Protagoras in Abdera |
 | c. 485 BCE | Birth of Gorgias in Leontini |
 | c. 470-460 BCE | Birth of Prodicus of Ceos |
-| c. 460 BCE | Birth of Thrasymachus and Critias |
+| c. 460 BCE | Birth of Thrasymachus and [[Critias]] |
 | 461 BCE | Beginning of Periclean democracy in Athens |
 | c. 450 BCE | Sophists begin teaching in Athens |
 | 427 BCE | Gorgias arrives in Athens as ambassador from Leontini |
 | c. 420 BCE | Death of Protagoras (charged with impiety, exiled) |
-| 404 BCE | Fall of Athenian democracy; rule of Thirty Tyrants (including Critias) |
+| 404 BCE | Fall of Athenian democracy; rule of Thirty Tyrants (including [[Critias]]) |
 | 403 BCE | Death of Critias; restoration of democracy |
 | c. 376 BCE | Death of Gorgias (aged 109) |
 
@@ -154,17 +146,16 @@ flowchart TD
 > — [[Antiphon]], Fragment 44b
 
 > "Justice is nothing other than the advantage of the stronger."
-> — [[Thrasymachus]] (in Plato's *Republic*)
+> — [[Thrasymachus]] (in [[Plato]]'s *Republic*)
 
-#### See Also
-
-- [[Socrates]] - Shares humanistic focus but seeks objective truth
+ - Shares humanistic focus but seeks objective truth
 - [[Plato]] - Principal critic and source for sophistic doctrines
 - [[Aristotle]] - Develops logic partly against sophistic fallacies
 - [[Democritus]] - Shares theory of history as progress
 - [[Pericles]] - Political leader who befriended Protagoras
-- [[David Hume]] - Modern skepticism echoing sophistic themes
-- [[Immanuel Kant]] - Phenomenism and limits of knowledge
+- [[Hume]] - Modern skepticism echoing sophistic themes
+- [[Kant]] - Phenomenism and limits of knowledge
+---
 ---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

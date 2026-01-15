@@ -6,22 +6,8 @@ subclasses:
   - Metaphysics
   - Epistemology
 aliases:
-  - pluralism
-  - atomism
-  - empedocles
-  - anaxagoras
-  - democritus
   - four elements
-  - homeomeries
-  - seeds
-  - atoms
-  - materialism
-  - mechanism
-  - love and
-  - nous
   - cosmic cycle
-  - void
-  - determinism
 contributions:
   - Conceptual
 authors:
@@ -29,7 +15,9 @@ authors:
   - "[[Anaxagoras]]"
   - "[[Leucippus]]"
   - "[[Democritus]]"
-reference: "[[01 The search for thought - Unit 1 Chapter 4.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+related:
+  - "[[Parmenides]]"
 ---
 
 #### Central Problem
@@ -42,9 +30,10 @@ The pluralist philosophers solve the Eleatic problem by positing multiple eterna
 
 #### Historical Context
 
-The pluralist philosophers emerged in the 5th century BCE as responses to the Eleatic paradox: Parmenides had demonstrated the impossibility of generation and destruction, yet our senses testify to constant change. Empedocles of Agrigentum and Anaxagoras of Clazomene sought to reconcile reason and experience by multiplying the eternal principles. Democritus of Abdera, building on Leucippus's foundations, developed atomism into a comprehensive materialist worldview that represents a powerful alternative to the teleological thinking that would dominate through Aristotle. Notably, Democritus was contemporary with Socrates and Plato, and his encyclopedic philosophy absorbed influences from sophistic culture while remaining focused on natural philosophy.
+The pluralist philosophers emerged in the 5th century BCE as responses to the Eleatic paradox: [[Parmenides]] had demonstrated the impossibility of generation and destruction, yet our senses testify to constant change. [[Empedocles]] of Agrigentum and Anaxagoras of Clazomene sought to reconcile reason and experience by multiplying the eternal principles. Democritus of Abdera, building on Leucippus's foundations, developed atomism into a comprehensive materialist worldview that represents a powerful alternative to the teleological thinking that would dominate through [[Aristotle]]. Notably, Democritus was contemporary with [[Socrates]] and [[Plato]], and his encyclopedic philosophy absorbed influences from sophistic culture while remaining focused on natural philosophy.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -76,7 +65,7 @@ flowchart TD
 
 | Concept | Definition | Related to |
 |---------|------------|------------|
-| Four Roots | Empedocles' four eternal elements: fire, water, earth, air | [[Empedocles]], [[Elements]] |
+| Four Roots | [[Empedocles]]' four eternal elements: fire, water, earth, air | [[Empedocles]], [[Elements]] |
 | Love and Strife | Cosmic forces that unite (Love) and separate (Strife) the elements | [[Empedocles]], [[Cosmic Cycle]] |
 | Cosmic Cycle | Eternal alternation between Sphere (unity) and Chaos (separation) | [[Empedocles]], [[Cosmology]] |
 | Seeds/Homeomeries | Anaxagoras' infinite qualitatively distinct particles | [[Anaxagoras]], [[Noús]] |
@@ -121,11 +110,11 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | c. 500-496 BCE | Birth of Anaxagoras in Clazomenae |
-| c. 490 BCE | Birth of Empedocles in Agrigentum |
+| c. 490 BCE | Birth of [[Empedocles]] in Agrigentum |
 | c. 460-459 BCE | Birth of Democritus in Abdera |
-| c. 450 BCE | Anaxagoras introduces philosophy to Athens under Pericles |
+| c. 450 BCE | Anaxagoras introduces philosophy to Athens under [[Pericles]] |
 | c. 440 BCE | Leucippus founds atomist school |
-| c. 430 BCE | Death of Empedocles |
+| c. 430 BCE | Death of [[Empedocles]] |
 | c. 428 BCE | Death of Anaxagoras |
 | c. 370 BCE | Death of Democritus (reputedly over 100 years old) |
 
@@ -149,15 +138,12 @@ flowchart TD
 > "For the wise man, the whole earth is open; for the excellent soul, the entire world is a fatherland."
 > — [[Democritus]], Fragment 247
 
-#### See Also
-
-- [[Parmenides]] - Eleatic principles that pluralists sought to reconcile with experience
+ - Eleatic principles that pluralists sought to reconcile with experience
 - [[Zeno of Elea]] - Paradoxes of divisibility that atomism addresses
 - [[Epicurus]] - Later development of atomist philosophy
 - [[Lucretius]] - Roman atomist who preserved Democritean cosmology
-- [[Galileo Galilei]] - Modern revival of primary/secondary quality distinction
-- [[John Locke]] - Primary and secondary qualities in modern epistemology
-
+- [[Galilei]] - Modern revival of primary/secondary quality distinction
+- [[Locke]] - Primary and secondary qualities in modern epistemology
 
 ---
 > [!NOTE]

@@ -12,13 +12,9 @@ aliases:
   - non euclidean
   - relativity theory
   - quantum mechanics
-  - logicism
-  - formalism
-  - intuitionism
   - incompleteness theorem
   - uncertainty principle
   - set theory
-  - spacetime
   - field theory
 contributions:
   - Conceptual
@@ -34,14 +30,25 @@ authors:
   - "[[Heisenberg]]"
   - "[[Cantor]]"
   - "[[Riemann]]"
-reference: "[[05 The search for thought - Unit 7 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+related:
+  - "[[Philosophy of Mathematics]]"
+  - "[[Philosophy of Physics]]"
+  - "[[Set Theory]]"
+  - "[[Quantum Mechanics]]"
+  - "[[Theory of Relativity]]"
+  - "[[Vienna Circle]]"
+  - "[[Logical Positivism]]"
+  - "[[Kant]]"
+  - "[[Scientific Revolution]]"
+  - "[[Epistemology]]"
 ---
 
 #### Central Problem
 
-The late nineteenth and early twentieth centuries witnessed a profound crisis in the foundations of both mathematics and physics — the two pillars of scientific certainty since antiquity. In mathematics, the discovery of non-Euclidean geometries shattered the belief that Euclidean geometry represented the necessary a priori structure of space (as Kant had claimed). This led to the urgent "problem of foundations": if geometry could no longer serve as the secure base for mathematics, what could? Three competing programs emerged — logicism, formalism, and intuitionism — each attempting to secure mathematical truth on new foundations.
+The late nineteenth and early twentieth centuries witnessed a profound crisis in the foundations of both mathematics and physics — the two pillars of scientific certainty since antiquity. In mathematics, the discovery of non-Euclidean geometries shattered the belief that Euclidean geometry represented the necessary a priori structure of space (as [[Kant]] had claimed). This led to the urgent "problem of foundations": if geometry could no longer serve as the secure base for mathematics, what could? Three competing programs emerged — logicism, formalism, and intuitionism — each attempting to secure mathematical truth on new foundations.
 
-Simultaneously, physics confronted the incompatibility between Newtonian mechanics and Maxwell's electromagnetic field theory, leading to Einstein's revolutionary theories of relativity that transformed our understanding of space, time, and gravity. The discovery of quantum phenomena further challenged classical physics, revealing that at atomic scales, continuity gives way to discreteness, determinism yields to probability, and the very act of observation alters what is observed.
+Simultaneously, physics confronted the incompatibility between Newtonian mechanics and Maxwell's electromagnetic field theory, leading to [[Einstein]]'s revolutionary theories of relativity that transformed our understanding of space, time, and gravity. The discovery of quantum phenomena further challenged classical physics, revealing that at atomic scales, continuity gives way to discreteness, determinism yields to probability, and the very act of observation alters what is observed.
 
 The chapter explores how these twin revolutions undermined the Enlightenment confidence in scientific certainty while paradoxically advancing scientific knowledge into realms far beyond common-sense intuition.
 
@@ -49,25 +56,26 @@ The chapter explores how these twin revolutions undermined the Enlightenment con
 
 The crisis of foundations reveals that scientific knowledge cannot achieve absolute certainty, yet this limitation is itself a kind of knowledge. The chapter traces three interrelated developments:
 
-**The Plurality of Geometries:** Non-Euclidean geometries (Lobachevsky's hyperbolic geometry where parallel lines diverge; Riemann's elliptic geometry where no parallel lines exist) demonstrated that Euclidean geometry is not the unique necessary structure of space. Hilbert's axiomatic approach further abstracted geometry, defining points, lines, and planes purely through their formal relations rather than intuitive content.
+**The Plurality of Geometries:** Non-Euclidean geometries (Lobachevsky's hyperbolic geometry where parallel lines diverge; Riemann's elliptic geometry where no parallel lines exist) demonstrated that Euclidean geometry is not the unique necessary structure of space. [[Hilbert]]'s axiomatic approach further abstracted geometry, defining points, lines, and planes purely through their formal relations rather than intuitive content.
 
-**The Foundations Crisis in Mathematics:** The program of "arithmetization" sought to reduce all mathematics to arithmetic. Frege's logicism attempted to reduce arithmetic itself to pure logic, defining numbers through the extension of concepts. Russell's paradox (the class of all classes that don't contain themselves) revealed fatal inconsistencies in naive set theory. Russell's "theory of types" and Hilbert's "metamathematics" attempted repairs, but Gödel's incompleteness theorems (1931) proved that any sufficiently powerful formal system is either incomplete (contains undecidable propositions) or inconsistent. This represented a "revenge of Kantianism" — the reality of limits reasserted itself against aspirations to absolute foundations.
+**The Foundations Crisis in Mathematics:** The program of "arithmetization" sought to reduce all mathematics to arithmetic. Frege's logicism attempted to reduce arithmetic itself to pure logic, defining numbers through the extension of concepts. [[Russell]]'s paradox (the class of all classes that don't contain themselves) revealed fatal inconsistencies in naive set theory. [[Russell]]'s "theory of types" and [[Hilbert]]'s "metamathematics" attempted repairs, but Gödel's incompleteness theorems (1931) proved that any sufficiently powerful formal system is either incomplete (contains undecidable propositions) or inconsistent. This represented a "revenge of Kantianism" — the reality of limits reasserted itself against aspirations to absolute foundations.
 
-**The New Physics:** Maxwell's electromagnetic field theory replaced Newton's action-at-distance with continuous fields propagating through space. Einstein's special relativity (1905) unified space and time into a four-dimensional continuum, establishing the constancy of light speed and the relativity of simultaneity. General relativity (1915) reinterpreted gravity as spacetime curvature produced by matter. Quantum theory, initiated by Planck's quantization of energy (1900), revealed matter and energy's discrete, granular structure. Bohr's atomic model, de Broglie's wave-particle duality, Schrödinger's wave mechanics, and Heisenberg's uncertainty principle established that position and momentum cannot be simultaneously determined with arbitrary precision.
+**The New Physics:** Maxwell's electromagnetic field theory replaced [[Newton]]'s action-at-distance with continuous fields propagating through space. [[Einstein]]'s special relativity (1905) unified space and time into a four-dimensional continuum, establishing the constancy of light speed and the relativity of simultaneity. General relativity (1915) reinterpreted gravity as spacetime curvature produced by matter. Quantum theory, initiated by Planck's quantization of energy (1900), revealed matter and energy's discrete, granular structure. Bohr's atomic model, de Broglie's wave-particle duality, Schrödinger's wave mechanics, and Heisenberg's uncertainty principle established that position and momentum cannot be simultaneously determined with arbitrary precision.
 
 The cumulative effect was to distance scientific knowledge from common-sense intuition while demonstrating that limits to knowledge can themselves be rigorously known.
 
 #### Historical Context
 
-The late nineteenth century appeared as a period of scientific triumphalism. Physics seemed near completion with the unification of electricity, magnetism, and optics in Maxwell's equations (1860s). Mathematics was being systematically unified through arithmetization, with Weierstrass, Dedekind, and Cantor providing rigorous foundations for analysis using set-theoretic methods.
+The late nineteenth century appeared as a period of scientific triumphalism. Physics seemed near completion with the unification of electricity, magnetism, and optics in Maxwell's equations (1860s). Mathematics was being systematically unified through arithmetization, with Weierstrass, Dedekind, and [[Cantor]] providing rigorous foundations for analysis using set-theoretic methods.
 
-Yet contradictions lurked beneath the surface. The incompatibility of Newtonian mechanics (with its absolute space and time) and electromagnetic theory (requiring an immobile "luminiferous ether") became evident through the Michelson-Morley experiments (1881-1904), which failed to detect any motion relative to the ether. Lorentz proposed that motion through ether caused physical contraction, but Einstein cut the Gordian knot by abandoning absolute simultaneity altogether.
+Yet contradictions lurked beneath the surface. The incompatibility of Newtonian mechanics (with its absolute space and time) and electromagnetic theory (requiring an immobile "luminiferous ether") became evident through the Michelson-Morley experiments (1881-1904), which failed to detect any motion relative to the ether. Lorentz proposed that motion through ether caused physical contraction, but [[Einstein]] cut the Gordian knot by abandoning absolute simultaneity altogether.
 
 In mathematics, the discovery of paradoxes (Russell's paradox, 1902) threatened the entire logicist program just as Frege was completing his life's work on the logical foundations of arithmetic. The "Kantian" intuition — that mathematics concerns our mode of knowing rather than objective reality — found new expression in Brouwer's intuitionism, which rejected logical foundations in favor of the mind's temporal construction of mathematical objects.
 
 The First World War and its aftermath provided the cultural context for these intellectual upheavals. The crisis of European civilization mirrored the crisis of scientific foundations — certainties dissolving, absolute reference frames disappearing, the observer becoming implicated in observation.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -97,7 +105,7 @@ flowchart TD
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
 | [[Frege]] | 1848-1925 | [[Logicism]] | *Foundations of Arithmetic* | Logical definition of number |
-| [[Russell]] | 1872-1970 | [[Logicism]] | *Principia Mathematica* | Russell's paradox, theory of types |
+| [[Russell]] | 1872-1970 | [[Logicism]] | *Principia Mathematica* | [[Russell]]'s paradox, theory of types |
 | [[Hilbert]] | 1862-1943 | [[Formalism]] | *Foundations of Geometry* | Axiomatic method, metamathematics |
 | [[Brouwer]] | 1881-1966 | [[Intuitionism]] | *On the Foundations of Mathematics* | Intuition as foundation, rejection of excluded middle |
 | [[Gödel]] | 1906-1978 | [[Mathematical Logic]] | *On Formally Undecidable Propositions* | Incompleteness theorems |
@@ -111,9 +119,9 @@ flowchart TD
 
 | Concept | Definition | Related to |
 |---------|------------|------------|
-| Non-Euclidean Geometry | Geometries where Euclid's parallel postulate fails; hyperbolic (Lobachevsky) or elliptic (Riemann) | [[Riemann]], [[Lobachevsky]] |
+| Non-Euclidean Geometry | Geometries where [[Euclid]]'s parallel postulate fails; hyperbolic (Lobachevsky) or elliptic (Riemann) | [[Riemann]], [[Lobachevsky]] |
 | Logicism | Program to reduce mathematics to pure logic; numbers defined via concept extensions | [[Frege]], [[Russell]] |
-| Russell's Paradox | The class of all classes not containing themselves is self-contradictory | [[Russell]], [[Set Theory]] |
+| [[Russell]]'s Paradox | The class of all classes not containing themselves is self-contradictory | [[Russell]], [[Set Theory]] |
 | Formalism | Mathematics as manipulation of symbols according to rules; consistency via metamathematics | [[Hilbert]], [[Mathematics]] |
 | Intuitionism | Mathematics founded on temporal intuition; rejects law of excluded middle for infinite domains | [[Brouwer]], [[Kant]] |
 | Incompleteness Theorems | Any consistent formal system containing arithmetic has undecidable propositions | [[Gödel]], [[Logic]] |
@@ -177,18 +185,6 @@ flowchart TD
 
 > "Against positivism, which halts at phenomena — 'there are only facts' — I would say: no, facts are precisely what there are not, only interpretations." — [[Nietzsche]] (precursor)
 
-#### See Also
-
-- [[Philosophy of Mathematics]]
-- [[Philosophy of Physics]]
-- [[Set Theory]]
-- [[Quantum Mechanics]]
-- [[Theory of Relativity]]
-- [[Vienna Circle]]
-- [[Logical Positivism]]
-- [[Kant]]
-- [[Scientific Revolution]]
-- [[Epistemology]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

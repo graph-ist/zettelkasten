@@ -7,15 +7,12 @@ subclasses:
   - Philosophy-of-Science
 aliases:
   - presocratic philosophy
-  - arche
   - milesian school
   - thales water
   - anaximander apeiron
   - anaximenes air
   - pythagoras number
   - heraclitus fire
-  - becoming
-  - logos
 contributions:
   - Conceptual
 authors:
@@ -25,7 +22,18 @@ authors:
   - "[[Pythagoras]]"
   - "[[Heraclitus]]"
   - "[[Philolaus]]"
-reference: "[[01 The search for thought - Unit 1 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+related:
+  - "[[Presocratic Philosophy]]"
+  - "[[Milesian School]]"
+  - "[[Pythagoreanism]]"
+  - "[[Orphism]]"
+  - "[[Ancient Greek Philosophy]]"
+  - "[[Eleatic School]]"
+  - "[[Stoicism]]"
+  - "[[Cosmology]]"
+  - "[[Metaphysics]]"
+  - "[[Philosophy of Nature]]"
 ---
 
 #### Central Problem
@@ -34,7 +42,7 @@ The Presocratic philosophers confronted a fundamental question: what is the ulti
 
 This search for the arché represented the first systematic attempt to explain the natural world through rational inquiry rather than mythological narrative. The term arché itself denotes simultaneously: (1) the material from which all things derive, (2) the force that animates them, and (3) the law that explains their birth and death.
 
-The central tension in Presocratic thought emerges between unity and multiplicity, permanence and change. How can the apparent diversity and flux of the world be reconciled with an underlying principle of unity and stability? Different schools offered competing answers: the Milesians proposed material elements (water, the infinite, air); the Pythagoreans proposed number and mathematical structure; Heraclitus proposed fire and the logos as the rational law governing the unity of opposites.
+The central tension in Presocratic thought emerges between unity and multiplicity, permanence and change. How can the apparent diversity and flux of the world be reconciled with an underlying principle of unity and stability? Different schools offered competing answers: the Milesians proposed material elements (water, the infinite, air); the Pythagoreans proposed number and mathematical structure; [[Heraclitus]] proposed fire and the logos as the rational law governing the unity of opposites.
 
 #### Main Thesis
 
@@ -71,6 +79,7 @@ The Pythagorean school, founded by Pythagoras at Crotone in southern Italy aroun
 Heraclitus of Ephesus (late 6th to early 5th century BCE) represented a different strand—an aristocratic thinker who distinguished sharply between the philosophical few who are "awake" and the many who "sleep," living in illusion.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -169,18 +178,6 @@ flowchart TD
 
 > "War is father of all things, of all king; and some it shows as gods, others as men, some it makes slaves, others free." — [[Heraclitus]]
 
-#### See Also
-
-- [[Presocratic Philosophy]]
-- [[Milesian School]]
-- [[Pythagoreanism]]
-- [[Orphism]]
-- [[Ancient Greek Philosophy]]
-- [[Eleatic School]]
-- [[Stoicism]]
-- [[Cosmology]]
-- [[Metaphysics]]
-- [[Philosophy of Nature]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

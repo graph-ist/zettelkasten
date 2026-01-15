@@ -1,5 +1,4 @@
 ---
-key:
 cssclasses:
   - Philosophy
   - Languages-Literature
@@ -8,16 +7,6 @@ subclasses:
   - Continental-Philosophy
   - Philosophy-of-Language
 aliases:
-  - poststructuralism
-  - deconstruction
-  - differance
-  - logocentrism
-  - trace
-  - dissemination
-  - grammatology
-  - textuality
-  - supplement
-  - undecidable
 contributions:
   - Conceptual
 authors:
@@ -28,8 +17,18 @@ authors:
   - "[[Chomsky]]"
   - "[[Nietzsche]]"
   - "[[Heidegger]]"
-reference: "[[07 The search for thought - Unit 15 Chapter 2.pdf]]"
-
+reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
+related:
+  - "[[Structuralism]]"
+  - "[[Phenomenology]]"
+  - "[[Hermeneutics]]"
+  - "[[Postmodernism]]"
+  - "[[Literary Theory]]"
+  - "[[French Philosophy]]"
+  - "[[Nietzsche]]"
+  - "[[Heidegger]]"
+  - "[[Writing]]"
+  - "[[Nihilism]]"
 ---
 
 #### Central Problem
@@ -38,17 +37,17 @@ Post-structuralism confronts the fundamental question of what happens to thought
 
 The central tension lies between the inherited conceptual apparatus of Western philosophy—organized around binary oppositions (presence/absence, speech/writing, truth/error, identity/difference)—and the recognition that these oppositions conceal hidden hierarchies and exclusions. How can philosophy proceed when its basic categories are shown to be neither natural nor necessary but historical, contingent, and complicit with forms of domination?
 
-Derrida's deconstruction addresses this problem most rigorously: if the "metaphysics of presence" has determined all Western thought from Plato to Husserl, privileging what is immediately present to consciousness (speech, voice, the living present) over what is mediated, absent, or derivative (writing, trace, repetition), then deconstructing this metaphysics means rethinking the very possibility of meaning, truth, and philosophy itself.
+Derrida's deconstruction addresses this problem most rigorously: if the "metaphysics of presence" has determined all Western thought from [[Plato]] to [[Husserl]], privileging what is immediately present to consciousness (speech, voice, the living present) over what is mediated, absent, or derivative (writing, trace, repetition), then deconstructing this metaphysics means rethinking the very possibility of meaning, truth, and philosophy itself.
 
 #### Main Thesis
 
-Post-structuralism emerges from the Nietzsche-Renaissance of the 1960s as both a continuation and critique of structuralism. While structuralism had replaced subjective consciousness with impersonal structures, post-structuralists go further, viewing structure itself as another expression of what Nietzsche called "moral-metaphysical" thinking. Against structuralist formalism and stasis, they advance vitalistic claims about force, energy, and production.
+Post-structuralism emerges from the [[Nietzsche]]-Renaissance of the 1960s as both a continuation and critique of structuralism. While structuralism had replaced subjective consciousness with impersonal structures, post-structuralists go further, viewing structure itself as another expression of what [[Nietzsche]] called "moral-metaphysical" thinking. Against structuralist formalism and stasis, they advance vitalistic claims about force, energy, and production.
 
-**From Structure to Production:** The "differences" that structuralism used to guarantee the intelligibility of structures become dynamic principles in post-structuralism. Symbolic activity appears as productive of differences, driven by impersonal forces—Freud's drives, Nietzsche's will to power, Marx's productive forces, or Heidegger's Being. Key targets include: subjectivity, dialectics, structure itself (as "scientistic" rewriting of God), and the "negative economy of desire" (desire as lack).
+**From Structure to Production:** The "differences" that structuralism used to guarantee the intelligibility of structures become dynamic principles in post-structuralism. Symbolic activity appears as productive of differences, driven by impersonal forces—Freud's drives, [[Nietzsche]]'s will to power, [[Marx]]'s productive forces, or [[Heidegger]]'s Being. Key targets include: subjectivity, dialectics, structure itself (as "scientistic" rewriting of God), and the "negative economy of desire" (desire as lack).
 
 **Chomsky's Generative Grammar:** Noam Chomsky criticizes structuralism for merely describing language without explaining it. His distinction between "deep structure" (nuclear sentences) and "surface structure" (complex sentences) linked by transformations, and between "competence" (internalized rules) and "performance" (actual use), emphasizes the creative, generative aspect of language and posits innate, universal linguistic structures.
 
-**Derrida's Deconstruction:** Deconstruction is not a method but a practice of writing that destabilizes the system of conceptual oppositions constituting metaphysics. Drawing on Nietzsche, Freud, Husserl, and Heidegger, Derrida targets the "metaphysics of presence"—the systematic privilege accorded to presence, the present, consciousness, voice, and origin throughout Western thought.
+**Derrida's Deconstruction:** Deconstruction is not a method but a practice of writing that destabilizes the system of conceptual oppositions constituting metaphysics. Drawing on [[Nietzsche]], [[Freud]], [[Husserl]], and [[Heidegger]], Derrida targets the "metaphysics of presence"—the systematic privilege accorded to presence, the present, consciousness, voice, and origin throughout Western thought.
 
 **Logocentrism/Phonocentrism:** Western metaphysics is "logocentric" because it identifies truth with logos (speech, reason, the word) and privileges voice (phoné) as guarantor of presence to consciousness. Writing is condemned as derivative, dangerous, capable of circulating without the controlling presence of a speaker—Plato's condemnation of writing in the *Phaedrus* is paradigmatic.
 
@@ -65,13 +64,14 @@ Post-structuralism emerges from the Nietzsche-Renaissance of the 1960s as both a
 
 Post-structuralism emerged in France during the mid-1960s and flourished in the following decade, though the term itself was initially coined by American commentators. The movement arose from within structuralism as a self-critical development, which is why German scholars sometimes prefer "neo-structuralism."
 
-The intellectual context was the "Nietzsche-Renaissance" of the early 1960s, when Nietzsche's genealogical investigations became the lever for cracking structuralism's Apollonian formalism. Genealogical-energetic analysis reads every constitution of form not as structural synchronicity but as dynamic differentiality, as effects of power relations. Every structure represents a form of domination to be unmasked.
+The intellectual context was the "Nietzsche-Renaissance" of the early 1960s, when [[Nietzsche]]'s genealogical investigations became the lever for cracking structuralism's Apollonian formalism. Genealogical-energetic analysis reads every constitution of form not as structural synchronicity but as dynamic differentiality, as effects of power relations. Every structure represents a form of domination to be unmasked.
 
-Structuralism itself had been a reaction against the subjectivist and humanist climate of 1940s-50s French thought—phenomenology (Merleau-Ponty), spiritualism (Marcel), and especially Sartre's existentialism (against which Heidegger wrote his *Letter on Humanism* in 1947). Structuralism adopted the "death of man" affirmatively as the presupposition of a new way of thinking and working on language.
+Structuralism itself had been a reaction against the subjectivist and humanist climate of 1940s-50s French thought—phenomenology (Merleau-Ponty), spiritualism (Marcel), and especially [[Sartre]]'s existentialism (against which [[Heidegger]] wrote his *Letter on Humanism* in 1947). Structuralism adopted the "death of man" affirmatively as the presupposition of a new way of thinking and working on language.
 
-The broader intellectual heritage includes: Freud and psychoanalysis (the unconscious as structured like a language); Marx (critique of ideology, productive forces); Heidegger (critique of metaphysics, ontological difference); and Husserl's phenomenology (which Derrida subjects to deconstructive reading). Derrida's work shows affinity with artistic avant-gardes, particularly Dadaism, in its challenge to systematic philosophy.
+The broader intellectual heritage includes: [[Freud]] and psychoanalysis (the unconscious as structured like a language); [[Marx]] (critique of ideology, productive forces); Heidegger (critique of metaphysics, ontological difference); and [[Husserl]]'s phenomenology (which Derrida subjects to deconstructive reading). Derrida's work shows affinity with artistic avant-gardes, particularly Dadaism, in its challenge to systematic philosophy.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -127,7 +127,7 @@ flowchart TD
 | View of language | Writing, trace, différance | Expression, sense-event | Discourse, enunciation | Innate competence |
 | Subject | Decentered, effect of traces | Dissolved in flows | Produced by power | Creative speaker |
 | Critique target | Logocentrism | Platonism, dialectic | Humanism, disciplinary power | Behaviorism |
-| Key influence | Heidegger, Husserl | Nietzsche, Spinoza | Nietzsche, Marx | Rationalism, Descartes |
+| Key influence | Heidegger, [[Husserl]] | [[Nietzsche]], [[Spinoza]] | [[Nietzsche]], [[Marx]] | Rationalism, [[Descartes]] |
 
 #### Influences & Connections
 
@@ -148,14 +148,14 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | 1957 | [[Chomsky]] publishes *Syntactic Structures* |
-| 1962 | [[Derrida]] publishes *Introduction to Husserl's "Origin of Geometry"* |
+| 1962 | [[Derrida]] publishes *Introduction to [[Husserl]]'s "Origin of Geometry"* |
 | 1966 | [[Foucault]] publishes *The Order of Things*; [[Derrida]]'s Johns Hopkins lecture |
 | 1967 | [[Derrida]] publishes *Of Grammatology*, *Writing and Difference*, *Speech and Phenomena* |
 | 1968 | [[Derrida]] delivers "Différance" lecture; May 1968 events in Paris |
 | 1972 | [[Derrida]] publishes *Margins of Philosophy*, *Dissemination*, *Positions* |
 | 1974 | [[Derrida]] publishes *Glas* |
 | 1979 | [[Lyotard]] publishes *The Postmodern Condition* |
-| 1993 | [[Derrida]] publishes *Specters of Marx* |
+| 1993 | [[Derrida]] publishes *Specters of [[Marx]]* |
 
 #### Notable Quotes
 
@@ -165,18 +165,6 @@ flowchart TD
 
 > "There would be no unique name, were it even the name of Being. And we must think this without nostalgia, outside of the myth of the purely maternal or paternal language, of the lost homeland of thought." — [[Derrida]]
 
-#### See Also
-
-- [[Structuralism]]
-- [[Phenomenology]]
-- [[Hermeneutics]]
-- [[Postmodernism]]
-- [[Literary Theory]]
-- [[French Philosophy]]
-- [[Nietzsche]]
-- [[Heidegger]]
-- [[Writing]]
-- [[Nihilism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

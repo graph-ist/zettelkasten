@@ -6,12 +6,7 @@ subclasses:
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
 aliases:
-  - neoscholasticism
-  - neotomism
-  - thomism
   - integral humanism
-  - personalism
-  - maritain
   - common good
   - human person
   - grades knowledge
@@ -27,12 +22,23 @@ authors:
   - "[[Mercier]]"
   - "[[XIII]]"
   - "[[Bergson]]"
-reference: "[[06 The search for thought - Unit 9 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Thomism]]"
+  - "[[Personalism]]"
+  - "[[Natural Law]]"
+  - "[[Catholic Social Teaching]]"
+  - "[[Human Rights]]"
+  - "[[Democracy]]"
+  - "[[Common Good]]"
+  - "[[Christian Philosophy]]"
+  - "[[Scholasticism]]"
+  - "[[Vatican II]]"
 ---
 
 #### Central Problem
 
-How can medieval Christian philosophy, particularly Thomism, be renewed to address modern philosophical challenges while preserving its perennial truths? The neoscholastic movement confronts the task of rehabilitating scholastic thought against modern philosophies that have either separated (Luther, Descartes, Rousseau) or identified (idealism, positivism) fundamental categories such as nature and grace, reason and faith, matter and spirit.
+How can medieval Christian philosophy, particularly Thomism, be renewed to address modern philosophical challenges while preserving its perennial truths? The neoscholastic movement confronts the task of rehabilitating scholastic thought against modern philosophies that have either separated (Luther, [[Descartes]], [[Rousseau]]) or identified (idealism, positivism) fundamental categories such as nature and grace, reason and faith, matter and spirit.
 
 At its core, the challenge is to develop a philosophy of the human person that avoids both the individualism of bourgeois liberalism and the collectivism of Marxism, while also transcending the relativism and nihilism of contemporary culture. The central problem is anthropological and political: how to ground human dignity, rights, and democracy on a metaphysical foundation that respects both the individual and the community, temporal goods and eternal values.
 
@@ -60,13 +66,14 @@ Maritain's "integral humanism" synthesizes these theoretical achievements into a
 
 Neoscholasticism emerged in the nineteenth century and received official ecclesiastical endorsement with Pope Leo XIII's encyclical *Aeterni Patris* (1879), which called for a living Thomism capable of valorizing its perennial aspects while critically traversing modernity. The encyclical distanced itself from a Thomism too bound to its particular historical epoch, reproposing it as the highest expression of Christian philosophy.
 
-Subsequent papal interventions reinforced this orientation: Pius X's *Pascendi* (1907) against modernism, Pius XII's *Humani generis* (1950) presenting "perennial philosophy" against modernism, Vatican II (1962-1965) recommending Thomas Aquinas as master while allowing pluralism, Paul VI's *Lumen Ecclesiae* (1974), and John Paul II's confirmation (1979) and *Fides et ratio* (1998), which praised Thomas for his dialogical engagement with Arab and Jewish thought.
+Subsequent papal interventions reinforced this orientation: Pius X's *Pascendi* (1907) against modernism, Pius XII's *Humani generis* (1950) presenting "perennial philosophy" against modernism, Vatican II (1962-1965) recommending [[Aquinas]] as master while allowing pluralism, Paul VI's *Lumen Ecclesiae* (1974), and John Paul II's confirmation (1979) and *Fides et ratio* (1998), which praised Thomas for his dialogical engagement with Arab and Jewish thought.
 
-The twentieth-century neoscholastic movement was characterized by openness to modern problems and orientations, engaging with Kantianism, idealism, Marxism, phenomenology, existentialism, and analytic philosophy. Three major groups emerged: the Louvain school (Mercier, Maréchal) emphasizing gnoseological realism; the Milan Sacred Heart school (Olgiati, Masnovo, Zamboni, Padovani, Vanni Rovighi, Bontadini) emphasizing ontological realism; and independent thinkers (Gilson, Maritain) conducting both historical and theoretical research.
+The twentieth-century neoscholastic movement was characterized by openness to modern problems and orientations, engaging with Kantianism, idealism, Marxism, phenomenology, existentialism, and analytic philosophy. Three major groups emerged: the Louvain school (Mercier, Maréchal) emphasizing gnoseological realism; the Milan Sacred Heart school (Olgiati, Masnovo, Zamboni, Padovani, Vanni Rovighi, Bontadini) emphasizing ontological realism; and independent thinkers (Gilson, [[Maritain]]) conducting both historical and theoretical research.
 
-Maritain's personal journey included conversion to Catholicism (1906) under Léon Bloy's influence, departure from Action Française after papal condemnation (1926), opposition to fascism and the Spanish Civil War, French Resistance activity during exile in America (1940-1944), and service as French ambassador to the Holy See (1944-1948).
+Maritain's personal journey included conversion to Catholicism (1906) under Bloy's influence, departure from Action Française after papal condemnation (1926), opposition to fascism and the Spanish Civil War, French Resistance activity during exile in America (1940-1944), and service as French ambassador to the Holy See (1944-1948).
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -152,7 +159,7 @@ flowchart TD
 | 1943 | [[Maritain]] publishes *Education at the Crossroads* |
 | 1947 | [[Maritain]] publishes *The Person and the Common Good* |
 | 1951 | [[Maritain]] publishes *Man and the State* |
-| 1962-1965 | Vatican Council II — pluralism while maintaining reference to Aquinas |
+| 1962-1965 | Vatican Council II — pluralism while maintaining reference to [[Aquinas]] |
 | 1973 | [[Maritain]] dies in Toulouse |
 | 1998 | John Paul II publishes *Fides et Ratio* — confirms Thomistic orientation |
 
@@ -164,18 +171,6 @@ flowchart TD
 
 > "The fear of soiling oneself by entering into the midst of history is not virtue, but a way of fleeing virtue." — [[Maritain]]
 
-#### See Also
-
-- [[Thomism]]
-- [[Personalism]]
-- [[Natural Law]]
-- [[Catholic Social Teaching]]
-- [[Human Rights]]
-- [[Democracy]]
-- [[Common Good]]
-- [[Christian Philosophy]]
-- [[Scholasticism]]
-- [[Vatican II]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

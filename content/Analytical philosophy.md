@@ -1,5 +1,4 @@
 ---
-key: ['Wittgenstein on Language and Thought']
 cssclasses:
   - Philosophy
 subclasses:
@@ -10,15 +9,12 @@ aliases:
   - analytic philosophy
   - ordinary language
   - speech acts
-  - performative
   - language analysis
   - category mistake
   - linguistic turn
   - conversational implicature
   - cooperative principle
   - oxford philosophy
-  - constative
-  - illocutionary
 contributions:
   - Conceptual
 authors:
@@ -28,14 +24,25 @@ authors:
   - "[[Ayer]]"
   - "[[Moore]]"
   - "[[Wittgenstein]]"
-reference: "[[06 The search for thought - Unit 13 Chapter 2.pdf]]"
+reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
+related:
+  - "[[Analytic Philosophy]]"
+  - "[[Ordinary Language Philosophy]]"
+  - "[[Speech Act Theory]]"
+  - "[[Logical Positivism]]"
+  - "[[Vienna Circle]]"
+  - "[[Philosophy of Language]]"
+  - "[[Pragmatics]]"
+  - "[[Wittgenstein]]"
+  - "[[Verification Principle]]"
+  - "[[Philosophy of Mind]]"
 ---
 
 #### Central Problem
 
 What is the proper method for philosophical investigation, and what role does language play in resolving (or dissolving) philosophical problems? Analytic philosophy emerges from the conviction that many traditional philosophical puzzles arise from misunderstandings about how language works. The central question becomes: should philosophy analyze the logical structure of an ideal language (as the logical positivists held), or should it examine the rich complexity of ordinary language as actually used?
 
-The "linguistic turn" announced by Schlick in 1930 marked a decisive shift: language is not a neutral medium for describing reality, but the indispensable means of access to reality itself. Every object is assigned to a "category" by language. This raises fundamental questions: How do different domains of discourse (ethical, aesthetic, religious, scientific) function? What are the conditions for meaningful utterance? Can philosophical problems be dissolved by returning words to their ordinary use?
+The "linguistic turn" announced by [[Schlick]] in 1930 marked a decisive shift: language is not a neutral medium for describing reality, but the indispensable means of access to reality itself. Every object is assigned to a "category" by language. This raises fundamental questions: How do different domains of discourse (ethical, aesthetic, religious, scientific) function? What are the conditions for meaningful utterance? Can philosophical problems be dissolved by returning words to their ordinary use?
 
 The analytic philosophers divide into two camps: the "ideal language" philosophers (neopositivists) who seek to reveal the hidden logical structure beneath everyday language, and the "ordinary language" philosophers (centered at Oxford and Cambridge) who insist that ordinary language contains resources far richer than formal logic and should be analyzed on its own terms.
 
@@ -77,6 +84,7 @@ The "linguistic turn" of the 1930s marked the conviction that language shapes ac
 The Oxford movement reached its peak in the 1950s, declining around 1960 (the year of Austin's death). While Wittgenstein's direct influence waned, analytic methods were transplanted into new forms of linguistic and philosophical investigation, influencing pragmatics, speech act theory, and cognitive science.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -176,18 +184,6 @@ flowchart TD
 
 > "In philosophy it is always good to put a question instead of an answer to a question." — [[Austin]]
 
-#### See Also
-
-- [[Analytic Philosophy]]
-- [[Ordinary Language Philosophy]]
-- [[Speech Act Theory]]
-- [[Logical Positivism]]
-- [[Vienna Circle]]
-- [[Philosophy of Language]]
-- [[Pragmatics]]
-- [[Wittgenstein]]
-- [[Verification Principle]]
-- [[Philosophy of Mind]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

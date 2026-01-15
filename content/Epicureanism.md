@@ -7,16 +7,8 @@ subclasses:
   - Ethics
   - Epistemology
 aliases:
-  - epicureanism
-  - epicurus
-  - tetrapharmakos
-  - atomism
-  - ataraxia
-  - aponia
   - pleasure ethics
-  - clinamen
   - garden philosophy
-  - hedonism
 contributions:
   - Conceptual
 authors:
@@ -25,7 +17,18 @@ authors:
   - "[[Democritus]]"
   - "[[Metrodorus]]"
   - "[[Philodemus]]"
-reference: "[[02 The search for thought - Unit 5 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Atomism]]"
+  - "[[Hellenistic Philosophy]]"
+  - "[[Stoicism]]"
+  - "[[Skepticism]]"
+  - "[[Hedonism]]"
+  - "[[Materialism]]"
+  - "[[Free Will]]"
+  - "[[Philosophy of Death]]"
+  - "[[Democritus]]"
+  - "[[Lucretius]]"
 ---
 
 #### Central Problem
@@ -54,7 +57,7 @@ The ethical goal is negative pleasure—not the pursuit of intense sensations bu
 
 #### Historical Context
 
-[[Epicurus]] (341-271 BCE) lived during the turbulent transition from the Classical to the Hellenistic period. Born on Samos to Athenian colonists, he witnessed the aftermath of Alexander's conquests and the fragmentation of his empire among warring generals. The old certainties of the Greek polis had collapsed; citizens of small city-states now found themselves subjects of vast monarchies over which they had no control.
+[[Epicurus]] (341-271 BCE) lived during the turbulent transition from the Classical to the Hellenistic period. Born on Samos to Athenian colonists, he witnessed the aftermath of [[Alexander]]'s conquests and the fragmentation of his empire among warring generals. The old certainties of the Greek polis had collapsed; citizens of small city-states now found themselves subjects of vast monarchies over which they had no control.
 
 In this context of political powerlessness and social upheaval, Epicureanism offered a philosophy of strategic withdrawal. Around 307-306 BCE, [[Epicurus]] established his school in Athens in a garden (hence "philosophers of the Garden"), creating an alternative community based on friendship and philosophical practice rather than civic engagement.
 
@@ -64,9 +67,10 @@ The Roman poet [[Lucretius]] (96-55 BCE) transmitted Epicurean physics and ethic
 
 #### Philosophical Lineage
 
+
 ```mermaid
 flowchart TD
-    [[The multiplicity of principles|Democritus]] --> Epicurus
+    Democritus --> Epicurus
     Nausiphanes --> Epicurus
     Epicurus --> Metrodorus
     Epicurus --> Hermarchus
@@ -124,7 +128,7 @@ flowchart TD
 - **Predecessors:** [[Epicurus]] ← influenced by ← [[Democritus]], [[Nausiphanes]], [[Pamphilus]]
 - **Contemporaries:** [[Epicurus]] ↔ polemics with ↔ [[Stoics]], [[Academics]], [[Peripatetics]]
 - **Followers:** [[Epicurus]] → influenced → [[Lucretius]], [[Philodemus]], [[Diogenes of Oenoanda]]
-- **Later reception:** [[Epicurus]] → influenced → [[Lorenzo Valla]], [[Pierre Gassendi]], [[Thomas Jefferson]]
+- **Later reception:** [[Epicurus]] → influenced → [[Valla]], [[Gassendi]], [[Jefferson]]
 - **Opposing views:** [[Epicurus]] ← criticized by ← [[Cicero]], [[Plutarch]], [[Church Fathers]]
 
 #### Summary Formulas
@@ -156,18 +160,6 @@ flowchart TD
 
 > "Of all the things that wisdom provides for the happiness of the whole life, by far the greatest is the acquisition of friendship." — [[Epicurus]]
 
-#### See Also
-
-- [[Atomism]]
-- [[Hellenistic Philosophy]]
-- [[Stoicism]]
-- [[Skepticism]]
-- [[Hedonism]]
-- [[Materialism]]
-- [[Free Will]]
-- [[Philosophy of Death]]
-- [[Democritus]]
-- [[Lucretius]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

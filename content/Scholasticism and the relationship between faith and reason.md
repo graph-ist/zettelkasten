@@ -6,20 +6,15 @@ subclasses:
   - Epistemology
   - Logic-and-Philosophy-of-Logic
 aliases:
-  - scholasticism
   - faith reason
-  - universals
   - ontological argument
   - realism nominalism
   - anselm proof
-  - abelard
   - medieval logic
-  - dialectics
-  - summa
 contributions:
   - Conceptual
 authors:
-  - "[[Anselmo]]"
+  - "[[Anselm]]"
   - "[[Abelardo]]"
   - "[[Bonaventura]]"
   - "[[Magno]]"
@@ -27,7 +22,20 @@ authors:
   - "[[Avicenna]]"
   - "[[Averroè]]"
   - "[[Maimonide]]"
-reference: "[[02 The search for thought - Unit 7 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
+related:
+  - "[[Scholasticism]]"
+  - "[[Ontological Argument]]"
+  - "[[Problem of Universals]]"
+  - "[[Medieval Logic]]"
+  - "[[Faith and Reason]]"
+  - "[[Islamic Philosophy]]"
+  - "[[Jewish Philosophy]]"
+  - "[[Aristotelianism]]"
+  - "[[Augustinianism]]"
+  - "[[Divine Illumination]]"
+  - "[[Mysticism]]"
+  - "[[Nominalism]]"
 ---
 
 #### Central Problem
@@ -44,7 +52,7 @@ Scholastic philosophy, despite its variety of solutions, is unified by a single 
 
 **Pre-Scholasticism (Carolingian Renaissance):** Faith and reason are assumed to be identical without problematization. [[Scoto Eriugena]] develops a metaphysics of the four natures (creating/uncreated, created/creating, created/non-creating, neither creating nor created) in which the world appears as divine theophany.
 
-**High Scholasticism (11th-12th centuries):** The problem of faith-reason relationship emerges explicitly. Dialecticians like Berengario affirm reason's dignity as the image of God, while anti-dialecticians like [[Pier Damiani]] deny rational value entirely, claiming God transcends even logical laws. [[Anselmo]] seeks harmony through *credo ut intelligam* (I believe in order to understand), developing the ontological argument to demonstrate God's existence by reason alone.
+**High Scholasticism (11th-12th centuries):** The problem of faith-reason relationship emerges explicitly. Dialecticians like Berengario affirm reason's dignity as the image of God, while anti-dialecticians like [[Pier Damiani]] deny rational value entirely, claiming God transcends even logical laws. [[Anselm]] seeks harmony through *credo ut intelligam* (I believe in order to understand), developing the ontological argument to demonstrate God's existence by reason alone.
 
 **Flowering of Scholasticism (13th century):** The great systems emerge where faith and reason, though distinct, are conceived as harmoniously leading to the same results. [[Alberto Magno]] and later [[Tommaso]] incorporate Aristotelianism while maintaining theological primacy.
 
@@ -63,6 +71,7 @@ Contact with the Arab world proved transformative. Arab philosophers had already
 The initial reaction to Aristotelianism was hostile, given its apparent conflicts with Christian doctrine: the necessity and eternity of the world, the unity of the intellect. This provoked a defensive return to Augustinian-Platonic positions (represented by [[Alessandro di Hales]], [[Roberto Grossatesta]], and [[Bonaventura]]) before the more accommodating synthesis achieved by [[Alberto Magno]] and [[Tommaso]].
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -90,20 +99,20 @@ flowchart TD
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
 | [[Scoto Eriugena]] | 810-870 | [[Neoplatonism]] | *De divisione naturae* | Four natures, theophany |
-| [[Anselmo]] | 1033-1109 | [[Scholasticism]] | *Proslogion* | Ontological argument |
+| [[Anselm]] | 1033-1109 | [[Scholasticism]] | *Proslogion* | Ontological argument |
 | [[Abelardo]] | 1079-1142 | [[Scholasticism]] | *Sic et Non* | Conceptualism, intentionality |
 | [[Bonaventura]] | 1221-1274 | [[Augustinianism]] | *Itinerarium mentis in Deum* | Divine illumination |
-| [[Alberto Magno]] | 1193-1280 | [[Aristotelianism]] | *Commentaries on Aristotle* | Philosophy-theology distinction |
+| [[Alberto Magno]] | 1193-1280 | [[Aristotelianism]] | *Commentaries on [[Aristotle]]* | Philosophy-theology distinction |
 | [[Avicenna]] | 980-1037 | [[Islamic Philosophy]] | *Book of Healing* | Necessary being |
-| [[Averroè]] | 1126-1198 | [[Aristotelianism]] | *Commentaries on Aristotle* | Unity of intellect |
+| [[Averroè]] | 1126-1198 | [[Aristotelianism]] | *Commentaries on [[Aristotle]]* | Unity of intellect |
 | [[Maimonide]] | 1135-1204 | [[Jewish Philosophy]] | *Guide for the Perplexed* | Contingency of creation |
 
 #### Key Concepts
 
 | Concept | Definition | Related to |
 |---------|------------|------------|
-| Credo ut intelligam | "I believe in order to understand" — faith precedes and enables rational comprehension | [[Anselmo]], [[Scholasticism]] |
-| Ontological argument | Proof of God's existence from the concept of that than which nothing greater can be thought | [[Anselmo]], [[Metaphysics]] |
+| Credo ut intelligam | "I believe in order to understand" — faith precedes and enables rational comprehension | [[Anselm]], [[Scholasticism]] |
+| Ontological argument | Proof of God's existence from the concept of that than which nothing greater can be thought | [[Anselm]], [[Metaphysics]] |
 | Universals | General concepts (genera, species) whose ontological status is disputed | [[Abelardo]], [[Logic-and-Philosophy-of-Logic]] |
 | Realism | Doctrine that universals exist outside the mind, either separated (*ante rem*) or in things (*in re*) | [[Guglielmo di Champeaux]], [[Platonism]] |
 | Nominalism | Doctrine that universals are merely names (*flatus vocis*) without real correlates | [[Roscellino]], [[Logic-and-Philosophy-of-Logic]] |
@@ -115,7 +124,7 @@ flowchart TD
 
 #### Authors Comparison
 
-| Theme | [[Anselmo]] | [[Abelardo]] | [[Bonaventura]] |
+| Theme | [[Anselm]] | [[Abelardo]] | [[Bonaventura]] |
 |-------|-------------|--------------|-----------------|
 | Faith-reason relation | Harmony through *credo ut intelligam* | Rational scrutiny of authorities | Return to Augustinian illumination |
 | God's existence | Ontological argument *a priori* | Rational necessity of faith | Accepts ontological argument |
@@ -126,9 +135,9 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Predecessors:** [[Anselmo]] ← influenced by ← [[Agostino]], [[Boezio]], [[Pseudo-Dionigi]]
+- **Predecessors:** [[Anselm]] ← influenced by ← [[Agostino]], [[Boezio]], [[Pseudo-Dionigi]]
 - **Predecessors:** [[Abelardo]] ← influenced by ← [[Boezio]], [[Roscellino]], [[Guglielmo di Champeaux]]
-- **Contemporaries:** [[Anselmo]] ↔ opposed by ↔ [[Gaunilone]] (critique of ontological argument)
+- **Contemporaries:** [[Anselm]] ↔ opposed by ↔ [[Gaunilone]] (critique of ontological argument)
 - **Contemporaries:** [[Abelardo]] ↔ opposed by ↔ [[Bernardo di Chiaravalle]] (mysticism vs. dialectic)
 - **Followers:** [[Abelardo]] → influenced → [[Pietro Lombardo]], University of Paris tradition
 - **Followers:** [[Averroè]] → influenced → Latin Averroism, [[Sigieri di Brabante]]
@@ -137,7 +146,7 @@ flowchart TD
 #### Summary Formulas
 
 - **[[Scoto Eriugena]]:** The world is a divine theophany, proceeding from and returning to God through four natures in a necessary cosmic cycle.
-- **[[Anselmo]]:** Faith seeks rational understanding; God's existence can be demonstrated from the very concept of that than which nothing greater can be thought.
+- **[[Anselm]]:** Faith seeks rational understanding; God's existence can be demonstrated from the very concept of that than which nothing greater can be thought.
 - **[[Abelardo]]:** Authority is provisional until reason discovers truth; universals are conceptual *sermones* with intentional reference to common conditions (*status*) among individuals.
 - **[[Bonaventura]]:** Knowledge and moral guidance require divine illumination; the mind ascends to God through six degrees culminating in mystical ecstasy.
 - **[[Averroè]]:** The world is eternal and necessary; the intellect is one for all humanity; philosophy expresses in demonstrative form what religion teaches simply.
@@ -148,7 +157,7 @@ flowchart TD
 |------|-------|
 | 781 | [[Carlo Magno]] calls [[Alcuino]] to direct the Palace School |
 | 867 | [[Scoto Eriugena]] completes *De divisione naturae* |
-| 1076-1078 | [[Anselmo]] writes *Monologion* and *Proslogion* |
+| 1076-1078 | [[Anselm]] writes *Monologion* and *Proslogion* |
 | 1093 | [[Roscellino]] condemned at Council of Soissons for triteism |
 | 1113 | [[Abelardo]] begins teaching theology in Paris |
 | 1120 | [[Abelardo]]'s trinitarian doctrine condemned at Soissons |
@@ -160,26 +169,12 @@ flowchart TD
 
 #### Notable Quotes
 
-> "I believe in order to understand." — [[Anselmo]]
+> "I believe in order to understand." — [[Anselm]]
 
-> "If I had not believed, I would not understand." — [[Anselmo]], citing Isaiah 7:9
+> "If I had not believed, I would not understand." — [[Anselm]], citing Isaiah 7:9
 
 > "He who does not resort to reason, by which man is the image of God, abandons his own dignity." — [[Berengario di Tours]]
 
-#### See Also
-
-- [[Scholasticism]]
-- [[Ontological Argument]]
-- [[Problem of Universals]]
-- [[Medieval Logic]]
-- [[Faith and Reason]]
-- [[Islamic Philosophy]]
-- [[Jewish Philosophy]]
-- [[Aristotelianism]]
-- [[Augustinianism]]
-- [[Divine Illumination]]
-- [[Mysticism]]
-- [[Nominalism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

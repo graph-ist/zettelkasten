@@ -7,17 +7,12 @@ subclasses:
   - Philosophy-of-Science
 aliases:
   - logical positivism
-  - neopositivism
   - vienna circle
   - verification principle
   - protocol statements
-  - physicalism
   - logical empiricism
   - unified science
-  - confirmability
-  - meaningfulness
   - analytic synthetic
-  - carnap
 contributions:
   - Conceptual
   - Empirical
@@ -30,14 +25,25 @@ authors:
   - "[[Kelsen]]"
   - "[[Hahn]]"
   - "[[Tarski]]"
-reference: "[[06 The search for thought - Unit 11 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
+related:
+  - "[[Vienna Circle]]"
+  - "[[Berlin Group]]"
+  - "[[Analytic Philosophy]]"
+  - "[[Verification Principle]]"
+  - "[[Logical Atomism]]"
+  - "[[Philosophy of Science]]"
+  - "[[Unified Science]]"
+  - "[[Emotivism]]"
+  - "[[Legal Positivism]]"
+  - "[[Post-Empiricism]]"
 ---
 
 #### Central Problem
 
 Logical positivism (also called neopositivism, logical empiricism, or neo-empiricism) confronts the fundamental question: what distinguishes meaningful cognitive discourse from meaningless pseudo-statements? This question emerges from the conviction that much traditional philosophy, particularly metaphysics, consists of linguistically well-formed but cognitively empty assertions. The movement sought to articulate a clear criterion of meaningfulness that would validate scientific knowledge while exposing metaphysical claims as lacking cognitive content.
 
-The central problem branches into several interconnected issues: What constitutes the basis of empirical knowledge? How can propositions be verified or confirmed? What is the relationship between language and reality? How can the various sciences be unified under a common method and language? And what role remains for philosophy once metaphysics has been eliminated? These questions arose in the context of revolutionary developments in logic (Frege, Russell), physics (relativity, quantum mechanics), and mathematics (foundations crisis), which demanded a reconceptualization of scientific knowledge and its philosophical interpretation.
+The central problem branches into several interconnected issues: What constitutes the basis of empirical knowledge? How can propositions be verified or confirmed? What is the relationship between language and reality? How can the various sciences be unified under a common method and language? And what role remains for philosophy once metaphysics has been eliminated? These questions arose in the context of revolutionary developments in logic (Frege, [[Russell]]), physics (relativity, quantum mechanics), and mathematics (foundations crisis), which demanded a reconceptualization of scientific knowledge and its philosophical interpretation.
 
 #### Main Thesis
 
@@ -55,19 +61,20 @@ The movement distinguished between:
 - **Analytic propositions**: True by virtue of meaning (tautologies like "triangles have three sides")
 - **Synthetic propositions**: True only if confirmed by experience (factual claims about the world)
 
-This dichotomy left no room for synthetic a priori knowledge (contra Kant), declaring such claims either reducible to analytic truths or empirically testable hypotheses.
+This dichotomy left no room for synthetic a priori knowledge (contra [[Kant]]), declaring such claims either reducible to analytic truths or empirically testable hypotheses.
 
 #### Historical Context
 
-Logical positivism emerged in Vienna and Berlin during the 1920s-1930s, representing a philosophical response to multiple intellectual and political crises. The foundations of mathematics had been shaken by paradoxes (Russell's paradox) and the discovery of non-Euclidean geometries. Physics underwent revolutionary transformation through relativity theory and quantum mechanics, challenging traditional conceptions of space, time, and causality. These scientific upheavals demanded new philosophical frameworks.
+Logical positivism emerged in Vienna and [[Berlin]] during the 1920s-1930s, representing a philosophical response to multiple intellectual and political crises. The foundations of mathematics had been shaken by paradoxes (Russell's paradox) and the discovery of non-Euclidean geometries. Physics underwent revolutionary transformation through relativity theory and quantum mechanics, challenging traditional conceptions of space, time, and causality. These scientific upheavals demanded new philosophical frameworks.
 
-The **first Vienna Circle** (1907-1914) brought together Hans Hahn, Philipp Frank, and Otto Neurath to discuss Mach, Poincaré, and Duhem. The **second Vienna Circle** formed in 1924 when [[Schlick]] assumed Mach's former chair at Vienna University. Regular Thursday evening discussions attracted [[Carnap]], Waismann, Feigl, Gödel, and Kelsen. Wittgenstein's *Tractatus Logico-Philosophicus* (1921) provided crucial inspiration.
+The **first Vienna Circle** (1907-1914) brought together Hahn, Philipp Frank, and Neurath to discuss [[Mach]], Poincaré, and [[Duhem]]. The **second Vienna Circle** formed in 1924 when [[Schlick]] assumed [[Mach]]'s former chair at Vienna University. Regular Thursday evening discussions attracted [[Carnap]], Waismann, Feigl, Gödel, and Kelsen. Wittgenstein's *Tractatus Logico-Philosophicus* (1921) provided crucial inspiration.
 
-The **Berlin Group** (1927) formed around [[Reichenbach]], including Hempel, von Mises, and Lewin. Collaboration between Vienna and Berlin was facilitated by the journal *Erkenntnis* (1930-1938) and international congresses beginning in Prague (1929).
+The **Berlin Group** (1927) formed around [[Reichenbach]], including Hempel, von Mises, and Lewin. Collaboration between Vienna and [[Berlin]] was facilitated by the journal *Erkenntnis* (1930-1938) and international congresses beginning in Prague (1929).
 
-Political circumstances proved devastating: Schlick was assassinated in 1936; the Nazi annexation of Austria (1938) scattered the movement. Most members emigrated to the United States, where they found receptive audiences among pragmatists like Quine and Nagel. The *International Encyclopedia of Unified Science* began publication in Chicago (1938) under Neurath, Carnap, and Morris.
+Political circumstances proved devastating: [[Schlick]] was assassinated in 1936; the Nazi annexation of Austria (1938) scattered the movement. Most members emigrated to the United States, where they found receptive audiences among pragmatists like Quine and [[Nagel]]. The *International Encyclopedia of Unified Science* began publication in Chicago (1938) under Neurath, Carnap, and [[Morris]].
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -155,8 +162,8 @@ flowchart TD
 |------|-------|
 | 1907 | First Vienna Circle meetings begin (Hahn, Frank, [[Neurath]]) |
 | 1921 | [[Wittgenstein]] publishes *Tractatus Logico-Philosophicus* |
-| 1922 | [[Schlick]] assumes Mach's chair at Vienna; second Circle begins |
-| 1927 | Berlin Group forms around [[Reichenbach]] |
+| 1922 | [[Schlick]] assumes [[Mach]]'s chair at Vienna; second Circle begins |
+| 1927 | [[Berlin]] Group forms around [[Reichenbach]] |
 | 1928 | [[Carnap]] publishes *Logical Structure of the World* |
 | 1929 | Vienna Circle manifesto *The Scientific Conception of the World* published |
 | 1930 | Journal *Erkenntnis* founded (editors: [[Carnap]], [[Reichenbach]]) |
@@ -173,18 +180,6 @@ flowchart TD
 
 > "We cannot verify the law, but we can test it by testing its particular instances. If in a continued series of such testing experiments no negative instance is found, but the number of positive instances increases, then our confidence in the law increases step by step. Thus, instead of verification, we may speak of the gradually increasing confirmation of the law." — [[Carnap]]
 
-#### See Also
-
-- [[Vienna Circle]]
-- [[Berlin Group]]
-- [[Analytic Philosophy]]
-- [[Verification Principle]]
-- [[Logical Atomism]]
-- [[Philosophy of Science]]
-- [[Unified Science]]
-- [[Emotivism]]
-- [[Legal Positivism]]
-- [[Post-Empiricism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

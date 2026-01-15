@@ -12,7 +12,6 @@ aliases:
   - radical evil
   - kantian state
   - perpetual peace
-  - cosmopolitanism
   - kantian law
   - social contract
   - philosophy history
@@ -28,40 +27,53 @@ authors:
   - "[[Rousseau]]"
   - "[[Rawls]]"
   - "[[Habermas]]"
-reference: "[[04 The search for thought - Unit 7 Chapter 5.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[Critique of Practical Reason]]"
+  - "[[Liberalism]]"
+  - "[[Social Contract Theory]]"
+  - "[[Philosophy of History]]"
+  - "[[Cosmopolitanism]]"
+  - "[[Natural Law]]"
+  - "[[Human Rights]]"
+  - "[[Enlightenment]]"
+  - "[[Perpetual Peace]]"
+  - "[[Rawls]]"
+  - "[[Habermas]]"
 ---
 
 #### Central Problem
 
-This chapter addresses the practical application of Kant's critical philosophy to religion, law, state, and history. The central problems include: How can religion be rationally justified while preserving moral autonomy? What are the a priori foundations of law and the state? Can history be understood as having a rational direction toward freedom? How can perpetual peace be achieved among nations?
+This chapter addresses the practical application of [[Kant]]'s critical philosophy to religion, law, state, and history. The central problems include: How can religion be rationally justified while preserving moral autonomy? What are the a priori foundations of law and the state? Can history be understood as having a rational direction toward freedom? How can perpetual peace be achieved among nations?
 
-A persistent criticism of Kantian ethics held that it remained abstract, confined to the subjective sphere of intentions without addressing concrete situations, social institutions, or historical progress. Thinkers from Hegel to Nietzsche accused Kant of subjectivism and ahistoricism. The works examined here—*The Metaphysics of Morals* (1797), *Religion within the Limits of Reason Alone* (1793), *Toward Perpetual Peace* (1795), and various historical-political writings—demonstrate that Kant developed extensive theories of applied ethics, legal philosophy, political theory, and philosophy of history.
+A persistent criticism of Kantian ethics held that it remained abstract, confined to the subjective sphere of intentions without addressing concrete situations, social institutions, or historical progress. Thinkers from [[Hegel]] to [[Nietzsche]] accused [[Kant]] of subjectivism and ahistoricism. The works examined here—*The Metaphysics of Morals* (1797), *Religion within the Limits of Reason Alone* (1793), *Toward Perpetual Peace* (1795), and various historical-political writings—demonstrate that [[Kant]] developed extensive theories of applied ethics, legal philosophy, political theory, and philosophy of history.
 
 The fundamental challenge is to extend the formal, universal principles of critical philosophy into the domains of religious belief, political organization, legal order, and historical teleology while maintaining the autonomy of practical reason and avoiding both dogmatic metaphysics and empirical contingency.
 
 #### Main Thesis
 
-**On Religion:** Kant develops a **religion within the limits of reason alone**—a purely rational religion that humans can arrive at through reason without requiring revelation. He depicts revealed religion and rational religion as two concentric circles: revealed religion has broader content but must always be subjected to rational critique. Religion does not lead to morality; rather, morality leads to religion as the absolute reference point of values. God is postulated as the guarantor of the *summum bonum*, the union of virtue and happiness.
+**On Religion:** [[Kant]] develops a **religion within the limits of reason alone**—a purely rational religion that humans can arrive at through reason without requiring revelation. He depicts revealed religion and rational religion as two concentric circles: revealed religion has broader content but must always be subjected to rational critique. Religion does not lead to morality; rather, morality leads to religion as the absolute reference point of values. God is postulated as the guarantor of the *summum bonum*, the union of virtue and happiness.
 
-**On Radical Evil:** Kant identifies an ineradicable human tendency toward evil (*das radikale Böse*), manifesting in three degrees: frailty (difficulty practicing moral precepts), impurity (mixing moral with ignoble motivations), and malignity (acting entirely from non-moral motivations). This evil is not sensual but stems from freedom itself—humans freely choose to subordinate the moral law to self-love. Yet from the same freedom derives the capacity for *conversion*—an incessant progress from evil toward good.
+**On Radical Evil:** [[Kant]] identifies an ineradicable human tendency toward evil (*das radikale Böse*), manifesting in three degrees: frailty (difficulty practicing moral precepts), impurity (mixing moral with ignoble motivations), and malignity (acting entirely from non-moral motivations). This evil is not sensual but stems from freedom itself—humans freely choose to subordinate the moral law to self-love. Yet from the same freedom derives the capacity for *conversion*—an incessant progress from evil toward good.
 
-**On Law and State:** Law is "the totality of conditions under which the will of one can be united with the will of another according to a universal law of freedom." Kant's transcendental method seeks a priori foundations for legal institutions rather than historical reconstructions. The **liberal state** must only ensure that citizens can pursue their own religious, ethical, economic ends without violating others' freedom—it is juridical (establishing a legal order) and formal (concerned with how citizens act, not what they do).
+**On Law and State:** Law is "the totality of conditions under which the will of one can be united with the will of another according to a universal law of freedom." [[Kant]]'s transcendental method seeks a priori foundations for legal institutions rather than historical reconstructions. The **liberal state** must only ensure that citizens can pursue their own religious, ethical, economic ends without violating others' freedom—it is juridical (establishing a legal order) and formal (concerned with how citizens act, not what they do).
 
 **On History:** History has an a priori **destination**—the realization of humanity's rational essence and freedom. Progress results from the dialectic of "unsociable sociability" (*ungesellige Geselligkeit*): humans simultaneously tend toward community and toward antagonism. This conflict drives civilization forward toward a perfect civil constitution.
 
-**On Perpetual Peace:** Kant proposes a **cosmopolitan order** (*Weltbürgertum*)—a federation of free states bound by international law. Peace requires: (1) republican constitutions within states (because citizens must consent to war), (2) a federation of free states, and (3) universal hospitality rights. This peace is not a natural state but a *task* to be pursued through rational effort.
+**On Perpetual Peace:** [[Kant]] proposes a **cosmopolitan order** (*Weltbürgertum*)—a federation of free states bound by international law. Peace requires: (1) republican constitutions within states (because citizens must consent to war), (2) a federation of free states, and (3) universal hospitality rights. This peace is not a natural state but a *task* to be pursued through rational effort.
 
 #### Historical Context
 
-Kant's practical philosophy developed in the context of late Enlightenment optimism about human progress, tempered by critical awareness of conflict and evil. The *Religion within the Limits of Reason Alone* (1793) brought Kant into conflict with Prussian censorship, reflecting tensions between Enlightenment rationalism and established religious authority.
+Kant's practical philosophy developed in the context of late Enlightenment optimism about human progress, tempered by critical awareness of conflict and evil. The *Religion within the Limits of Reason Alone* (1793) brought [[Kant]] into conflict with Prussian censorship, reflecting tensions between Enlightenment rationalism and established religious authority.
 
-The French Revolution (1789) profoundly influenced Kant's political thought. He initially sympathized with revolutionary ideals but was horrified by the Terror, which he attributed to Robespierre's disguising private interests as national will. This led Kant to reject revolutionary violence while affirming the right to public criticism—the "public use of reason."
+The French Revolution (1789) profoundly influenced [[Kant]]'s political thought. He initially sympathized with revolutionary ideals but was horrified by the Terror, which he attributed to [[Robespierre]]'s disguising private interests as national will. This led [[Kant]] to reject revolutionary violence while affirming the right to public criticism—the "public use of reason."
 
-*Toward Perpetual Peace* (1795) was written on the occasion of the Peace of Basel between France and Prussia. Kant's vision of a federation of nations anticipated twentieth-century institutions like the League of Nations and the United Nations. Contemporary philosophers like John Rawls and Jürgen Habermas have found in Kant's cosmopolitanism crucial resources for thinking about international justice, human rights, and global governance.
+*Toward Perpetual Peace* (1795) was written on the occasion of the Peace of Basel between France and Prussia. [[Kant]]'s vision of a federation of nations anticipated twentieth-century institutions like the League of Nations and the United Nations. Contemporary philosophers like Rawls and Habermas have found in [[Kant]]'s cosmopolitanism crucial resources for thinking about international justice, human rights, and global governance.
 
-The Leibniz-Newton debate on space and time, discussed in the chapter's supplementary materials, provides important background for understanding how Kant's transcendental method emerged from earlier philosophical disputes about the foundations of physics and metaphysics.
+The [[Leibniz]]-Newton debate on space and time, discussed in the chapter's supplementary materials, provides important background for understanding how [[Kant]]'s transcendental method emerged from earlier philosophical disputes about the foundations of physics and metaphysics.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -144,7 +156,7 @@ flowchart TD
 | 1797 | [[Kant]] publishes *The Metaphysics of Morals* |
 | 1798 | [[Kant]] publishes *The Conflict of the Faculties* |
 | 1971 | [[Rawls]] publishes *A Theory of Justice* (Kantian revival) |
-| 1995 | [[Habermas]] publishes reflections on Kant's perpetual peace |
+| 1995 | [[Habermas]] publishes reflections on [[Kant]]'s perpetual peace |
 
 #### Notable Quotes
 
@@ -154,19 +166,6 @@ flowchart TD
 
 > "That kings should philosophize or philosophers become kings is not to be expected; nor indeed to be wished, for the possession of power inevitably corrupts the free judgment of reason." — [[Kant]]
 
-#### See Also
-
-- [[Critique of Practical Reason]]
-- [[Liberalism]]
-- [[Social Contract Theory]]
-- [[Philosophy of History]]
-- [[Cosmopolitanism]]
-- [[Natural Law]]
-- [[Human Rights]]
-- [[Enlightenment]]
-- [[Perpetual Peace]]
-- [[Rawls]]
-- [[Habermas]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

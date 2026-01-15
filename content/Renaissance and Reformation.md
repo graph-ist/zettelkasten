@@ -6,16 +6,12 @@ subclasses:
   - Philosophy-of-Religion
   - Ethics
 aliases:
-  - reformation
   - protestant reformation
   - free will
-  - predestination
   - justification faith
   - sola scriptura
   - counter reformation
   - grace theology
-  - lutheranism
-  - calvinism
   - christian humanism
   - servo arbitrio
 contributions:
@@ -29,7 +25,18 @@ authors:
   - "[[Ockham]]"
   - "[[Melanchthon]]"
   - "[[Boehme]]"
-reference: "[[03 The search for thought - Unit 1 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Augustine]]"
+  - "[[Grace and Free Will]]"
+  - "[[Sola Fide]]"
+  - "[[Predestination]]"
+  - "[[Council of Trent]]"
+  - "[[Thomism]]"
+  - "[[Christian Humanism]]"
+  - "[[Protestant Ethics]]"
+  - "[[Capitalism and Religion]]"
+  - "[[Religious Wars]]"
 ---
 
 #### Central Problem
@@ -44,7 +51,7 @@ The problem also extended to ecclesiology: does salvation require the mediating 
 
 The chapter presents the Protestant Reformation as a movement characterized by the principle of "return to sources" — specifically, direct return to the Gospel rather than reliance on ecclesiastical tradition. The key thesis of the Reformation, as articulated by [[Luther]], is justification by faith alone (sola fide): humanity is saved not through meritorious works or Church mediation but exclusively through faith in divine grace.
 
-[[Luther]] argues that free will is "nothing, an empty name" when it comes to salvation. Divine foreknowledge and omnipotence exclude any human initiative in the process of redemption. God operates both good and evil in humans, and salvation (like damnation) is solely God's work. This position represents Augustine's doctrine of grace pushed to its extreme consequences.
+[[Luther]] argues that free will is "nothing, an empty name" when it comes to salvation. Divine foreknowledge and omnipotence exclude any human initiative in the process of redemption. God operates both good and evil in humans, and salvation (like damnation) is solely God's work. This position represents [[Augustine]]'s doctrine of grace pushed to its extreme consequences.
 
 [[Erasmus]], representing Christian humanism, defends a middle position: grace is the "principal cause" of salvation while human will serves as a "secondary cause." The two cooperate, with grace healing the will corrupted by original sin. For Erasmus, without freedom, human dignity loses all meaning.
 
@@ -65,6 +72,7 @@ The Protestant Reformation emerged in the early sixteenth century against the ba
 The Council of Trent (1545-1563) marked the Catholic response, reaffirming tradition, sacramental mediation, and the value of works while returning to Thomism as the official philosophical framework.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -102,11 +110,11 @@ flowchart TD
 | Concept | Definition | Related to |
 |---------|------------|------------|
 | Justification by faith | Salvation comes through faith in God's grace alone, not through human works or merit | [[Luther]], [[Reformation]] |
-| Free will (liberum arbitrium) | Human capacity to choose between salvation and damnation; defended by Erasmus, denied by Luther | [[Erasmus]], [[Humanism]] |
-| Enslaved will (servum arbitrium) | Luther's doctrine that human will is captive to sin and cannot contribute to salvation | [[Luther]], [[Augustine]] |
+| Free will (liberum arbitrium) | Human capacity to choose between salvation and damnation; defended by Erasmus, denied by [[Luther]] | [[Erasmus]], [[Humanism]] |
+| Enslaved will (servum arbitrium) | [[Luther]]'s doctrine that human will is captive to sin and cannot contribute to salvation | [[Luther]], [[Augustine]] |
 | Predestination | Divine decree determining human salvation or damnation before any human action | [[Calvin]], [[Augustine]] |
 | Sola Scriptura | Principle that Scripture alone is the authority for faith, rejecting Church tradition | [[Luther]], [[Reformation]] |
-| Grace | Divine favor freely given for salvation; principal cause according to Erasmus, sole cause for Luther | [[Augustine]], [[Reformation]] |
+| Grace | Divine favor freely given for salvation; principal cause according to Erasmus, sole cause for [[Luther]] | [[Augustine]], [[Reformation]] |
 | Universal revelation | Zwingli's doctrine that all truth, from any source, derives from God's mouth | [[Zwingli]], [[Humanism]] |
 | Work as vocation | Protestant concept that secular labor is divine service and testimony of inner faith | [[Luther]], [[Calvin]] |
 | Counter-Reformation | Catholic response defending tradition, sacraments, Church authority, and value of works | [[Trent]], [[Catholicism]] |
@@ -150,9 +158,9 @@ flowchart TD
 |------|-------|
 | 1503 | [[Erasmus]] publishes *Handbook of the Christian Soldier* |
 | 1509 | [[Erasmus]] writes *Praise of Folly* |
-| 1517 | [[Erasmus]] publishes *Complaint of Peace*; Luther's 95 Theses |
+| 1517 | [[Erasmus]] publishes *Complaint of Peace*; [[Luther]]'s 95 Theses |
 | 1519 | [[Luther]] writes to [[Erasmus]] requesting support for Reformation |
-| 1524 | [[Erasmus]] publishes *De libero arbitrio* against Luther |
+| 1524 | [[Erasmus]] publishes *De libero arbitrio* against [[Luther]] |
 | 1525 | [[Luther]] responds with *De servo arbitrio* |
 | 1536 | [[Erasmus]] dies in Basel; [[Calvin]] publishes *Institutes* |
 | 1545-1563 | Council of Trent defines Counter-Reformation doctrine |
@@ -166,18 +174,6 @@ flowchart TD
 
 > "No peace is so unjust as not to be preferable to the most just of wars." — [[Erasmus]]
 
-#### See Also
-
-- [[Augustine]]
-- [[Grace and Free Will]]
-- [[Sola Fide]]
-- [[Predestination]]
-- [[Council of Trent]]
-- [[Thomism]]
-- [[Christian Humanism]]
-- [[Protestant Ethics]]
-- [[Capitalism and Religion]]
-- [[Religious Wars]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

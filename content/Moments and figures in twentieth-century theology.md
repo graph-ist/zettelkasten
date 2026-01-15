@@ -1,5 +1,4 @@
 ---
-key: ['Post-structuralism and Derida']
 cssclasses:
   - Philosophy
 subclasses:
@@ -8,11 +7,8 @@ subclasses:
   - Continental-Philosophy
 aliases:
   - theology twentieth
-  - death of
-  - secularization
   - liberation theology
   - dialectical theology
-  - demythologization
   - anthropological turn
   - ecumenical theology
   - political theology
@@ -33,7 +29,18 @@ authors:
   - "[[Moltmann]]"
   - "[[Gutiérrez]]"
   - "[[Küng]]"
-reference: "[[06 The search for thought - Unit 9 Chapter 2.pdf]]"
+reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
+related:
+  - "[[Dialectical Theology]]"
+  - "[[Existentialism]]"
+  - "[[Phenomenology]]"
+  - "[[Liberation Theology]]"
+  - "[[Secularization]]"
+  - "[[Vatican II]]"
+  - "[[Thomism]]"
+  - "[[Philosophy of Religion]]"
+  - "[[Eschatology]]"
+  - "[[Hermeneutics]]"
 ---
 
 #### Central Problem
@@ -73,6 +80,7 @@ Philosophically, [[Kierkegaard]]'s "rediscovery" provided resources for challeng
 By the 1960s, advanced industrial societies experienced rapid secularization, declining church attendance, and cultural shifts toward individual autonomy, pleasure, and this-worldly fulfillment. The "death of God" seemed confirmed not only philosophically but sociologically.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -135,7 +143,7 @@ flowchart TD
 | God-world relation | Absolute transcendence | Transcendence in existential encounter | Transcendence in human openness | God's presence through absence |
 | Method | Revelation alone | Existential interpretation | Transcendental anthropology | Christocentric worldliness |
 | Human knowledge of God | Impossible without grace | Through authentic decision | Through a priori openness | In solidarity with others |
-| Role of philosophy | Rejected (natural theology) | Heidegger's existential analytic | Kant + Thomism | Critical engagement |
+| Role of philosophy | Rejected (natural theology) | Heidegger's existential analytic | [[Kant]] + Thomism | Critical engagement |
 | Church and world | Prophetic witness | Proclamation (kerygma) | Anonymous Christianity | Religionless Christianity |
 | Salvation | Through faith alone | Eschatological existence | Universal offer of grace | Participation in Christ's suffering |
 
@@ -181,18 +189,6 @@ flowchart TD
 
 > "No peace among the nations of this world without peace among the world religions. No peace among the world religions without peace among the Christian churches." — [[Küng]]
 
-#### See Also
-
-- [[Dialectical Theology]]
-- [[Existentialism]]
-- [[Phenomenology]]
-- [[Liberation Theology]]
-- [[Secularization]]
-- [[Vatican II]]
-- [[Thomism]]
-- [[Philosophy of Religion]]
-- [[Eschatology]]
-- [[Hermeneutics]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

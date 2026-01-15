@@ -6,7 +6,6 @@ subclasses:
   - Metaphysics
   - 17th-18th-Century-Philosophy
 aliases:
-  - immaterialism
   - radical nominalism
   - spirit matter
   - ideas perception
@@ -25,22 +24,34 @@ authors:
   - "[[Descartes]]"
   - "[[Malebranche]]"
   - "[[Hume]]"
-reference: "[[03 The search for thought - Unit 5 Chapter 4.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[British Empiricism]]"
+  - "[[Idealism]]"
+  - "[[Esse est percipi]]"
+  - "[[Primary and Secondary Qualities]]"
+  - "[[Problem of Substance]]"
+  - "[[Occasionalism]]"
+  - "[[Phenomenalism]]"
+  - "[[Locke]]"
+  - "[[Hume]]"
+  - "[[Malebranche]]"
+  - "[[Neoplatonism]]"
 ---
 
 #### Central Problem
 
-George Berkeley confronts a profound epistemological and metaphysical problem: how can we justify belief in an external material world if all we ever directly perceive are our own ideas? Building on Locke's empiricist premise that knowledge consists only of ideas, Berkeley asks whether the concept of "matter" or "material substance" existing independently of mind is coherent or even meaningful.
+Berkeley confronts a profound epistemological and metaphysical problem: how can we justify belief in an external material world if all we ever directly perceive are our own ideas? Building on [[Locke]]'s empiricist premise that knowledge consists only of ideas, Berkeley asks whether the concept of "matter" or "material substance" existing independently of mind is coherent or even meaningful.
 
-The problem has both philosophical and religious dimensions. Philosophically, if Locke is right that we only know ideas, how can we claim knowledge of material objects "behind" or "causing" those ideas? The gap between idea and thing seems unbridgeable. Religiously, Berkeley sees materialism as the philosophical foundation of atheism—if matter can explain everything, God becomes superfluous. The challenge is to defend both the reality of our knowledge and the existence of God against materialist skepticism.
+The problem has both philosophical and religious dimensions. Philosophically, if [[Locke]] is right that we only know ideas, how can we claim knowledge of material objects "behind" or "causing" those ideas? The gap between idea and thing seems unbridgeable. Religiously, Berkeley sees materialism as the philosophical foundation of atheism—if matter can explain everything, God becomes superfluous. The challenge is to defend both the reality of our knowledge and the existence of God against materialist skepticism.
 
-Berkeley also addresses the problem of abstract ideas inherited from Locke. Can we truly form a general idea of "triangle" or "man" that has no particular characteristics? Berkeley argues such abstraction is psychologically impossible and philosophically unnecessary, leading to his radical nominalism.
+Berkeley also addresses the problem of abstract ideas inherited from [[Locke]]. Can we truly form a general idea of "triangle" or "man" that has no particular characteristics? Berkeley argues such abstraction is psychologically impossible and philosophically unnecessary, leading to his radical nominalism.
 
 #### Main Thesis
 
 Berkeley's revolutionary thesis is summarized in the formula *esse est percipi*—"to be is to be perceived." For ideas, existence consists entirely in being perceived by a mind. Since what we call "things" are nothing but collections of ideas (a cherry is just the collection of ideas: red, round, sweet, etc.), things too exist only insofar as they are perceived. There is no material substance underlying or causing our perceptions.
 
-**Radical Nominalism:** Abstract general ideas are impossible. We cannot form an idea of "extension" that has no particular size, shape, or color. What Locke called "general ideas" are actually particular ideas used as signs to represent other similar particulars. A particular triangle in a proof represents all triangles not because it lacks specific characteristics, but because those characteristics are irrelevant to the demonstration.
+**Radical Nominalism:** Abstract general ideas are impossible. We cannot form an idea of "extension" that has no particular size, shape, or color. What [[Locke]] called "general ideas" are actually particular ideas used as signs to represent other similar particulars. A particular triangle in a proof represents all triangles not because it lacks specific characteristics, but because those characteristics are irrelevant to the demonstration.
 
 **Immaterialism:** Material substance does not exist. Berkeley's arguments:
 1. We only ever perceive ideas, never matter itself
@@ -57,13 +68,14 @@ Berkeley's revolutionary thesis is summarized in the formula *esse est percipi*�
 
 Berkeley (1685-1753) developed his philosophy in early eighteenth-century Ireland and England, during a period of intense debate between religious orthodoxy and emerging Deism and free-thinking. Born in Kilkenny, Ireland, he studied at Trinity College Dublin and formulated his core philosophical position—immaterialism—remarkably early, publishing his main works before age 30.
 
-The intellectual context was shaped by Locke's *Essay Concerning Human Understanding* (1690), which Berkeley both built upon and criticized. Locke's empiricism seemed to many to lead toward skepticism about the external world—if we only know ideas, how can we know things? Berkeley's radical solution was to eliminate the problem by eliminating matter.
+The intellectual context was shaped by [[Locke]]'s *Essay Concerning Human Understanding* (1690), which Berkeley both built upon and criticized. [[Locke]]'s empiricism seemed to many to lead toward skepticism about the external world—if we only know ideas, how can we know things? Berkeley's radical solution was to eliminate the problem by eliminating matter.
 
-Berkeley was also responding to the perceived threat of materialist philosophy, which he associated with Hobbes and with the "free-thinkers" of his day. He saw materialism as leading inevitably to atheism, fatalism, and the denial of providence, free will, and immortality. His immaterialism was explicitly intended as an apologetic for Christian theism.
+Berkeley was also responding to the perceived threat of materialist philosophy, which he associated with [[Hobbes]] and with the "free-thinkers" of his day. He saw materialism as leading inevitably to atheism, fatalism, and the denial of providence, free will, and immortality. His immaterialism was explicitly intended as an apologetic for Christian theism.
 
 His later career included an ambitious (ultimately unsuccessful) project to establish a college in Bermuda to educate colonists and Native Americans. As Bishop of Cloyne (from 1734), he devoted himself to philanthropy and practical concerns, including promoting tar-water as a medicinal cure-all. His later work *Siris* (1744) developed a more explicitly Neoplatonic metaphysics.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -126,7 +138,7 @@ flowchart TD
 - **Contemporaries:** [[Berkeley]] ↔ dialogue with ↔ English Deists (polemic in *Alciphron*)
 - **Followers:** [[Berkeley]] → influenced → [[Hume]] (skepticism about substance), [[Kant]] (idealism critique)
 - **Followers:** [[Berkeley]] → influenced → [[Phenomenalism]], [[Logical Positivism]] (verification principle)
-- **Opposing views:** [[Berkeley]] ← criticized by ← [[Samuel Johnson]] (kicking stone refutation), [[Reid]] (common sense realism)
+- **Opposing views:** [[Berkeley]] ← criticized by ← [[Johnson]] (kicking stone refutation), [[Reid]] (common sense realism)
 
 #### Summary Formulas
 
@@ -160,19 +172,6 @@ flowchart TD
 
 > "Some truths there are so near and obvious to the mind that a man need only open his eyes to see them. Such I take this important one to be, namely, that all the choir of heaven and furniture of the earth have no subsistence without a mind." — [[Berkeley]]
 
-#### See Also
-
-- [[British Empiricism]]
-- [[Idealism]]
-- [[Esse est percipi]]
-- [[Primary and Secondary Qualities]]
-- [[Problem of Substance]]
-- [[Occasionalism]]
-- [[Phenomenalism]]
-- [[Locke]]
-- [[Hume]]
-- [[Malebranche]]
-- [[Neoplatonism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

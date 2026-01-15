@@ -10,7 +10,6 @@ aliases:
   - international relations
   - war philosophy
   - peace philosophy
-  - cosmopolitanism
   - just war
   - political realism
   - nuclear deterrence
@@ -18,7 +17,6 @@ aliases:
   - global justice
   - post national
   - cosmopolitan democracy
-  - law of
 contributions:
   - Conceptual
   - Constructive
@@ -33,7 +31,18 @@ authors:
   - "[[Held]]"
   - "[[Archibugi]]"
   - "[[Kant]]"
-reference: "[[07 The search for thought - Unit 19 Chapter 1.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+related:
+  - "[[Political Philosophy]]"
+  - "[[Just War Theory]]"
+  - "[[Cosmopolitanism]]"
+  - "[[Perpetual Peace]]"
+  - "[[Nuclear Ethics]]"
+  - "[[Globalization]]"
+  - "[[European Union]]"
+  - "[[International Law]]"
+  - "[[Human Rights]]"
+  - "[[Liberalism]]"
 ---
 
 #### Central Problem
@@ -50,7 +59,7 @@ The chapter presents a spectrum of positions on international relations, from po
 
 **Existential-Liberal Position:** [[Jaspers]] views the atomic bomb as symbolizing the nihilism of modern science—a technology that claims unlimited power but ends up destroying its objects. He supports Western liberal democracies against Soviet totalitarianism but ultimately relies on deterrence rather than dialogue, representing a philosophical defense of the Cold War status quo.
 
-**Pragmatic Deterrence:** [[Russell]] and [[Aron]] both accept nuclear deterrence as necessary but seek alternatives. Russell proposes eventual movement toward world government; Aron advocates a prudent balance between military deterrence and diplomatic dialogue, rejecting ideological rigidity in favor of pragmatic responses to concrete situations.
+**Pragmatic Deterrence:** [[Russell]] and [[Aron]] both accept nuclear deterrence as necessary but seek alternatives. [[Russell]] proposes eventual movement toward world government; Aron advocates a prudent balance between military deterrence and diplomatic dialogue, rejecting ideological rigidity in favor of pragmatic responses to concrete situations.
 
 **Just War Theory:** [[Bobbio]] addresses whether any war can be justified, distinguishing between nuclear war (which negates the very concept of "purpose" by potentially destroying all life) and conventional conflict. He supports wars legitimated by international law (such as UN-sanctioned interventions) while advocating pacifism and conscientious objection at the individual level.
 
@@ -64,11 +73,12 @@ The chapter presents a spectrum of positions on international relations, from po
 
 The chapter spans the period from the end of World War II to the early 21st century, marked by several transformative developments. The atomic bombings of August 1945 inaugurated the nuclear age, raising for the first time the possibility of human self-annihilation. The Cold War (1947-1989) divided the world between NATO (formed 1949) and the Warsaw Pact (1955), with the Cuban Missile Crisis of 1962 bringing the superpowers to the brink of nuclear war. The START treaties eventually eliminated 80% of nuclear weapons.
 
-The fall of the Berlin Wall (1989) and collapse of the Soviet Union ended the bipolar world order but did not bring perpetual peace. Instead, new conflicts emerged: the Kosovo War, the two Gulf Wars, the intervention in Afghanistan, and controversies over South Ossetia's independence. These conflicts revived debates about "just war" that had theological roots in medieval crusades and jihads but now took secular forms involving international law and human rights.
+The fall of the [[Berlin]] Wall (1989) and collapse of the Soviet Union ended the bipolar world order but did not bring perpetual peace. Instead, new conflicts emerged: the Kosovo War, the two Gulf Wars, the intervention in Afghanistan, and controversies over South Ossetia's independence. These conflicts revived debates about "just war" that had theological roots in medieval crusades and jihads but now took secular forms involving international law and human rights.
 
-The era also saw the rise of globalization, eroding traditional state sovereignty and creating transnational economic forces that escape democratic control. Interdisciplinary fields such as Subaltern Studies, Postcolonial Studies, and Cultural Studies emerged in dialogue with post-structuralist philosophy (Althusser, Derrida, Foucault, Deleuze, Lyotard), forcing Western philosophy to confront its own Eurocentrism and misconceptions of otherness. The European Union emerged as a partial model of post-national governance.
+The era also saw the rise of globalization, eroding traditional state sovereignty and creating transnational economic forces that escape democratic control. Interdisciplinary fields such as Subaltern Studies, Postcolonial Studies, and Cultural Studies emerged in dialogue with post-structuralist philosophy (Althusser, Derrida, Foucault, [[Deleuze]], Lyotard), forcing Western philosophy to confront its own Eurocentrism and misconceptions of otherness. The European Union emerged as a partial model of post-national governance.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -128,7 +138,7 @@ flowchart TD
 | Scope of ethics | Domestic only | Extended to decent peoples | Universal discourse ethics |
 | Ideal outcome | Stable equilibrium | Federation of free peoples | Post-national constellation |
 | Philosophical method | Descriptive realism | Constructive contractualism | Critical-reconstructive |
-| Kant's relevance | Rejected | Central inspiration | Requires updating |
+| [[Kant]]'s relevance | Rejected | Central inspiration | Requires updating |
 
 #### Influences & Connections
 
@@ -159,7 +169,7 @@ flowchart TD
 | 1958 | [[Jaspers]] publishes *The Atom Bomb and the Future of Man* |
 | 1962 | [[Aron]] publishes *Peace and War Among Nations*; Cuban Missile Crisis |
 | 1979 | [[Bobbio]] publishes *The Problem of War and the Roads to Peace* |
-| 1989 | Fall of Berlin Wall ends Cold War |
+| 1989 | Fall of [[Berlin]] Wall ends Cold War |
 | 1991 | First Gulf War; [[Bobbio]]'s controversial "just war" statement |
 | 1995 | [[Held]] and [[Archibugi]] publish *Cosmopolitan Democracy* |
 | 1998 | [[Habermas]] publishes *The Postnational Constellation* |
@@ -171,20 +181,8 @@ flowchart TD
 
 > "To accept constraints means to accept that not everything is possible. But to accept that not everything is possible is not equivalent to claiming that nothing is possible and that the space of the politically possible is an empty space." — [[Veca]]
 
-> "If a reasonably just society of peoples whose members subordinate the power at their disposal to reasonable ends were not possible, and human beings proved to be largely amoral if not incurably cynical and egotistic, we might be forced to ask with Kant what value living on this earth has for human beings." — [[Rawls]]
+> "If a reasonably just society of peoples whose members subordinate the power at their disposal to reasonable ends were not possible, and human beings proved to be largely amoral if not incurably cynical and egotistic, we might be forced to ask with [[Kant]] what value living on this earth has for human beings." — [[Rawls]]
 
-#### See Also
-
-- [[Political Philosophy]]
-- [[Just War Theory]]
-- [[Cosmopolitanism]]
-- [[Perpetual Peace]]
-- [[Nuclear Ethics]]
-- [[Globalization]]
-- [[European Union]]
-- [[International Law]]
-- [[Human Rights]]
-- [[Liberalism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

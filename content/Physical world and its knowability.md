@@ -8,15 +8,7 @@ subclasses:
 aliases:
   - aristotelian physics
   - natural philosophy
-  - soul
-  - psyche
-  - teleology
-  - finalism
   - natural places
-  - intellect
-  - movement
-  - hylomorphism
-  - entelecheia
   - sense perception
 contributions:
   - Conceptual
@@ -26,22 +18,35 @@ authors:
   - "[[Democritus]]"
   - "[[Plato]]"
   - "[[Anaxagoras]]"
-reference: "[[01 The search for thought - Unit 4 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+related:
+  - "[[Physics]]"
+  - "[[Natural Philosophy]]"
+  - "[[Teleology]]"
+  - "[[Hylomorphism]]"
+  - "[[Soul]]"
+  - "[[Active Intellect]]"
+  - "[[Four Elements]]"
+  - "[[Natural Places]]"
+  - "[[Geocentrism]]"
+  - "[[Atomism]]"
+  - "[[Mechanism]]"
+  - "[[Epistemology]]"
 ---
 
 #### Central Problem
 
-This chapter addresses two interconnected questions: What is the nature of the physical world and how does it move? And what is the soul (psyche) and how does it know? Aristotle must explain motion without recourse to [[Democritus]]'s atomistic mechanism or Plato's transcendent causes. He must account for the regularity and apparent purposiveness of nature while keeping explanatory principles immanent to natural things themselves. For psychology, he must explain how an immaterial soul relates to the body it animates, and how knowledge—especially intellectual knowledge of universals—arises from sense experience of particulars.
+This chapter addresses two interconnected questions: What is the nature of the physical world and how does it move? And what is the soul (psyche) and how does it know? [[Aristotle]] must explain motion without recourse to [[Democritus]]'s atomistic mechanism or [[Plato]]'s transcendent causes. He must account for the regularity and apparent purposiveness of nature while keeping explanatory principles immanent to natural things themselves. For psychology, he must explain how an immaterial soul relates to the body it animates, and how knowledge—especially intellectual knowledge of universals—arises from sense experience of particulars.
 
 The physics raises the question: If every movement requires a mover, what prevents an infinite regress? How do we explain the different movements of terrestrial and celestial bodies? The psychology asks: How can the soul be both the form of the body (and thus inseparable from it) and yet possess an intellective function that transcends material conditions? The famous problem of the "active intellect"—whether it is individual or cosmic, mortal or immortal—will generate centuries of debate.
 
 #### Main Thesis
 
-**Physics as the Science of Motion:** Physics studies substances in motion—the second theoretical science after metaphysics. Aristotle classifies four types of movement: substantial (generation/corruption), qualitative (alteration), quantitative (increase/decrease), and local (locomotion). Local motion is fundamental, as all other changes presuppose spatial movement of elements.
+**Physics as the Science of Motion:** Physics studies substances in motion—the second theoretical science after metaphysics. [[Aristotle]] classifies four types of movement: substantial (generation/corruption), qualitative (alteration), quantitative (increase/decrease), and local (locomotion). Local motion is fundamental, as all other changes presuppose spatial movement of elements.
 
 **Natural Places:** Each of the four elements (earth, water, air, fire) has a "natural place" determined by its weight. Earth, heaviest, occupies the center; then water, air, and fire in ascending spheres. When displaced, elements naturally return to their proper places. This explains why stones fall and flames rise. The celestial realm, composed of ether (the fifth element), moves only in perfect circles and is therefore eternal and incorruptible.
 
-**Teleological Nature:** Nature acts always for an end (telos), not by chance or blind necessity. The regularity of natural processes, the adaptation of animal organs to functions, and the developmental patterns of living things all point to intrinsic finality. Unlike Anaxagoras's external nous or Plato's Demiurge, Aristotle's final causes are immanent to substances themselves. The form of a thing is its final cause—the oak is the final cause of the acorn.
+**Teleological Nature:** Nature acts always for an end (telos), not by chance or blind necessity. The regularity of natural processes, the adaptation of animal organs to functions, and the developmental patterns of living things all point to intrinsic finality. Unlike Anaxagoras's external nous or [[Plato]]'s Demiurge, [[Aristotle]]'s final causes are immanent to substances themselves. The form of a thing is its final cause—the oak is the final cause of the acorn.
 
 **Finite, Perfect, Eternal Universe:** The cosmos is finite (infinite means incomplete/imperfect), unique, spherical, and eternal—without beginning or end. There is no void within or beyond the cosmos. Space is always "place-of-something," the boundary of containing bodies. Time is "the measure of motion according to before and after" and requires a soul to enumerate it, though the succession itself is objective.
 
@@ -53,13 +58,14 @@ The physics raises the question: If every movement requires a mover, what preven
 
 #### Historical Context
 
-Aristotle's physics represents both a synthesis of earlier Greek natural philosophy and a decisive rejection of atomistic mechanism. The debate between teleological and mechanistic explanations of nature will continue through the Scientific Revolution, when Democritean-style mechanism finally triumphs. Aristotle's physics, integrated with Ptolemaic astronomy, will dominate Western science until Copernicus, Galileo, and Newton.
+Aristotle's physics represents both a synthesis of earlier Greek natural philosophy and a decisive rejection of atomistic mechanism. The debate between teleological and mechanistic explanations of nature will continue through the Scientific Revolution, when Democritean-style mechanism finally triumphs. [[Aristotle]]'s physics, integrated with Ptolemaic astronomy, will dominate Western science until [[Copernicus]], [[Galileo]], and [[Newton]].
 
 The theory of natural places reflects common-sense observation (heavy things fall, flames rise) but prevents the concept of inertia and empty space necessary for modern physics. The distinction between celestial and terrestrial physics—different substances, different laws—will be overthrown only in the 17th century.
 
-The psychology addresses the soul-body problem that Plato's dualism left unresolved. Aristotle's hylomorphic solution—soul as form of body—influences medieval philosophy profoundly. The ambiguous status of the active intellect generates the great medieval debate: Is it individual (Thomas Aquinas) or a single cosmic intellect shared by all humans (Averroes)?
+The psychology addresses the soul-body problem that [[Plato]]'s dualism left unresolved. [[Aristotle]]'s hylomorphic solution—soul as form of body—influences medieval philosophy profoundly. The ambiguous status of the active intellect generates the great medieval debate: Is it individual (Aquinas) or a single cosmic intellect shared by all humans (Averroes)?
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -117,7 +123,7 @@ flowchart TD
 
 - **Predecessors:** [[Aristotle]] ← influenced by ← [[Empedocles]] (four elements), [[Anaxagoras]] (nous), [[Plato]] (Forms, Timaeus)
 - **Contemporaries:** [[Aristotle]] ↔ dialogue with ↔ [[Speusippus]], [[Xenocrates]], [[Eudoxus]]
-- **Followers:** [[Aristotle]] → influenced → [[Theophrastus]], [[Ptolemy]], [[Medieval Scholasticism]], [[Thomas Aquinas]]
+- **Followers:** [[Aristotle]] → influenced → [[Theophrastus]], [[Ptolemy]], [[Medieval Scholasticism]], [[Aquinas]]
 - **Opposing views:** [[Aristotle]] ← opposed to ← [[Democritus]] (mechanism, void, atoms), [[Epicureans]]
 
 #### Summary Formulas
@@ -125,7 +131,7 @@ flowchart TD
 - **[[Aristotle]] on nature:** Nature acts always for an end immanent to substances; each element tends toward its natural place; the cosmos is finite, unique, and eternal, with incorruptible celestial spheres and corruptible terrestrial elements.
 - **[[Aristotle]] on the soul:** The soul is the first entelechy of a natural organic body—the form that actualizes life; vegetative, sensitive, and intellective functions form a hierarchy where higher includes lower.
 - **[[Aristotle]] on knowledge:** Knowledge arises from sense experience through imagination's general images and intellect's abstraction of universals; the active intellect—separate, unmixed, immortal—actualizes potential knowledge as light actualizes colors.
-- **[[Democritus]] vs [[Aristotle]]:** Where Democritus sees atoms in void moving by mechanical necessity, Aristotle sees formed substances in continuous space acting for intrinsic ends—a difference that will separate ancient from modern physics.
+- **[[Democritus]] vs [[Aristotle]]:** Where Democritus sees atoms in void moving by mechanical necessity, [[Aristotle]] sees formed substances in continuous space acting for intrinsic ends—a difference that will separate ancient from modern physics.
 
 #### Timeline
 
@@ -134,10 +140,10 @@ flowchart TD
 | 460 BCE | [[Democritus]] born; develops atomistic mechanism |
 | 428 BCE | [[Plato]] born; will develop dualistic psychology |
 | 384 BCE | [[Aristotle]] born in Stagira |
-| 367 BCE | [[Aristotle]] enters Plato's Academy |
+| 367 BCE | [[Aristotle]] enters [[Plato]]'s Academy |
 | 335 BCE | [[Aristotle]] founds the Lyceum; lectures on physics and psychology |
 | 322 BCE | [[Aristotle]] dies; Theophrastus continues Peripatetic physics |
-| 13th c. CE | [[Thomas Aquinas]] interprets active intellect as individual |
+| 13th c. CE | [[Aquinas]] interprets active intellect as individual |
 | 15th c. CE | [[Nicholas of Cusa]] challenges celestial/terrestrial distinction |
 | 17th c. CE | [[Galileo]] and [[Newton]] overthrow Aristotelian physics |
 
@@ -152,20 +158,6 @@ flowchart TD
 > "This intellect is separate, unmixed, impassible, and in its essence actuality... and this alone is immortal and eternal."
 > — [[Aristotle]]
 
-#### See Also
-
-- [[Physics]]
-- [[Natural Philosophy]]
-- [[Teleology]]
-- [[Hylomorphism]]
-- [[Soul]]
-- [[Active Intellect]]
-- [[Four Elements]]
-- [[Natural Places]]
-- [[Geocentrism]]
-- [[Atomism]]
-- [[Mechanism]]
-- [[Epistemology]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

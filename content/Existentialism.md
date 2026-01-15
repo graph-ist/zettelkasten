@@ -1,5 +1,4 @@
 ---
-key: ['Post-structuralism and Derida']
 cssclasses:
   - Philosophy
 subclasses:
@@ -7,19 +6,12 @@ subclasses:
   - Phenomenology
   - 20th-Century-Philosophy
 aliases:
-  - existentialism
-  - dasein
   - being time
-  - authenticity
-  - angst
   - being world
   - care structure
   - being death
-  - thrownness
-  - facticity
   - the they
   - existence precedes
-  - nothingness
   - freedom responsibility
 contributions:
   - Conceptual
@@ -32,7 +24,18 @@ authors:
   - "[[Marcel]]"
   - "[[Abbagnano]]"
   - "[[Merleau-Ponty]]"
-reference: "[[06 The search for thought - Unit 8 Chapter 2.pdf]]"
+reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
+related:
+  - "[[Phenomenology]]"
+  - "[[Hermeneutics]]"
+  - "[[Absurdism]]"
+  - "[[Being and Time]]"
+  - "[[Being and Nothingness]]"
+  - "[[Anxiety]]"
+  - "[[Authenticity]]"
+  - "[[Decadentism]]"
+  - "[[Kierkegaard-Renaissance]]"
+  - "[[Nihilism]]"
 ---
 
 #### Central Problem
@@ -47,7 +50,7 @@ The existentialist challenge is directed against all philosophies that: misconce
 
 Existentialism, both as a cultural climate and as a strict philosophical movement, holds that existence constitutes the distinctive mode of being proper to humans, qualitatively different from all other entities in the world. The common features uniting various existentialist philosophies include:
 
-**Existence as Relational:** Human existence is not self-sufficient but constitutively open to an "beyond" — whether conceived as ontological event (Heidegger), experiential reality (Sartre, Abbagnano), or divine transcendence (Jaspers, Marcel, Pareyson). The relationship between existence and being constitutes the central and decisive theme.
+**Existence as Relational:** Human existence is not self-sufficient but constitutively open to an "beyond" — whether conceived as ontological event (Heidegger), experiential reality (Sartre, Abbagnano), or divine transcendence (Jaspers, [[Marcel]], Pareyson). The relationship between existence and being constitutes the central and decisive theme.
 
 **Choice and Authenticity:** The existential relationship with being requires choice, project, and risk. Human beings are not substantial, predetermined realities but entities facing infinite possibilities that call upon their freedom, placing choices between authenticity and inauthenticity.
 
@@ -63,11 +66,12 @@ The existentialist climate characterized the period between the two World Wars, 
 
 Key literary precursors include Dostoevsky, whose works portray the drama of humans facing life's possibilities while bearing the weight of choice and responsibility, and Kafka, who expresses the negative, paralyzing sense of human possibilities under the threat of insignificance and nothingness. The Grand Inquisitor's project in The Brothers Karamazov yields to Christ's silence — symbol of constitutive human freedom from which both good and evil flow.
 
-Existentialist literature proper emerged through Sartre's writings on human problematicity and life's tragic aspects, Simone de Beauvoir's exploration of moral ambiguity, and Camus's meditation on the absurd — the divorce between rational expectations and brute factual reality, between human desire for happiness and clarity and the universe's indifferent opacity.
+Existentialist literature proper emerged through [[Sartre]]'s writings on human problematicity and life's tragic aspects, Simone de Beauvoir's exploration of moral ambiguity, and Camus's meditation on the absurd — the divorce between rational expectations and brute factual reality, between human desire for happiness and clarity and the universe's indifferent opacity.
 
 Italian hermeticism (Ungaretti, Montale, Quasimodo, Saba) paralleled existentialist themes: solitude, life's illusion, death, mystery, oblivion, and time's irrevocability. Ungaretti's "Allegria di naufragi" (1919) described life as a shipwreck of hopes, while Montale articulated suffering ("spesso il male di vivere ho incontrato") and existence's insurmountable limits.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -165,7 +169,7 @@ flowchart TD
 | 1939 | [[Abbagnano]] publishes *Structure of Existence* — Italian positive existentialism begins |
 | 1943 | [[Sartre]] publishes *Being and Nothingness*; [[Camus]] publishes *The Myth of Sisyphus* |
 | 1946 | [[Sartre]] delivers "Existentialism is a Humanism" |
-| 1947 | [[Heidegger]] publishes *Letter on Humanism* — critique of Sartre |
+| 1947 | [[Heidegger]] publishes *Letter on Humanism* — critique of [[Sartre]] |
 | 1950 | [[Pareyson]] publishes *Existence and Person* |
 | 1951 | [[Camus]] publishes *The Rebel* |
 
@@ -177,18 +181,6 @@ flowchart TD
 
 > "Man, being condemned to be free, carries the weight of the whole world on his shoulders: he is responsible for the world and for himself as a way of being." — [[Sartre]]
 
-#### See Also
-
-- [[Phenomenology]]
-- [[Hermeneutics]]
-- [[Absurdism]]
-- [[Being and Time]]
-- [[Being and Nothingness]]
-- [[Anxiety]]
-- [[Authenticity]]
-- [[Decadentism]]
-- [[Kierkegaard-Renaissance]]
-- [[Nihilism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

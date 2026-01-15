@@ -7,18 +7,14 @@ subclasses:
   - 19th-Century-Philosophy
   - Aesthetics
 aliases:
-  - romanticism
   - german idealism
-  - sehnsucht
   - infinite longing
   - irony philosophy
-  - titanism
   - romantic love
   - romantic art
   - sentiment feeling
   - dialectical reason
   - pantheism immanence
-  - traditionalism
 contributions:
   - Conceptual
 authors:
@@ -31,14 +27,25 @@ authors:
   - "[[Schleiermacher]]"
   - "[[Schiller]]"
   - "[[Goethe]]"
-reference: "[[04 The search for thought - Unit 8 Chapter 2.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
+related:
+  - "[[German Idealism]]"
+  - "[[Sturm und Drang]]"
+  - "[[Enlightenment]]"
+  - "[[Critique of Pure Reason]]"
+  - "[[Pantheism]]"
+  - "[[Aesthetics]]"
+  - "[[Philosophy of History]]"
+  - "[[Traditionalism]]"
+  - "[[Spiritualism]]"
+  - "[[Positivism]]"
 ---
 
 #### Central Problem
 
 The chapter confronts the fundamental historiographical and philosophical problem of defining "Romanticism" as a cultural phenomenon. The term, originally referring to chivalric romances full of adventures and love, designates the philosophical, literary, and artistic movement born in Germany in the last years of the eighteenth century, reaching its maximum flourishing throughout Europe in the first decades of the nineteenth century and shaping the mentality of much of that century.
 
-The critical elucidation of the concept of Romanticism proves even more complex than that of "Renaissance" or "Enlightenment," encountering seemingly insurmountable obstacles deriving primarily from the difficulty of adequately defining its historiographical scope. Two fundamental interpretations have been elaborated: a narrow view identifying Romanticism with the exaltation of sentiment (codified by Hegel), and a broader interpretation viewing it as a historical atmosphere or general mental situation reflected in literature, philosophy, politics, and painting alike.
+The critical elucidation of the concept of Romanticism proves even more complex than that of "Renaissance" or "Enlightenment," encountering seemingly insurmountable obstacles deriving primarily from the difficulty of adequately defining its historiographical scope. Two fundamental interpretations have been elaborated: a narrow view identifying Romanticism with the exaltation of sentiment (codified by [[Hegel]]), and a broader interpretation viewing it as a historical atmosphere or general mental situation reflected in literature, philosophy, politics, and painting alike.
 
 The central philosophical tension lies in Romanticism's rejection of Enlightenment reason and its search for alternative paths to access reality and the Absolute—whether through sentiment, art, religious faith, or dialectical reason. This involves understanding Romanticism not merely as a literary school but as an "epoch," "civilization," and "culture" with its characteristic worldview (Weltanschauung).
 
@@ -50,19 +57,20 @@ The chapter advances a nuanced interpretation of Romanticism as a cultural atmos
 
 **Alternative Paths to the Absolute:** The Romantics pursue multiple alternative routes: (1) the exaltation of sentiment as the most functional organ for relating to life and penetrating the universe's essence; (2) the cult of art as "wisdom of the world" and anticipation of logical discourse; (3) the celebration of religious faith as privileged access to reality; (4) the affirmation of dialectical reason (Hegel), which through logic rather than poetic or mystical nebulousness can achieve founded discourse on the infinite.
 
-**The Sense of the Infinite:** Unlike Kant, who constructed a philosophy of the finite and the limit, Romantics everywhere seek the beyond-limit—that which flees defined contours and escapes the laws of order and measure. This "intoxication of the infinite" colors all romantic experiences, generating characteristic states such as Sehnsucht (infinite longing), irony (consciousness of the finite's nothingness before the infinite), titanism (defiant rebellion despite inevitable defeat), and the tendency toward evasion into remote worlds or dreams.
+**The Sense of the Infinite:** Unlike [[Kant]], who constructed a philosophy of the finite and the limit, Romantics everywhere seek the beyond-limit—that which flees defined contours and escapes the laws of order and measure. This "intoxication of the infinite" colors all romantic experiences, generating characteristic states such as Sehnsucht (infinite longing), irony (consciousness of the finite's nothingness before the infinite), titanism (defiant rebellion despite inevitable defeat), and the tendency toward evasion into remote worlds or dreams.
 
 **Two Phases of Romanticism:** The first Romanticism is immanentist and pantheist (emphasizing identity between finite and infinite), while the second is transcendentist and theist (emphasizing distinction between infinite and its manifestations), often accompanied by acceptance of positive religions like Catholicism.
 
 #### Historical Context
 
-German Romanticism was born in Jena in the last years of the eighteenth century, with the founding of the "Athenaeum" journal (1798-1800) in Berlin. The movement emerged as a reaction against the failures of the French Revolution and Napoleonic militarism, which discredited Enlightenment reason. The Romantics developed ideas that had been germinating in the Sturm und Drang movement, which first denounced reason's incapacity (within the limits Kant imposed) to attain the substance of things and higher divine realities.
+German Romanticism was born in Jena in the last years of the eighteenth century, with the founding of the "Athenaeum" journal (1798-1800) in [[Berlin]]. The movement emerged as a reaction against the failures of the French Revolution and Napoleonic militarism, which discredited Enlightenment reason. The Romantics developed ideas that had been germinating in the Sturm und Drang movement, which first denounced reason's incapacity (within the limits [[Kant]] imposed) to attain the substance of things and higher divine realities.
 
-The circle at Jena included Friedrich von Schlegel (1772-1829), the movement's theorist; August Wilhelm von Schlegel (1767-1845); Caroline Michaelis (1763-1809), later wife of Schelling; and Novalis (Friedrich von Hardenberg, 1772-1801). Friedrich Hölderlin (1770-1843) also participated in this intellectual atmosphere despite remaining officially apart. The Schlegels established contacts with Fichte (met in Jena 1796), whom they credited with the paternity of the Romantic movement, and with Schelling, whose thought seemed the most complete philosophical incarnation of the new ideas.
+The circle at Jena included Friedrich von [[Schlegel]] (1772-1829), the movement's theorist; August Wilhelm von [[Schlegel]] (1767-1845); Caroline Michaelis (1763-1809), later wife of [[Schelling]]; and [[Novalis]] (Friedrich von Hardenberg, 1772-1801). Hölderlin (1770-1843) also participated in this intellectual atmosphere despite remaining officially apart. The Schlegels established contacts with [[Fichte]] (met in Jena 1796), whom they credited with the paternity of the Romantic movement, and with [[Schelling]], whose thought seemed the most complete philosophical incarnation of the new ideas.
 
-After Novalis's death in 1801, the Jena group dissolved, but its ideas rapidly spread to other German centers (Munich, Dresden, Heidelberg) and abroad. The second phase saw conversions to positive religions (Friedrich von Schlegel to Catholicism) and increasing conservatism in political and social thought. Throughout nineteenth-century Europe, Romantic mentality influenced diverse movements including French traditionalism (de Bonald, de Maistre, Lamennais), spiritualism (Maine de Biran), and Italian Risorgimento philosophy (Rosmini, Gioberti, Mazzini).
+After Novalis's death in 1801, the Jena group dissolved, but its ideas rapidly spread to other German centers (Munich, Dresden, Heidelberg) and abroad. The second phase saw conversions to positive religions (Friedrich von [[Schlegel]] to Catholicism) and increasing conservatism in political and social thought. Throughout nineteenth-century Europe, Romantic mentality influenced diverse movements including French traditionalism (de Bonald, de Maistre, Lamennais), spiritualism (Maine de [[Biran]]), and Italian Risorgimento philosophy (Rosmini, Gioberti, Mazzini).
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -151,8 +159,8 @@ flowchart TD
 |------|-------|
 | 1794 | [[Fichte]] publishes *Science of Knowledge*, discovering romantic concept of infinite Spirit |
 | 1795 | [[Schiller]] publishes *On Naive and Sentimental Poetry* |
-| 1796 | Schlegel brothers meet [[Fichte]] at Jena |
-| 1797 | [[Schlegel]] moves to Berlin, founds "Athenaeum" circle |
+| 1796 | [[Schlegel]] brothers meet [[Fichte]] at Jena |
+| 1797 | [[Schlegel]] moves to [[Berlin]], founds "Athenaeum" circle |
 | 1798 | "Athenaeum" journal begins publication (until 1800) |
 | 1799 | [[Schleiermacher]] publishes *On Religion: Speeches to Its Cultured Despisers* |
 | 1799 | [[Schlegel]] publishes *Lucinde* |
@@ -170,18 +178,6 @@ flowchart TD
 
 > "Romantic poetry is still becoming […] it alone is infinite, as it alone is free, and recognizes as its first law that the poet's arbitrary will suffers no law." — [[Schlegel]]
 
-#### See Also
-
-- [[German Idealism]]
-- [[Sturm und Drang]]
-- [[Enlightenment]]
-- [[Critique of Pure Reason]]
-- [[Pantheism]]
-- [[Aesthetics]]
-- [[Philosophy of History]]
-- [[Traditionalism]]
-- [[Spiritualism]]
-- [[Positivism]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*

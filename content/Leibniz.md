@@ -6,16 +6,9 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Epistemology
 aliases:
-  - monad
-  - monads
-  - leibniz
   - preestablished harmony
   - best possible
-  - theodicy
   - sufficient reason
-  - substance
-  - perception
-  - apperception
   - infinitesimal calculus
   - eternal truths
 contributions:
@@ -26,14 +19,25 @@ authors:
   - "[[Spinoza]]"
   - "[[Locke]]"
   - "[[Newton]]"
-reference: "[[03 The search for thought - Unit 4 Chapter 3.pdf]]"
+reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
+related:
+  - "[[Rationalism]]"
+  - "[[Monadology]]"
+  - "[[Pre-established Harmony]]"
+  - "[[Theodicy]]"
+  - "[[Problem of Evil]]"
+  - "[[Mind-Body Problem]]"
+  - "[[Infinitesimal Calculus]]"
+  - "[[Descartes]]"
+  - "[[Spinoza]]"
+  - "[[Kant]]"
 ---
 
 #### Central Problem
 
-Leibniz confronts the fundamental metaphysical question of what constitutes the ultimate reality of the universe and how to reconcile the mechanical explanations of modern science with a metaphysical framework that preserves purpose, freedom, and divine providence. Against Cartesian dualism (which separated extended substance from thinking substance) and Spinozan monism (which collapsed everything into a single necessary substance), Leibniz seeks to articulate a pluralistic metaphysics that can account for both the physical and spiritual dimensions of reality.
+[[Leibniz]] confronts the fundamental metaphysical question of what constitutes the ultimate reality of the universe and how to reconcile the mechanical explanations of modern science with a metaphysical framework that preserves purpose, freedom, and divine providence. Against Cartesian dualism (which separated extended substance from thinking substance) and Spinozan monism (which collapsed everything into a single necessary substance), [[Leibniz]] seeks to articulate a pluralistic metaphysics that can account for both the physical and spiritual dimensions of reality.
 
-The central tension in Leibniz's philosophy lies in explaining how individual substances can be genuinely autonomous and self-sufficient while nonetheless forming a harmonious, ordered universe. If monads have "no windows" through which anything can enter or exit, how do they coordinate their activities? How can we account for the apparent interaction between mind and body, between soul and physical world? Furthermore, Leibniz must address the theological problem of evil: if God is omnipotent, omniscient, and perfectly good, why does evil exist in the world He created?
+The central tension in [[Leibniz]]'s philosophy lies in explaining how individual substances can be genuinely autonomous and self-sufficient while nonetheless forming a harmonious, ordered universe. If monads have "no windows" through which anything can enter or exit, how do they coordinate their activities? How can we account for the apparent interaction between mind and body, between soul and physical world? Furthermore, [[Leibniz]] must address the theological problem of evil: if God is omnipotent, omniscient, and perfectly good, why does evil exist in the world He created?
 
 #### Main Thesis
 
@@ -49,13 +53,14 @@ Leibniz's central thesis holds that reality is composed of infinitely many simpl
 
 #### Historical Context
 
-Leibniz (1646-1716) lived during the height of the Scientific Revolution and the consolidation of early modern rationalism. The mechanical philosophy of Descartes and the new physics of Galileo and Newton had transformed understanding of the natural world, explaining phenomena through matter and motion rather than Aristotelian forms and final causes. Yet this mechanical worldview raised profound metaphysical questions: What is the ultimate nature of matter? How do mind and body interact? What role remains for God, purpose, and value in a clockwork universe?
+[[Leibniz]] (1646-1716) lived during the height of the Scientific Revolution and the consolidation of early modern rationalism. The mechanical philosophy of [[Descartes]] and the new physics of [[Galileo]] and [[Newton]] had transformed understanding of the natural world, explaining phenomena through matter and motion rather than Aristotelian forms and final causes. Yet this mechanical worldview raised profound metaphysical questions: What is the ultimate nature of matter? How do mind and body interact? What role remains for God, purpose, and value in a clockwork universe?
 
-The religious context was equally turbulent. The Thirty Years' War (1618-1648) had devastated Europe, and confessional divisions between Catholics and Protestants remained deep. Leibniz spent considerable effort on ecumenical projects aimed at reuniting Christianity. His philosophical optimism — the doctrine that this is the best of all possible worlds — must be understood against this backdrop of religious conflict and the need to justify divine providence.
+The religious context was equally turbulent. The Thirty Years' War (1618-1648) had devastated Europe, and confessional divisions between Catholics and Protestants remained deep. [[Leibniz]] spent considerable effort on ecumenical projects aimed at reuniting Christianity. His philosophical optimism — the doctrine that this is the best of all possible worlds — must be understood against this backdrop of religious conflict and the need to justify divine providence.
 
-Intellectually, Leibniz engaged with the major philosophical alternatives of his time: Cartesian dualism, Spinozan monism, Lockean empiricism, and the occasionalism of Malebranche. His monadology represents an ambitious attempt to synthesize insights from all these traditions while avoiding their perceived deficiencies — particularly Spinoza's necessitarianism, which Leibniz saw as a threat to human freedom and divine choice.
+Intellectually, [[Leibniz]] engaged with the major philosophical alternatives of his time: Cartesian dualism, Spinozan monism, Lockean empiricism, and the occasionalism of Malebranche. His monadology represents an ambitious attempt to synthesize insights from all these traditions while avoiding their perceived deficiencies — particularly [[Spinoza]]'s necessitarianism, which [[Leibniz]] saw as a threat to human freedom and divine choice.
 
 #### Philosophical Lineage
+
 
 ```mermaid
 flowchart TD
@@ -150,18 +155,6 @@ flowchart TD
 
 > "This is the best of all possible worlds." — [[Leibniz]]
 
-#### See Also
-
-- [[Rationalism]]
-- [[Monadology]]
-- [[Pre-established Harmony]]
-- [[Theodicy]]
-- [[Problem of Evil]]
-- [[Mind-Body Problem]]
-- [[Infinitesimal Calculus]]
-- [[Descartes]]
-- [[Spinoza]]
-- [[Kant]]
-
+---
 > [!NOTE]
 > *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
