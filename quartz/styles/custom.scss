@@ -81,4 +81,9 @@ button.toc-header h3,
     font-size: 0.95rem !important;
     line-height: 1.6rem !important;
   }
+  
+  // Hide "Home" text on mobile
+  .page-title {
+    display: none;
+  }
 }

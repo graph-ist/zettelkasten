@@ -2,13 +2,10 @@
 a.virtual-link {
   color: var(--secondary);
   text-decoration: none;
-  border-bottom: 1px dashed var(--secondary);
   transition: all 0.2s ease;
   
   &:hover {
     color: var(--tertiary);
-    border-bottom-style: solid;
-    border-bottom-color: var(--tertiary);
   }
 }
 
@@ -18,9 +15,8 @@ a.virtual-link {
 }
 
 .virtual-link-options {
-  font-size: 0.75em;
-  color: var(--gray);
-  vertical-align: super;
+  color: var(--darkgray);
+  vertical-align: baseline;
   
   a.virtual-link-num {
     color: var(--secondary);

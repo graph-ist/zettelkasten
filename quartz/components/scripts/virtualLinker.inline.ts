@@ -123,22 +123,22 @@ document.addEventListener("nav", async () => {
 
           const options = document.createElement("span")
           options.className = "virtual-link-options"
-          options.textContent = " ["
+          options.textContent = " ("
           
           pages.forEach((page, i) => {
             if (i > 0) {
-              const sep = document.createTextNode("|")
+              const sep = document.createTextNode(", ")
               options.appendChild(sep)
             }
             const numLink = document.createElement("a")
             numLink.href = page.slug
             numLink.className = "virtual-link-num internal"
-            numLink.textContent = String(i + 1)
+            numLink.textContent = String.fromCharCode(97 + i) // a, b, c...
             numLink.title = page.title
             options.appendChild(numLink)
           })
           
-          options.appendChild(document.createTextNode("]"))
+          options.appendChild(document.createTextNode(")"))
           span.appendChild(options)
 
           parent.insertBefore(beforeNode, textNode)
