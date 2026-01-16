@@ -5,23 +5,13 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Epistemology
   - Ethics
+related:
+  - "[[Socrates]]"
 aliases:
   - man is
   - greek enlightenment
-contributions:
-  - Conceptual
-authors:
-  - "[[Protagoras]]"
-  - "[[Gorgias]]"
-  - "[[Prodicus]]"
-  - "[[Hippias]]"
-  - "[[Antiphon]]"
-  - "[[Thrasymachus]]"
-  - "[[Critias]]"
-  - "[[Callicles]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
-related:
-  - "[[Socrates]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

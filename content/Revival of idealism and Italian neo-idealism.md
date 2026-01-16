@@ -5,27 +5,6 @@ subclasses:
   - Epistemology
   - Aesthetics
   - 19th-Century-Philosophy
-aliases:
-  - neo idealism
-  - philosophy spirit
-  - intuition expression
-  - ideal types
-  - circular spirit
-  - absolute historicism
-  - art autonomy
-  - philosophy history
-  - lyrical intuition
-  - distinct forms
-contributions:
-  - Conceptual
-authors:
-  - "[[Croce]]"
-  - "[[Gentile]]"
-  - "[[Hegel]]"
-  - "[[Vico]]"
-  - "[[Sanctis]]"
-  - "[[Spaventa]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Absolute Idealism]]"
   - "[[Historicism]]"
@@ -37,6 +16,19 @@ related:
   - "[[Expression]]"
   - "[[Liberalism]]"
   - "[[Fascism]]"
+aliases:
+  - neo idealism
+  - philosophy spirit
+  - intuition expression
+  - ideal types
+  - circular spirit
+  - absolute historicism
+  - art autonomy
+  - philosophy history
+  - lyrical intuition
+  - distinct forms
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

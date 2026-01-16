@@ -6,23 +6,6 @@ subclasses:
   - Philosophy-of-Science
   - Epistemology
   - Medieval-and-Renaissance-Philosophy
-aliases:
-  - scientific revolution
-  - copernican revolution
-  - infinite universe
-  - experimental method
-  - mathematical physics
-  - new science
-  - nature laws
-contributions:
-  - Conceptual
-authors:
-  - "[[Copernico]]"
-  - "[[Bruno]]"
-  - "[[Kepler]]"
-  - "[[Brahe]]"
-  - "[[Galilei]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Galilei]]"
   - "[[Newton]]"
@@ -34,6 +17,16 @@ related:
   - "[[Infinite Universe]]"
   - "[[Heliocentrism]]"
   - "[[Renaissance]]"
+aliases:
+  - scientific revolution
+  - copernican revolution
+  - infinite universe
+  - experimental method
+  - mathematical physics
+  - new science
+  - nature laws
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

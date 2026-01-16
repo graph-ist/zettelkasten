@@ -5,25 +5,6 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Philosophy-of-Religion
   - Epistemology
-aliases:
-  - wager argument
-  - hidden god
-  - esprit finesse
-  - heart reasons
-  - original sin
-  - human condition
-  - fallen king
-  - geometric spirit
-contributions:
-  - Conceptual
-authors:
-  - "[[Pascal]]"
-  - "[[Descartes]]"
-  - "[[Augustine]]"
-  - "[[Jansenius]]"
-  - "[[Arnauld]]"
-  - "[[Montaigne]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Jansenism]]"
   - "[[Original Sin]]"
@@ -35,6 +16,17 @@ related:
   - "[[Probability Theory]]"
   - "[[Port-Royal]]"
   - "[[Provincial Letters]]"
+aliases:
+  - wager argument
+  - hidden god
+  - esprit finesse
+  - heart reasons
+  - original sin
+  - human condition
+  - fallen king
+  - geometric spirit
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

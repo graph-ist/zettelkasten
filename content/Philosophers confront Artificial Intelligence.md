@@ -6,26 +6,6 @@ subclasses:
   - Philosophy-of-Mind
   - Philosophy-of-Cognitive-Science
   - 20th-Century-Philosophy
-aliases:
-  - artificial intelligence
-  - turing test
-  - chinese room
-  - mind computer
-  - strong ai
-  - weak ai
-  - machine intelligence
-  - neural networks
-  - computational mind
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Turing]]"
-  - "[[Searle]]"
-  - "[[Dreyfus]]"
-  - "[[Putnam]]"
-  - "[[Minsky]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Philosophy of Mind]]"
   - "[[Cognitive Science]]"
@@ -37,6 +17,18 @@ related:
   - "[[Embodied Cognition]]"
   - "[[Heidegger]]"
   - "[[Speech Acts]]"
+aliases:
+  - artificial intelligence
+  - turing test
+  - chinese room
+  - mind computer
+  - strong ai
+  - weak ai
+  - machine intelligence
+  - neural networks
+  - computational mind
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

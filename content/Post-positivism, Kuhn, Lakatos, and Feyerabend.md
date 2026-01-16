@@ -5,26 +5,6 @@ subclasses:
   - Philosophy-of-Science
   - Epistemology
   - 20th-Century-Philosophy
-aliases:
-  - post positivism
-  - paradigm shift
-  - scientific revolutions
-  - research programmes
-  - anarchism epistemology
-  - anything goes
-  - normal science
-  - theory laden
-  - kuhn paradigm
-  - lakatos methodology
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Kuhn]]"
-  - "[[Lakatos]]"
-  - "[[Feyerabend]]"
-  - "[[Popper]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Critical Rationalism]]"
   - "[[Logical Positivism]]"
@@ -36,6 +16,19 @@ related:
   - "[[Relativism]]"
   - "[[Dadaism]]"
   - "[[Popper]]"
+aliases:
+  - post positivism
+  - paradigm shift
+  - scientific revolutions
+  - research programmes
+  - anarchism epistemology
+  - anything goes
+  - normal science
+  - theory laden
+  - kuhn paradigm
+  - lakatos methodology
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

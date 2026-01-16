@@ -5,24 +5,6 @@ subclasses:
   - 20th-Century-Philosophy
   - Continental-Philosophy
   - Hermeneutics
-aliases:
-  - postmodern philosophy
-  - weak thought
-  - grand narratives
-  - end modernity
-  - legitimation crisis
-  - language games
-  - pensiero debole
-contributions:
-  - Conceptual
-authors:
-  - "[[Lyotard]]"
-  - "[[Vattimo]]"
-  - "[[Rorty]]"
-  - "[[Nietzsche]]"
-  - "[[Heidegger]]"
-  - "[[Habermas]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
 related:
   - "[[Postmodernism]]"
   - "[[Nihilism]]"
@@ -34,6 +16,16 @@ related:
   - "[[Discourse Ethics]]"
   - "[[Mass Media Philosophy]]"
   - "[[Multiculturalism]]"
+aliases:
+  - postmodern philosophy
+  - weak thought
+  - grand narratives
+  - end modernity
+  - legitimation crisis
+  - language games
+  - pensiero debole
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
 ---
 
 #### Central Problem

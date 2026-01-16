@@ -5,25 +5,6 @@ subclasses:
   - Hermeneutics
   - 20th-Century-Philosophy
   - Continental-Philosophy
-aliases:
-  - truth method
-  - hermeneutic circle
-  - fusion horizons
-  - interpretation theory
-  - effective history
-  - language being
-  - aesthetic experience
-contributions:
-  - Conceptual
-authors:
-  - "[[Gadamer]]"
-  - "[[Heidegger]]"
-  - "[[Schleiermacher]]"
-  - "[[Dilthey]]"
-  - "[[Betti]]"
-  - "[[Pareyson]]"
-  - "[[Ricoeur]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
 related:
   - "[[Phenomenology]]"
   - "[[Heidegger]]"
@@ -35,6 +16,16 @@ related:
   - "[[Ricoeur]]"
   - "[[Schleiermacher]]"
   - "[[Dilthey]]"
+aliases:
+  - truth method
+  - hermeneutic circle
+  - fusion horizons
+  - interpretation theory
+  - effective history
+  - language being
+  - aesthetic experience
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
 ---
 
 #### Central Problem

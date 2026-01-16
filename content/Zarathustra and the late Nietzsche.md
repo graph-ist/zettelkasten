@@ -5,22 +5,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Continental-Philosophy
   - Ethics
-aliases:
-  - eternal return
-  - genealogy morality
-  - master morality
-  - slave morality
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Nietzsche]]"
-  - "[[Schopenhauer]]"
-  - "[[Kant]]"
-  - "[[Bergson]]"
-  - "[[Heidegger]]"
-  - "[[Vattimo]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia.
 related:
   - "[[Death of God]]"
   - "[[Zarathustra]]"
@@ -32,6 +16,13 @@ related:
   - "[[Postmodernism]]"
   - "[[Existentialism]]"
   - "[[Vitalism]]"
+aliases:
+  - eternal return
+  - genealogy morality
+  - master morality
+  - slave morality
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia.
 ---
 
 #### Central Problem

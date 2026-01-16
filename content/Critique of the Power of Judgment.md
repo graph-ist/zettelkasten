@@ -5,19 +5,6 @@ subclasses:
   - Aesthetics
   - 17th-18th-Century-Philosophy
   - Epistemology
-aliases:
-  - third critique
-  - aesthetic judgment
-  - teleological judgment
-  - reflective judgment
-  - determinant judgment
-contributions:
-  - Conceptual
-authors:
-  - "[[Kant]]"
-  - "[[Burke]]"
-  - "[[Schiller]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[Critique of Pure Reason]]"
   - "[[Critique of Practical Reason]]"
@@ -29,6 +16,14 @@ related:
   - "[[Sublime]]"
   - "[[Taste]]"
   - "[[Genius]]"
+aliases:
+  - third critique
+  - aesthetic judgment
+  - teleological judgment
+  - reflective judgment
+  - determinant judgment
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

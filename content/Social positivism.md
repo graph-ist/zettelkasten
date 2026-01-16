@@ -6,26 +6,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Philosophy-of-Science
   - Social-and-Political-Philosophy
-aliases:
-  - positive philosophy
-  - law three
-  - social physics
-  - scientific method
-  - industrial society
-  - encyclopaedia sciences
-  - uniformity nature
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Comte]]"
-  - "[[Saint-Simon]]"
-  - "[[Mill]]"
-  - "[[Bentham]]"
-  - "[[Fourier]]"
-  - "[[Proudhon]]"
-  - "[[Cattaneo]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Enlightenment]]"
   - "[[Utilitarianism]]"
@@ -37,6 +17,16 @@ related:
   - "[[Empiricism]]"
   - "[[Scientism]]"
   - "[[Spencer]]"
+aliases:
+  - positive philosophy
+  - law three
+  - social physics
+  - scientific method
+  - industrial society
+  - encyclopaedia sciences
+  - uniformity nature
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

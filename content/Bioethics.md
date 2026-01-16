@@ -6,28 +6,6 @@ subclasses:
   - Applied-Ethics
   - Ethics
   - 20th-Century-Philosophy
-aliases:
-  - medical ethics
-  - life ethics
-  - sanctity life
-  - quality life
-  - secular bioethics
-  - catholic bioethics
-  - natural law
-  - moral principles
-  - euthanasia debate
-  - abortion ethics
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Potter]]"
-  - "[[Sgreccia]]"
-  - "[[Beauchamp]]"
-  - "[[Childress]]"
-  - "[[Engelhardt]]"
-  - "[[Scarpelli]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Applied Ethics]]"
   - "[[Medical Ethics]]"
@@ -39,6 +17,19 @@ related:
   - "[[Autonomy]]"
   - "[[Euthanasia]]"
   - "[[Abortion Ethics]]"
+aliases:
+  - medical ethics
+  - life ethics
+  - sanctity life
+  - quality life
+  - secular bioethics
+  - catholic bioethics
+  - natural law
+  - moral principles
+  - euthanasia debate
+  - abortion ethics
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

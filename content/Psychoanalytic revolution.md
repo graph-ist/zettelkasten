@@ -6,24 +6,6 @@ subclasses:
   - 19th-Century-Philosophy
   - 20th-Century-Philosophy
   - Philosophy-of-Mind
-aliases:
-  - dream interpretation
-  - oedipus complex
-  - ego superego
-  - jung archetypes
-  - id ego
-  - collective unconscious
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Freud]]"
-  - "[[Jung]]"
-  - "[[Adler]]"
-  - "[[Breuer]]"
-  - "[[Charcot]]"
-  - "[[Groddek]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Psychoanalysis]]"
   - "[[Unconscious]]"
@@ -35,6 +17,15 @@ related:
   - "[[Nietzsche]]"
   - "[[Masters of Suspicion]]"
   - "[[Critical Theory]]"
+aliases:
+  - dream interpretation
+  - oedipus complex
+  - ego superego
+  - jung archetypes
+  - id ego
+  - collective unconscious
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

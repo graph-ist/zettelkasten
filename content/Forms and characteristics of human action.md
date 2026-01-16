@@ -5,17 +5,6 @@ subclasses:
   - Ethics
   - Ancient-Greek-and-Roman-Philosophy
   - Social-and-Political-Philosophy
-aliases:
-  - golden mean
-  - practical wisdom
-  - political philosophy
-  - contemplative life
-contributions:
-  - Conceptual
-authors:
-  - "[[Aristotle]]"
-  - "[[Plato]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Nicomachean Ethics]]"
   - "[[Politics]]"
@@ -28,6 +17,13 @@ related:
   - "[[Greek Political Philosophy]]"
   - "[[Catharsis]]"
   - "[[Mimesis]]"
+aliases:
+  - golden mean
+  - practical wisdom
+  - political philosophy
+  - contemplative life
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

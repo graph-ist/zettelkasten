@@ -5,22 +5,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Metaphysics
   - Epistemology
-aliases:
-  - late plato
-  - supreme genera
-  - non being
-  - unwritten doctrines
-  - one diad
-  - sophist dialogue
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Plato]]"
-  - "[[Parmenides]]"
-  - "[[Aristotle]]"
-  - "[[Pythagoras]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Theory of Forms]]"
   - "[[Parmenides]]"
@@ -34,6 +18,15 @@ related:
   - "[[Neoplatonism]]"
   - "[[Medieval Philosophy]]"
   - "[[Scientific Revolution]]"
+aliases:
+  - late plato
+  - supreme genera
+  - non being
+  - unwritten doctrines
+  - one diad
+  - sophist dialogue
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

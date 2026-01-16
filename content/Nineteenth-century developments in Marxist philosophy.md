@@ -6,29 +6,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
   - Critical-Theory
-aliases:
-  - marxism twentieth
-  - dialectical materialism
-  - class consciousness
-  - western marxism
-  - philosophy praxis
-  - organic intellectuals
-  - utopia hope
-  - soviet marxism
-  - historical materialism
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Lenin]]"
-  - "[[Lukács]]"
-  - "[[Gramsci]]"
-  - "[[Korsch]]"
-  - "[[Bloch]]"
-  - "[[Labriola]]"
-  - "[[Trotsky]]"
-  - "[[Stalin]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Historical Materialism]]"
   - "[[Dialectics]]"
@@ -40,6 +17,18 @@ related:
   - "[[Alienation]]"
   - "[[Praxis]]"
   - "[[Utopia]]"
+aliases:
+  - marxism twentieth
+  - dialectical materialism
+  - class consciousness
+  - western marxism
+  - philosophy praxis
+  - organic intellectuals
+  - utopia hope
+  - soviet marxism
+  - historical materialism
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

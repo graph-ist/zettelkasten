@@ -5,27 +5,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Metaphysics
   - Epistemology
-aliases:
-  - german idealism
-  - doctrine science
-  - absolute ego
-  - thing itself
-  - intellectual intuition
-  - infinite ego
-  - dialectical structure
-  - dogmatism idealism
-contributions:
-  - Conceptual
-authors:
-  - "[[Fichte]]"
-  - "[[Kant]]"
-  - "[[Reinhold]]"
-  - "[[Schulze]]"
-  - "[[Maimon]]"
-  - "[[Jacobi]]"
-  - "[[Schelling]]"
-  - "[[Hegel]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.
 related:
   - "[[German Idealism]]"
   - "[[Critical Philosophy]]"
@@ -37,6 +16,17 @@ related:
   - "[[Streben]]"
   - "[[Intellectual Intuition]]"
   - "[[Absolute]]"
+aliases:
+  - german idealism
+  - doctrine science
+  - absolute ego
+  - thing itself
+  - intellectual intuition
+  - infinite ego
+  - dialectical structure
+  - dogmatism idealism
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.
 ---
 
 #### Central Problem

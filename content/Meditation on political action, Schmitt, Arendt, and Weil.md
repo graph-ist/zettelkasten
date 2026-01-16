@@ -6,26 +6,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
   - Ethics
-aliases:
-  - political philosophy
-  - mass society
-  - friend enemy
-  - vita activa
-  - labor work
-  - public sphere
-  - democratic theory
-  - state exception
-  - political action
-  - banality evil
-contributions:
-  - Conceptual
-authors:
-  - "[[Schmitt]]"
-  - "[[Arendt]]"
-  - "[[Weil]]"
-  - "[[Kelsen]]"
-  - "[[Marx]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Totalitarianism]]"
   - "[[Political Philosophy]]"
@@ -37,6 +17,19 @@ related:
   - "[[Public Sphere]]"
   - "[[Labor Theory]]"
   - "[[Existentialism]]"
+aliases:
+  - political philosophy
+  - mass society
+  - friend enemy
+  - vita activa
+  - labor work
+  - public sphere
+  - democratic theory
+  - state exception
+  - political action
+  - banality evil
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

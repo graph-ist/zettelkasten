@@ -5,6 +5,17 @@ subclasses:
   - Epistemology
   - Metaphysics
   - 17th-18th-Century-Philosophy
+related:
+  - "[[Transcendental Idealism]]"
+  - "[[Critique of Practical Reason]]"
+  - "[[Critique of the Power of Judgment]]"
+  - "[[German Idealism]]"
+  - "[[Epistemology]]"
+  - "[[Rationalism]]"
+  - "[[Empiricism]]"
+  - "[[Metaphysics]]"
+  - "[[Philosophy of Science]]"
+  - "[[Neo-Kantianism]]"
 aliases:
   - critique pure
   - synthetic a
@@ -18,32 +29,8 @@ aliases:
   - forms intuition
   - space time
   - io penso
-contributions:
-  - Conceptual
-authors:
-  - "[[Kant]]"
-  - "[[Hume]]"
-  - "[[Newton]]"
-  - "[[Leibniz]]"
-  - "[[Locke]]"
-  - "[[Aristotle]]"
-  - "[[Descartes]]"
-  - "[[Berkeley]]"
-  - "[[Plato]]"
-  - "[[Anselm]]"
-  - "[[Aquinas]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
-related:
-  - "[[Transcendental Idealism]]"
-  - "[[Critique of Practical Reason]]"
-  - "[[Critique of the Power of Judgment]]"
-  - "[[German Idealism]]"
-  - "[[Epistemology]]"
-  - "[[Rationalism]]"
-  - "[[Empiricism]]"
-  - "[[Metaphysics]]"
-  - "[[Philosophy of Science]]"
-  - "[[Neo-Kantianism]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

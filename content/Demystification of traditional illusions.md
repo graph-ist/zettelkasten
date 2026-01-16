@@ -5,21 +5,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Metaphysics
   - Ethics
-aliases:
-  - death god
-  - genealogy morals
-  - will power
-  - tragic philosophy
-  - eternal return
-  - free spirit
-  - revaluation values
-contributions:
-  - Conceptual
-authors:
-  - "[[Nietzsche]]"
-  - "[[Schopenhauer]]"
-  - "[[Wagner]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia.
 related:
   - "[[Nihilism]]"
   - "[[Existentialism]]"
@@ -31,6 +16,16 @@ related:
   - "[[Dionysus]]"
   - "[[Genealogy of Morals]]"
   - "[[Postmodernism]]"
+aliases:
+  - death god
+  - genealogy morals
+  - will power
+  - tragic philosophy
+  - eternal return
+  - free spirit
+  - revaluation values
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia.
 ---
 
 #### Central Problem

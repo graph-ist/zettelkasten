@@ -7,27 +7,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
   - Ethics
-aliases:
-  - cultural diversity
-  - recognition politics
-  - liberalism politics
-  - identity politics
-  - cultural rights
-  - minority rights
-  - overlapping consensus
-  - inclusive society
-  - melting pot
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Taylor]]"
-  - "[[Rawls]]"
-  - "[[Kymlicka]]"
-  - "[[Sen]]"
-  - "[[Habermas]]"
-  - "[[Malinowski]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Communitarianism]]"
   - "[[Liberalism]]"
@@ -39,6 +18,18 @@ related:
   - "[[Pluralism]]"
   - "[[Democracy]]"
   - "[[Human Rights]]"
+aliases:
+  - cultural diversity
+  - recognition politics
+  - liberalism politics
+  - identity politics
+  - cultural rights
+  - minority rights
+  - overlapping consensus
+  - inclusive society
+  - melting pot
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

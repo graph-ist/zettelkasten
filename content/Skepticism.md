@@ -5,20 +5,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Epistemology
   - Ethics
-aliases:
-  - suspension judgment
-  - dogmatism critique
-contributions:
-  - Conceptual
-authors:
-  - "[[Pyrrho]]"
-  - "[[Timon]]"
-  - "[[Arcesilaus]]"
-  - "[[Carneades]]"
-  - "[[Aenesidemus]]"
-  - "[[Agrippa]]"
-  - "[[Empiricus]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Hellenistic Philosophy]]"
   - "[[Stoicism]]"
@@ -30,6 +16,11 @@ related:
   - "[[Socratic Method]]"
   - "[[Problem of Knowledge]]"
   - "[[Methodical Doubt]]"
+aliases:
+  - suspension judgment
+  - dogmatism critique
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

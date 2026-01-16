@@ -6,27 +6,6 @@ subclasses:
   - Philosophy-of-Science
   - 17th-18th-Century-Philosophy
   - Epistemology
-aliases:
-  - scientific method
-  - experimental science
-  - falling bodies
-  - telescope astronomy
-  - science faith
-  - sensate experiences
-  - necessary demonstrations
-  - galilean relativity
-  - objective properties
-  - subjective qualities
-contributions:
-  - Conceptual
-authors:
-  - "[[Galilei]]"
-  - "[[Copernico]]"
-  - "[[Bellarmino]]"
-  - "[[Aristotele]]"
-  - "[[Newton]]"
-  - "[[Keplero]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia.
 related:
   - "[[Scientific Revolution]]"
   - "[[Copernicanism]]"
@@ -40,6 +19,19 @@ related:
   - "[[Counter-Reformation]]"
   - "[[Inquisition]]"
   - "[[Empiricism]]"
+aliases:
+  - scientific method
+  - experimental science
+  - falling bodies
+  - telescope astronomy
+  - science faith
+  - sensate experiences
+  - necessary demonstrations
+  - galilean relativity
+  - objective properties
+  - subjective qualities
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia.
 ---
 
 #### Central Problem

@@ -6,24 +6,6 @@ subclasses:
   - Epistemology
   - Social-and-Political-Philosophy
   - 19th-Century-Philosophy
-aliases:
-  - ideal types
-  - value freedom
-  - verstehen sociology
-  - protestant ethic
-  - capitalism spirit
-  - charismatic authority
-  - causal imputation
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Weber]]"
-  - "[[Marx]]"
-  - "[[Rickert]]"
-  - "[[Dilthey]]"
-  - "[[Comte]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Neo-Kantianism]]"
   - "[[German Historicism]]"
@@ -35,6 +17,16 @@ related:
   - "[[Modernity]]"
   - "[[Charisma]]"
   - "[[Protestant Ethic]]"
+aliases:
+  - ideal types
+  - value freedom
+  - verstehen sociology
+  - protestant ethic
+  - capitalism spirit
+  - charismatic authority
+  - causal imputation
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

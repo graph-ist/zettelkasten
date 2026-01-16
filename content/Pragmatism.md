@@ -5,19 +5,6 @@ subclasses:
   - Epistemology
   - 19th-Century-Philosophy
   - 20th-Century-Philosophy
-aliases:
-  - truth utility
-  - democratic method
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Peirce]]"
-  - "[[James]]"
-  - "[[Dewey]]"
-  - "[[Vailati]]"
-  - "[[Unamuno]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Empiricism]]"
   - "[[Scientific Method]]"
@@ -29,6 +16,11 @@ related:
   - "[[Naturalism]]"
   - "[[Fallibilism]]"
   - "[[Theory of Inquiry]]"
+aliases:
+  - truth utility
+  - democratic method
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

@@ -5,25 +5,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Epistemology
   - Ethics
-aliases:
-  - socratic method
-  - know thyself
-  - virtue ethics
-  - moral rationalism
-  - examined life
-  - megarian school
-  - cynic school
-contributions:
-  - Conceptual
-authors:
-  - "[[Socrates]]"
-  - "[[Plato]]"
-  - "[[Xenophon]]"
-  - "[[Aristotle]]"
-  - "[[Euclides]]"
-  - "[[Antisthenes]]"
-  - "[[Aristippus]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Sophists]]"
   - "[[Plato]]"
@@ -35,6 +16,16 @@ related:
   - "[[Elenchus]]"
   - "[[Apology]]"
   - "[[Phaedo]]"
+aliases:
+  - socratic method
+  - know thyself
+  - virtue ethics
+  - moral rationalism
+  - examined life
+  - megarian school
+  - cynic school
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

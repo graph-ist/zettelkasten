@@ -5,22 +5,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Metaphysics
   - Logic-and-Philosophy-of-Logic
-aliases:
-  - eleatic school
-  - parmenides being
-  - zeno paradoxes
-  - being non
-  - truth opinion
-  - achilles tortoise
-  - immutable being
-contributions:
-  - Conceptual
-authors:
-  - "[[Parmenides]]"
-  - "[[Elea]]"
-  - "[[Melissus]]"
-  - "[[Xenophanes]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Presocratic Philosophy]]"
   - "[[Ontology]]"
@@ -32,6 +16,16 @@ related:
   - "[[Aristotle]]"
   - "[[Heraclitus]]"
   - "[[Being and Becoming]]"
+aliases:
+  - eleatic school
+  - parmenides being
+  - zeno paradoxes
+  - being non
+  - truth opinion
+  - achilles tortoise
+  - immutable being
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

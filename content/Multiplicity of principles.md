@@ -5,19 +5,13 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Metaphysics
   - Epistemology
+related:
+  - "[[Parmenides]]"
 aliases:
   - four elements
   - cosmic cycle
-contributions:
-  - Conceptual
-authors:
-  - "[[Empedocles]]"
-  - "[[Anaxagoras]]"
-  - "[[Leucippus]]"
-  - "[[Democritus]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
-related:
-  - "[[Parmenides]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

@@ -6,18 +6,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Ethics
   - Epistemology
-aliases:
-  - pleasure ethics
-  - garden philosophy
-contributions:
-  - Conceptual
-authors:
-  - "[[Epicurus]]"
-  - "[[Lucretius]]"
-  - "[[Democritus]]"
-  - "[[Metrodorus]]"
-  - "[[Philodemus]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Atomism]]"
   - "[[Hellenistic Philosophy]]"
@@ -29,6 +17,11 @@ related:
   - "[[Philosophy of Death]]"
   - "[[Democritus]]"
   - "[[Lucretius]]"
+aliases:
+  - pleasure ethics
+  - garden philosophy
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

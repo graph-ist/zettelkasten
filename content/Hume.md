@@ -5,27 +5,6 @@ subclasses:
   - Epistemology
   - Metaethics
   - 17th-18th-Century-Philosophy
-aliases:
-  - impressions ideas
-  - causation critique
-  - habit custom
-  - matter fact
-  - relations ideas
-  - association principle
-  - moral sentiment
-  - sympathy ethics
-  - external world
-  - personal identity
-  - belief nature
-contributions:
-  - Conceptual
-authors:
-  - "[[Hume]]"
-  - "[[Locke]]"
-  - "[[Berkeley]]"
-  - "[[Newton]]"
-  - "[[Kant]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[British Empiricism]]"
   - "[[Skepticism]]"
@@ -38,6 +17,20 @@ related:
   - "[[Kant]]"
   - "[[Scottish Enlightenment]]"
   - "[[Naturalism]]"
+aliases:
+  - impressions ideas
+  - causation critique
+  - habit custom
+  - matter fact
+  - relations ideas
+  - association principle
+  - moral sentiment
+  - sympathy ethics
+  - external world
+  - personal identity
+  - belief nature
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

@@ -6,22 +6,6 @@ subclasses:
   - 20th-Century-Philosophy
   - Continental-Philosophy
   - Philosophy-of-Language
-aliases:
-  - langue parole
-  - signifier signified
-  - synchronic diacronic
-  - unconscious structures
-contributions:
-  - Conceptual
-authors:
-  - "[[Saussure]]"
-  - "[[Lévi-Strauss]]"
-  - "[[Foucault]]"
-  - "[[Lacan]]"
-  - "[[Althusser]]"
-  - "[[Piaget]]"
-  - "[[Jakobson]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Semiology]]"
   - "[[Post-Structuralism]]"
@@ -33,6 +17,13 @@ related:
   - "[[Archaeology of Knowledge]]"
   - "[[Panopticon]]"
   - "[[Ideology]]"
+aliases:
+  - langue parole
+  - signifier signified
+  - synchronic diacronic
+  - unconscious structures
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

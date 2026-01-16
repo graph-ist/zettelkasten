@@ -5,25 +5,6 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Metaphysics
   - Philosophy-of-Religion
-aliases:
-  - port royal
-  - divine causation
-  - vision god
-  - english platonism
-  - rational religion
-  - struggle reason
-  - finite reason
-  - natural religion
-contributions:
-  - Conceptual
-authors:
-  - "[[Descartes]]"
-  - "[[Malebranche]]"
-  - "[[Geulincx]]"
-  - "[[Arnauld]]"
-  - "[[Gassendi]]"
-  - "[[Hobbes]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Rationalism]]"
   - "[[Occasionalism]]"
@@ -35,6 +16,17 @@ related:
   - "[[Mind-Body Problem]]"
   - "[[Causation]]"
   - "[[Enlightenment]]"
+aliases:
+  - port royal
+  - divine causation
+  - vision god
+  - english platonism
+  - rational religion
+  - struggle reason
+  - finite reason
+  - natural religion
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

@@ -5,24 +5,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Metaphysics
   - Philosophy-of-Science
-aliases:
-  - presocratic philosophy
-  - milesian school
-  - thales water
-  - anaximander apeiron
-  - anaximenes air
-  - pythagoras number
-  - heraclitus fire
-contributions:
-  - Conceptual
-authors:
-  - "[[Thales]]"
-  - "[[Anaximander]]"
-  - "[[Anaximenes]]"
-  - "[[Pythagoras]]"
-  - "[[Heraclitus]]"
-  - "[[Philolaus]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Presocratic Philosophy]]"
   - "[[Milesian School]]"
@@ -34,6 +16,16 @@ related:
   - "[[Cosmology]]"
   - "[[Metaphysics]]"
   - "[[Philosophy of Nature]]"
+aliases:
+  - presocratic philosophy
+  - milesian school
+  - thales water
+  - anaximander apeiron
+  - anaximenes air
+  - pythagoras number
+  - heraclitus fire
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

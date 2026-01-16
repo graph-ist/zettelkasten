@@ -68,15 +68,6 @@
       "key": "A"
     }
   ],
-  "obsidian-regex-replace:obsidian-regex-replace": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -84,6 +75,39 @@
         "Shift"
       ],
       "key": "G"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
     }
   ]
 }

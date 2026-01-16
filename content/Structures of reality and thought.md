@@ -5,21 +5,6 @@ subclasses:
   - Metaphysics
   - Logic-and-Philosophy-of-Logic
   - Ancient-Greek-and-Roman-Philosophy
-aliases:
-  - aristotelian logic
-  - first philosophy
-  - potency act
-  - prime mover
-  - non contradiction
-  - form matter
-contributions:
-  - Conceptual
-authors:
-  - "[[Aristotle]]"
-  - "[[Plato]]"
-  - "[[Parmenides]]"
-  - "[[Rhodes]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Metaphysics]]"
   - "[[Ontology]]"
@@ -33,6 +18,15 @@ related:
   - "[[Principle of Non-Contradiction]]"
   - "[[First Philosophy]]"
   - "[[Peripatetic School]]"
+aliases:
+  - aristotelian logic
+  - first philosophy
+  - potency act
+  - prime mover
+  - non contradiction
+  - form matter
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

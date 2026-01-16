@@ -6,27 +6,6 @@ subclasses:
   - Epistemology
   - 19th-Century-Philosophy
   - Hermeneutics
-aliases:
-  - lived experience
-  - symbolic forms
-  - animal symbolicum
-  - marburg school
-  - baden school
-  - sciences spirit
-  - decline west
-  - historical relativism
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Dilthey]]"
-  - "[[Cassirer]]"
-  - "[[Windelband]]"
-  - "[[Rickert]]"
-  - "[[Cohen]]"
-  - "[[Simmel]]"
-  - "[[Spengler]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Kant]]"
   - "[[Hermeneutics]]"
@@ -38,6 +17,17 @@ related:
   - "[[Cultural Relativism]]"
   - "[[Phenomenology]]"
   - "[[Gadamer]]"
+aliases:
+  - lived experience
+  - symbolic forms
+  - animal symbolicum
+  - marburg school
+  - baden school
+  - sciences spirit
+  - decline west
+  - historical relativism
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

@@ -5,26 +5,6 @@ subclasses:
   - Philosophy-of-Language
   - Analytic-Philosophy
   - 20th-Century-Philosophy
-aliases:
-  - analytic philosophy
-  - ordinary language
-  - speech acts
-  - language analysis
-  - category mistake
-  - linguistic turn
-  - conversational implicature
-  - cooperative principle
-  - oxford philosophy
-contributions:
-  - Conceptual
-authors:
-  - "[[Ryle]]"
-  - "[[Austin]]"
-  - "[[Grice]]"
-  - "[[Ayer]]"
-  - "[[Moore]]"
-  - "[[Wittgenstein]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
 related:
   - "[[Analytic Philosophy]]"
   - "[[Ordinary Language Philosophy]]"
@@ -36,6 +16,18 @@ related:
   - "[[Wittgenstein]]"
   - "[[Verification Principle]]"
   - "[[Philosophy of Mind]]"
+aliases:
+  - analytic philosophy
+  - ordinary language
+  - speech acts
+  - language analysis
+  - category mistake
+  - linguistic turn
+  - conversational implicature
+  - cooperative principle
+  - oxford philosophy
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
 ---
 
 #### Central Problem

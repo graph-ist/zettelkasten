@@ -5,24 +5,6 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Aesthetics
   - Philosophy-of-Religion
-aliases:
-  - philosophy faith
-  - sturm drang
-  - german romanticism
-  - aesthetic education
-  - schiller aesthetics
-  - goethe philosophy
-  - humboldt language
-contributions:
-  - Conceptual
-authors:
-  - "[[Hamann]]"
-  - "[[Herder]]"
-  - "[[Jacobi]]"
-  - "[[Schiller]]"
-  - "[[Goethe]]"
-  - "[[Humboldt]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[German Idealism]]"
   - "[[Romanticism]]"
@@ -34,6 +16,16 @@ related:
   - "[[Philosophy of Language]]"
   - "[[Philosophy of History]]"
   - "[[Fichte]]"
+aliases:
+  - philosophy faith
+  - sturm drang
+  - german romanticism
+  - aesthetic education
+  - schiller aesthetics
+  - goethe philosophy
+  - humboldt language
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

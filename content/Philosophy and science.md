@@ -5,17 +5,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Metaphysics
   - Epistemology
-aliases:
-  - first philosophy
-  - esoteric writings
-  - exoteric writings
-contributions:
-  - Conceptual
-authors:
-  - "[[Aristotle]]"
-  - "[[Plato]]"
-  - "[[Alexander]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Platonism]]"
   - "[[Peripatetic School]]"
@@ -27,6 +16,12 @@ related:
   - "[[Medieval Philosophy]]"
   - "[[Organon]]"
   - "[[Nicomachean Ethics]]"
+aliases:
+  - first philosophy
+  - esoteric writings
+  - exoteric writings
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

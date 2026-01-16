@@ -5,6 +5,17 @@ subclasses:
   - 19th-Century-Philosophy
   - Philosophy-of-Religion
   - Metaphysics
+related:
+  - "[[German Idealism]]"
+  - "[[Left Hegelianism]]"
+  - "[[Materialism]]"
+  - "[[Alienation]]"
+  - "[[Philosophy of Religion]]"
+  - "[[Atheism]]"
+  - "[[Marx]]"
+  - "[[Historical Materialism]]"
+  - "[[Essence of Christianity]]"
+  - "[[Young Hegelians]]"
 aliases:
   - left hegelians
   - young hegelians
@@ -17,27 +28,8 @@ aliases:
   - religious critique
   - right hegelians
   - god projection
-contributions:
-  - Conceptual
-authors:
-  - "[[Feuerbach]]"
-  - "[[Hegel]]"
-  - "[[Strauss]]"
-  - "[[Bauer]]"
-  - "[[Ruge]]"
-  - "[[Marx]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
-related:
-  - "[[German Idealism]]"
-  - "[[Left Hegelianism]]"
-  - "[[Materialism]]"
-  - "[[Alienation]]"
-  - "[[Philosophy of Religion]]"
-  - "[[Atheism]]"
-  - "[[Marx]]"
-  - "[[Historical Materialism]]"
-  - "[[Essence of Christianity]]"
-  - "[[Young Hegelians]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

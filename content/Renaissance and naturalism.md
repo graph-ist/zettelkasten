@@ -5,23 +5,6 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Metaphysics
   - Philosophy-of-Science
-aliases:
-  - natural philosophy
-  - renaissance magic
-  - nature philosophy
-  - infinite universe
-  - macrocosm microcosm
-  - world soul
-  - heroic fury
-contributions:
-  - Conceptual
-authors:
-  - "[[Telesio]]"
-  - "[[Bruno]]"
-  - "[[Campanella]]"
-  - "[[Agrippa]]"
-  - "[[Paracelsus]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Renaissance Magic]]"
   - "[[Neoplatonism]]"
@@ -33,6 +16,16 @@ related:
   - "[[Cosmology]]"
   - "[[Utopia]]"
   - "[[Counter-Reformation]]"
+aliases:
+  - natural philosophy
+  - renaissance magic
+  - nature philosophy
+  - infinite universe
+  - macrocosm microcosm
+  - world soul
+  - heroic fury
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

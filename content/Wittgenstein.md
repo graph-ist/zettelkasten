@@ -5,24 +5,6 @@ subclasses:
   - Philosophy-of-Language
   - Analytic-Philosophy
   - 20th-Century-Philosophy
-aliases:
-  - language games
-  - picture theory
-  - logical atomism
-  - ordinary language
-  - linguistic turn
-  - saying showing
-  - philosophy therapy
-  - family resemblance
-contributions:
-  - Conceptual
-authors:
-  - "[[Wittgenstein]]"
-  - "[[Russell]]"
-  - "[[Frege]]"
-  - "[[Moore]]"
-  - "[[Ramsey]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Analytic Philosophy]]"
   - "[[Logical Positivism]]"
@@ -34,6 +16,17 @@ related:
   - "[[Logical Atomism]]"
   - "[[Speech Act Theory]]"
   - "[[Private Language Argument]]"
+aliases:
+  - language games
+  - picture theory
+  - logical atomism
+  - ordinary language
+  - linguistic turn
+  - saying showing
+  - philosophy therapy
+  - family resemblance
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

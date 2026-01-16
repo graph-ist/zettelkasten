@@ -5,25 +5,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - Epistemology
   - 17th-18th-Century-Philosophy
-aliases:
-  - social contract
-  - political philosophy
-  - natural law
-  - natural right
-  - bellum omnium
-  - homo homini
-contributions:
-  - Conceptual
-authors:
-  - "[[Hobbes]]"
-  - "[[Descartes]]"
-  - "[[Gassendi]]"
-  - "[[Galilei]]"
-  - "[[Mersenne]]"
-  - "[[Spinoza]]"
-  - "[[Locke]]"
-  - "[[Grozio]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Social Contract Theory]]"
   - "[[Natural Law]]"
@@ -35,6 +16,15 @@ related:
   - "[[Leviathan]]"
   - "[[English Civil War]]"
   - "[[Rationalism]]"
+aliases:
+  - social contract
+  - political philosophy
+  - natural law
+  - natural right
+  - bellum omnium
+  - homo homini
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

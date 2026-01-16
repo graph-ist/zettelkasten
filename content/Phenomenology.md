@@ -5,20 +5,6 @@ subclasses:
   - Phenomenology
   - Epistemology
   - 20th-Century-Philosophy
-aliases:
-  - eidetic reduction
-  - noesis noema
-  - transcendental ego
-  - essence intuition
-contributions:
-  - Conceptual
-authors:
-  - "[[Husserl]]"
-  - "[[Brentano]]"
-  - "[[Bolzano]]"
-  - "[[Scheler]]"
-  - "[[Frege]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Phenomenology]]"
   - "[[Intentionality]]"
@@ -30,6 +16,13 @@ related:
   - "[[Brentano]]"
   - "[[Value Ethics]]"
   - "[[Crisis of Sciences]]"
+aliases:
+  - eidetic reduction
+  - noesis noema
+  - transcendental ego
+  - essence intuition
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

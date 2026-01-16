@@ -5,24 +5,6 @@ subclasses:
   - Epistemology
   - Philosophy-of-Science
   - Analytic-Philosophy
-aliases:
-  - critical rationalism
-  - conjectures refutations
-  - demarcation problem
-  - three worlds
-  - scientific method
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Popper]]"
-  - "[[Einstein]]"
-  - "[[Carnap]]"
-  - "[[Neurath]]"
-  - "[[Hume]]"
-  - "[[Kant]]"
-  - "[[Tarski]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Falsificationism]]"
   - "[[Vienna Circle]]"
@@ -34,6 +16,14 @@ related:
   - "[[Kuhn]]"
   - "[[Lakatos]]"
   - "[[Logical Positivism]]"
+aliases:
+  - critical rationalism
+  - conjectures refutations
+  - demarcation problem
+  - three worlds
+  - scientific method
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

@@ -6,18 +6,6 @@ subclasses:
   - 20th-Century-Philosophy
   - Continental-Philosophy
   - Philosophy-of-Language
-aliases:
-contributions:
-  - Conceptual
-authors:
-  - "[[Derrida]]"
-  - "[[Deleuze]]"
-  - "[[Foucault]]"
-  - "[[Lyotard]]"
-  - "[[Chomsky]]"
-  - "[[Nietzsche]]"
-  - "[[Heidegger]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
 related:
   - "[[Structuralism]]"
   - "[[Phenomenology]]"
@@ -29,6 +17,9 @@ related:
   - "[[Heidegger]]"
   - "[[Writing]]"
   - "[[Nihilism]]"
+aliases:
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
 ---
 
 #### Central Problem

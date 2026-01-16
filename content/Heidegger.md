@@ -5,24 +5,6 @@ subclasses:
   - 20th-Century-Philosophy
   - Continental-Philosophy
   - Hermeneutics
-aliases:
-  - second heidegger
-  - being question
-  - ontological difference
-  - oblivion being
-  - metaphysics critique
-  - technology philosophy
-  - truth essence
-contributions:
-  - Conceptual
-authors:
-  - "[[Heidegger]]"
-  - "[[Nietzsche]]"
-  - "[[Plato]]"
-  - "[[Husserl]]"
-  - "[[Jaspers]]"
-  - "[[Sartre]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Being and Time]]"
   - "[[Phenomenology]]"
@@ -34,6 +16,16 @@ related:
   - "[[Derrida]]"
   - "[[Deconstruction]]"
   - "[[Post-Structuralism]]"
+aliases:
+  - second heidegger
+  - being question
+  - ontological difference
+  - oblivion being
+  - metaphysics critique
+  - technology philosophy
+  - truth essence
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

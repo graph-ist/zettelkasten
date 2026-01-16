@@ -6,32 +6,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
   - Ethics
-aliases:
-  - international relations
-  - war philosophy
-  - peace philosophy
-  - just war
-  - political realism
-  - nuclear deterrence
-  - world government
-  - global justice
-  - post national
-  - cosmopolitan democracy
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Morgenthau]]"
-  - "[[Jaspers]]"
-  - "[[Russell]]"
-  - "[[Aron]]"
-  - "[[Bobbio]]"
-  - "[[Rawls]]"
-  - "[[Habermas]]"
-  - "[[Held]]"
-  - "[[Archibugi]]"
-  - "[[Kant]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Political Philosophy]]"
   - "[[Just War Theory]]"
@@ -43,6 +17,19 @@ related:
   - "[[International Law]]"
   - "[[Human Rights]]"
   - "[[Liberalism]]"
+aliases:
+  - international relations
+  - war philosophy
+  - peace philosophy
+  - just war
+  - political realism
+  - nuclear deterrence
+  - world government
+  - global justice
+  - post national
+  - cosmopolitan democracy
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

@@ -6,28 +6,6 @@ subclasses:
   - Philosophy-of-Religion
   - Social-and-Political-Philosophy
   - 17th-18th-Century-Philosophy
-aliases:
-  - kantian religion
-  - rational religion
-  - radical evil
-  - kantian state
-  - perpetual peace
-  - kantian law
-  - social contract
-  - philosophy history
-  - moral religion
-  - church invisible
-  - world federation
-contributions:
-  - Conceptual
-authors:
-  - "[[Kant]]"
-  - "[[Hobbes]]"
-  - "[[Locke]]"
-  - "[[Rousseau]]"
-  - "[[Rawls]]"
-  - "[[Habermas]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[Critique of Practical Reason]]"
   - "[[Liberalism]]"
@@ -40,6 +18,20 @@ related:
   - "[[Perpetual Peace]]"
   - "[[Rawls]]"
   - "[[Habermas]]"
+aliases:
+  - kantian religion
+  - rational religion
+  - radical evil
+  - kantian state
+  - perpetual peace
+  - kantian law
+  - social contract
+  - philosophy history
+  - moral religion
+  - church invisible
+  - world federation
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

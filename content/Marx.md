@@ -7,23 +7,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Social-and-Political-Philosophy
   - Critical-Theory
-aliases:
-  - historical materialism
-  - class struggle
-  - surplus value
-  - base superstructure
-  - communist manifesto
-  - dialectical materialism
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Marx]]"
-  - "[[Engels]]"
-  - "[[Hegel]]"
-  - "[[Feuerbach]]"
-  - "[[Ricardo]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Historical Materialism]]"
   - "[[Left Hegelianism]]"
@@ -35,6 +18,15 @@ related:
   - "[[Engels]]"
   - "[[Dialectical Materialism]]"
   - "[[Critical Theory]]"
+aliases:
+  - historical materialism
+  - class struggle
+  - surplus value
+  - base superstructure
+  - communist manifesto
+  - dialectical materialism
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

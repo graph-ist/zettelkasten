@@ -5,24 +5,6 @@ subclasses:
   - Existentialism
   - Philosophy-of-Religion
   - 19th-Century-Philosophy
-aliases:
-  - single individual
-  - stages existence
-  - leap faith
-  - subjective truth
-  - aesthetic ethical
-  - religious stage
-  - either or
-  - paradox scandal
-contributions:
-  - Conceptual
-authors:
-  - "[[Kierkegaard]]"
-  - "[[Hegel]]"
-  - "[[Schelling]]"
-  - "[[Socrates]]"
-  - "[[Abraham]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Existentialism]]"
   - "[[German Idealism]]"
@@ -34,6 +16,17 @@ related:
   - "[[Either/Or]]"
   - "[[Fear and Trembling]]"
   - "[[The Sickness unto Death]]"
+aliases:
+  - single individual
+  - stages existence
+  - leap faith
+  - subjective truth
+  - aesthetic ethical
+  - religious stage
+  - either or
+  - paradox scandal
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

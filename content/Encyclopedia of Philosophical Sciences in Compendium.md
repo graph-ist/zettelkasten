@@ -6,22 +6,6 @@ subclasses:
   - Metaphysics
   - Social-and-Political-Philosophy
   - 19th-Century-Philosophy
-aliases:
-  - objective spirit
-  - ethical life
-  - abstract right
-  - civil society
-  - being essence
-  - concept idea
-contributions:
-  - Conceptual
-authors:
-  - "[[Hegel]]"
-  - "[[Kant]]"
-  - "[[Spinoza]]"
-  - "[[Fichte]]"
-  - "[[Aristotle]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[German Idealism]]"
   - "[[Dialectic]]"
@@ -33,6 +17,15 @@ related:
   - "[[Freedom]]"
   - "[[Substance]]"
   - "[[Philosophy of Right]]"
+aliases:
+  - objective spirit
+  - ethical life
+  - abstract right
+  - civil society
+  - being essence
+  - concept idea
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

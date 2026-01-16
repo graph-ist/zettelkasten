@@ -5,27 +5,6 @@ subclasses:
   - Analytic-Philosophy
   - Epistemology
   - Philosophy-of-Science
-aliases:
-  - logical positivism
-  - vienna circle
-  - verification principle
-  - protocol statements
-  - logical empiricism
-  - unified science
-  - analytic synthetic
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Schlick]]"
-  - "[[Carnap]]"
-  - "[[Neurath]]"
-  - "[[Reichenbach]]"
-  - "[[Wittgenstein]]"
-  - "[[Kelsen]]"
-  - "[[Hahn]]"
-  - "[[Tarski]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Vienna Circle]]"
   - "[[Berlin Group]]"
@@ -37,6 +16,16 @@ related:
   - "[[Emotivism]]"
   - "[[Legal Positivism]]"
   - "[[Post-Empiricism]]"
+aliases:
+  - logical positivism
+  - vienna circle
+  - verification principle
+  - protocol statements
+  - logical empiricism
+  - unified science
+  - analytic synthetic
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

@@ -6,6 +6,17 @@ subclasses:
   - Critical-Theory
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
+related:
+  - "[[Western Marxism]]"
+  - "[[Psychoanalysis]]"
+  - "[[Dialectic of Enlightenment]]"
+  - "[[Culture Industry]]"
+  - "[[One-Dimensional Man]]"
+  - "[[Negative Dialectics]]"
+  - "[[Mass Media]]"
+  - "[[Totalitarianism]]"
+  - "[[Ideology Critique]]"
+  - "[[Aesthetic Theory]]"
 aliases:
   - frankfurt school
   - critical theory
@@ -19,28 +30,8 @@ aliases:
   - authoritarian personality
   - aura artwork
   - totally other
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Horkheimer]]"
-  - "[[Adorno]]"
-  - "[[Marcuse]]"
-  - "[[Benjamin]]"
-  - "[[Fromm]]"
-  - "[[Habermas]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
-related:
-  - "[[Western Marxism]]"
-  - "[[Psychoanalysis]]"
-  - "[[Dialectic of Enlightenment]]"
-  - "[[Culture Industry]]"
-  - "[[One-Dimensional Man]]"
-  - "[[Negative Dialectics]]"
-  - "[[Mass Media]]"
-  - "[[Totalitarianism]]"
-  - "[[Ideology Critique]]"
-  - "[[Aesthetic Theory]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

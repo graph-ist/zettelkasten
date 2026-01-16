@@ -5,6 +5,17 @@ subclasses:
   - Ethics
   - Philosophy-of-Religion
   - 20th-Century-Philosophy
+related:
+  - "[[Phenomenology]]"
+  - "[[Existentialism]]"
+  - "[[Philosophy of Religion]]"
+  - "[[Dialogical Philosophy]]"
+  - "[[Ethics of Care]]"
+  - "[[Personalism]]"
+  - "[[Jewish Philosophy]]"
+  - "[[Kabbalah]]"
+  - "[[Hasidism]]"
+  - "[[Holocaust Philosophy]]"
 aliases:
   - jewish philosophy
   - dialogue philosophy
@@ -17,25 +28,8 @@ aliases:
   - totality infinity
   - relation philosophy
   - theological philosophy
-contributions:
-  - Conceptual
-authors:
-  - "[[Rosenzweig]]"
-  - "[[Buber]]"
-  - "[[Levinas]]"
-  - "[[Cohen]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
-related:
-  - "[[Phenomenology]]"
-  - "[[Existentialism]]"
-  - "[[Philosophy of Religion]]"
-  - "[[Dialogical Philosophy]]"
-  - "[[Ethics of Care]]"
-  - "[[Personalism]]"
-  - "[[Jewish Philosophy]]"
-  - "[[Kabbalah]]"
-  - "[[Hasidism]]"
-  - "[[Holocaust Philosophy]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

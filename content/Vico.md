@@ -6,28 +6,6 @@ subclasses:
   - Epistemology
   - 17th-18th-Century-Philosophy
   - Hermeneutics
-contributions:
-  - Conceptual
-aliases:
-  - philosophy history
-  - scienza nuova
-  - verum factum
-  - ideal eternal
-  - three ages
-  - poetic wisdom
-  - providence history
-  - corsi ricorsi
-  - civil world
-  - philology philosophy
-authors:
-  - "[[Vico]]"
-  - "[[Descartes]]"
-  - "[[Plato]]"
-  - "[[Tacitus]]"
-  - "[[Bacon]]"
-  - "[[Grotius]]"
-  - "[[Hobbes]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.
 related:
   - "[[Philosophy of History]]"
   - "[[Hermeneutics]]"
@@ -40,6 +18,26 @@ related:
   - "[[Italian Philosophy]]"
   - "[[Enlightenment]]"
   - "[[Romanticism]]"
+aliases:
+  - philosophy history
+  - scienza nuova
+  - verum factum
+  - ideal eternal
+  - three ages
+  - poetic wisdom
+  - providence history
+  - corsi ricorsi
+  - civil world
+  - philology philosophy
+  - "[[Vico]]"
+  - "[[Descartes]]"
+  - "[[Plato]]"
+  - "[[Tacitus]]"
+  - "[[Bacon]]"
+  - "[[Grotius]]"
+  - "[[Hobbes]]"
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.
 ---
 
 #### Central Problem

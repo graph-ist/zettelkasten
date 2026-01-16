@@ -6,23 +6,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Metaphysics
   - Epistemology
-aliases:
-  - greek philosophy
-  - birth philosophy
-  - orientalism debate
-  - greek rationality
-  - myth logos
-  - seven sages
-contributions:
-  - Conceptual
-authors:
-  - "[[Aristotle]]"
-  - "[[Plato]]"
-  - "[[Hesiod]]"
-  - "[[Homer]]"
-  - "[[Thales]]"
-  - "[[Pythagoras]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Presocratic Philosophy]]"
   - "[[Ancient Greek Philosophy]]"
@@ -34,6 +17,15 @@ related:
   - "[[Oriental Philosophy]]"
   - "[[Seven Sages]]"
   - "[[Greek Democracy]]"
+aliases:
+  - greek philosophy
+  - birth philosophy
+  - orientalism debate
+  - greek rationality
+  - myth logos
+  - seven sages
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

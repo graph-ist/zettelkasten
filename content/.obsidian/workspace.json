@@ -4,35 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "dc5b0ddec5a7da9d",
+        "id": "15f37ea12f661bc1",
         "type": "tabs",
         "children": [
           {
-            "id": "b362cd6ccb4dce25",
+            "id": "b676442f64cfd1e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An ethic that looks to the future.md",
+                "file": "Plato.md",
                 "mode": "preview",
                 "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "An ethic that looks to the future"
+              "title": "Plato"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,11 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Files"
             }
           },
           {
@@ -72,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Ricerca"
+              "title": "Search"
             }
           },
           {
@@ -82,11 +72,10 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Segnalibri"
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,64 +90,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc8adb2a8c0a2092",
+            "id": "1382e7ae464fcb79",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aristotle.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da Aristotle"
             }
           },
           {
-            "id": "0237743bf15a1c7c",
+            "id": "3cea35eb0f419054",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Riferimenti"
-            }
-          },
-          {
-            "id": "ef59495ac432a59c",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
+                "file": "Husserl.md",
+                "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "Tutte le proprietà"
+              "icon": "lucide-list",
+              "title": "Struttura di Husserl"
             }
           },
           {
-            "id": "7e618f343c29a4a1",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Analytical philosophy.md"
-              },
-              "icon": "lucide-info",
-              "title": "Proprietà file per Analytical philosophy"
-            }
-          },
-          {
-            "id": "c979746c7b242ab2",
+            "id": "38c5a109943317db",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -166,71 +127,55 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
-          },
-          {
-            "id": "db81732ece41ff7b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etichette"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crea nuova Base": false,
-      "switcher:Apri selezione rapida": false,
-      "graph:Apri vista grafo": false,
-      "canvas:Crea nuova lavagna": false,
-      "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "markdown-importer:Apri importazione Markdown": true,
-      "random-note:Apri nota casuale": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "bases:Create new base": false
     }
   },
-  "active": "cd5068ce1d2b579a",
+  "active": "b676442f64cfd1e1",
   "lastOpenFiles": [
-    "Aristotle.md",
-    "Plato.md",
-    "Nietzsche.md",
-    "Descartes.md",
-    "Habermas.md",
-    "Epistemology.md",
-    "Rawls.md",
-    "German Idealism.md",
-    "Russell.md",
-    "Luhmann.md",
-    "Zettelkasten.md",
-    "Hegel.md",
-    "Encyclopedia of Philosophical Sciences in Compendium.md",
-    "index.md",
-    "Clippings/Networked Thinking Through Zettelkasten.md",
-    "An ethic that looks to the future.md",
-    "Appendix/Rudimenti di etica per il design (Visual).canvas",
-    "Blueprints/Unresolved Links Analysis.md",
-    "Blueprints/Template.md",
+    "Hobbes.md",
+    "Blueprints/Unresolved.md",
     "Blueprints/Persons Index (Dynamic).md",
-    "Analytical philosophy.md",
-    "Aquinas.md",
-    "Frege.md",
-    "Skepticism.md",
-    "Clippings/Wittgenstein on Language and Thought.md",
-    "Clippings/William Morris vs Christopher Dresser.md",
+    "Blueprints/Template.md",
+    "Kant.md",
+    "Blueprints/Shortcuts.md",
+    "Clippings/Category Theory in mathematics.md",
+    "Clippings/Arthur Holmes and A History of Philosophy.md",
+    "Clippings/Conventions and Dogmas.md",
+    "Clippings/Building and Selling Design Products.md",
+    "Clippings/Flowchart as visual representation of process.md",
+    "Clippings/Design.md",
+    "Clippings/Amartya Sen on Voluntary Deprivation and Poverty.md",
+    "Clippings/Theory as a Scientific Tool.md",
     "Clippings/Wabi-Sabi and Imperfection.md",
+    "Clippings/Kuhn's Paradigm Shifts in Science.md",
+    "Clippings/Making sense of statistics in HCI.md",
+    "Clippings/Science and Epistemology.md",
+    "Clippings/Aesthetics of Wabi-Sabi.md",
+    "Clippings/Imaginal Realm in Design.md",
+    "Clippings/Alienation and Artistic Contradictions.md",
+    "Clippings/Peirce's Semiotic Theory and Logical Systems.md",
+    "Clippings/Ethics in Design.md",
+    "Clippings/Exploring Philosophy Through Time.md",
+    "Clippings/Introduction to Theory of Literature.md",
+    "Clippings/Rawls and the Original Position.md",
+    "Appendix/Rudimenti di etica per il design (Visual).canvas",
     "Senza nome.canvas",
     "Clippings",
     "Clippings",

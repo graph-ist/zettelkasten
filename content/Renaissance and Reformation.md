@@ -5,27 +5,6 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Philosophy-of-Religion
   - Ethics
-aliases:
-  - protestant reformation
-  - free will
-  - justification faith
-  - sola scriptura
-  - counter reformation
-  - grace theology
-  - christian humanism
-  - servo arbitrio
-contributions:
-  - Conceptual
-authors:
-  - "[[Erasmus]]"
-  - "[[Luther]]"
-  - "[[Calvin]]"
-  - "[[Zwingli]]"
-  - "[[Augustine]]"
-  - "[[Ockham]]"
-  - "[[Melanchthon]]"
-  - "[[Boehme]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Augustine]]"
   - "[[Grace and Free Will]]"
@@ -37,6 +16,17 @@ related:
   - "[[Protestant Ethics]]"
   - "[[Capitalism and Religion]]"
   - "[[Religious Wars]]"
+aliases:
+  - protestant reformation
+  - free will
+  - justification faith
+  - sola scriptura
+  - counter reformation
+  - grace theology
+  - christian humanism
+  - servo arbitrio
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

@@ -7,30 +7,6 @@ subclasses:
   - Philosophy-of-Science
   - Epistemology
   - Logic-and-Philosophy-of-Logic
-aliases:
-  - crisis foundations
-  - non euclidean
-  - relativity theory
-  - quantum mechanics
-  - incompleteness theorem
-  - uncertainty principle
-  - set theory
-  - field theory
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Einstein]]"
-  - "[[Hilbert]]"
-  - "[[Frege]]"
-  - "[[Russell]]"
-  - "[[Gödel]]"
-  - "[[Planck]]"
-  - "[[Bohr]]"
-  - "[[Heisenberg]]"
-  - "[[Cantor]]"
-  - "[[Riemann]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Philosophy of Mathematics]]"
   - "[[Philosophy of Physics]]"
@@ -42,6 +18,17 @@ related:
   - "[[Kant]]"
   - "[[Scientific Revolution]]"
   - "[[Epistemology]]"
+aliases:
+  - crisis foundations
+  - non euclidean
+  - relativity theory
+  - quantum mechanics
+  - incompleteness theorem
+  - uncertainty principle
+  - set theory
+  - field theory
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

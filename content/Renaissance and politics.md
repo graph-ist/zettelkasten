@@ -6,26 +6,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - Ethics
   - Medieval-and-Renaissance-Philosophy
-aliases:
-  - political realism
-  - natural law
-  - reason state
-  - social contract
-  - political philosophy
-  - fortune virtue
-  - just war
-contributions:
-  - Conceptual
-authors:
-  - "[[Machiavelli]]"
-  - "[[Guicciardini]]"
-  - "[[Botero]]"
-  - "[[More]]"
-  - "[[Bodin]]"
-  - "[[Grotius]]"
-  - "[[Althusius]]"
-  - "[[Gentili]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Political Realism]]"
   - "[[Natural Law]]"
@@ -37,6 +17,16 @@ related:
   - "[[Reason of State]]"
   - "[[International Law]]"
   - "[[Enlightenment Political Thought]]"
+aliases:
+  - political realism
+  - natural law
+  - reason state
+  - social contract
+  - political philosophy
+  - fortune virtue
+  - just war
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

@@ -6,24 +6,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Philosophy-of-Science
   - Metaphysics
-aliases:
-  - evolutionary positivism
-  - natural selection
-  - survival fittest
-  - cosmic evolution
-  - social darwinism
-  - synthetic philosophy
-  - homogeneous heterogeneous
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Darwin]]"
-  - "[[Spencer]]"
-  - "[[Ardigo]]"
-  - "[[Lamarck]]"
-  - "[[Huxley]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Positivism]]"
   - "[[Natural Selection]]"
@@ -35,6 +17,16 @@ related:
   - "[[Lamarck]]"
   - "[[Malthus]]"
   - "[[Synthetic Philosophy]]"
+aliases:
+  - evolutionary positivism
+  - natural selection
+  - survival fittest
+  - cosmic evolution
+  - social darwinism
+  - synthetic philosophy
+  - homogeneous heterogeneous
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

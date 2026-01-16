@@ -5,24 +5,6 @@ subclasses:
   - Epistemology
   - Metaphysics
   - 17th-18th-Century-Philosophy
-aliases:
-  - critical philosophy
-  - precritical period
-  - philosophy limit
-  - critique reason
-  - phenomenon noumenon
-  - space time
-  - pure intuition
-contributions:
-  - Conceptual
-authors:
-  - "[[Kant]]"
-  - "[[Newton]]"
-  - "[[Wolff]]"
-  - "[[Hume]]"
-  - "[[Leibniz]]"
-  - "[[Locke]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[Critique of Pure Reason]]"
   - "[[Transcendental Philosophy]]"
@@ -34,6 +16,16 @@ related:
   - "[[Metaphysics]]"
   - "[[Scientific Revolution]]"
   - "[[Moral Philosophy]]"
+aliases:
+  - critical philosophy
+  - precritical period
+  - philosophy limit
+  - critique reason
+  - phenomenon noumenon
+  - space time
+  - pure intuition
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

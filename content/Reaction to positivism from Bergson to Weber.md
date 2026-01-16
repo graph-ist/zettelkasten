@@ -6,28 +6,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Continental-Philosophy
   - Metaphysics
-aliases:
-  - vital impulse
-  - creative evolution
-  - open society
-  - closed society
-  - static religion
-  - dynamic religion
-  - spatialized time
-  - lived time
-  - memory consciousness
-  - action philosophy
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Bergson]]"
-  - "[[Blondel]]"
-  - "[[Sorel]]"
-  - "[[Boutroux]]"
-  - "[[Biran]]"
-  - "[[Laberthonnière]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 related:
   - "[[Positivism]]"
   - "[[Evolutionism]]"
@@ -40,6 +18,19 @@ related:
   - "[[Impressionism]]"
   - "[[Matter and Memory]]"
   - "[[Creative Evolution]]"
+aliases:
+  - vital impulse
+  - creative evolution
+  - open society
+  - closed society
+  - static religion
+  - dynamic religion
+  - spatialized time
+  - lived time
+  - memory consciousness
+  - action philosophy
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
 ---
 
 #### Central Problem

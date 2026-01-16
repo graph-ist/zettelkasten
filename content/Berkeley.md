@@ -5,26 +5,6 @@ subclasses:
   - Epistemology
   - Metaphysics
   - 17th-18th-Century-Philosophy
-aliases:
-  - radical nominalism
-  - spirit matter
-  - ideas perception
-  - abstract ideas
-  - primary secondary
-  - divine language
-  - infinite spirit
-  - idealism berkeley
-  - perception reality
-  - mind dependent
-contributions:
-  - Conceptual
-authors:
-  - "[[Berkeley]]"
-  - "[[Locke]]"
-  - "[[Descartes]]"
-  - "[[Malebranche]]"
-  - "[[Hume]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[British Empiricism]]"
   - "[[Idealism]]"
@@ -37,6 +17,19 @@ related:
   - "[[Hume]]"
   - "[[Malebranche]]"
   - "[[Neoplatonism]]"
+aliases:
+  - radical nominalism
+  - spirit matter
+  - ideas perception
+  - abstract ideas
+  - primary secondary
+  - divine language
+  - infinite spirit
+  - idealism berkeley
+  - perception reality
+  - mind dependent
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

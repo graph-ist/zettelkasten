@@ -5,6 +5,19 @@ subclasses:
   - Epistemology
   - 17th-18th-Century-Philosophy
   - Social-and-Political-Philosophy
+related:
+  - "[[British Empiricism]]"
+  - "[[Essay Concerning Human Understanding]]"
+  - "[[Two Treatises of Government]]"
+  - "[[Letter Concerning Toleration]]"
+  - "[[Social Contract Theory]]"
+  - "[[Liberalism]]"
+  - "[[Natural Rights]]"
+  - "[[Primary and Secondary Qualities]]"
+  - "[[Problem of Substance]]"
+  - "[[Enlightenment Philosophy]]"
+  - "[[Berkeley]]"
+  - "[[Hume]]"
 aliases:
   - simple ideas
   - complex ideas
@@ -19,29 +32,8 @@ aliases:
   - demonstrative knowledge
   - sense experience
   - liberal government
-contributions:
-  - Conceptual
-authors:
-  - "[[Locke]]"
-  - "[[Hobbes]]"
-  - "[[Descartes]]"
-  - "[[Berkeley]]"
-  - "[[Hume]]"
-  - "[[Newton]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
-related:
-  - "[[British Empiricism]]"
-  - "[[Essay Concerning Human Understanding]]"
-  - "[[Two Treatises of Government]]"
-  - "[[Letter Concerning Toleration]]"
-  - "[[Social Contract Theory]]"
-  - "[[Liberalism]]"
-  - "[[Natural Rights]]"
-  - "[[Primary and Secondary Qualities]]"
-  - "[[Problem of Substance]]"
-  - "[[Enlightenment Philosophy]]"
-  - "[[Berkeley]]"
-  - "[[Hume]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

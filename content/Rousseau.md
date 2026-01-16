@@ -5,6 +5,17 @@ subclasses:
   - Social-and-Political-Philosophy
   - Ethics
   - 17th-18th-Century-Philosophy
+related:
+  - "[[Social Contract Theory]]"
+  - "[[Enlightenment]]"
+  - "[[Natural Law]]"
+  - "[[State of Nature]]"
+  - "[[General Will]]"
+  - "[[French Revolution]]"
+  - "[[Romanticism]]"
+  - "[[Political Philosophy]]"
+  - "[[Philosophy of Education]]"
+  - "[[Republicanism]]"
 aliases:
   - social contract
   - general will
@@ -18,27 +29,8 @@ aliases:
   - amour propre
   - natural goodness
   - corrupting civilization
-contributions:
-  - Conceptual
-authors:
-  - "[[Rousseau]]"
-  - "[[Hobbes]]"
-  - "[[Locke]]"
-  - "[[Montesquieu]]"
-  - "[[Diderot]]"
-  - "[[Voltaire]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
-related:
-  - "[[Social Contract Theory]]"
-  - "[[Enlightenment]]"
-  - "[[Natural Law]]"
-  - "[[State of Nature]]"
-  - "[[General Will]]"
-  - "[[French Revolution]]"
-  - "[[Romanticism]]"
-  - "[[Political Philosophy]]"
-  - "[[Philosophy of Education]]"
-  - "[[Republicanism]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

@@ -5,26 +5,6 @@ subclasses:
   - Existentialism
   - Phenomenology
   - 20th-Century-Philosophy
-aliases:
-  - being time
-  - being world
-  - care structure
-  - being death
-  - the they
-  - existence precedes
-  - freedom responsibility
-contributions:
-  - Conceptual
-authors:
-  - "[[Heidegger]]"
-  - "[[Sartre]]"
-  - "[[Kierkegaard]]"
-  - "[[Jaspers]]"
-  - "[[Camus]]"
-  - "[[Marcel]]"
-  - "[[Abbagnano]]"
-  - "[[Merleau-Ponty]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
 related:
   - "[[Phenomenology]]"
   - "[[Hermeneutics]]"
@@ -36,6 +16,16 @@ related:
   - "[[Decadentism]]"
   - "[[Kierkegaard-Renaissance]]"
   - "[[Nihilism]]"
+aliases:
+  - being time
+  - being world
+  - care structure
+  - being death
+  - the they
+  - existence precedes
+  - freedom responsibility
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
 ---
 
 #### Central Problem

@@ -1,9 +1,9 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "propertiesInDocument": "visible",
-  "showLineNumber": false,
+  "showLineNumber": true,
   "defaultViewMode": "preview",
   "livePreview": false,
   "mobileToolbarCommands": [
@@ -17,11 +17,14 @@
     "editor:toggle-bullet-list",
     "editor:insert-wikilink"
   ],
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "focusNewTab": true,
   "attachmentFolderPath": "Appendix",
   "mobileQuickRibbonItem": "",
   "foldHeading": true,
   "readableLineLength": true,
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "foldIndent": true,
+  "rightToLeft": false,
+  "useMarkdownLinks": true
 }

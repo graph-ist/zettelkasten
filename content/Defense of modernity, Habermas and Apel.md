@@ -6,28 +6,6 @@ subclasses:
   - Ethics
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
-aliases:
-  - discourse ethics
-  - communicative action
-  - practical philosophy
-  - system lifeworld
-  - universal pragmatics
-  - post metaphysics
-  - public sphere
-  - ideal speech
-  - critical theory
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Habermas]]"
-  - "[[Apel]]"
-  - "[[Kant]]"
-  - "[[Aristotle]]"
-  - "[[Weber]]"
-  - "[[Gadamer]]"
-  - "[[Peirce]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Critical Theory]]"
   - "[[Frankfurt School]]"
@@ -39,6 +17,18 @@ related:
   - "[[Kantian Ethics]]"
   - "[[Public Sphere]]"
   - "[[Post-Secular Society]]"
+aliases:
+  - discourse ethics
+  - communicative action
+  - practical philosophy
+  - system lifeworld
+  - universal pragmatics
+  - post metaphysics
+  - public sphere
+  - ideal speech
+  - critical theory
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

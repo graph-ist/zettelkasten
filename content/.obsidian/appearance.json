@@ -3,7 +3,7 @@
   "translucency": false,
   "showRibbon": true,
   "theme": "system",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "nativeMenus": true,
   "enabledCssSnippets": []
 }

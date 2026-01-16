@@ -6,28 +6,6 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - 19th-Century-Philosophy
   - Aesthetics
-aliases:
-  - german idealism
-  - infinite longing
-  - irony philosophy
-  - romantic love
-  - romantic art
-  - sentiment feeling
-  - dialectical reason
-  - pantheism immanence
-contributions:
-  - Conceptual
-authors:
-  - "[[Schlegel]]"
-  - "[[Novalis]]"
-  - "[[Hölderlin]]"
-  - "[[Fichte]]"
-  - "[[Schelling]]"
-  - "[[Hegel]]"
-  - "[[Schleiermacher]]"
-  - "[[Schiller]]"
-  - "[[Goethe]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[German Idealism]]"
   - "[[Sturm und Drang]]"
@@ -39,6 +17,17 @@ related:
   - "[[Traditionalism]]"
   - "[[Spiritualism]]"
   - "[[Positivism]]"
+aliases:
+  - german idealism
+  - infinite longing
+  - irony philosophy
+  - romantic love
+  - romantic art
+  - sentiment feeling
+  - dialectical reason
+  - pantheism immanence
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

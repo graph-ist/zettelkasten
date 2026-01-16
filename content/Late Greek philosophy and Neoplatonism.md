@@ -5,20 +5,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Metaphysics
   - Philosophy-of-Religion
-aliases:
-  - the one
-  - philo alexandria
-  - return one
-contributions:
-  - Conceptual
-authors:
-  - "[[Plotinus]]"
-  - "[[Philo]]"
-  - "[[Porphyry]]"
-  - "[[Proclus]]"
-  - "[[Numenius]]"
-  - "[[Plutarch]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Platonism]]"
   - "[[Middle Platonism]]"
@@ -30,6 +16,12 @@ related:
   - "[[Henology]]"
   - "[[Late Antiquity]]"
   - "[[Byzantine Philosophy]]"
+aliases:
+  - the one
+  - philo alexandria
+  - return one
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

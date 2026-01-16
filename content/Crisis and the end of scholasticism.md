@@ -5,18 +5,6 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Epistemology
   - Social-and-Political-Philosophy
-aliases:
-  - double truth
-contributions:
-  - Conceptual
-authors:
-  - "[[Ockham]]"
-  - "[[Scoto]]"
-  - "[[Brabante]]"
-  - "[[Bacon]]"
-  - "[[Padova]]"
-  - "[[Eckhart]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Scholasticism]]"
   - "[[Nominalism]]"
@@ -30,6 +18,10 @@ related:
   - "[[Ockham's Razor]]"
   - "[[Problem of Universals]]"
   - "[[Faith and Reason]]"
+aliases:
+  - double truth
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

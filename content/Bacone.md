@@ -6,24 +6,6 @@ subclasses:
   - Philosophy-of-Science
   - Epistemology
   - 17th-18th-Century-Philosophy
-aliases:
-  - novum organum
-  - knowledge power
-  - inductive method
-  - scientific method
-  - tables induction
-  - new atlantis
-  - prejudices mind
-  - interpretation nature
-  - crucial instance
-contributions:
-  - Conceptual
-authors:
-  - "[[Bacon]]"
-  - "[[Aristotele]]"
-  - "[[Galilei]]"
-  - "[[Gilbert]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Scientific Revolution]]"
   - "[[Empiricism]]"
@@ -37,6 +19,18 @@ related:
   - "[[British Empiricism]]"
   - "[[Royal Society]]"
   - "[[Technology]]"
+aliases:
+  - novum organum
+  - knowledge power
+  - inductive method
+  - scientific method
+  - tables induction
+  - new atlantis
+  - prejudices mind
+  - interpretation nature
+  - crucial instance
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

@@ -5,24 +5,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Epistemology
   - Phenomenology
-aliases:
-  - phenomenology spirit
-  - master slave
-  - unhappy consciousness
-  - sensible certainty
-  - figures consciousness
-  - absolute knowing
-  - lordship bondage
-contributions:
-  - Conceptual
-authors:
-  - "[[Hegel]]"
-  - "[[Kant]]"
-  - "[[Fichte]]"
-  - "[[Schelling]]"
-  - "[[Marx]]"
-  - "[[Hyppolite]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[German Idealism]]"
   - "[[Dialectic]]"
@@ -34,6 +16,16 @@ related:
   - "[[French Hegelianism]]"
   - "[[Existentialism]]"
   - "[[Encyclopedia of the Philosophical Sciences]]"
+aliases:
+  - phenomenology spirit
+  - master slave
+  - unhappy consciousness
+  - sensible certainty
+  - figures consciousness
+  - absolute knowing
+  - lordship bondage
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

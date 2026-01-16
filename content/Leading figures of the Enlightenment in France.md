@@ -6,24 +6,6 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Epistemology
   - Social-and-Political-Philosophy
-aliases:
-  - french enlightenment
-  - separation powers
-contributions:
-  - Conceptual
-authors:
-  - "[[Bayle]]"
-  - "[[Montesquieu]]"
-  - "[[Voltaire]]"
-  - "[[Turgot]]"
-  - "[[Condorcet]]"
-  - "[[Diderot]]"
-  - "[[d'Alembert]]"
-  - "[[Condillac]]"
-  - "[[Mettrie]]"
-  - "[[d'Holbach]]"
-  - "[[Helvétius]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[Enlightenment]]"
   - "[[Deism]]"
@@ -38,6 +20,11 @@ related:
   - "[[French Revolution]]"
   - "[[Locke]]"
   - "[[Newton]]"
+aliases:
+  - french enlightenment
+  - separation powers
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

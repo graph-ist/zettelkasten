@@ -5,29 +5,6 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Metaphysics
   - Epistemology
-aliases:
-  - platonism renaissance
-  - aristotelianism renaissance
-  - learned ignorance
-  - coincidence opposites
-  - soul immortality
-  - double truth
-  - copula mundi
-  - platonic academy
-  - padua school
-  - dignity man
-contributions:
-  - Conceptual
-authors:
-  - "[[Cusanus]]"
-  - "[[Ficino]]"
-  - "[[Pico]]"
-  - "[[Pomponazzi]]"
-  - "[[Plato]]"
-  - "[[Aristotle]]"
-  - "[[Plotinus]]"
-  - "[[Averroes]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Neoplatonism]]"
   - "[[Florentine Academy]]"
@@ -39,6 +16,19 @@ related:
   - "[[Faith and Reason]]"
   - "[[Double Truth]]"
   - "[[Human Dignity]]"
+aliases:
+  - platonism renaissance
+  - aristotelianism renaissance
+  - learned ignorance
+  - coincidence opposites
+  - soul immortality
+  - double truth
+  - copula mundi
+  - platonic academy
+  - padua school
+  - dignity man
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

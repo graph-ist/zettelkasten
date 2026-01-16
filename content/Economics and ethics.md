@@ -6,29 +6,6 @@ subclasses:
   - Applied-Ethics
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
-aliases:
-  - business ethics
-  - economic ethics
-  - ethical finance
-  - fair trade
-  - ethical investment
-  - corporate responsibility
-  - welfare economics
-  - social utility
-  - ethical screening
-  - market ethics
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Sen]]"
-  - "[[Harsanyi]]"
-  - "[[Rawls]]"
-  - "[[George]]"
-  - "[[Roemer]]"
-  - "[[Friedman]]"
-  - "[[Novak]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Utilitarianism]]"
   - "[[Neoliberalism]]"
@@ -40,6 +17,19 @@ related:
   - "[[Corporate Social Responsibility]]"
   - "[[Fair Trade]]"
   - "[[Analytical Marxism]]"
+aliases:
+  - business ethics
+  - economic ethics
+  - ethical finance
+  - fair trade
+  - ethical investment
+  - corporate responsibility
+  - welfare economics
+  - social utility
+  - ethical screening
+  - market ethics
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

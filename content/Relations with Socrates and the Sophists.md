@@ -5,6 +5,17 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Epistemology
   - Ethics
+related:
+  - "[[Theory of Ideas]]"
+  - "[[Platonic Academy]]"
+  - "[[Socratic Method]]"
+  - "[[Sophism]]"
+  - "[[Greek Ethics]]"
+  - "[[Rhetoric]]"
+  - "[[Philosophy of Language]]"
+  - "[[Political Philosophy]]"
+  - "[[Eudemonism]]"
+  - "[[Intellectualism]]"
 aliases:
   - socratic dialogues
   - platonic philosophy
@@ -17,27 +28,8 @@ aliases:
   - academy plato
   - philosophy politics
   - rhetoric sophists
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Plato]]"
-  - "[[Socrates]]"
-  - "[[Protagoras]]"
-  - "[[Gorgias]]"
-  - "[[Cratylus]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
-related:
-  - "[[Theory of Ideas]]"
-  - "[[Platonic Academy]]"
-  - "[[Socratic Method]]"
-  - "[[Sophism]]"
-  - "[[Greek Ethics]]"
-  - "[[Rhetoric]]"
-  - "[[Philosophy of Language]]"
-  - "[[Political Philosophy]]"
-  - "[[Eudemonism]]"
-  - "[[Intellectualism]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

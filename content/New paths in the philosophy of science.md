@@ -5,6 +5,17 @@ subclasses:
   - Philosophy-of-Science
   - Epistemology
   - Analytic-Philosophy
+related:
+  - "[[Logical Positivism]]"
+  - "[[Vienna Circle]]"
+  - "[[Analytic Philosophy]]"
+  - "[[Holism]]"
+  - "[[Scientific Realism]]"
+  - "[[Constructivism]]"
+  - "[[Philosophy of Language]]"
+  - "[[Naturalism]]"
+  - "[[Pragmatism]]"
+  - "[[Carnap]]"
 aliases:
   - quine holism
   - ontological relativity
@@ -18,27 +29,8 @@ aliases:
   - radical translation
   - theory laden
   - museum myth
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Quine]]"
-  - "[[Goodman]]"
-  - "[[Putnam]]"
-  - "[[Carnap]]"
-  - "[[Duhem]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
-related:
-  - "[[Logical Positivism]]"
-  - "[[Vienna Circle]]"
-  - "[[Analytic Philosophy]]"
-  - "[[Holism]]"
-  - "[[Scientific Realism]]"
-  - "[[Constructivism]]"
-  - "[[Philosophy of Language]]"
-  - "[[Naturalism]]"
-  - "[[Pragmatism]]"
-  - "[[Carnap]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

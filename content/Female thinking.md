@@ -6,29 +6,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
   - Continental-Philosophy
-aliases:
-  - feminist philosophy
-  - gender studies
-  - sexual difference
-  - womens movement
-  - subject crisis
-  - equality difference
-  - nomadic subject
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Beauvoir]]"
-  - "[[Woolf]]"
-  - "[[Irigaray]]"
-  - "[[Wollstonecraft]]"
-  - "[[Friedan]]"
-  - "[[Braidotti]]"
-  - "[[Foucault]]"
-  - "[[Nietzsche]]"
-  - "[[Heidegger]]"
-  - "[[Lévi-Strauss]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Existentialism]]"
   - "[[Structuralism]]"
@@ -40,6 +17,16 @@ related:
   - "[[Psychoanalysis]]"
   - "[[Crisis of the Subject]]"
   - "[[Nomadic Theory]]"
+aliases:
+  - feminist philosophy
+  - gender studies
+  - sexual difference
+  - womens movement
+  - subject crisis
+  - equality difference
+  - nomadic subject
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

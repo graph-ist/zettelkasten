@@ -5,23 +5,6 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Metaphysics
   - Epistemology
-aliases:
-  - five ways
-  - essence existence
-  - natural law
-  - faith reason
-  - analogy being
-  - actus essendi
-contributions:
-  - Conceptual
-authors:
-  - "[[Tommaso]]"
-  - "[[Aristotele]]"
-  - "[[Magno]]"
-  - "[[Avicenna]]"
-  - "[[Averroè]]"
-  - "[[Bonaventura]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Scholasticism]]"
   - "[[Aristotelianism]]"
@@ -35,6 +18,15 @@ related:
   - "[[Analogy of Being]]"
   - "[[Neothomism]]"
   - "[[Summa Theologiae]]"
+aliases:
+  - five ways
+  - essence existence
+  - natural law
+  - faith reason
+  - analogy being
+  - actus essendi
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

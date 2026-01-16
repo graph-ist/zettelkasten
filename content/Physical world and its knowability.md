@@ -5,20 +5,6 @@ subclasses:
   - Philosophy-of-Science
   - Philosophy-of-Mind
   - Ancient-Greek-and-Roman-Philosophy
-aliases:
-  - aristotelian physics
-  - natural philosophy
-  - natural places
-  - sense perception
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Aristotle]]"
-  - "[[Democritus]]"
-  - "[[Plato]]"
-  - "[[Anaxagoras]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Physics]]"
   - "[[Natural Philosophy]]"
@@ -32,6 +18,13 @@ related:
   - "[[Atomism]]"
   - "[[Mechanism]]"
   - "[[Epistemology]]"
+aliases:
+  - aristotelian physics
+  - natural philosophy
+  - natural places
+  - sense perception
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

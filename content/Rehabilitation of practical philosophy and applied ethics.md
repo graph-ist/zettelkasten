@@ -5,25 +5,6 @@ subclasses:
   - Ethics
   - Applied-Ethics
   - 20th-Century-Philosophy
-aliases:
-  - normative ethics
-  - applied ethics
-  - moral philosophy
-  - ethical theory
-  - practical philosophy
-  - ethical rehabilitation
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Harsanyi]]"
-  - "[[Hare]]"
-  - "[[Rawls]]"
-  - "[[Jonas]]"
-  - "[[Apel]]"
-  - "[[Habermas]]"
-  - "[[MacIntyre]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Metaethics]]"
   - "[[Normative Ethics]]"
@@ -35,6 +16,15 @@ related:
   - "[[Environmental Ethics]]"
   - "[[Emotivism]]"
   - "[[Moral Philosophy]]"
+aliases:
+  - normative ethics
+  - applied ethics
+  - moral philosophy
+  - ethical theory
+  - practical philosophy
+  - ethical rehabilitation
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

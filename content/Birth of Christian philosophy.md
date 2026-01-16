@@ -5,22 +5,6 @@ subclasses:
   - Philosophy-of-Religion
   - Medieval-and-Renaissance-Philosophy
   - Ancient-Greek-and-Roman-Philosophy
-aliases:
-  - church fathers
-  - christian philosophy
-  - logos theology
-  - faith reason
-  - justin martyr
-contributions:
-  - Conceptual
-authors:
-  - "[[Martyr]]"
-  - "[[Tertullian]]"
-  - "[[Alexandria]]"
-  - "[[Origen]]"
-  - "[[Nyssa]]"
-  - "[[Paul]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Neoplatonism]]"
   - "[[Gnosticism]]"
@@ -32,6 +16,14 @@ related:
   - "[[Biblical Hermeneutics]]"
   - "[[Augustine]]"
   - "[[Scholasticism]]"
+aliases:
+  - church fathers
+  - christian philosophy
+  - logos theology
+  - faith reason
+  - justin martyr
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

@@ -6,28 +6,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - Ethics
   - 20th-Century-Philosophy
-aliases:
-  - justice theory
-  - political philosophy
-  - rawls justice
-  - social contract
-  - distributive justice
-  - original position
-  - veil ignorance
-  - state minimal
-  - individual rights
-  - virtue ethics
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Rawls]]"
-  - "[[Nozick]]"
-  - "[[Hayek]]"
-  - "[[MacIntyre]]"
-  - "[[Locke]]"
-  - "[[Kant]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Social Contract Theory]]"
   - "[[Distributive Justice]]"
@@ -39,6 +17,19 @@ related:
   - "[[Kantian Ethics]]"
   - "[[Classical Liberalism]]"
   - "[[Neoliberalism]]"
+aliases:
+  - justice theory
+  - political philosophy
+  - rawls justice
+  - social contract
+  - distributive justice
+  - original position
+  - veil ignorance
+  - state minimal
+  - individual rights
+  - virtue ethics
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

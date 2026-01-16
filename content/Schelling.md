@@ -5,26 +5,6 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Metaphysics
   - Aesthetics
-aliases:
-  - absolute idealism
-  - philosophy nature
-  - identity philosophy
-  - transcendental idealism
-  - objective idealism
-  - aesthetic idealism
-  - world soul
-  - absolute identity
-  - natura naturans
-contributions:
-  - Conceptual
-authors:
-  - "[[Schelling]]"
-  - "[[Fichte]]"
-  - "[[Spinoza]]"
-  - "[[Kant]]"
-  - "[[Hegel]]"
-  - "[[Goethe]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[German Idealism]]"
   - "[[Naturphilosophie]]"
@@ -36,6 +16,18 @@ related:
   - "[[Absolute]]"
   - "[[Identity Philosophy]]"
   - "[[Transcendental Philosophy]]"
+aliases:
+  - absolute idealism
+  - philosophy nature
+  - identity philosophy
+  - transcendental idealism
+  - objective idealism
+  - aesthetic idealism
+  - world soul
+  - absolute identity
+  - natura naturans
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

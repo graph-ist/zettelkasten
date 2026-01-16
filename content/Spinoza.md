@@ -5,20 +5,6 @@ subclasses:
   - Metaphysics
   - 17th-18th-Century-Philosophy
   - Ethics
-aliases:
-  - god nature
-  - intellectual love
-  - geometric method
-  - attributes modes
-contributions:
-  - Conceptual
-authors:
-  - "[[Spinoza]]"
-  - "[[Descartes]]"
-  - "[[Hobbes]]"
-  - "[[Bruno]]"
-  - "[[Euclid]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Rationalism]]"
   - "[[Pantheism]]"
@@ -30,6 +16,13 @@ related:
   - "[[Dutch Golden Age]]"
   - "[[Leibniz]]"
   - "[[German Idealism]]"
+aliases:
+  - god nature
+  - intellectual love
+  - geometric method
+  - attributes modes
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

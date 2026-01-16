@@ -5,25 +5,6 @@ subclasses:
   - Ethics
   - Applied-Ethics
   - 20th-Century-Philosophy
-aliases:
-  - environmental ethics
-  - animal ethics
-  - deep ecology
-  - animal rights
-  - ecological philosophy
-  - land ethics
-  - animal liberation
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Leopold]]"
-  - "[[Naess]]"
-  - "[[Singer]]"
-  - "[[Regan]]"
-  - "[[Bookchin]]"
-  - "[[Callicott]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Environmental Ethics]]"
   - "[[Animal Rights]]"
@@ -35,6 +16,16 @@ related:
   - "[[Applied Ethics]]"
   - "[[Utilitarianism]]"
   - "[[Natural Rights]]"
+aliases:
+  - environmental ethics
+  - animal ethics
+  - deep ecology
+  - animal rights
+  - ecological philosophy
+  - land ethics
+  - animal liberation
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

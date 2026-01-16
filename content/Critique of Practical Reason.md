@@ -5,27 +5,6 @@ subclasses:
   - Ethics
   - Epistemology
   - 17th-18th-Century-Philosophy
-aliases:
-  - practical reason
-  - categorical imperative
-  - moral law
-  - duty ethics
-  - pure practical
-  - kingdom ends
-  - good will
-  - deontological ethics
-  - moral philosophy
-  - freedom morality
-contributions:
-  - Conceptual
-authors:
-  - "[[Kant]]"
-  - "[[Hume]]"
-  - "[[Rousseau]]"
-  - "[[Wolff]]"
-  - "[[Epicurus]]"
-  - "[[Hutcheson]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[Critique of Pure Reason]]"
   - "[[Groundwork of the Metaphysics of Morals]]"
@@ -37,6 +16,19 @@ related:
   - "[[Moral Philosophy]]"
   - "[[Freedom and Determinism]]"
   - "[[Practical Reason]]"
+aliases:
+  - practical reason
+  - categorical imperative
+  - moral law
+  - duty ethics
+  - pure practical
+  - kingdom ends
+  - good will
+  - deontological ethics
+  - moral philosophy
+  - freedom morality
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

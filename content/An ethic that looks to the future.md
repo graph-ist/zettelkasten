@@ -5,24 +5,6 @@ subclasses:
   - Ethics
   - Applied-Ethics
   - 20th-Century-Philosophy
-aliases:
-  - responsibility ethics
-  - technology ethics
-  - environmental ethics
-  - future generations
-  - ecological ethics
-  - heuristics fear
-  - precautionary principle
-  - imperative ethics
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Jonas]]"
-  - "[[Kant]]"
-  - "[[Heidegger]]"
-  - "[[Bloch]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
 related:
   - "[[Environmental Ethics]]"
   - "[[Bioethics]]"
@@ -34,6 +16,17 @@ related:
   - "[[Phenomenology]]"
   - "[[Gnosticism]]"
   - "[[Theodicy]]"
+aliases:
+  - responsibility ethics
+  - technology ethics
+  - environmental ethics
+  - future generations
+  - ecological ethics
+  - heuristics fear
+  - precautionary principle
+  - imperative ethics
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
 ---
 
 #### Central Problem

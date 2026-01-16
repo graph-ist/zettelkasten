@@ -6,23 +6,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Metaphysics
   - Social-and-Political-Philosophy
-aliases:
-  - theory ideas
-  - platonic forms
-  - allegory cave
-  - philosopher kings
-  - platonic republic
-  - immortality soul
-  - platonic love
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Plato]]"
-  - "[[Socrates]]"
-  - "[[Parmenides]]"
-  - "[[Heraclitus]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 related:
   - "[[Theory of Forms]]"
   - "[[Platonic Academy]]"
@@ -35,6 +18,16 @@ related:
   - "[[Immortality of the Soul]]"
   - "[[Greek Ethics]]"
   - "[[Neoplatonism]]"
+aliases:
+  - theory ideas
+  - platonic forms
+  - allegory cave
+  - philosopher kings
+  - platonic republic
+  - immortality soul
+  - platonic love
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
 ---
 
 #### Central Problem

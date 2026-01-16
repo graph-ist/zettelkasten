@@ -5,24 +5,6 @@ subclasses:
   - Ethics
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
-aliases:
-  - integral humanism
-  - common good
-  - human person
-  - grades knowledge
-  - christian philosophy
-  - democracy ethics
-  - natural law
-contributions:
-  - Conceptual
-authors:
-  - "[[Maritain]]"
-  - "[[Aquinas]]"
-  - "[[Gilson]]"
-  - "[[Mercier]]"
-  - "[[XIII]]"
-  - "[[Bergson]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Thomism]]"
   - "[[Personalism]]"
@@ -34,6 +16,16 @@ related:
   - "[[Christian Philosophy]]"
   - "[[Scholasticism]]"
   - "[[Vatican II]]"
+aliases:
+  - integral humanism
+  - common good
+  - human person
+  - grades knowledge
+  - christian philosophy
+  - democracy ethics
+  - natural law
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

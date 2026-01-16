@@ -6,24 +6,6 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Social-and-Political-Philosophy
   - Epistemology
-aliases:
-  - age reason
-  - sapere aude
-  - natural rights
-  - public happiness
-  - despotism enlightened
-contributions:
-  - Conceptual
-authors:
-  - "[[Voltaire]]"
-  - "[[Kant]]"
-  - "[[Montesquieu]]"
-  - "[[Diderot]]"
-  - "[[Rousseau]]"
-  - "[[Locke]]"
-  - "[[Newton]]"
-  - "[[Condorcet]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[French Revolution]]"
   - "[[Encyclopedia]]"
@@ -36,6 +18,14 @@ related:
   - "[[Social Contract Theory]]"
   - "[[Physiocracy]]"
   - "[[Romanticism]]"
+aliases:
+  - age reason
+  - sapere aude
+  - natural rights
+  - public happiness
+  - despotism enlightened
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

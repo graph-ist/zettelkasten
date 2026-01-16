@@ -7,6 +7,14 @@ subclasses:
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
   - Ethics
+related:
+  - "[[Rawls]]"
+  - "[[Hart]]"
+  - "[[Berlin]]"
+  - "[[Hampshire]]"
+  - "[[Hobbes]]"
+  - "[[Locke]]"
+  - "[[Wittgenstein]]"
 aliases:
   - political liberalism
   - liberal tradition
@@ -17,21 +25,15 @@ aliases:
   - reflective equilibrium
   - ideal theory
   - coercive power
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Rawls]]"
-  - "[[Hart]]"
-  - "[[Berlin]]"
-  - "[[Hampshire]]"
-  - "[[Hobbes]]"
-  - "[[Locke]]"
-  - "[[Wittgenstein]]"
-reference: https://plato.stanford.edu/entries/rawls/
-related:
+reference:
+  - https://plato.stanford.edu/entries/rawls/
 ---
 
-#### Abstract
-
 Rawls (1921-2002) was an American political philosopher known for his theory of *justice as fairness*. He taught at Harvard for over thirty years. His early life included military service in WWII and activism against the Vietnam War. Rawls's work addresses the practical role of political philosophy in resolving societal divisions, helping citizens understand their social world, exploring political possibilities, and reconciling citizens with their society's institutions. He emphasized a sequential approach to political theory, starting with ideal theory before addressing non-ideal conditions, and utilized the method of reflective equilibrium to achieve coherent political beliefs. His theory of political liberalism tackles the challenges of legitimacy and stability in diverse democracies, proposing that political power is legitimate only when exercised according to principles reasonably expected to be endorsed by all free and equal citizens, a concept he terms the liberal principle of legitimacy and the criterion of reciprocity.
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Notes citing Rawls"
+FROM [[Rawls]]
+SORT file.name ASC
+```

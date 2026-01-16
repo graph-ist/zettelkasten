@@ -5,23 +5,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Ethics
   - Logic-and-Philosophy-of-Logic
-aliases:
-  - stoic philosophy
-  - zeno citium
-  - cataleptic representation
-  - living nature
-  - natural law
-contributions:
-  - Conceptual
-authors:
-  - "[[Cizio]]"
-  - "[[Cleante]]"
-  - "[[Crisippo]]"
-  - "[[Seneca]]"
-  - "[[Epitteto]]"
-  - "[[Aurelio]]"
-  - "[[Cicero]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Hellenistic Philosophy]]"
   - "[[Cynicism]]"
@@ -33,6 +16,14 @@ related:
   - "[[Determinism]]"
   - "[[Virtue Ethics]]"
   - "[[Cosmopolitanism]]"
+aliases:
+  - stoic philosophy
+  - zeno citium
+  - cataleptic representation
+  - living nature
+  - natural law
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

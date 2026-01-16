@@ -6,27 +6,6 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Social-and-Political-Philosophy
   - Epistemology
-aliases:
-  - homo faber
-  - dignity man
-  - return antiquity
-  - secular knowledge
-  - historical perspective
-  - lay intellectual
-  - civic humanism
-  - active life
-contributions:
-  - Conceptual
-authors:
-  - "[[Petrarca]]"
-  - "[[Salutati]]"
-  - "[[Bruni]]"
-  - "[[Valla]]"
-  - "[[Pico]]"
-  - "[[Montaigne]]"
-  - "[[Burckhardt]]"
-  - "[[Garin]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Scholasticism]]"
   - "[[Medieval Philosophy]]"
@@ -38,6 +17,17 @@ related:
   - "[[Philology]]"
   - "[[Dignity of Man]]"
   - "[[Italian Renaissance]]"
+aliases:
+  - homo faber
+  - dignity man
+  - return antiquity
+  - secular knowledge
+  - historical perspective
+  - lay intellectual
+  - civic humanism
+  - active life
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

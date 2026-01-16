@@ -6,26 +6,6 @@ subclasses:
   - Philosophy-of-Science
   - Epistemology
   - Analytic-Philosophy
-aliases:
-  - sense reference
-  - common sense
-  - analytic philosophy
-  - denotation theory
-  - knowledge acquaintance
-  - scientific method
-  - logical atomism
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Mach]]"
-  - "[[Poincaré]]"
-  - "[[Duhem]]"
-  - "[[Frege]]"
-  - "[[Moore]]"
-  - "[[Russell]]"
-  - "[[Avenarius]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 related:
   - "[[Logical Positivism]]"
   - "[[Vienna Circle]]"
@@ -37,6 +17,16 @@ related:
   - "[[Principia Mathematica]]"
   - "[[Common Sense Philosophy]]"
   - "[[Emotivism]]"
+aliases:
+  - sense reference
+  - common sense
+  - analytic philosophy
+  - denotation theory
+  - knowledge acquaintance
+  - scientific method
+  - logical atomism
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia."
 ---
 
 #### Central Problem

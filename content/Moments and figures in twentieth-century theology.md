@@ -5,31 +5,6 @@ subclasses:
   - Philosophy-of-Religion
   - 20th-Century-Philosophy
   - Continental-Philosophy
-aliases:
-  - theology twentieth
-  - liberation theology
-  - dialectical theology
-  - anthropological turn
-  - ecumenical theology
-  - political theology
-  - theology hope
-  - christian atheism
-  - omega point
-contributions:
-  - Conceptual
-  - Constructive
-authors:
-  - "[[Barth]]"
-  - "[[Bultmann]]"
-  - "[[Tillich]]"
-  - "[[Bonhoeffer]]"
-  - "[[Rahner]]"
-  - "[[Balthasar]]"
-  - "[[Chardin]]"
-  - "[[Moltmann]]"
-  - "[[Gutiérrez]]"
-  - "[[Küng]]"
-reference: Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
 related:
   - "[[Dialectical Theology]]"
   - "[[Existentialism]]"
@@ -41,6 +16,18 @@ related:
   - "[[Philosophy of Religion]]"
   - "[[Eschatology]]"
   - "[[Hermeneutics]]"
+aliases:
+  - theology twentieth
+  - liberation theology
+  - dialectical theology
+  - anthropological turn
+  - ecumenical theology
+  - political theology
+  - theology hope
+  - christian atheism
+  - omega point
+reference:
+  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
 ---
 
 #### Central Problem

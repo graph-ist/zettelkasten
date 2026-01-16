@@ -6,23 +6,6 @@ subclasses:
   - Philosophy-of-Science
   - Epistemology
   - 17th-18th-Century-Philosophy
-aliases:
-  - classical physics
-  - scientific method
-  - principia mathematica
-  - hypotheses non
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Newton]]"
-  - "[[Galilei]]"
-  - "[[Descartes]]"
-  - "[[Huygens]]"
-  - "[[Leibniz]]"
-  - "[[Locke]]"
-  - "[[Kant]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Scientific Revolution]]"
   - "[[Classical Mechanics]]"
@@ -34,6 +17,13 @@ related:
   - "[[Absolute Space]]"
   - "[[Newtonian Physics]]"
   - "[[Principia Mathematica]]"
+aliases:
+  - classical physics
+  - scientific method
+  - principia mathematica
+  - hypotheses non
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

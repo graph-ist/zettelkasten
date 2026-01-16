@@ -5,21 +5,6 @@ subclasses:
   - Metaphysics
   - 17th-18th-Century-Philosophy
   - Epistemology
-aliases:
-  - preestablished harmony
-  - best possible
-  - sufficient reason
-  - infinitesimal calculus
-  - eternal truths
-contributions:
-  - Conceptual
-authors:
-  - "[[Leibniz]]"
-  - "[[Descartes]]"
-  - "[[Spinoza]]"
-  - "[[Locke]]"
-  - "[[Newton]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 related:
   - "[[Rationalism]]"
   - "[[Monadology]]"
@@ -31,6 +16,14 @@ related:
   - "[[Descartes]]"
   - "[[Spinoza]]"
   - "[[Kant]]"
+aliases:
+  - preestablished harmony
+  - best possible
+  - sufficient reason
+  - infinitesimal calculus
+  - eternal truths
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

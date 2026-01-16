@@ -5,24 +5,6 @@ subclasses:
   - 19th-Century-Philosophy
   - Metaphysics
   - Epistemology
-aliases:
-  - absolute idealism
-  - thesis antithesis
-  - real rational
-  - spirit idea
-  - absolute spirit
-  - speculative reason
-  - finite infinite
-contributions:
-  - Conceptual
-authors:
-  - "[[Hegel]]"
-  - "[[Kant]]"
-  - "[[Fichte]]"
-  - "[[Schelling]]"
-  - "[[Spinoza]]"
-  - "[[Rousseau]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[German Idealism]]"
   - "[[Dialectic]]"
@@ -34,6 +16,16 @@ related:
   - "[[Kierkegaard]]"
   - "[[Neo-Hegelianism]]"
   - "[[French Revolution]]"
+aliases:
+  - absolute idealism
+  - thesis antithesis
+  - real rational
+  - spirit idea
+  - absolute spirit
+  - speculative reason
+  - finite infinite
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem

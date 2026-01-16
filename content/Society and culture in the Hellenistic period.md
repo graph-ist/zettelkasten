@@ -6,26 +6,6 @@ subclasses:
   - Ancient-Greek-and-Roman-Philosophy
   - Epistemology
   - Ethics
-aliases:
-  - hellenistic philosophy
-  - alexandria library
-  - museum alexandria
-  - polis decline
-  - philosophy therapy
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[Euclide]]"
-  - "[[Archimede]]"
-  - "[[Aristarco]]"
-  - "[[Ipparco]]"
-  - "[[Tolomeo]]"
-  - "[[Galeno]]"
-  - "[[Eratostene]]"
-  - "[[Cizio]]"
-  - "[[Epicuro]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Stoicism]]"
   - "[[Epicureanism]]"
@@ -37,6 +17,14 @@ related:
   - "[[Neoplatonism]]"
   - "[[Roman Philosophy]]"
   - "[[Eclecticism]]"
+aliases:
+  - hellenistic philosophy
+  - alexandria library
+  - museum alexandria
+  - polis decline
+  - philosophy therapy
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

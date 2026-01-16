@@ -5,24 +5,6 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Epistemology
   - Logic-and-Philosophy-of-Logic
-aliases:
-  - faith reason
-  - ontological argument
-  - realism nominalism
-  - anselm proof
-  - medieval logic
-contributions:
-  - Conceptual
-authors:
-  - "[[Anselm]]"
-  - "[[Abelardo]]"
-  - "[[Bonaventura]]"
-  - "[[Magno]]"
-  - "[[Eriugena]]"
-  - "[[Avicenna]]"
-  - "[[Averroè]]"
-  - "[[Maimonide]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Scholasticism]]"
   - "[[Ontological Argument]]"
@@ -36,6 +18,14 @@ related:
   - "[[Divine Illumination]]"
   - "[[Mysticism]]"
   - "[[Nominalism]]"
+aliases:
+  - faith reason
+  - ontological argument
+  - realism nominalism
+  - anselm proof
+  - medieval logic
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

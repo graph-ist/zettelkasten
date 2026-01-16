@@ -7,27 +7,6 @@ subclasses:
   - Social-and-Political-Philosophy
   - 20th-Century-Philosophy
   - Critical-Theory
-aliases:
-  - global village
-  - mass media
-  - cultural imperialism
-  - empire theory
-  - world system
-  - media theory
-  - anthropological decentering
-contributions:
-  - Conceptual
-  - Empirical
-authors:
-  - "[[McLuhan]]"
-  - "[[Taylor]]"
-  - "[[Negri]]"
-  - "[[Hardt]]"
-  - "[[Giddens]]"
-  - "[[Sen]]"
-  - "[[Packard]]"
-  - "[[Habermas]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 related:
   - "[[Mass Media]]"
   - "[[Capitalism]]"
@@ -39,6 +18,16 @@ related:
   - "[[Cultural Studies]]"
   - "[[Development Economics]]"
   - "[[Cosmopolitanism]]"
+aliases:
+  - global village
+  - mass media
+  - cultural imperialism
+  - empire theory
+  - world system
+  - media theory
+  - anthropological decentering
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
 ---
 
 #### Central Problem

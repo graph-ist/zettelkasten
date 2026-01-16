@@ -5,6 +5,17 @@ subclasses:
   - Epistemology
   - 17th-18th-Century-Philosophy
   - Metaphysics
+related:
+  - "[[Rationalism]]"
+  - "[[Scientific Revolution]]"
+  - "[[Methodical Doubt]]"
+  - "[[Mind-Body Problem]]"
+  - "[[Cartesian Dualism]]"
+  - "[[Epistemology]]"
+  - "[[Innate Ideas]]"
+  - "[[Mechanicism]]"
+  - "[[Discourse on Method]]"
+  - "[[Meditations on First Philosophy]]"
 aliases:
   - cartesian method
   - methodical doubt
@@ -18,28 +29,8 @@ aliases:
   - evil genius
   - pineal gland
   - universal science
-contributions:
-  - Conceptual
-authors:
-  - "[[Descartes]]"
-  - "[[Montaigne]]"
-  - "[[Galilei]]"
-  - "[[Augustine]]"
-  - "[[Gassendi]]"
-  - "[[Hobbes]]"
-  - "[[Arnauld]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
-related:
-  - "[[Rationalism]]"
-  - "[[Scientific Revolution]]"
-  - "[[Methodical Doubt]]"
-  - "[[Mind-Body Problem]]"
-  - "[[Cartesian Dualism]]"
-  - "[[Epistemology]]"
-  - "[[Innate Ideas]]"
-  - "[[Mechanicism]]"
-  - "[[Discourse on Method]]"
-  - "[[Meditations on First Philosophy]]"
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia."
 ---
 
 #### Central Problem

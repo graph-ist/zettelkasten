@@ -5,23 +5,6 @@ subclasses:
   - Medieval-and-Renaissance-Philosophy
   - Metaphysics
   - Epistemology
-aliases:
-  - city god
-  - time consciousness
-  - evil privation
-  - faith reason
-  - grace predestination
-  - original sin
-  - two cities
-contributions:
-  - Conceptual
-authors:
-  - "[[Augustine]]"
-  - "[[Plotinus]]"
-  - "[[Ambrose]]"
-  - "[[Pelagius]]"
-  - "[[Boethius]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 related:
   - "[[Neoplatonism]]"
   - "[[Patristics]]"
@@ -33,6 +16,16 @@ related:
   - "[[Medieval Philosophy]]"
   - "[[Christian Mysticism]]"
   - "[[Predestination]]"
+aliases:
+  - city god
+  - time consciousness
+  - evil privation
+  - faith reason
+  - grace predestination
+  - original sin
+  - two cities
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1B. Dall'ellenismo alla scolastica. Paravia."
 ---
 
 #### Central Problem

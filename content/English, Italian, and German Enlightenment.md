@@ -6,29 +6,6 @@ subclasses:
   - 17th-18th-Century-Philosophy
   - Ethics
   - Aesthetics
-aliases:
-  - english enlightenment
-  - italian enlightenment
-  - german enlightenment
-  - moral sense
-  - common sense
-  - sympathy ethics
-  - natural religion
-contributions:
-  - Conceptual
-authors:
-  - "[[Shaftesbury]]"
-  - "[[Hutcheson]]"
-  - "[[Mandeville]]"
-  - "[[Smith]]"
-  - "[[Reid]]"
-  - "[[Beccaria]]"
-  - "[[Verri]]"
-  - "[[Wolff]]"
-  - "[[Baumgarten]]"
-  - "[[Mendelssohn]]"
-  - "[[Lessing]]"
-reference: "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 related:
   - "[[Moral Sense Theory]]"
   - "[[Scottish Enlightenment]]"
@@ -43,6 +20,16 @@ related:
   - "[[Hume]]"
   - "[[Kant]]"
   - "[[Romanticism]]"
+aliases:
+  - english enlightenment
+  - italian enlightenment
+  - german enlightenment
+  - moral sense
+  - common sense
+  - sympathy ethics
+  - natural religion
+reference:
+  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia."
 ---
 
 #### Central Problem
