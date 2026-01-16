@@ -40,3 +40,58 @@ button.toc-header h3,
 .top-communities h3:first-child {
   margin-top: 0;
 }
+
+// Dataview tables styling
+.dataview-backlinks {
+  margin: 1rem 0;
+}
+
+.dataview-table {
+  width: 100%;
+  border-collapse: collapse;
+  
+  th, td {
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+    border-bottom: 1px solid var(--lightgray);
+  }
+  
+  th {
+    background-color: var(--light);
+    font-weight: 600;
+  }
+  
+  tr:hover td {
+    background-color: var(--highlight);
+  }
+  
+  a.internal {
+    color: var(--secondary);
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// Mobile typography - 10% smaller font and line-height
+@media (max-width: 600px) {
+  body {
+    font-size: 0.9em;
+    line-height: 1.35; // ~10% less than default 1.5
+  }
+  
+  article {
+    font-size: 0.9em;
+    line-height: 1.35;
+  }
+  
+  .dataview-table {
+    font-size: 0.9em;
+    
+    th, td {
+      padding: 0.4rem 0.5rem;
+    }
+  }
+}

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plato.md",
+                "file": "Aristotle.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Plato"
+              "title": "Aristotle"
             }
           }
         ]
@@ -149,6 +149,8 @@
   },
   "active": "b676442f64cfd1e1",
   "lastOpenFiles": [
+    "Plato.md",
+    "Aristotle.md",
     "Hobbes.md",
     "Blueprints/Unresolved.md",
     "Blueprints/Persons Index (Dynamic).md",
@@ -173,8 +175,6 @@
     "Clippings/Peirce's Semiotic Theory and Logical Systems.md",
     "Clippings/Ethics in Design.md",
     "Clippings/Exploring Philosophy Through Time.md",
-    "Clippings/Introduction to Theory of Literature.md",
-    "Clippings/Rawls and the Original Position.md",
     "Appendix/Rudimenti di etica per il design (Visual).canvas",
     "Senza nome.canvas",
     "Clippings",
