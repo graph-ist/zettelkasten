@@ -77,21 +77,8 @@ button.toc-header h3,
 
 // Mobile typography - 10% smaller font and line-height
 @media (max-width: 600px) {
-  body {
-    font-size: 0.9em;
-    line-height: 1.35; // ~10% less than default 1.5
-  }
-  
-  article {
-    font-size: 0.9em;
-    line-height: 1.35;
-  }
-  
-  .dataview-table {
-    font-size: 0.9em;
-    
-    th, td {
-      padding: 0.4rem 0.5rem;
-    }
+  p, li, td, th, a, .dataview-backlinks a {
+    font-size: 0.9rem !important;
+    line-height: 1.6rem !important;
   }
 }
