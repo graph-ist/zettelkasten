@@ -57,13 +57,17 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [
     Component.VirtualLinker(),
     Component.ConditionalRender({
-      component: Component.TopCommunities({
-        title: "Topic Clusters",
-        topCommunities: 3,
-        notesPerCommunity: 4,
-      }),
+      component: Component.SankeyDiagram({ height: 450 }),
       condition: (page) => page.fileData.slug === "index",
     }),
+    // Component.ConditionalRender({
+    //   component: Component.TopCommunities({
+    //     title: "Topic Clusters",
+    //     topCommunities: 3,
+    //     notesPerCommunity: 4,
+    //   }),
+    //   condition: (page) => page.fileData.slug === "index",
+    // }),
   ],
 }
 

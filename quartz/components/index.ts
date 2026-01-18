@@ -33,6 +33,7 @@ import {
   LinkPrediction,
   Community,
   TopCommunities,
+  SankeyDiagram,
 } from "./custom"
 
 export {
@@ -68,4 +69,5 @@ export {
   LinkPrediction,
   Community,
   TopCommunities,
+  SankeyDiagram,
 }
