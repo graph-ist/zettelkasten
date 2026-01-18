@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aristotle.md",
-                "mode": "preview",
+                "file": "Berkeley.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aristotle"
+              "title": "Berkeley"
             }
           }
         ]
@@ -149,13 +149,13 @@
   },
   "active": "b676442f64cfd1e1",
   "lastOpenFiles": [
-    "Plato.md",
+    "Kant.md",
     "Aristotle.md",
+    "Plato.md",
     "Hobbes.md",
     "Blueprints/Unresolved.md",
     "Blueprints/Persons Index (Dynamic).md",
     "Blueprints/Template.md",
-    "Kant.md",
     "Blueprints/Shortcuts.md",
     "Clippings/Category Theory in mathematics.md",
     "Clippings/Arthur Holmes and A History of Philosophy.md",
