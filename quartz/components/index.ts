@@ -23,13 +23,17 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
-import FrontmatterDisplay from "./FrontmatterDisplay"
-import VirtualLinker from "./VirtualLinker"
-import CoCitations from "./CoCitations"
-import Similarity from "./Similarity"
-import LinkPrediction from "./LinkPrediction"
-import Community from "./Community"
-import TopCommunities from "./TopCommunities"
+
+// Custom components (isolated in /custom for easier upstream merges)
+import {
+  FrontmatterDisplay,
+  VirtualLinker,
+  CoCitations,
+  Similarity,
+  LinkPrediction,
+  Community,
+  TopCommunities,
+} from "./custom"
 
 export {
   ArticleTitle,

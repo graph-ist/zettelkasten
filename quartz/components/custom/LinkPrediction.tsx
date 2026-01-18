@@ -1,9 +1,9 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/linkprediction.scss"
-import { resolveRelative, simplifySlug, SimpleSlug } from "../util/path"
-import { classNames } from "../util/lang"
-import { buildAdjacencyMap, buildSlugToFileMap } from "../util/graph"
-import script from "./scripts/linkprediction.inline"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import style from "../styles/custom/linkprediction.scss"
+import { resolveRelative, simplifySlug, SimpleSlug } from "../../util/path"
+import { classNames } from "../../util/lang"
+import { buildAdjacencyMap, buildSlugToFileMap } from "../../util/graph"
+import script from "../scripts/custom/linkprediction.inline"
 
 interface LinkPredictionOptions {
   hideWhenEmpty: boolean

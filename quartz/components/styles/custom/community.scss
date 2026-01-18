@@ -1,10 +1,10 @@
-@use "../../styles/variables.scss" as *;
+@use "../../../styles/variables.scss" as *;
 
-.cocitations {
+.community {
   display: flex;
   flex-direction: column;
 
-  .cocitations-header {
+  .community-header {
     background-color: transparent;
     border: none;
     text-align: left;
@@ -31,7 +31,7 @@
     }
   }
 
-  .cocitations-content {
+  .community-content {
     transition: max-height 0.3s ease, opacity 0.3s ease;
     overflow: hidden;
 
@@ -41,21 +41,28 @@
     }
   }
 
-  .cocitations-description {
+  .community-description {
     font-size: 0.75rem;
     color: var(--gray);
-    margin: 0.25rem 0 0.5rem 0;
+    margin: 0.25rem 0 0.25rem 0;
     font-style: italic;
   }
 
-  .cocitations-list {
+  .community-stats {
+    font-size: 0.7rem;
+    color: var(--gray);
+    margin: 0 0 0.5rem 0;
+    padding: 0;
+  }
+
+  .community-list {
     list-style: none;
     padding: 0;
     margin: 0.5rem 0;
-    max-height: 30vh;
+    max-height: 25vh;
     overflow-y: auto;
 
-    .cocitation-item {
+    .community-item {
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -63,7 +70,7 @@
       padding: 0.15rem 0;
       line-height: 1.2rem;
 
-      .cocitation-link {
+      .community-link {
         color: var(--dark);
         font-size: 0.9rem;
         font-weight: $normalWeight;
@@ -80,11 +87,18 @@
         }
       }
 
-      .cocitation-score {
-        font-size: 0.75rem;
+      .community-coeff {
+        font-size: 0.7rem;
         color: var(--gray);
         flex-shrink: 0;
       }
     }
+  }
+
+  .no-community {
+    font-size: 0.85rem;
+    color: var(--gray);
+    font-style: italic;
+    margin: 0.5rem 0;
   }
 }

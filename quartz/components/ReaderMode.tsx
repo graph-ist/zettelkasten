@@ -31,7 +31,7 @@ const ReaderMode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps
   )
 }
 
-ReaderMode.beforeDOMLoaded = readerModeScript
+ReaderMode.afterDOMLoaded = readerModeScript
 ReaderMode.css = styles
 
 export default (() => ReaderMode) satisfies QuartzComponentConstructor

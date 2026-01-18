@@ -75,7 +75,7 @@ export function buildSlugToFileMap(
  * @param seed - Seed for variation (e.g., iteration number)
  * @returns Hash value for sorting
  */
-function deterministicHash(str: string, seed: number = 0): number {
+export function deterministicHash(str: string, seed: number = 0): number {
   let hash = seed
   for (let i = 0; i < str.length; i++) {
     hash = ((hash << 5) - hash + str.charCodeAt(i)) | 0

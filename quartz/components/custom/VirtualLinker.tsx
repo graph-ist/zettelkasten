@@ -1,6 +1,6 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import script from "./scripts/virtualLinker.inline"
-import styles from "./styles/virtualLinker.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import script from "../scripts/custom/virtualLinker.inline"
+import styles from "../styles/custom/virtualLinker.scss"
 
 const VirtualLinker: QuartzComponent = ({ displayClass }: QuartzComponentProps) => {
   return null

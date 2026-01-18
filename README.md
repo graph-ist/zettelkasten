@@ -34,23 +34,29 @@ Visit `http://localhost:8080` for local preview.
 
 ```
 zettelkasten/
-├── content/                   # Markdown notes
-│   ├── index.md               # Homepage
-│   └── Blueprints/            # Technical documentation
+├── content/                        # Markdown notes
+│   ├── index.md                    # Homepage
+│   └── Blueprints/                 # Technical documentation
 ├── quartz/
-│   ├── components/            # UI components
-│   │   ├── CoCitations.tsx    # Co-citation analysis
-│   │   ├── Community.tsx      # Community detection
-│   │   ├── Similarity.tsx     # Jaccard similarity
-│   │   ├── LinkPrediction.tsx # Link suggestions
-│   │   ├── VirtualLinker.tsx  # Auto-linking
-│   │   ├── TopCommunities.tsx # Global clusters
-│   │   └── FrontmatterDisplay.tsx
+│   ├── components/
+│   │   ├── custom/                 # Custom components (isolated)
+│   │   │   ├── CoCitations.tsx
+│   │   │   ├── Community.tsx
+│   │   │   ├── Similarity.tsx
+│   │   │   ├── LinkPrediction.tsx
+│   │   │   ├── VirtualLinker.tsx
+│   │   │   ├── TopCommunities.tsx
+│   │   │   ├── FrontmatterDisplay.tsx
+│   │   │   └── index.ts            # Re-exports
+│   │   ├── scripts/custom/         # Custom inline scripts
+│   │   └── styles/custom/          # Custom SCSS styles
 │   ├── util/
-│   │   └── graph.ts           # Shared graph algorithms
-│   └── plugins/               # Content transformers
-├── quartz.config.ts           # Site configuration
-└── quartz.layout.ts           # Layout configuration
+│   │   ├── graph.ts                # Shared graph algorithms
+│   │   └── graph.test.ts           # Unit tests
+│   └── plugins/                    # Content transformers
+├── quartz.config.ts                # Site configuration
+├── quartz.layout.ts                # Layout configuration
+└── CHANGELOG.md                    # Modifications to vanilla Quartz
 ```
 
 ---
@@ -226,6 +232,9 @@ To avoid showing weak correlations:
 3. **DRY code**: Shared `labelPropagation()` in graph.ts
 4. **Proper URLs**: `resolveRelative()` for baseUrl support
 5. **XSS prevention**: `escapeCDATA()` for RSS content
+6. **Race condition fix**: `build.ts` generates buildId inside mutex
+7. **Memory leak fix**: `graph.inline.ts` preventive cleanup on navigation
+8. **Magic numbers removed**: `GRAPH_CONSTANTS` object in graph.inline.ts
 
 ---
 

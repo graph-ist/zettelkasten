@@ -191,7 +191,7 @@ document.addEventListener("nav", async () => {
   if (nodes.length === 0) return
 
   mermaidImport ||= await import(
-    // @ts-ignore
+    // @ts-expect-error: Dynamic CDN import has no type declarations
     "https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs"
   )
   const mermaid = mermaidImport.default

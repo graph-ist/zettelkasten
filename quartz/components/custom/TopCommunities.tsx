@@ -1,8 +1,8 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { resolveRelative, simplifySlug, SimpleSlug } from "../util/path"
-import { classNames } from "../util/lang"
-import { buildAdjacencyMap, buildSlugToFileMap, labelPropagation } from "../util/graph"
-import style from "./styles/topCommunities.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { resolveRelative, simplifySlug, SimpleSlug } from "../../util/path"
+import { classNames } from "../../util/lang"
+import { buildAdjacencyMap, buildSlugToFileMap, labelPropagation } from "../../util/graph"
+import style from "../styles/custom/topCommunities.scss"
 
 interface TopCommunitiesOptions {
   /** Number of top communities to show */

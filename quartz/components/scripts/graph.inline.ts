@@ -59,23 +59,18 @@ const GRAPH_CONSTANTS = {
   SIMULATION_CHARGE: -100,
   COLLISION_ITERATIONS: 3,
   RADIAL_STRENGTH: 0.2,
-  TWEEN_DURATION_MS: 200,
-  LABEL_TWEEN_DURATION_MS: 100,
-  CLICK_THRESHOLD_MS: 500,
-  ZOOM_SCALE_MIN: 0.25,
-  ZOOM_SCALE_MAX: 4,
   LINK_WIDTH: 0.5,
-  NODE_BASE_RADIUS: 2,
 } as const
 
+const localStorageKey = GRAPH_CONSTANTS.LOCAL_STORAGE_KEY
 function getVisited(): Set<SimpleSlug> {
-  return new Set(JSON.parse(localStorage.getItem(GRAPH_CONSTANTS.LOCAL_STORAGE_KEY) ?? "[]"))
+  return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
 }
 
 function addToVisited(slug: SimpleSlug) {
   const visited = getVisited()
   visited.add(slug)
-  localStorage.setItem(GRAPH_CONSTANTS.LOCAL_STORAGE_KEY, JSON.stringify([...visited]))
+  localStorage.setItem(localStorageKey, JSON.stringify([...visited]))
 }
 
 type TweenNode = {
@@ -556,7 +551,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
       l.gfx
         .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
-        .stroke({ alpha: l.alpha, width: 0.5, color: l.color })
+        .stroke({ alpha: l.alpha, width: 1, color: l.color })
     }
 
     tweens.forEach((t) => t.update(time))
@@ -592,7 +587,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
 
-  // Always cleanup first to prevent memory leaks
+  // Always cleanup first to prevent memory leaks on rapid navigation
   cleanupLocalGraphs()
   cleanupGlobalGraphs()
 

@@ -1,10 +1,10 @@
-@use "../../styles/variables.scss" as *;
+@use "../../../styles/variables.scss" as *;
 
-.link-prediction {
+.cocitations {
   display: flex;
   flex-direction: column;
 
-  .linkprediction-header {
+  .cocitations-header {
     background-color: transparent;
     border: none;
     text-align: left;
@@ -31,7 +31,7 @@
     }
   }
 
-  .linkprediction-content {
+  .cocitations-content {
     transition: max-height 0.3s ease, opacity 0.3s ease;
     overflow: hidden;
 
@@ -41,21 +41,21 @@
     }
   }
 
-  .linkprediction-description {
+  .cocitations-description {
     font-size: 0.75rem;
     color: var(--gray);
     margin: 0.25rem 0 0.5rem 0;
     font-style: italic;
   }
 
-  .linkprediction-list {
+  .cocitations-list {
     list-style: none;
     padding: 0;
     margin: 0.5rem 0;
     max-height: 30vh;
     overflow-y: auto;
 
-    .linkprediction-item {
+    .cocitation-item {
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -63,7 +63,7 @@
       padding: 0.15rem 0;
       line-height: 1.2rem;
 
-      .linkprediction-link {
+      .cocitation-link {
         color: var(--dark);
         font-size: 0.9rem;
         font-weight: $normalWeight;
@@ -80,7 +80,7 @@
         }
       }
 
-      .linkprediction-score {
+      .cocitation-score {
         font-size: 0.75rem;
         color: var(--gray);
         flex-shrink: 0;

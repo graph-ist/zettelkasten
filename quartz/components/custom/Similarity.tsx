@@ -1,9 +1,9 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/similarity.scss"
-import { resolveRelative, simplifySlug, SimpleSlug } from "../util/path"
-import { classNames } from "../util/lang"
-import { buildAdjacencyMap } from "../util/graph"
-import script from "./scripts/similarity.inline"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import style from "../styles/custom/similarity.scss"
+import { resolveRelative, simplifySlug, SimpleSlug } from "../../util/path"
+import { classNames } from "../../util/lang"
+import { buildAdjacencyMap } from "../../util/graph"
+import script from "../scripts/custom/similarity.inline"
 
 interface SimilarityOptions {
   hideWhenEmpty: boolean

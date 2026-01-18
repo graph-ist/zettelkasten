@@ -1,9 +1,9 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/cocitations.scss"
-import { resolveRelative, simplifySlug, SimpleSlug } from "../util/path"
-import { classNames } from "../util/lang"
-import { buildSlugToFileMap } from "../util/graph"
-import script from "./scripts/cocitations.inline"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import style from "../styles/custom/cocitations.scss"
+import { resolveRelative, simplifySlug, SimpleSlug } from "../../util/path"
+import { classNames } from "../../util/lang"
+import { buildSlugToFileMap } from "../../util/graph"
+import script from "../scripts/custom/cocitations.inline"
 
 interface CoCitationsOptions {
   hideWhenEmpty: boolean

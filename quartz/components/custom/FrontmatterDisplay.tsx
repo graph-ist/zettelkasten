@@ -1,8 +1,8 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { classNames } from "../util/lang"
-import { resolveRelative, simplifySlug } from "../util/path"
-import { buildSlugToFileMap } from "../util/graph"
-import style from "./styles/frontmatterDisplay.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { classNames } from "../../util/lang"
+import { resolveRelative, simplifySlug } from "../../util/path"
+import { buildSlugToFileMap } from "../../util/graph"
+import style from "../styles/custom/frontmatterDisplay.scss"
 
 interface FrontmatterDisplayOptions {
   fields?: string[]

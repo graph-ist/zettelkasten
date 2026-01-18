@@ -1,10 +1,10 @@
-@use "../../styles/variables.scss" as *;
+@use "../../../styles/variables.scss" as *;
 
-.similarity {
+.link-prediction {
   display: flex;
   flex-direction: column;
 
-  .similarity-header {
+  .linkprediction-header {
     background-color: transparent;
     border: none;
     text-align: left;
@@ -31,7 +31,7 @@
     }
   }
 
-  .similarity-content {
+  .linkprediction-content {
     transition: max-height 0.3s ease, opacity 0.3s ease;
     overflow: hidden;
 
@@ -41,21 +41,21 @@
     }
   }
 
-  .similarity-description {
+  .linkprediction-description {
     font-size: 0.75rem;
     color: var(--gray);
     margin: 0.25rem 0 0.5rem 0;
     font-style: italic;
   }
 
-  .similarity-list {
+  .linkprediction-list {
     list-style: none;
     padding: 0;
     margin: 0.5rem 0;
-    max-height: 25vh;
+    max-height: 30vh;
     overflow-y: auto;
 
-    .similarity-item {
+    .linkprediction-item {
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -63,7 +63,7 @@
       padding: 0.15rem 0;
       line-height: 1.2rem;
 
-      .similarity-link {
+      .linkprediction-link {
         color: var(--dark);
         font-size: 0.9rem;
         font-weight: $normalWeight;
@@ -80,18 +80,11 @@
         }
       }
 
-      .similarity-score {
+      .linkprediction-score {
         font-size: 0.75rem;
         color: var(--gray);
         flex-shrink: 0;
       }
     }
-  }
-
-  .no-similarity {
-    font-size: 0.85rem;
-    color: var(--gray);
-    font-style: italic;
-    margin: 0.5rem 0;
   }
 }
