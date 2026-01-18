@@ -9,6 +9,9 @@ Use this as a reference when merging upstream updates.
 |------|--------|-------|
 | `quartz/build.ts` | **MODIFIED** | Race condition fix |
 | `quartz/components/scripts/graph.inline.ts` | **MODIFIED** | Memory leak fix + constants |
+| `quartz/components/renderPage.tsx` | **MODIFIED** | Removed hr separator |
+| `quartz/components/Graph.tsx` | **MODIFIED** | Commented out title |
+| `quartz/components/styles/graph.scss` | **MODIFIED** | Removed border |
 
 ## Modified Files
 
@@ -50,6 +53,40 @@ Use this as a reference when merging upstream updates.
 - `labelPropagation()`
 - `clusteringCoefficient()`
 **Risk**: Low - new file, no conflicts
+
+### `quartz/plugins/emitters/sankeyData.ts`
+**Change**: New emitter for Sankey diagram data
+**Reason**: Generates JSON from frontmatter (cssclasses → subclasses → notes)
+**Output**: `/public/sankeyData.json`
+**Risk**: Low - new file
+
+### `quartz/components/custom/SankeyDiagram.tsx`
+**Change**: New component for interactive Sankey visualization
+**Features**:
+- D3.js loaded from CDN (avoids bundling issues)
+- Drill-down: click subclass → see notes → click note → navigate
+- Purple uniform color scheme
+- Responsive full-width SVG
+**Dependencies**: d3@7, d3-sankey@0.12 (CDN)
+**Risk**: Low - isolated in /custom
+
+### `quartz/components/renderPage.tsx`
+**Change**: Removed `<hr />` separator before page footer
+**Reason**: Cleaner visual design
+**Lines**: 1 line removed
+**Risk**: Low - purely cosmetic
+
+### `quartz/components/Graph.tsx`
+**Change**: Commented out "Graph View" title
+**Reason**: Cleaner visual design
+**Lines**: 1 line commented
+**Risk**: Low - easily reversible
+
+### `quartz/components/styles/graph.scss`
+**Change**: Removed border from graph-outer
+**Reason**: Cleaner visual design
+**Lines**: Changed `border: 1px solid var(--lightgray)` to `border: 0`
+**Risk**: Low - purely cosmetic
 
 
 ### `quartz/plugins/transformers/latex.ts`

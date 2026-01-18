@@ -7,8 +7,7 @@ A digital garden for philosophy notes built on [Quartz v4.5.2](https://quartz.jz
 This fork extends Quartz with powerful graph analysis tools:
 
 | Component | Algorithm | Purpose |
-|-----------|-----------|---------|
-| **Co-Citations** | Co-citation frequency | Notes frequently cited together |
+|-----------|-----------|---------|| **Sankey Diagram** | Frontmatter visualization | Interactive cssclasses → subclasses flow || **Co-Citations** | Co-citation frequency | Notes frequently cited together |
 | **Similar Notes** | Jaccard Similarity | Notes with similar connections |
 | **Suggested Links** | Adamic-Adar Index | Potential links to create |
 | **Community** | Label Propagation | Thematic clusters detection |
@@ -47,6 +46,7 @@ zettelkasten/
 │   │   │   ├── VirtualLinker.tsx
 │   │   │   ├── TopCommunities.tsx
 │   │   │   ├── FrontmatterDisplay.tsx
+│   │   │   ├── SankeyDiagram.tsx   # Frontmatter flow visualization
 │   │   │   └── index.ts            # Re-exports
 │   │   ├── scripts/custom/         # Custom inline scripts
 │   │   └── styles/custom/          # Custom SCSS styles
@@ -86,6 +86,51 @@ Automatically transforms text matching note titles or aliases into clickable lin
 ### Visual Style
 
 Virtual links have a dashed underline to distinguish them from regular links.
+
+---
+
+## Sankey Diagram
+
+Interactive visualization on the index page showing the flow from `cssclasses` → `subclasses` → individual notes.
+
+### How It Works
+
+1. **Build-time**: `sankeyData.ts` emitter extracts frontmatter from all notes
+2. **Client-side**: D3.js (loaded from CDN) renders the Sankey diagram
+3. **Interaction**: 
+   - Click a **subclass** → drill-down to see individual notes
+   - Click a **note** → navigate to that page
+   - Click the **subclass header** in drill-down → return to overview
+
+### Data Flow
+
+```
+cssclasses (e.g., Philosophy)
+    └── subclasses (e.g., Ancient Greek, Ethics, Epistemology)
+            └── notes (e.g., Aristotle, Plato, Stoicism)
+```
+
+### Configuration
+
+In `quartz.layout.ts`:
+
+```typescript
+Component.ConditionalRender({
+  component: Component.SankeyDiagram({ height: 450 }),
+  condition: (page) => page.fileData.slug === "index",
+})
+```
+
+### Frontmatter Required
+
+Notes should have:
+
+```yaml
+cssclasses:
+  - Philosophy
+subclasses:
+  - Ancient Greek and Roman Philosophy
+```
 
 ---
 
