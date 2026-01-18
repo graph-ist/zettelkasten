@@ -52,15 +52,30 @@ type NodeRenderData = GraphicsInfo & {
   label: Text
 }
 
-const localStorageKey = "graph-visited"
+// Constants for graph rendering (replacing magic numbers)
+const GRAPH_CONSTANTS = {
+  LOCAL_STORAGE_KEY: "graph-visited",
+  MIN_HEIGHT: 250,
+  SIMULATION_CHARGE: -100,
+  COLLISION_ITERATIONS: 3,
+  RADIAL_STRENGTH: 0.2,
+  TWEEN_DURATION_MS: 200,
+  LABEL_TWEEN_DURATION_MS: 100,
+  CLICK_THRESHOLD_MS: 500,
+  ZOOM_SCALE_MIN: 0.25,
+  ZOOM_SCALE_MAX: 4,
+  LINK_WIDTH: 0.5,
+  NODE_BASE_RADIUS: 2,
+} as const
+
 function getVisited(): Set<SimpleSlug> {
-  return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
+  return new Set(JSON.parse(localStorage.getItem(GRAPH_CONSTANTS.LOCAL_STORAGE_KEY) ?? "[]"))
 }
 
 function addToVisited(slug: SimpleSlug) {
   const visited = getVisited()
   visited.add(slug)
-  localStorage.setItem(localStorageKey, JSON.stringify([...visited]))
+  localStorage.setItem(GRAPH_CONSTANTS.LOCAL_STORAGE_KEY, JSON.stringify([...visited]))
 }
 
 type TweenNode = {
@@ -162,7 +177,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 250)
+  const height = Math.max(graph.offsetHeight, GRAPH_CONSTANTS.MIN_HEIGHT)
 
   // we virtualize the simulation and use pixi to actually render it
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
@@ -577,15 +592,28 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
 
+  // Always cleanup first to prevent memory leaks
+  cleanupLocalGraphs()
+  cleanupGlobalGraphs()
+
   async function renderLocalGraph() {
     cleanupLocalGraphs()
     const localGraphContainers = document.getElementsByClassName("graph-container")
     for (const container of localGraphContainers) {
-      localGraphCleanups.push(await renderGraph(container as HTMLElement, slug))
+      try {
+        const cleanup = await renderGraph(container as HTMLElement, slug)
+        localGraphCleanups.push(cleanup)
+      } catch (err) {
+        console.error("Failed to render local graph:", err)
+      }
     }
   }
 
-  await renderLocalGraph()
+  try {
+    await renderLocalGraph()
+  } catch (err) {
+    console.error("Failed to render graphs:", err)
+  }
   const handleThemeChange = () => {
     void renderLocalGraph()
   }

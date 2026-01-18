@@ -3,8 +3,6 @@ import style from "./styles/similarity.scss"
 import { resolveRelative, simplifySlug, SimpleSlug } from "../util/path"
 import { classNames } from "../util/lang"
 import { buildAdjacencyMap } from "../util/graph"
-
-// @ts-ignore
 import script from "./scripts/similarity.inline"
 
 interface SimilarityOptions {

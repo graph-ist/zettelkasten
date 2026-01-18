@@ -1,7 +1,7 @@
 import { Root } from "hast"
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
-import { escapeHTML } from "../../util/escape"
+import { escapeHTML, escapeCDATA } from "../../util/escape"
 import { FilePath, FullSlug, SimpleSlug, joinSegments, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
@@ -59,7 +59,7 @@ function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?:
     <title>${escapeHTML(content.title)}</title>
     <link>https://${joinSegments(base, encodeURI(slug))}</link>
     <guid>https://${joinSegments(base, encodeURI(slug))}</guid>
-    <description><![CDATA[ ${content.richContent ?? content.description} ]]></description>
+    <description><![CDATA[ ${escapeCDATA(content.richContent ?? content.description ?? "")} ]]></description>
     <pubDate>${content.date?.toUTCString()}</pubDate>
   </item>`
 

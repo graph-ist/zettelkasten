@@ -1,7 +1,8 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { resolveRelative, simplifySlug, SimpleSlug } from "../util/path"
 import { classNames } from "../util/lang"
-import { buildAdjacencyMap, buildSlugToFileMap } from "../util/graph"
+import { buildAdjacencyMap, buildSlugToFileMap, labelPropagation } from "../util/graph"
+import style from "./styles/topCommunities.scss"
 
 interface TopCommunitiesOptions {
   /** Number of top communities to show */
@@ -31,57 +32,6 @@ interface CommunityInfo {
   totalMembers: number
 }
 
-/**
- * Simple Label Propagation Algorithm
- */
-function labelPropagation(
-  neighbors: Map<string, Set<string>>,
-  iterations: number
-): Map<string, number> {
-  const labels = new Map<string, number>()
-  
-  let labelId = 0
-  for (const node of neighbors.keys()) {
-    labels.set(node, labelId++)
-  }
-  
-  for (let i = 0; i < iterations; i++) {
-    const nodes = [...neighbors.keys()]
-    // Use deterministic shuffle based on iteration for consistency
-    nodes.sort((a, b) => {
-      const hashA = (a.charCodeAt(0) + i) % 100
-      const hashB = (b.charCodeAt(0) + i) % 100
-      return hashA - hashB
-    })
-    
-    for (const node of nodes) {
-      const nodeNeighbors = neighbors.get(node)
-      if (!nodeNeighbors || nodeNeighbors.size === 0) continue
-      
-      const labelCounts = new Map<number, number>()
-      for (const neighbor of nodeNeighbors) {
-        const neighborLabel = labels.get(neighbor)
-        if (neighborLabel !== undefined) {
-          labelCounts.set(neighborLabel, (labelCounts.get(neighborLabel) || 0) + 1)
-        }
-      }
-      
-      let maxCount = 0
-      let bestLabel = labels.get(node)!
-      for (const [label, count] of labelCounts) {
-        if (count > maxCount) {
-          maxCount = count
-          bestLabel = label
-        }
-      }
-      
-      labels.set(node, bestLabel)
-    }
-  }
-  
-  return labels
-}
-
 export default ((opts?: Partial<TopCommunitiesOptions>) => {
   const options: TopCommunitiesOptions = { ...defaultOptions, ...opts }
 
@@ -94,7 +44,7 @@ export default ((opts?: Partial<TopCommunitiesOptions>) => {
     const neighbors = buildAdjacencyMap(allFiles)
     const slugToFile = buildSlugToFileMap(allFiles)
     
-    // Run label propagation
+    // Run label propagation (now using shared, deterministic implementation)
     const labels = labelPropagation(neighbors, options.iterations)
     
     // Group nodes by community
@@ -181,79 +131,7 @@ export default ((opts?: Partial<TopCommunitiesOptions>) => {
     )
   }
 
-  TopCommunities.css = `
-.top-communities {
-  margin: 0;
-}
-
-.top-communities h3 {
-  margin-bottom: 0.5rem;
-  margin-top: 0;
-}
-
-.top-communities-description {
-  color: var(--gray);
-  font-size: 0.9rem;
-  margin-bottom: 1rem;
-}
-
-.communities-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
-}
-
-.community-card {
-  background: transparent;
-  border-radius: 0;
-  padding: 0;
-}
-
-.community-card-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 0.75rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--gray);
-}
-
-.community-number {
-  font-weight: bold;
-  color: var(--secondary);
-}
-
-.community-size {
-  font-size: 0.8rem;
-  color: var(--gray);
-}
-
-.community-members {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.community-members li {
-  margin: 0.25rem 0;
-}
-
-.community-members a {
-  font-size: 0.9rem;
-  display: block;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-.community-more {
-  display: block;
-  margin-top: 0.5rem;
-  font-size: 0.8rem;
-  color: var(--gray);
-  font-style: italic;
-}
-`
+  TopCommunities.css = style
 
   return TopCommunities
 }) satisfies QuartzComponentConstructor

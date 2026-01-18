@@ -1,0 +1,71 @@
+.top-communities {
+  margin: 0;
+}
+
+.top-communities h3 {
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+}
+
+.top-communities-description {
+  color: var(--gray);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.communities-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.community-card {
+  background: transparent;
+  border-radius: 0;
+  padding: 0;
+}
+
+.community-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--gray);
+}
+
+.community-number {
+  font-weight: bold;
+  color: var(--secondary);
+}
+
+.community-size {
+  font-size: 0.8rem;
+  color: var(--gray);
+}
+
+.community-members {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.community-members li {
+  margin: 0.25rem 0;
+}
+
+.community-members a {
+  font-size: 0.9rem;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.community-more {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--gray);
+  font-style: italic;
+}

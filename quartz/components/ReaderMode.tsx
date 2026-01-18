@@ -1,4 +1,3 @@
-// @ts-ignore
 import readerModeScript from "./scripts/readermode.inline"
 import styles from "./styles/readermode.scss"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"

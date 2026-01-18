@@ -1,3 +1,24 @@
+// Module declarations for inline scripts (fixes @ts-ignore usage)
+declare module "*.inline" {
+  const content: string
+  export default content
+}
+
+declare module "*.inline.ts" {
+  const content: string
+  export default content
+}
+
+declare module "*.inline.scss" {
+  const content: string
+  export default content
+}
+
+declare module "*.scss" {
+  const content: string
+  export default content
+}
+
 export declare global {
   interface Document {
     addEventListener<K extends keyof CustomEventMap>(

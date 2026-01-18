@@ -2,8 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import style from "./styles/cocitations.scss"
 import { resolveRelative, simplifySlug, SimpleSlug } from "../util/path"
 import { classNames } from "../util/lang"
-
-// @ts-ignore
+import { buildSlugToFileMap } from "../util/graph"
 import script from "./scripts/cocitations.inline"
 
 interface CoCitationsOptions {
@@ -42,6 +41,9 @@ export default ((opts?: Partial<CoCitationsOptions>) => {
   }: QuartzComponentProps) => {
     const currentSlug = simplifySlug(fileData.slug!).toLowerCase() as SimpleSlug
     
+    // Use shared utility for slug-to-file lookup
+    const slugToFile = buildSlugToFileMap(allFiles)
+    
     // Build a map of which pages cite which notes (normalized to lowercase)
     const citationMap = new Map<string, Set<SimpleSlug>>()
     
@@ -54,19 +56,6 @@ export default ((opts?: Partial<CoCitationsOptions>) => {
             citationMap.set(linkKey, new Set())
           }
           citationMap.get(linkKey)!.add(fileSlug)
-        }
-      }
-    }
-    
-    // Build a map of lowercase slug to file info for quick lookup
-    const slugToFile = new Map<string, typeof allFiles[0]>()
-    for (const file of allFiles) {
-      const slug = simplifySlug(file.slug!).toLowerCase()
-      slugToFile.set(slug, file)
-      // Also add aliases
-      if (file.frontmatter?.aliases) {
-        for (const alias of file.frontmatter.aliases as string[]) {
-          slugToFile.set(alias.toLowerCase().replace(/\s+/g, '-'), file)
         }
       }
     }
@@ -99,7 +88,7 @@ export default ((opts?: Partial<CoCitationsOptions>) => {
     const currentIdentifiers = new Set([currentSlug, lastSlugPart, ...currentAliasesLower])
     
     for (const citingPageSlug of pagesCitingCurrent) {
-      const citingPage = allFiles.find(f => simplifySlug(f.slug!) === citingPageSlug)
+      const citingPage = slugToFile.get(citingPageSlug.toLowerCase())
       if (!citingPage?.links) continue
       
       for (const otherLink of citingPage.links) {
@@ -107,7 +96,7 @@ export default ((opts?: Partial<CoCitationsOptions>) => {
         // Skip self-references (by any identifier)
         if (currentIdentifiers.has(otherLinkKey)) continue
         
-        // Find the other note's info using our lookup map
+        // Find the other note's info using shared lookup
         const otherNote = slugToFile.get(otherLinkKey)
         if (!otherNote) continue
         

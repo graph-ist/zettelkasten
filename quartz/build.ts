@@ -42,6 +42,15 @@ type BuildData = {
   lastBuildMs: number
 }
 
+/**
+ * Executes the full Quartz build process.
+ * 
+ * @param argv - Parsed CLI arguments including directory, output, and flags
+ * @param mut - Mutex for synchronizing concurrent builds
+ * @param clientRefresh - Callback to notify WebSocket clients of rebuild completion
+ * @returns Cleanup function if in watch mode, undefined otherwise
+ * @throws If configuration is invalid or build fails fatally
+ */
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const ctx: BuildCtx = {
     buildId: randomIdNonSecure(),
@@ -179,17 +188,13 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
   const { ctx, contentMap, mut, changesSinceLastBuild } = buildData
   const { argv, cfg } = ctx
 
-  const buildId = randomIdNonSecure()
-  ctx.buildId = buildId
-  buildData.lastBuildMs = new Date().getTime()
   const numChangesInBuild = changes.length
   const release = await mut.acquire()
 
-  // if there's another build after us, release and let them do it
-  if (ctx.buildId !== buildId) {
-    release()
-    return
-  }
+  // Generate buildId inside mutex to prevent race condition
+  const buildId = randomIdNonSecure()
+  ctx.buildId = buildId
+  buildData.lastBuildMs = new Date().getTime()
 
   const perf = new PerfTimer()
   perf.addEvent("rebuild")

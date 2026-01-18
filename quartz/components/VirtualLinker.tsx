@@ -1,6 +1,4 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-
-// @ts-ignore
 import script from "./scripts/virtualLinker.inline"
 import styles from "./styles/virtualLinker.scss"
 

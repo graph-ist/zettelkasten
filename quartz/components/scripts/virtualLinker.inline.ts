@@ -216,9 +216,33 @@ document.addEventListener("nav", async () => {
     }
   }
   
-  // Try immediately and also after delays for Mermaid to render
-  processMermaid()
-  setTimeout(processMermaid, 300)
-  setTimeout(processMermaid, 800)
-  setTimeout(processMermaid, 2000)
+  // Use MutationObserver to detect when Mermaid finishes rendering
+  const articleContent = document.querySelector(".center article")
+  if (articleContent) {
+    // Try immediately in case Mermaid already rendered
+    processMermaid()
+    
+    // Set up observer for dynamic Mermaid rendering
+    const observer = new MutationObserver((mutations) => {
+      for (const mutation of mutations) {
+        // Check if any added nodes contain Mermaid SVGs
+        for (const node of mutation.addedNodes) {
+          if (node instanceof Element) {
+            if (node.matches(".mermaid svg") || node.querySelector(".mermaid svg")) {
+              processMermaid()
+              return // Process once per batch of mutations
+            }
+          }
+        }
+      }
+    })
+    
+    observer.observe(articleContent, { 
+      childList: true, 
+      subtree: true 
+    })
+    
+    // Cleanup observer on navigation
+    window.addCleanup(() => observer.disconnect())
+  }
 })

@@ -3,8 +3,6 @@ import style from "./styles/linkprediction.scss"
 import { resolveRelative, simplifySlug, SimpleSlug } from "../util/path"
 import { classNames } from "../util/lang"
 import { buildAdjacencyMap, buildSlugToFileMap } from "../util/graph"
-
-// @ts-ignore
 import script from "./scripts/linkprediction.inline"
 
 interface LinkPredictionOptions {

@@ -1,5 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { resolveRelative, simplifySlug } from "../util/path"
+import { buildSlugToFileMap } from "../util/graph"
 import style from "./styles/frontmatterDisplay.scss"
 
 interface FrontmatterDisplayOptions {
@@ -16,20 +18,8 @@ export default ((userOpts?: FrontmatterDisplayOptions) => {
   const FrontmatterDisplay: QuartzComponent = ({ fileData, displayClass, allFiles }: QuartzComponentProps) => {
     const frontmatter = fileData.frontmatter
     
-    // Build a set of all valid slugs for quick lookup (including aliases, case-insensitive)
-    const allSlugs = new Set<string>()
-    for (const f of allFiles) {
-      if (f.slug) allSlugs.add(f.slug.toLowerCase())
-      // Also add aliases as valid targets
-      const aliases = f.frontmatter?.aliases as string[] | undefined
-      if (aliases) {
-        for (const alias of aliases) {
-          // Convert alias to slug format (lowercase, spaces to dashes)
-          const aliasSlug = alias.toLowerCase().replace(/\s+/g, '-')
-          allSlugs.add(aliasSlug)
-        }
-      }
-    }
+    // Use shared utility for slug lookup (includes aliases)
+    const slugToFile = buildSlugToFileMap(allFiles)
 
     if (!frontmatter) return null
 
@@ -77,13 +67,18 @@ export default ((userOpts?: FrontmatterDisplayOptions) => {
               <div class="frontmatter-values">
                 {values.map((v, i) => {
                   const { text, slug } = parseValue(String(v))
-                  // Check if the target page exists
-                  const linkExists = slug && allSlugs.has(slug)
+                  // Check if the target page exists using shared utility
+                  const targetFile = slug ? slugToFile.get(slug) : null
+                  const linkExists = targetFile !== null && targetFile !== undefined
                   const linkClass = linkExists 
                     ? "frontmatter-value internal" 
                     : "frontmatter-value internal broken"
+                  // Use resolveRelative for proper path handling with baseUrl
+                  const href = linkExists 
+                    ? resolveRelative(fileData.slug!, simplifySlug(targetFile!.slug!))
+                    : `./${slug}`
                   return (
-                    <a href={`/${slug}`} class={linkClass} key={i}>
+                    <a href={href} class={linkClass} key={i}>
                       {text}
                     </a>
                   )
