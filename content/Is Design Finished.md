@@ -5,22 +5,22 @@ subclasses:
   - Phenomenology
   - Aesthetics
 related:
-  - "[[Bruno Latour]]"
-  - "[[Emmanuel Levinas]]"
-  - "[[Jacques Derrida]]"
-  - "[[Albert Borgmann]]"
-  - "[[Elaine Scarry]]"
+  - "[[Latour]]"
+  - "[[Levinas]]"
+  - "[[Derrida]]"
+  - "[[Borgmann]]"
+  - "[[Scarry]]"
   - "[[Aristotle]]"
 aliases:
-  - ethics as
+  - ethics ethos
   - materialised ethics
-  - ethics by
+  - ethics design
   - moralising machines
-  - akrasia and
+  - akrasia ethos
   - delegated morality
   - missing masses
   - ethical things
-  - design and
+  - design ethics
   - embodied ethics
   - sustainable ethics
   - material culture
@@ -44,33 +44,33 @@ Writing in 2004 amid the sustainability crisis, Tonkinwise addresses the persist
 
 ```mermaid
 flowchart TD
-    1[Aristotle] -->|ethos & akrasia| 2[Ethics as Lived Culture]
-    3[Emmanuel Levinas] -->|ethics before knowing| 4[Being-for-the-Other]
-    5[Jacques Derrida] -->|critique of intentional politeness| 4
-    6[Bruno Latour] -->|delegated morality| 7[Missing Masses Theory]
-    8[Elaine Scarry] -->|empathetic making| 9[Ethics in Artefacts]
-    7 --> 10[Cameron Tonkinwise]
-    9 --> 10
-    4 --> 10
-    2 --> 10
-    11[Albert Borgmann] -->|engaging vs disburdening| 12[Critique of Design Ethics]
-    10 --> 12
-    13[Jaap Jelsma] -->|moralising machines| 10
-    14[Francisco Varela] -->|ethical know-how| 10
+    Aristotle --> |ethos & akrasia| EthicsLived[Ethics as Lived Culture]
+    Levinas --> |ethics before knowing| BeingForOther[Being-for-the-Other]
+    Derrida --> |critique of intentional politeness| BeingForOther
+    Latour --> |delegated morality| MissingMasses[Missing Masses Theory]
+    Scarry --> |empathetic making| EthicsArtefacts[Ethics in Artefacts]
+    MissingMasses --> Tonkinwise
+    EthicsArtefacts --> Tonkinwise
+    BeingForOther --> Tonkinwise
+    EthicsLived --> Tonkinwise
+    Borgmann --> |engaging vs disburdening| CritiqueDesignEthics[Critique of Design Ethics]
+    Tonkinwise --> CritiqueDesignEthics
+    Jelsma --> |moralising machines| Tonkinwise
+    Varela --> |ethical know-how| Tonkinwise
 
-    class 1,3,5,6,8,11,13,14 internal-link
+    class Aristotle,Levinas,Derrida,Latour,Scarry,Borgmann,Jelsma,Varela,Tonkinwise internal-link;
 ```
 
 #### Key Thinkers
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Emmanuel Levinas]] | 1906–1995 | Phenomenology/Ethics | *Totality and Infinity* | Ethics as being-for-the-other before knowledge |
-| [[Bruno Latour]] | 1947–2022 | Actor-Network Theory | "Where Are the Missing Masses?" | Delegated morality to non-human actors |
-| [[Elaine Scarry]] | 1946– | Philosophy/Aesthetics | *The Body in Pain* | Making as ethical empathy materialised |
-| [[Albert Borgmann]] | 1937– | Philosophy of Technology | *Technology and the Character of Contemporary Life* | Engaging things vs disburdening devices |
+| [[Levinas]] | 1906–1995 | Phenomenology/Ethics | *Totality and Infinity* | Ethics as being-for-the-other before knowledge |
+| [[Latour]] | 1947–2022 | Actor-Network Theory | "Where Are the Missing Masses?" | Delegated morality to non-human actors |
+| [[Scarry]] | 1946– | Philosophy/Aesthetics | *The Body in Pain* | Making as ethical empathy materialised |
+| [[Borgmann]] | 1937– | Philosophy of Technology | *Technology and the Character of Contemporary Life* | Engaging things vs disburdening devices |
 | [[Aristotle]] | 384–322 BCE | Classical Philosophy | *Nicomachean Ethics* | *Akrasia* — knowing without doing |
-| [[Jaap Jelsma]] | fl. 2000s | Design Theory | "Innovating for Sustainability" | Moralising machines and behaviour scripts |
+| [[Jelsma]] | fl. 2000s | Design Theory | "Innovating for Sustainability" | Moralising machines and behaviour scripts |
 
 #### Key Concepts
 
@@ -96,7 +96,7 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Draws from**: [[Emmanuel Levinas]] (ethics before ontology), [[Bruno Latour]] (missing masses, delegated morality), [[Elaine Scarry]] (making as empathy), [[Albert Borgmann]] (engaging vs disburdening), [[Aristotle]] (*akrasia*, *ethos*), [[Francisco Varela]] (ethical know-how), [[Jacques Derrida]] (critique of intentional politeness)
+- **Draws from**: [[Levinas]] (ethics before ontology), [[Latour]] (missing masses, delegated morality), [[Scarry]] (making as empathy), [[Borgmann]] (engaging vs disburdening), [[Aristotle]] (*akrasia*, *ethos*), [[Varela]] (ethical know-how), [[Derrida]] (critique of intentional politeness)
 - **Responds to**: Sustainability crisis, failure of moral education, separation of knowing and doing in modernity
 - **Influences**: Design for sustainable behaviour, material culture studies, post-human ethics in design
 - **Critique of**: Information-based behaviour change, purely technological efficiency solutions, user-centred design's reductive projections
@@ -113,17 +113,21 @@ flowchart TD
 
 - **384–322 BCE**: [[Aristotle]] develops concept of *akrasia* and *ethos* as lived virtue
 - **20th century**: [[Levinas]] develops ethics as being-for-the-other prior to ontology
-- **1984**: [[Albert Borgmann]] publishes *Technology and the Character of Contemporary Life*
-- **1985**: [[Elaine Scarry]] publishes *The Body in Pain* on making and empathy
-- **1992**: [[Bruno Latour]] publishes "Where Are the Missing Masses?"
-- **1999**: [[Francisco Varela]] publishes *Ethical Know-How*
-- **2003**: [[Jaap Jelsma]] develops "moralising machines" for sustainable behaviour
+- **1984**: [[Borgmann]] publishes *Technology and the Character of Contemporary Life*
+- **1985**: [[Scarry]] publishes *The Body in Pain* on making and empathy
+- **1992**: [[Latour]] publishes "Where Are the Missing Masses?"
+- **1999**: [[Varela]] publishes *Ethical Know-How*
+- **2003**: [[Jelsma]] develops "moralising machines" for sustainable behaviour
 - **2004**: Tonkinwise publishes "Ethics by Design, or the Ethos of Things"
 
 #### Notable Quotes
 
-> "A viable ethos is not only sustained by a material culture, but exists in that materiality; an immaterial culture is an impossibility." — [[Cameron Tonkinwise]]
+> "A viable ethos is not only sustained by a material culture, but exists in that materiality; an immaterial culture is an impossibility." — [[Tonkinwise]]
 
-> "What things design, that is to say, the intentions, actions, understandings and relations that things are designed to design, that they design beyond what their designers intended, and that they are redesigned to design by those who use them, must be a vital part of any ethos with a future." — [[Cameron Tonkinwise]]
+> "What things design, that is to say, the intentions, actions, understandings and relations that things are designed to design, that they design beyond what their designers intended, and that they are redesigned to design by those who use them, must be a vital part of any ethos with a future." — [[Tonkinwise]]
 
-> "By being embedded in material culture, in the only ever semi-conscious everyday rituals of making use of designed products, environments and communications, ethics by/in design is the only sustainable form of ethics, the only form of ethics that can sustain itself." — [[Cameron Tonkinwise]]
+> "By being embedded in material culture, in the only ever semi-conscious everyday rituals of making use of designed products, environments and communications, ethics by/in design is the only sustainable form of ethics, the only form of ethics that can sustain itself." — [[Tonkinwise]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

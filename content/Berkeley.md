@@ -166,5 +166,5 @@ flowchart TD
 > "Some truths there are so near and obvious to the mind that a man need only open his eyes to see them. Such I take this important one to be, namely, that all the choir of heaven and furniture of the earth have no subsistence without a mind." — [[Berkeley]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

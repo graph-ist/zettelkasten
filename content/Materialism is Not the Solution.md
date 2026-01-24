@@ -14,15 +14,15 @@ related:
   - "[[Phenomenology]]"
 aliases:
   - object oriented
-  - formalism
-  - materialism
-  - mimesis
+  - formalism aesthetics
+  - materialism critique
+  - mimesis art
   - jane bennett
   - heidegger aesthetics
   - mcluhan media
   - greenberg formalism
   - withdrawn objects
-  - allure
+  - allure aesthetics
 reference:
   - Harman, G. (2016). Materialism is Not the Solution. The Nordic Journal of Aesthetics, 24(47). https://doi.org/10.7146/nja.v24i47.23057
 ---
@@ -47,7 +47,7 @@ This leads to a striking conclusion: "all art would be a branch of the performin
 
 #### Historical Context
 
-The article responds to the "new materialism" movement prominent in early 2010s Continental philosophy, represented by thinkers like [[Jane Bennett]], [[Karen Barad]], and [[Manuel DeLanda]]. This movement sought to overcome the correlationism of post-Kantian philosophy by affirming the vitality and agency of matter itself, often drawing on [[Deleuze]], [[Spinoza]], and process philosophy.
+The article responds to the "new materialism" movement prominent in early 2010s Continental philosophy, represented by thinkers like [[Bennett]], [[Barad]], and [[DeLanda]]. This movement sought to overcome the correlationism of post-Kantian philosophy by affirming the vitality and agency of matter itself, often drawing on [[Deleuze]], [[Spinoza]], and process philosophy.
 
 [[Harman]]'s object-oriented philosophy emerged around the same time as part of the broader Speculative Realism movement (alongside [[Meillassoux]], [[Brassier]], and [[Grant]]), which shared the goal of moving beyond human-world correlations but took different approaches. While new materialists emphasized flux, assemblages, and distributed agency, [[Harman]] insisted on the discrete, autonomous character of objects.
 
@@ -126,3 +126,7 @@ flowchart TD
 > "The artist imitates not by producing copies of external things, but by becoming external things." — [[Harman]]
 
 > "Each of us as readers becomes the cypress tree, just as method actors are supposed to become the tree or rock they are assigned to portray." — [[Harman]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

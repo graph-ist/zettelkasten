@@ -15,13 +15,13 @@ related:
   - "[[Contextualism]]"
 aliases:
   - design history
-  - historiography
+  - design historiography
   - neo kantian
-  - dilthey
-  - rickert
-  - windelband
+  - dilthey method
+  - rickert values
+  - windelband idiographic
   - design canon
-  - contextualism
+  - contextualism history
   - hermeneutic circle
   - value history
 reference:
@@ -129,3 +129,7 @@ flowchart TD
 > "Design canons are not natural kinds waiting to be discovered but cultural achievements requiring value judgments that historians must make explicit."
 
 > "The distinction between nomothetic and idiographic disciplines is not absolute but marks different orientations toward knowledge—both have their place in design studies."
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

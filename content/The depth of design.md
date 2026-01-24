@@ -14,10 +14,10 @@ related:
   - "[[Design Ethics]]"
 aliases:
   - depth design
-  - engagement
-  - disburdenment
+  - engagement things
+  - disburdenment design
   - material culture
-  - borgmann
+  - borgmann design
   - focal things
   - aesthetic design
   - engineering design
@@ -51,18 +51,18 @@ By the 2000s, the postmodern turn in architecture had prompted preservation move
 
 ```mermaid
 flowchart TD
-    Aristotle[Aristotle] --> VirtueEthics[Virtue Ethics]
-    VirtueEthics --> Borgmann[Borgmann]
-    Heidegger[Heidegger] --> Borgmann
+    Aristotle --> VirtueEthics[Virtue Ethics]
+    VirtueEthics --> Borgmann
+    Heidegger --> Borgmann
     Heidegger --> FocalThings[Focal Things]
     FocalThings --> Borgmann
-    JaneJacobs[Jane Jacobs] --> UrbanismCritique[Urbanism Critique]
+    Jacobs --> UrbanismCritique[Urbanism Critique]
     UrbanismCritique --> Borgmann
-    LeCorb[Le Corbusier] --> Modernism[Modernist Planning]
+    Corbusier --> Modernism[Modernist Planning]
     Modernism --> UrbanRenewal[Urban Renewal]
     UrbanRenewal --> Borgmann
 
-    class Aristotle,VirtueEthics,Borgmann,Heidegger,FocalThings,JaneJacobs,UrbanismCritique,LeCorb,Modernism,UrbanRenewal internal-link;
+    class Aristotle,VirtueEthics,Borgmann,Heidegger,FocalThings,Jacobs,UrbanismCritique,Corbusier,Modernism,UrbanRenewal internal-link;
 ```
 
 #### Key Thinkers
@@ -71,9 +71,9 @@ flowchart TD
 |---------|-------|----------|-----------|--------------|
 | [[Borgmann]] | 1937- | [[Philosophy of Technology]] | *Technology and the Character of Contemporary Life* | Focal things, device paradigm |
 | [[Heidegger]] | 1889-1976 | [[Phenomenology]] | "The Question Concerning Technology" | Enframing, dwelling |
-| [[Jane Jacobs]] | 1916-2006 | [[Urban Theory]] | *Death and Life of Great American Cities* | Urban vitality |
-| [[Le Corbusier]] | 1887-1965 | [[Modernism]] | *Towards a New Architecture* | Radiant city |
-| [[Ebenezer Howard]] | 1850-1928 | [[Urban Planning]] | *Garden Cities of To-Morrow* | Garden city |
+| [[Jacobs]] | 1916-2006 | [[Urban Theory]] | *Death and Life of Great American Cities* | Urban vitality |
+| [[Corbusier]] | 1887-1965 | [[Modernism]] | *Towards a New Architecture* | Radiant city |
+| [[Howard]] | 1850-1928 | [[Urban Planning]] | *Garden Cities of To-Morrow* | Garden city |
 
 #### Key Concepts
 
@@ -88,7 +88,7 @@ flowchart TD
 
 #### Authors Comparison
 
-| Theme | [[Borgmann]] | [[Heidegger]] | [[Jane Jacobs]] |
+| Theme | [[Borgmann]] | [[Heidegger]] | [[Jacobs]] |
 |-------|--------------|---------------|-----------------|
 | Central concern | Technology and engagement | Being and dwelling | Urban vitality |
 | Critique | Device paradigm, disburdenment | Enframing, technology | Urban renewal, planning |
@@ -97,7 +97,7 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Predecessors:** [[Borgmann]] ← influenced by ← [[Heidegger]], [[Aristotle]], [[Jane Jacobs]]
+- **Predecessors:** [[Borgmann]] ← influenced by ← [[Heidegger]], [[Aristotle]], [[Jacobs]]
 - **Contemporaries:** [[Borgmann]] ↔ dialogue with ↔ philosophers of technology, design theorists
 - **Followers:** [[Borgmann]] → influenced → design ethics, sustainable design discussions
 - **Opposing views:** Technological optimism ← challenged by ← [[Borgmann]]'s critique
@@ -113,9 +113,9 @@ flowchart TD
 
 | Year | Event |
 |------|-------|
-| 1898 | [[Ebenezer Howard]] proposes garden city concept |
-| 1925 | [[Le Corbusier]] proposes Plan Voisin for Paris |
-| 1961 | [[Jane Jacobs]] publishes *Death and Life of Great American Cities* |
+| 1898 | [[Howard]] proposes garden city concept |
+| 1925 | [[Corbusier]] proposes Plan Voisin for Paris |
+| 1961 | [[Jacobs]] publishes *Death and Life of Great American Cities* |
 | 1984 | [[Borgmann]] publishes *Technology and the Character of Contemporary Life* |
 | 1992 | Camden Yards Ballpark opens, exemplifying depth in urban design |
 | 2007 | [[Borgmann]] publishes "The Depth of Design" |
@@ -127,3 +127,7 @@ flowchart TD
 > "Engagement is the symmetry that links humanity and reality. Human beings have certain capacities that prefigure the things of the world; and conversely what is out there in the world has called forth human sense and sensibility."
 
 > "Designers are professionals in that they have been entrusted by society with a valued good and are hence accountable not only to the immediate desires of society but also for the well-being of the good that is in their care."
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

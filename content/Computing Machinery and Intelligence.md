@@ -5,18 +5,18 @@ subclasses:
   - Philosophy-of-Science
   - Epistemology
 related:
-  - "[[John Searle]]"
-  - "[[Ludwig Wittgenstein]]"
-  - "[[Kurt Gödel]]"
-  - "[[Charles Babbage]]"
-  - "[[Ada Lovelace]]"
+  - "[[Searle]]"
+  - "[[Wittgenstein]]"
+  - "[[Gödel]]"
+  - "[[Babbage]]"
+  - "[[Lovelace]]"
 aliases:
   - computing machinery
   - turing test
   - imitation game
-  - can machines
+  - machine thinking
   - lady lovelace
-  - argument from
+  - argument consciousness
   - learning machines
   - discretestate machines
   - universal digital
@@ -43,31 +43,31 @@ Writing in 1950 at the dawn of the computer age, Turing addresses the emerging q
 
 ```mermaid
 flowchart TD
-    1[Charles Babbage] -->|Analytical Engine| 2[Universal Computation]
-    3[Ada Lovelace] -->|machines cannot originate| 4[Lady Lovelace Objection]
-    5[Kurt Gödel] -->|incompleteness theorems| 6[Mathematical Objection]
-    2 --> 7[Alan Turing]
-    4 --> 7
-    6 --> 7
-    8[Behaviourism] -->|operational criteria| 7
-    7 --> 9[Turing Test]
-    7 --> 10[Learning Machines]
-    9 --> 11[AI Research Programme]
-    10 --> 11
-    12[John Searle] -->|Chinese Room critique| 9
+    Babbage --> |Analytical Engine| UniversalComputation[Universal Computation]
+    Lovelace --> |machines cannot originate| LovelaceObjection[Lady Lovelace Objection]
+    Gödel --> |incompleteness theorems| MathObjection[Mathematical Objection]
+    UniversalComputation --> Turing
+    LovelaceObjection --> Turing
+    MathObjection --> Turing
+    Behaviourism --> |operational criteria| Turing
+    Turing --> TuringTest[Turing Test]
+    Turing --> LearningMachines[Learning Machines]
+    TuringTest --> AIResearch[AI Research Programme]
+    LearningMachines --> AIResearch
+    Searle --> |Chinese Room critique| TuringTest
 
-    class 1,3,5,12 internal-link
+    class Babbage,Lovelace,Gödel,Turing,Searle internal-link;
 ```
 
 #### Key Thinkers
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Charles Babbage]] | 1791–1871 | Computing Pioneer | Analytical Engine design | Universal mechanical computation |
-| [[Ada Lovelace]] | 1815–1852 | Computing Pioneer | Notes on Analytical Engine (1842) | "Machine can only do what we order" |
-| [[Kurt Gödel]] | 1906–1978 | Mathematical Logic | Incompleteness Theorems (1931) | Limits of formal systems |
-| [[Alan Turing]] | 1912–1954 | Mathematical Logic/CS | "On Computable Numbers" (1936) | Turing Machine, computability |
-| [[John Searle]] | 1932–2025 | Philosophy of Mind | "Minds, Brains, and Programs" (1980) | Chinese Room argument against Turing Test |
+| [[Babbage]] | 1791–1871 | Computing Pioneer | Analytical Engine design | Universal mechanical computation |
+| [[Lovelace]] | 1815–1852 | Computing Pioneer | Notes on Analytical Engine (1842) | "Machine can only do what we order" |
+| [[Gödel]] | 1906–1978 | Mathematical Logic | Incompleteness Theorems (1931) | Limits of formal systems |
+| [[Turing]] | 1912–1954 | Mathematical Logic/CS | "On Computable Numbers" (1936) | Turing Machine, computability |
+| [[Searle]] | 1932–2025 | Philosophy of Mind | "Minds, Brains, and Programs" (1980) | Chinese Room argument against Turing Test |
 
 #### Key Concepts
 
@@ -94,9 +94,9 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Draws from**: [[Charles Babbage]] (universal computation), [[Ada Lovelace]] (objection to refute), [[Kurt Gödel]] (incompleteness), behaviourist psychology, information theory
+- **Draws from**: [[Babbage]] (universal computation), [[Lovelace]] (objection to refute), [[Gödel]] (incompleteness), behaviourist psychology, information theory
 - **Responds to**: Theological objection (souls), mathematical objection (Gödel), consciousness objection (Jefferson), Lady Lovelace objection, argument from informality of behaviour
-- **Influences**: Artificial Intelligence research programme, cognitive science, philosophy of mind debates, [[John Searle]]'s Chinese Room (as target)
+- **Influences**: Artificial Intelligence research programme, cognitive science, philosophy of mind debates, [[Searle]]'s Chinese Room (as target)
 - **Anticipates**: Machine learning, neural networks, child development models for AI, computational limits debates
 
 #### Summary Formulas
@@ -109,19 +109,23 @@ flowchart TD
 
 #### Timeline
 
-- **1822–1871**: [[Charles Babbage]] designs Difference Engine and Analytical Engine
-- **1842**: [[Ada Lovelace]] writes Notes on Analytical Engine with famous objection
-- **1931**: [[Kurt Gödel]] proves incompleteness theorems
+- **1822–1871**: [[Babbage]] designs Difference Engine and Analytical Engine
+- **1842**: [[Lovelace]] writes Notes on Analytical Engine with famous objection
+- **1931**: [[Gödel]] proves incompleteness theorems
 - **1936**: Turing publishes "On Computable Numbers" (Turing Machine)
 - **1943**: McCulloch & Pitts publish neural network model
 - **1950**: Turing publishes "Computing Machinery and Intelligence"
 - **1956**: Dartmouth Conference coins "Artificial Intelligence"
-- **1980**: [[John Searle]] publishes "Minds, Brains, and Programs" (Chinese Room)
+- **1980**: [[Searle]] publishes "Minds, Brains, and Programs" (Chinese Room)
 
 #### Notable Quotes
 
-> "I propose to consider the question, 'Can machines think?' This should begin with definitions of the meaning of the terms 'machine' and 'think.' [...] Instead of attempting such a definition I shall replace the question by another, which is closely related to it and is expressed in relatively unambiguous words." — [[Alan Turing]]
+> "I propose to consider the question, 'Can machines think?' This should begin with definitions of the meaning of the terms 'machine' and 'think.' [...] Instead of attempting such a definition I shall replace the question by another, which is closely related to it and is expressed in relatively unambiguous words." — [[Turing]]
 
-> "I believe that in about fifty years' time it will be possible to programme computers, with a storage capacity of about 10⁹, to make them play the imitation game so well that an average interrogator will not have more than 70 per cent chance of making the right identification after five minutes of questioning." — [[Alan Turing]]
+> "I believe that in about fifty years' time it will be possible to programme computers, with a storage capacity of about 10⁹, to make them play the imitation game so well that an average interrogator will not have more than 70 per cent chance of making the right identification after five minutes of questioning." — [[Turing]]
 
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done." — [[Alan Turing]]
+> "We can only see a short distance ahead, but we can see plenty there that needs to be done." — [[Turing]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

@@ -13,11 +13,11 @@ related:
   - "[[Literary Theory]]"
   - "[[Perception]]"
 aliases:
-  - arte come
-  - art as
-  - ostranenie
-  - straniamento
-  - defamiliarization
+  - arte procedimento
+  - art technique
+  - ostranenie effect
+  - straniamento arte
+  - defamiliarization theory
   - shklovskij 1917
   - formalismo russo
   - percezione automatica
@@ -29,7 +29,7 @@ reference:
 
 #### Central Problem
 
-[[Viktor Šklovskij]] affronta la questione fondamentale dell'essenza dell'arte e della poesia: che cosa rende qualcosa "artistico"? Contro la teoria dominante di [[Aleksandr Potebnja]] — secondo cui "l'arte è pensiero che si attua per mezzo di immagini" e la funzione dell'immagine è economizzare energie mentali — Šklovskij propone una teoria radicalmente opposta.
+[[Šklovskij]] affronta la questione fondamentale dell'essenza dell'arte e della poesia: che cosa rende qualcosa "artistico"? Contro la teoria dominante di [[Potebnja]] — secondo cui "l'arte è pensiero che si attua per mezzo di immagini" e la funzione dell'immagine è economizzare energie mentali — Šklovskij propone una teoria radicalmente opposta.
 
 Il problema centrale è l'**automatizzazione della percezione**: nella vita quotidiana, le azioni e gli oggetti diventano meccanici, percepiti per "riconoscimento" anziché per "visione". La vita stessa "scompare trasformandosi in nulla" quando passa inconsciamente. L'arte esiste precisamente per contrastare questo processo, per **restituire la sensazione della vita**, per far sì che "la pietra sia di pietra".
 
@@ -49,11 +49,11 @@ La tesi centrale di [[Šklovskij]] è che lo **scopo dell'arte è lo straniament
 
 #### Historical Context
 
-Il saggio fu scritto nel 1917, momento cruciale per il [[Formalismo Russo]]. Šklovskij e i suoi colleghi dell'OPOJAZ (Società per lo Studio del Linguaggio Poetico) — tra cui [[Roman Jakobson]], [[Boris Ejchenbaum]], [[Jurij Tynjanov]] — stavano sviluppando un nuovo approccio alla letteratura che rifiutava sia il biografismo che il sociologismo.
+Il saggio fu scritto nel 1917, momento cruciale per il [[Formalismo Russo]]. Šklovskij e i suoi colleghi dell'OPOJAZ (Società per lo Studio del Linguaggio Poetico) — tra cui [[Jakobson]], [[Ejchenbaum]], [[Tynjanov]] — stavano sviluppando un nuovo approccio alla letteratura che rifiutava sia il biografismo che il sociologismo.
 
-Il bersaglio polemico principale è [[Aleksandr Potebnja]] e la sua scuola, che aveva dominato la teoria letteraria russa con la formula "arte = pensiero per immagini = economia di energie". Questa teoria era stata adottata dai simbolisti (Andrej Belyj, Merežkovskij) ma, secondo Šklovskij, confondeva fondamentalmente linguaggio poetico e linguaggio pratico.
+Il bersaglio polemico principale è [[Potebnja]] e la sua scuola, che aveva dominato la teoria letteraria russa con la formula "arte = pensiero per immagini = economia di energie". Questa teoria era stata adottata dai simbolisti (Andrej Belyj, Merežkovskij) ma, secondo Šklovskij, confondeva fondamentalmente linguaggio poetico e linguaggio pratico.
 
-Il contesto include anche le scoperte di [[L. P. Jakubinskij]] sulla differenza tra fonetica del linguaggio poetico e pratico — prime prove empiriche della "non-coincidenza dei due linguaggi". Il saggio fa parte di una rivoluzione metodologica che cercava le "leggi interne" della letteratura.
+Il contesto include anche le scoperte di [[Jakubinskij]] sulla differenza tra fonetica del linguaggio poetico e pratico — prime prove empiriche della "non-coincidenza dei due linguaggi". Il saggio fa parte di una rivoluzione metodologica che cercava le "leggi interne" della letteratura.
 
 #### Philosophical Lineage
 
@@ -77,11 +77,11 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Viktor Šklovskij]] | 1893-1984 | [[Formalismo Russo]] | *L'arte come procedimento* | Straniamento, linguaggio impedito |
-| [[Aleksandr Potebnja]] | 1835-1891 | [[Linguistica]] | *Note sulla teoria della letteratura* | Arte come pensiero per immagini |
-| [[Roman Jakobson]] | 1896-1982 | [[Formalismo Russo]] | *Fundamentals of Language* | Funzione poetica, metafora/metonimia |
-| [[Lev Tolstoj]] | 1828-1910 | [[Letteratura Russa]] | *Cholstomer*, *Guerra e pace* | Maestro dello straniamento |
-| [[Herbert Spencer]] | 1820-1903 | [[Positivismo]] | *Filosofia dello stile* | Economia delle energie mentali |
+| [[Šklovskij]] | 1893-1984 | [[Formalismo Russo]] | *L'arte come procedimento* | Straniamento, linguaggio impedito |
+| [[Potebnja]] | 1835-1891 | [[Linguistica]] | *Note sulla teoria della letteratura* | Arte come pensiero per immagini |
+| [[Jakobson]] | 1896-1982 | [[Formalismo Russo]] | *Fundamentals of Language* | Funzione poetica, metafora/metonimia |
+| [[Tolstoj]] | 1828-1910 | [[Letteratura Russa]] | *Cholstomer*, *Guerra e pace* | Maestro dello straniamento |
+| [[Spencer]] | 1820-1903 | [[Positivismo]] | *Filosofia dello stile* | Economia delle energie mentali |
 
 #### Key Concepts
 
@@ -107,7 +107,7 @@ flowchart TD
 
 - **Predecessors:** [[Šklovskij]] ← critica ← [[Potebnja]], [[Spencer]] (economia energie); ← usa esempi di ← [[Tolstoj]], [[Gogol]]
 - **Contemporaries:** [[Šklovskij]] ↔ collabora con ↔ [[Jakobson]], [[Ejchenbaum]], [[Tynjanov]] (OPOJAZ)
-- **Followers:** [[Šklovskij]] → influenza → [[Bertolt Brecht]] (Verfremdungseffekt), [[Strutturalismo]], [[Narratologia]]
+- **Followers:** [[Šklovskij]] → influenza → [[Brecht]] (Verfremdungseffekt), [[Strutturalismo]], [[Narratologia]]
 - **Opposing views:** [[Šklovskij]] ← criticato da ← [[Marxismo ortodosso]], [[Sociologia della letteratura]]
 
 #### Summary Formulas
@@ -134,3 +134,7 @@ flowchart TD
 > "Scopo dell'arte è di trasmettere l'impressione dell'oggetto, come 'visione' e non come 'riconoscimento'; procedimento dell'arte è il procedimento dello 'straniamento' degli oggetti." — [[Šklovskij]]
 
 > "Il linguaggio poetico è un linguaggio-costruzione. La prosa è linguaggio consueto: economica, regolare, facile." — [[Šklovskij]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

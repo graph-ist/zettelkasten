@@ -10,16 +10,16 @@ subclasses:
 related:
   - "[[Design]]"
   - "[[Artificial]]"
-  - "[[Herbert Simon]]"
+  - "[[Simon]]"
   - "[[Philosophy of Design]]"
   - "[[Contingency]]"
 aliases:
   - design history
-  - artificial
+  - artificial world
   - herbert simon
   - matter mattering
-  - configuration
-  - contingency
+  - configuration design
+  - contingency design
   - proposition design
   - designing mediation
   - metaphysics artificial
@@ -36,7 +36,7 @@ The paper confronts a fundamental historical transition: we are moving into an e
 
 Design, understood as configurative activity, becomes essential—perhaps the essential mode of acting—in a world where the artificial is the formative totality of existence. [[Dilnot]] argues that since 1945, the quantitative expansion of artifice has become a qualitative transformation in the conditions of our being. In this new epoch, three meta-conditions obtain: absolute dependence on how we relate to the artificial; absolute dependence on the quality of mediation between humans and the artificial; and the collapse of certainty—things no longer "are" as facts but exist only as propositions.
 
-The thesis challenges [[Herbert Simon]]'s influential definition of design as concerned with "how things ought to be rather than how they are." [[Dilnot]] extends this: in the artificial, there is no "is"—only possible becoming. The artificial has no ontology, only propositions. Configuration—the way things are structured and disposed to act—becomes the locus of both making and knowing in this new metaphysical condition.
+The thesis challenges [[Simon]]'s influential definition of design as concerned with "how things ought to be rather than how they are." [[Dilnot]] extends this: in the artificial, there is no "is"—only possible becoming. The artificial has no ontology, only propositions. Configuration—the way things are structured and disposed to act—becomes the locus of both making and knowing in this new metaphysical condition.
 
 #### Historical Context
 
@@ -50,15 +50,15 @@ The philosophical context includes [[Latour]]'s claim that "we have never been M
 
 ```mermaid
 flowchart TD
-    Simon[Herbert Simon] --> SciencesArtificial[Sciences of the Artificial]
-    SciencesArtificial --> Dilnot[Dilnot]
-    Latour[Latour] --> ActorNetwork[Actor-Network Theory]
+    Simon --> SciencesArtificial[Sciences of the Artificial]
+    SciencesArtificial --> Dilnot
+    Latour --> ActorNetwork[Actor-Network Theory]
     ActorNetwork --> Dilnot
-    Heidegger[Heidegger] --> TechnologyQuestion[Question Concerning Technology]
+    Heidegger --> TechnologyQuestion[Question Concerning Technology]
     TechnologyQuestion --> Dilnot
-    Badiou[Badiou] --> EventEthics[Event and Ethics]
+    Badiou --> EventEthics[Event and Ethics]
     EventEthics --> Dilnot
-    Marx[Marx] --> CritiqueCapitalism[Critique of Capitalism]
+    Marx --> CritiqueCapitalism[Critique of Capitalism]
     CritiqueCapitalism --> DesignHistory[Design and History]
     DesignHistory --> Dilnot
 
@@ -69,7 +69,7 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Herbert Simon]] | 1916-2001 | [[Decision Sciences]] | *The Sciences of the Artificial* | Design as satisficing, artificial |
+| [[Simon]] | 1916-2001 | [[Decision Sciences]] | *The Sciences of the Artificial* | Design as satisficing, artificial |
 | [[Latour]] | 1947-2022 | [[Science Studies]] | *We Have Never Been Modern* | Hybrids, matters of concern |
 | [[Heidegger]] | 1889-1976 | [[Phenomenology]] | "Question Concerning Technology" | Enframing, revealing |
 | [[Badiou]] | 1937- | [[Continental Philosophy]] | *Ethics* | Event, fidelity, situation |
@@ -88,7 +88,7 @@ flowchart TD
 
 #### Authors Comparison
 
-| Theme | [[Herbert Simon]] | [[Latour]] | [[Dilnot]] |
+| Theme | [[Simon]] | [[Latour]] | [[Dilnot]] |
 |-------|-------------------|-----------|------------|
 | Central concern | Decision-making, bounded rationality | Science studies, hybrids | Design and the artificial |
 | View of artificial | Subject to scientific study | Co-produced with nature | New metaphysical condition |
@@ -97,7 +97,7 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Predecessors:** [[Dilnot]] ← influenced by ← [[Herbert Simon]], [[Latour]], [[Heidegger]], [[Badiou]]
+- **Predecessors:** [[Dilnot]] ← influenced by ← [[Simon]], [[Latour]], [[Heidegger]], [[Badiou]]
 - **Contemporaries:** [[Dilnot]] ↔ dialogue with ↔ design research community, design historians
 - **Historical claims:** Industrial capitalism → called design into being → as subaltern practice
 - **Future orientation:** Post-industrial condition → requires → design as essential human capacity
@@ -115,7 +115,7 @@ flowchart TD
 |------|-------|
 | 1914 | Werkbund debate between [[Gropius]] and Van der Velde |
 | 1945 | Post-war expansion of artifice begins |
-| 1969 | [[Herbert Simon]] publishes *The Sciences of the Artificial* |
+| 1969 | [[Simon]] publishes *The Sciences of the Artificial* |
 | 1973-1974 | Oil crisis; industry ceases to be socially formative |
 | 1991 | [[Latour]] publishes *We Have Never Been Modern* |
 | 2014-2015 | [[Dilnot]] presents arguments at DRS and Parsons symposium |
@@ -126,4 +126,8 @@ flowchart TD
 
 > "In the artificial, the royal road to understanding is not through contemplation or measurement or 'research,' it is through acting, i.e., it is through, one way or another, no matter how this is conceived, making."
 
-> "All human actions boil down to the search for good designs, i.e., the search for good mediations." — [[Herbert Simon]]
+> "All human actions boil down to the search for good designs, i.e., the search for good mediations." — [[Simon]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

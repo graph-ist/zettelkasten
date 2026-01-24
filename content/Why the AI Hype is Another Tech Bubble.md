@@ -20,10 +20,10 @@ aliases:
   - ai winter
   - dot com
   - cryptocurrency bubble
-  - speculation
-  - fomo
-  - valuation
-  - regulation
+  - speculation bubble
+  - fomo investing
+  - valuation bubble
+  - regulation ai
 reference:
   - Floridi, L. (2024). Why the AI Hype is Another Tech Bubble. Philosophy & Technology, 37(4). https://doi.org/10.1007/s13347-024-00817-w
 ---
@@ -125,3 +125,7 @@ flowchart TD
 > "This time is not different. The AI bubble will probably follow the same pattern as the other five analysed in this article."
 
 > "I do not hope that what I have argued in this article will make any significant difference. It is written not with hope—which would be epistemically unreasonable—but for hope—which may be morally commendable."
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

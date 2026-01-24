@@ -14,7 +14,7 @@ related:
   - "[[Human-Centered Design]]"
   - "[[Complexity Theory]]"
 aliases:
-  - designx
+  - designx approach
   - sociotechnical systems
   - complex systems
   - design education
@@ -22,7 +22,7 @@ aliases:
   - requisite variety
   - wicked problems
   - cognitive engineering
-  - incrementalism
+  - incremental design
   - bounded rationality
 reference:
   - "Norman, D. A., & Stappers, P. J. (2015). DesignX: Complex Sociotechnical Systems. She Ji: The Journal of Design, Economics, and Innovation, 1(2), 83–106. https://doi.org/10.1016/j.sheji.2016.01.002"
@@ -127,3 +127,7 @@ flowchart TD
 > "We have to be radically careful, or carefully radical." — [[Norman]] and [[Stappers]], citing the challenge of DesignX
 
 > "The gap between the demands of today's complex systems and how most trained, hyper-focusing designers see the world is a chasm that even those most precise categorizations of DesignX might struggle to bridge." — [[Myerson]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

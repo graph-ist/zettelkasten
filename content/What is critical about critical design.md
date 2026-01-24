@@ -11,19 +11,20 @@ related:
   - "[[Critical Design]]"
   - "[[Frankfurt School]]"
   - "[[HCI]]"
-  - "[[Dunne and Raby]]"
+  - "[[Dunne]]"
+  - "[[Raby]]"
   - "[[Reification]]"
 aliases:
   - critical design
-  - criticality
+  - criticality design
   - frankfurt school
-  - reification
+  - reification design
   - affirmative design
   - hci criticism
   - design critique
   - dunne raby
   - ideology critique
-  - metacriticism
+  - metacriticism design
 reference:
   - Bardzell, J., & Bardzell, S. (2013). What is “critical” about critical design? Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 3297–3306. https://doi.org/10.1145/2470654.2466451
 ---
@@ -40,7 +41,7 @@ The thesis distinguishes between "affirmative" design (which accepts existing so
 
 #### Historical Context
 
-Critical design emerged in the 1990s through the work of [[Dunne and Raby]] at the Royal College of Art, building on earlier avant-garde traditions of using design to challenge social norms. Their concept of "design noir" and later "speculative design" proposed using fictional scenarios and provocative objects to question technological optimism and consumer culture.
+Critical design emerged in the 1990s through the work of [[Dunne]], [[Raby]] at the Royal College of Art, building on earlier avant-garde traditions of using design to challenge social norms. Their concept of "design noir" and later "speculative design" proposed using fictional scenarios and provocative objects to question technological optimism and consumer culture.
 
 The Frankfurt School, particularly [[Adorno]] and [[Horkheimer]]'s critique of the culture industry, provides the philosophical backdrop. Their analysis of how mass culture neutralizes critical potential by commodifying everything—including critique itself—poses fundamental challenges for any design practice claiming critical status.
 
@@ -72,7 +73,7 @@ flowchart TD
 | [[Adorno]] | 1903-1969 | [[Frankfurt School]] | *Dialectic of Enlightenment* | Culture industry, negative dialectics |
 | [[Horkheimer]] | 1895-1973 | [[Frankfurt School]] | *Critical Theory* | Traditional vs. critical theory |
 | [[Marcuse]] | 1898-1979 | [[Frankfurt School]] | *One-Dimensional Man* | Repressive desublimation |
-| [[Dunne and Raby]] | 1960s- | [[Critical Design]] | *Speculative Everything* | Design noir, speculative design |
+| [[Dunne]], [[Raby]] | 1960s- | [[Critical Design]] | *Speculative Everything* | Design noir, speculative design |
 | [[Gadamer]] | 1900-2002 | [[Hermeneutics]] | *Truth and Method* | Historically effected consciousness |
 | [[Barthes]] | 1915-1980 | [[Semiotics]] | *Mythologies* | Ideology as naturalization |
 
@@ -82,14 +83,14 @@ flowchart TD
 |---------|------------|------------|
 | Reification | Process by which social relations appear as thing-like, natural, and unchangeable | [[Marx]], [[Lukács]], [[Frankfurt School]] |
 | Affirmative design | Design that accepts existing social conditions and works within them | [[Critical Design]], [[Marcuse]] |
-| Critical design | Design that challenges social conditions and exposes their contingency | [[Dunne and Raby]], [[Frankfurt School]] |
+| Critical design | Design that challenges social conditions and exposes their contingency | [[Dunne]], [[Raby]], [[Frankfurt School]] |
 | Culture industry | Mass cultural production that neutralizes critique by commodifying it | [[Adorno]], [[Horkheimer]] |
 | Ideology | Systems of belief that naturalize particular interests as universal truth | [[Marx]], [[Critical Theory]] |
 | Metacriticism | Reflection on the conditions of possibility and limits of critique itself | [[Bardzell]], [[Critical Theory]] |
 
 #### Authors Comparison
 
-| Theme | [[Adorno]] | [[Dunne and Raby]] | [[Bardzell]] |
+| Theme | [[Adorno]] | [[Dunne]], [[Raby]] | [[Bardzell]] |
 |-------|------------|-------------------|--------------|
 | Central concern | Culture industry, administered life | Consumer design, technological optimism | Criticality in HCI |
 | Method | Negative dialectics | Speculative objects | Philosophical analysis |
@@ -98,9 +99,9 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Predecessors:** [[Bardzell and Bardzell]] ← influenced by ← [[Adorno]], [[Horkheimer]], [[Gadamer]], [[Dunne and Raby]]
-- **Contemporaries:** [[Bardzell and Bardzell]] ↔ dialogue with ↔ HCI community, [[Critical Design]] practitioners
-- **Followers:** [[Bardzell and Bardzell]] → influenced → HCI researchers adopting critical approaches
+- **Predecessors:** [[Bardzell]] ← influenced by ← [[Adorno]], [[Horkheimer]], [[Gadamer]], [[Dunne]], [[Raby]]
+- **Contemporaries:** [[Bardzell]] ↔ dialogue with ↔ HCI community, [[Critical Design]] practitioners
+- **Followers:** [[Bardzell]] → influenced → HCI researchers adopting critical approaches
 - **Opposing views:** Instrumental HCI ← challenged by ← [[Critical HCI]]
 
 #### Summary Formulas
@@ -116,10 +117,10 @@ flowchart TD
 |------|-------|
 | 1944 | [[Adorno]] and [[Horkheimer]] publish *Dialectic of Enlightenment* |
 | 1964 | [[Marcuse]] publishes *One-Dimensional Man* |
-| 1999 | [[Dunne and Raby]] publish *Design Noir* |
-| 2001 | [[Dunne and Raby]] establish "critical design" as term |
+| 1999 | [[Dunne]], [[Raby]] publish *Design Noir* |
+| 2001 | [[Dunne]], [[Raby]] establish "critical design" as term |
 | 2009 | Critical design gains prominence in HCI |
-| 2013 | [[Bardzell and Bardzell]] publish "What is Critical About Critical Design?" |
+| 2013 | [[Bardzell]] publish "What is Critical About Critical Design?" |
 
 #### Notable Quotes
 
@@ -128,3 +129,7 @@ flowchart TD
 > "The Frankfurt School's analysis of the culture industry poses a fundamental challenge: can any design practice escape commodification and achieve genuine critique?"
 
 > "Affirmative design accepts the world as it is; critical design challenges the givenness of that world and exposes its contingency."
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

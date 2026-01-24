@@ -15,15 +15,15 @@ related:
   - "[[Visual Culture]]"
 aliases:
   - photography history
-  - aura
+  - aura photography
   - mechanical reproduction
   - optical unconscious
-  - benjamin
+  - benjamin photography
   - cult value
   - exhibition value
-  - daguerreotype
-  - atget
-  - sander
+  - daguerreotype history
+  - atget photography
+  - sander portraits
 reference:
   - Benjamin, W. (1972). A Short History of Photography. Screen, 13(1), 5–26. https://doi.org/10.1093/screen/13.1.5
 ---
@@ -129,3 +129,7 @@ flowchart TD
 > "Photography makes aware for the first time the optical unconscious, just as psychoanalysis discloses the instinctual unconscious."
 
 > "Atget was the first to disinfect the stuffy atmosphere spread by the conventional portrait photography of the period of decline. He cleansed this atmosphere, indeed cleared it."
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

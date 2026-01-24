@@ -165,5 +165,5 @@ flowchart TD
 > "We have no communication with being, because the entire human nature is always between birth and death." — [[Montaigne]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

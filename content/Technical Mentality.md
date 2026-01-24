@@ -19,17 +19,17 @@ aliases:
   - simondon 1968
   - artisanal industrial
   - technical networks
-  - postindustrial
-  - concretization
+  - postindustrial society
+  - concretization theory
   - reticular structure
-  - technophany
+  - technophany concept
 reference:
   - Simondon, G., & De Boever, A. (2013). Technical Mentality (A. De Boever, S. Murray, & J. Roffe, Eds.; pp. 1–14). University of Edinburgh Press. https://doi.org/10.3366/edinburgh/9780748677214.003.0001
 ---
 
 #### Central Problem
 
-[[Gilbert Simondon]] affronta una questione assiologica, non ontologica: esiste una **mentalità tecnica** in via di sviluppo, incompleta e a rischio di essere prematuramente giudicata "mostruosa". Questa mentalità richiede un atteggiamento di "generosità" verso l'ordine di realtà che cerca di manifestare.
+[[Simondon]] affronta una questione assiologica, non ontologica: esiste una **mentalità tecnica** in via di sviluppo, incompleta e a rischio di essere prematuramente giudicata "mostruosa". Questa mentalità richiede un atteggiamento di "generosità" verso l'ordine di realtà che cerca di manifestare.
 
 Il problema centrale è la **scissione** tra modalità artigianale e industriale, che genera conflitto nelle categorie affettive. Nella modalità artigianale, energia e informazione provengono dall'essere umano; nella modalità industriale, si separano. Questa scissione frammenta il rapporto umano-natura-tecnica. La soluzione risiede nello sviluppo di **reti tecniche post-industriali** che riconciliano ciò che l'industria ha separato.
 
@@ -55,7 +55,7 @@ La mentalità tecnica è coerente e produttiva nel dominio cognitivo, ma incompl
 
 Il testo risale al 1968, periodo cruciale per la riflessione sulla tecnica. [[Simondon]] scrive dopo la sua opera principale *Du mode d'existence des objets techniques* (1958), approfondendo la distinzione tra modalità artigianale e industriale e anticipando temi che diverranno centrali solo decenni dopo: le reti informative, la società post-industriale, l'obsolescenza programmata.
 
-Il contesto include la cibernetica di [[Norbert Wiener]], il meccanicismo cartesiano, e la critica dell'alienazione industriale di [[Georges Friedmann]] (*Le travail en miettes*). Simondon risponde implicitamente anche a [[Heidegger]] sulla questione della tecnica, proponendo non una condanna ma una comprensione della mentalità tecnica.
+Il contesto include la cibernetica di [[Wiener]], il meccanicismo cartesiano, e la critica dell'alienazione industriale di [[Friedmann]] (*Le travail en miettes*). Simondon risponde implicitamente anche a [[Heidegger]] sulla questione della tecnica, proponendo non una condanna ma una comprensione della mentalità tecnica.
 
 La traduzione inglese di Arne De Boever (2013) in *Parrhesia* ha reso questo testo accessibile per la prima volta a un pubblico anglofono, con note critiche di Jean-Hugues Barthélémy.
 
@@ -81,11 +81,11 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Gilbert Simondon]] | 1924-1989 | [[Filosofia della Tecnica]] | *Du mode d'existence des objets techniques* | Individuazione, concretizzazione |
-| [[René Descartes]] | 1596-1650 | [[Razionalismo]] | *Discorso sul metodo* | Meccanicismo, trasferimento senza perdite |
-| [[Norbert Wiener]] | 1894-1964 | [[Cibernetica]] | *Cybernetics* | Feedback, regolazione automatica |
-| [[Martin Heidegger]] | 1889-1976 | [[Fenomenologia]] | *La questione della tecnica* | Gestell, svelamento |
-| [[Georges Friedmann]] | 1902-1977 | [[Sociologia del lavoro]] | *Le travail en miettes* | Alienazione industriale |
+| [[Simondon]] | 1924-1989 | [[Filosofia della Tecnica]] | *Du mode d'existence des objets techniques* | Individuazione, concretizzazione |
+| [[Descartes]] | 1596-1650 | [[Razionalismo]] | *Discorso sul metodo* | Meccanicismo, trasferimento senza perdite |
+| [[Wiener]] | 1894-1964 | [[Cibernetica]] | *Cybernetics* | Feedback, regolazione automatica |
+| [[Heidegger]] | 1889-1976 | [[Fenomenologia]] | *La questione della tecnica* | Gestell, svelamento |
+| [[Friedmann]] | 1902-1977 | [[Sociologia del lavoro]] | *Le travail en miettes* | Alienazione industriale |
 
 #### Key Concepts
 
@@ -113,7 +113,7 @@ flowchart TD
 
 - **Predecessors:** [[Simondon]] ← influenzato da ← [[Descartes]] (meccanicismo), [[Wiener]] (cibernetica), [[Bergson]] (durata), [[Friedmann]] (alienazione)
 - **Contemporaries:** [[Simondon]] ↔ critica implicita a ↔ [[Heidegger]] (questione della tecnica)
-- **Followers:** [[Simondon]] → influenza → [[Bernard Stiegler]] (tecnica e tempo), [[Bruno Latour]] (reti), [[Gilles Deleuze]] (individuazione)
+- **Followers:** [[Simondon]] → influenza → [[Stiegler]] (tecnica e tempo), [[Latour]] (reti), [[Deleuze]] (individuazione)
 - **Opposing views:** [[Simondon]] ← critica ← tecnofobia, nostalgia artigianale, postulato olistico
 
 #### Summary Formulas
@@ -142,3 +142,7 @@ flowchart TD
 > "The machine is different from the tool in that it is a relay: it has two different entry points, that of energy and that of information." — [[Simondon]]
 
 > "Technical reality lends itself remarkably well to being continued, completed, perfected, extended. [...] The non-dissimulation of means, this politeness of architecture towards its materials which translates itself by a constant technophany, amounts to a refusal of obsolescence." — [[Simondon]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

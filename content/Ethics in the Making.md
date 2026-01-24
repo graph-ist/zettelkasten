@@ -21,8 +21,8 @@ aliases:
   - universal design
   - user involvement
   - disability design
-  - lifeworld
-  - affordance
+  - lifeworld design
+  - affordance design
   - action research
 reference:
   - Jönsson, B., Anderberg, P., Flodin, E., Malmborg, L., Nordgren, C., & Svensk, A. (2005). Ethics in the Making. Design Philosophy Papers, 3(4), 213–226. https://doi.org/10.2752/144871305X13966254124914
@@ -46,7 +46,7 @@ This challenge is particularly acute in rehabilitation engineering and design fo
 
 **Desiderata vs. Description:** Design focuses on "that-which-ought-to-be" (desiderata) rather than "that-which-is" (description). Desiderata encompasses aesthetics, ethics, and reason—it is about what we intend the world to be, which is the voice of design.
 
-**Artefacts as Actants:** Following [[Bruno Latour]], artefacts are "society and culture made sustainable." Products and built environments are themselves "actants" entering the ethical domain not merely as neutral means but as ethos-generating forces. The "missing masses" names an ethical force hidden beyond what we call "the social"—the force is in the things themselves.
+**Artefacts as Actants:** Following [[Latour]], artefacts are "society and culture made sustainable." Products and built environments are themselves "actants" entering the ethical domain not merely as neutral means but as ethos-generating forces. The "missing masses" names an ethical force hidden beyond what we call "the social"—the force is in the things themselves.
 
 **The FACE Model:** [[Anderberg]] proposes a model where Function is analyzed through Attitude, Control, and Enabling—a framework that necessitates consideration of ethical aspects, bridging the gap between medical and social models of disability.
 
@@ -159,3 +159,7 @@ flowchart TD
 > "We want to go back to the things themselves." — [[Husserl]]
 
 > "The body is the vehicle of being in the world... the general medium for having a world." — [[Merleau-Ponty]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

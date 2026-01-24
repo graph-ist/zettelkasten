@@ -171,5 +171,5 @@ flowchart TD
 > "If a reasonably just society of peoples whose members subordinate the power at their disposal to reasonable ends were not possible, and human beings proved to be largely amoral if not incurably cynical and egotistic, we might be forced to ask with [[Kant]] what value living on this earth has for human beings." — [[Rawls]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

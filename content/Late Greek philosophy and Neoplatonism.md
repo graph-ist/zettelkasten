@@ -154,5 +154,5 @@ flowchart TD
 > "This is the life of gods and of divine and blessed men: separation from all things here below, a life that takes no pleasure in earthly things, flight of the alone to the Alone." — [[Plotinus]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

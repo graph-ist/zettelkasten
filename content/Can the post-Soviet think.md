@@ -7,18 +7,18 @@ subclasses:
   - Philosophy-of-Science
 related:
   - "[[Decolonial Theory]]"
-  - "[[Walter Mignolo]]"
+  - "[[Mignolo]]"
   - "[[Coloniality of Knowledge]]"
   - "[[Post-Soviet Studies]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Body-Politics of Knowledge]]"
 aliases:
   - tlostanova 2015
-  - can the
-  - coloniality of
+  - postsoviet thought
+  - coloniality knowledge
   - postsoviet epistemology
-  - geopolitics of
-  - bodypolitics of
+  - geopolitics knowledge
+  - bodypolitics knowledge
   - imperial difference
   - disciplinary decadence
   - zero point
@@ -57,27 +57,27 @@ Key intellectual contexts include:
 
 ```mermaid
 flowchart TD
-    Quijano[Aníbal Quijano] -->|Coloniality of power| Mignolo[Walter Mignolo]
-    Mignolo -->|Geopolitics of knowledge| Tlostanova[Madina Tlostanova]
-    Spivak[Gayatri Spivak] -->|Sanctioned ignorance| Tlostanova
-    CastroGomez[Santiago Castro-Gómez] -->|Zero point epistemology| Tlostanova
-    Gordon[Lewis Gordon] -->|Disciplinary decadence| Tlostanova
-    Sartre[Sartre] -->|Mauvaise foi| Gordon
-    Dussel[Enrique Dussel] -->|Transmodernity| Mignolo
-    Tlostanova -->|Post-Soviet critique| DecolonialOption[Decolonial Option]
+    Quijano --> |Coloniality of power| Mignolo
+    Mignolo --> |Geopolitics of knowledge| Tlostanova
+    Spivak --> |Sanctioned ignorance| Tlostanova
+    Castro-Gómez --> |Zero point epistemology| Tlostanova
+    Gordon --> |Disciplinary decadence| Tlostanova
+    Sartre --> |Mauvaise foi| Gordon
+    Dussel --> |Transmodernity| Mignolo
+    Tlostanova --> |Post-Soviet critique| DecolonialOption[Decolonial Option]
 
-    class Mignolo,Tlostanova internal-link;
+    class Quijano,Mignolo,Tlostanova,Spivak,Castro-Gómez,Gordon,Sartre,Dussel internal-link;
 ```
 
 #### Key Thinkers
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Walter Mignolo]] | 1941- | [[Decolonial Theory]] | *The Darker Side of Modernity* | Geopolitics of knowledge, colonial difference |
-| [[Gayatri Spivak]] | 1942- | [[Postcolonial Theory]] | *A Critique of Postcolonial Reason* | Sanctioned ignorance, subaltern |
-| [[Lewis Gordon]] | 1962- | [[Africana Philosophy]] | *Disciplinary Decadence* | Bad faith in disciplines, teleological suspension |
-| [[Santiago Castro-Gómez]] | 1958- | [[Decolonial Theory]] | *La hybris del punto cero* | Zero point epistemology |
-| [[Rosi Braidotti]] | 1954- | [[Posthumanism]] | *The Posthuman* | Post-anthropocentrism, zoe |
+| [[Mignolo]] | 1941- | [[Decolonial Theory]] | *The Darker Side of Modernity* | Geopolitics of knowledge, colonial difference |
+| [[Spivak]] | 1942- | [[Postcolonial Theory]] | *A Critique of Postcolonial Reason* | Sanctioned ignorance, subaltern |
+| [[Gordon]] | 1962- | [[Africana Philosophy]] | *Disciplinary Decadence* | Bad faith in disciplines, teleological suspension |
+| [[Castro-Gómez]] | 1958- | [[Decolonial Theory]] | *La hybris del punto cero* | Zero point epistemology |
+| [[Braidotti]] | 1954- | [[Posthumanism]] | *The Posthuman* | Post-anthropocentrism, zoe |
 
 #### Key Concepts
 
@@ -89,7 +89,7 @@ flowchart TD
 | Imperial difference | The gap between first-class Western empires and subalternized "not-quite-Western" empires (Russia, Ottoman) | [[Tlostanova]], [[Mignolo]] |
 | Colonial difference | The gap between Western empires and their colonized others | [[Quijano]], [[Mignolo]] |
 | Secondary Eurocentrism | Non-Western empires mimicking Western colonialism in their own peripheries | [[Tlostanova]] |
-| Disciplinary decadence | Disciplines losing contact with reality, defending methods over truth | [[Lewis Gordon]] |
+| Disciplinary decadence | Disciplines losing contact with reality, defending methods over truth | [[Gordon]] |
 | Sanctioned ignorance | Systematic Western ignorance of non-Western knowledge | [[Spivak]] |
 
 #### Authors Comparison
@@ -105,17 +105,17 @@ flowchart TD
 #### Influences & Connections
 
 #### Predecessors
-- **[[Anibal Quijano]]**: Coloniality of power as matrix of modernity
-- **[[Enrique Dussel]]**: Transmodernity, critique of Eurocentrism
-- **[[Frantz Fanon]]**: Colonial psychology, decolonization of mind
+- **[[Quijano]]**: Coloniality of power as matrix of modernity
+- **[[Dussel]]**: Transmodernity, critique of Eurocentrism
+- **[[Fanon]]**: Colonial psychology, decolonization of mind
 
 #### Contemporaries
-- **[[Walter Mignolo]]**: Collaborator; geopolitics/body-politics of knowledge framework
-- **[[Lewis Gordon]]**: Disciplinary decadence, Africana philosophy
-- **[[Rosi Braidotti]]**: Posthumanism (critiqued for blindness to power asymmetries)
+- **[[Mignolo]]**: Collaborator; geopolitics/body-politics of knowledge framework
+- **[[Gordon]]**: Disciplinary decadence, Africana philosophy
+- **[[Braidotti]]**: Posthumanism (critiqued for blindness to power asymmetries)
 
 #### Successors
-- **[[Jennifer Suchland]]**: Post-socialist critique
+- **[[Suchland]]**: Post-socialist critique
 - **[[Central Asian scholars]]**: Emerging decolonial voices from the region
 - **[[Cross-Roads Asia Network]]**: Post-area studies approaches
 
@@ -136,21 +136,25 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | 1989 | Fall of Berlin Wall; collapse of sovietology as area studies |
-| 1992 | [[Francis Fukuyama]] publishes *The End of History* |
+| 1992 | [[Fukuyama]] publishes *The End of History* |
 | 1998 | [[Castro-Gómez]] & Mendieta: *Teorías sin Disciplina* |
 | 1999 | [[Spivak]] publishes *A Critique of Postcolonial Reason* |
 | 2001 | David Chioni Moore applies postcolonial theory to post-socialist world |
-| 2006 | [[Lewis Gordon]] publishes *Disciplinary Decadence* |
+| 2006 | [[Gordon]] publishes *Disciplinary Decadence* |
 | 2006 | Mignolo & Tlostanova: "Theorizing from the Borders" |
 | 2010 | [[Tlostanova]] publishes *Gender Epistemologies and Eurasian Borderlands* |
 | 2012 | Tlostanova & Mignolo: *Learning to Unlearn* |
-| 2013 | [[Rosi Braidotti]] publishes *The Posthuman* |
+| 2013 | [[Braidotti]] publishes *The Posthuman* |
 | 2015 | Tlostanova publishes "Can the Post-Soviet Think?" |
 
 #### Notable Quotes
 
-> "I am where I think' sets the stage for epistemic affirmations that have been disavowed. At the same time, it creates a shift in the geography of reasoning." — [[Walter Mignolo]]
+> "I am where I think' sets the stage for epistemic affirmations that have been disavowed. At the same time, it creates a shift in the geography of reasoning." — [[Mignolo]]
 
-> "Disciplinary decadence is when a 'method facilitates the epistemic rejection of reality' and scholars concentrate on the problems of frozen and de-ontologized disciplines and not human beings in the real world." — [[Lewis Gordon]]
+> "Disciplinary decadence is when a 'method facilitates the epistemic rejection of reality' and scholars concentrate on the problems of frozen and de-ontologized disciplines and not human beings in the real world." — [[Gordon]]
 
-> "Freeing oneself from coloniality of knowledge is a long and painful process which requires learning to unlearn in order to relearn but on different grounds and sometimes actually creating and remaking these grounds." — [[Madina Tlostanova]]
+> "Freeing oneself from coloniality of knowledge is a long and painful process which requires learning to unlearn in order to relearn but on different grounds and sometimes actually creating and remaking these grounds." — [[Tlostanova]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

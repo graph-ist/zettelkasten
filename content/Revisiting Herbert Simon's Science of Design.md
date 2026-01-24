@@ -19,18 +19,18 @@ aliases:
   - design science
   - bounded rationality
   - problem solving
-  - satisficing
+  - satisficing behavior
   - cold war
   - rand corporation
   - design methods
-  - technocracy
+  - technocracy critique
 reference:
   - Huppatz, D. (2015). Revisiting Herbert Simon’s “Science of Design.” Design Issues, 31(2), 29–40. https://doi.org/10.1162/DESI_a_00320
 ---
 
 #### Central Problem
 
-[[Huppatz]] addresses the uncritical acceptance of [[Herbert Simon]]'s *The Sciences of the Artificial* (1969) as foundational text for design research. The central problem is twofold: first, the historical context that shaped Simon's "science of design" has been largely forgotten or ignored by design researchers who continue to cite his work; second, the implications of Simon's framework—which represses judgment, intuition, experience, and social interaction in favor of logical optimization—continue to shape design research and practice in problematic ways.
+[[Huppatz]] addresses the uncritical acceptance of [[Simon]]'s *The Sciences of the Artificial* (1969) as foundational text for design research. The central problem is twofold: first, the historical context that shaped Simon's "science of design" has been largely forgotten or ignored by design researchers who continue to cite his work; second, the implications of Simon's framework—which represses judgment, intuition, experience, and social interaction in favor of logical optimization—continue to shape design research and practice in problematic ways.
 
 The article asks: Why has Simon's model remained so influential despite early critiques from design methods researchers like [[Rittel]] and [[Alexander]] who abandoned similar approaches in the 1960s? And what are the consequences of defining design as "scientific" problem solving modeled on artificial intelligence and military systems analysis?
 
@@ -50,7 +50,7 @@ The article concludes that Simon's legacy persists because his "logic of optimiz
 
 The article situates Simon's work within the post-WWII American "military-industrial-academic complex." The RAND Corporation, established by the Air Force in 1948, became the central institution where Simon developed his problem-solving research during the 1950s-60s. RAND's mission was developing a "science of warfare" including nuclear deterrence strategy ("Mutually Assured Destruction") and command-and-control systems.
 
-Simon was part of an elite network of "brokers" who channeled research funding from military institutes (RAND, Office of Naval Research, Air Force Office of Scientific Research), private foundations (Ford, Carnegie, Rockefeller), and government bodies toward mathematical, behavioral, problem-centered research. His collaborator [[Allen Newell]] and others at RAND developed artificial intelligence specifically to automate problem solving in strategic military situations—promising more reliable outcomes than fallible human intelligence.
+Simon was part of an elite network of "brokers" who channeled research funding from military institutes (RAND, Office of Naval Research, Air Force Office of Scientific Research), private foundations (Ford, Carnegie, Rockefeller), and government bodies toward mathematical, behavioral, problem-centered research. His collaborator [[Newell]] and others at RAND developed artificial intelligence specifically to automate problem solving in strategic military situations—promising more reliable outcomes than fallible human intelligence.
 
 The broader intellectual climate included a "quantitative revolution" in social sciences, where scientific legitimacy required formal theoretical models, controlled experiments, and sophisticated equipment. Simon's vision was to unify all social sciences under problem solving as "the glue."
 
@@ -141,3 +141,7 @@ flowchart TD
 > "Solving a problem simply means representing it so as to make the solution transparent." — [[Simon]]
 
 > "What really bounds rationality in human action is nothing more than all the other parts which comprise the human existence as a whole: poetics, rhetoric, hermeneutics, and ethics; because, when humans act, they act as whole humans." — [[Bousbaci]], cited by [[Huppatz]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

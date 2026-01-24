@@ -7,21 +7,21 @@ subclasses:
   - 20th-Century-Philosophy
 related:
   - "[[Heidegger]]"
-  - "[[Kurokawa Kisho]]"
+  - "[[Kurokawa]]"
   - "[[Nāgārjuna]]"
   - "[[Japanese New Wave Architecture]]"
   - "[[Buddhism]]"
   - "[[Technology and Being]]"
 aliases:
   - snodgrass 1997
-  - tradition and
-  - japanese new
-  - heidegger and
-  - lettingbe and
-  - gelassenheit and
-  - enframing and
-  - kurokawa and
-  - technology as
+  - tradition technology
+  - japanese architecture
+  - heidegger technology
+  - letting be
+  - gelassenheit design
+  - enframing critique
+  - kurokawa design
+  - technology being
   - nondual thinking
 reference:
   - "Snodgrass, A. (1997). Translating Tradition: Technology, Heidegger’s ‘Letting-be,’ and Japanese New Wave Architecture. Architectural Theory Review, 2(2), 83–104. https://doi.org/10.1080/13264829709478320"
@@ -67,11 +67,11 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|-------------|
-| [[Martin Heidegger]] | 1889-1976 | [[Phenomenology]] | *The Question Concerning Technology* | Gestell, Gelassenheit |
+| [[Heidegger]] | 1889-1976 | [[Phenomenology]] | *The Question Concerning Technology* | Gestell, Gelassenheit |
 | [[Nāgārjuna]] | ~150-250 CE | [[Mādhyamaka Buddhism]] | *Mūlamadhyamakārikā* | Śūnyatā, logical groundlessness |
-| [[Kurokawa Kisho]] | 1934-2007 | [[Japanese New Wave]] | *Japanese Space* | Symbiosis, Funi |
-| [[Angelus Silesius]] | 1624-1677 | [[Christian Mysticism]] | *Cherubinischer Wandersmann* | Rose without why |
-| [[D.T. Suzuki]] | 1870-1966 | [[Zen Buddhism]] | *Shin Buddhism* | Jinen-hōni |
+| [[Kurokawa]] | 1934-2007 | [[Japanese New Wave]] | *Japanese Space* | Symbiosis, Funi |
+| [[Silesius]] | 1624-1677 | [[Christian Mysticism]] | *Cherubinischer Wandersmann* | Rose without why |
+| [[Suzuki]] | 1870-1966 | [[Zen Buddhism]] | *Shin Buddhism* | Jinen-hōni |
 
 #### Key Concepts
 
@@ -99,13 +99,13 @@ flowchart TD
 
 #### Predecessors
 - **[[Leibniz]]**: Formulated the principle of sufficient reason (*nihil existere nisi cujus reddi potest ratio*)
-- **[[Meister Eckhart]]**: German mystic whose notions of detachment resonate with Gelassenheit
+- **[[Eckhart]]**: German mystic whose notions of detachment resonate with Gelassenheit
 - **[[Theravāda Buddhism]]**: Concept of non-grasping developed into Mahāyāna letting-be
 
 #### Contemporaries
-- **[[Ando Tadao]]**: New Wave architect using concrete to evoke silence and emptiness
-- **[[Hasegawa Itsuko]]**: Architecture as "second nature" responding to natural processes
-- **[[Michael Zimmerman]]**: Scholar on Heidegger's confrontation with modernity
+- **[[Ando]]**: New Wave architect using concrete to evoke silence and emptiness
+- **[[Hasegawa]]**: Architecture as "second nature" responding to natural processes
+- **[[Zimmerman]]**: Scholar on Heidegger's confrontation with modernity
 
 #### Successors
 - **[[Post-Phenomenological Philosophy of Technology]]**: Don Ihde's development of Heidegger's technological hermeneutics
@@ -128,7 +128,7 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | ~150 CE | [[Nāgārjuna]] composes *Mūlamadhyamakakārikā*, demonstrating the self-contradiction of logic |
-| 1889 | Birth of [[Martin Heidegger]] |
+| 1889 | Birth of [[Heidegger]] |
 | 1927 | Heidegger publishes *Being and Time* |
 | 1954 | Heidegger delivers "The Question Concerning Technology" |
 | 1959 | Heidegger publishes *Discourse on Thinking* (Gelassenheit) |
@@ -140,8 +140,12 @@ flowchart TD
 
 #### Notable Quotes
 
-> "The rose is without why; it blooms because it blooms / It cares not for itself; asks not if it's seen." — [[Angelus Silesius]], cited by Heidegger
+> "The rose is without why; it blooms because it blooms / It cares not for itself; asks not if it's seen." — [[Silesius]], cited by Heidegger
 
-> "We are able to use objects and yet with suitable use keep ourselves so free of them that we are able to let go of them at any time." — [[Martin Heidegger]], *Discourse on Thinking*
+> "We are able to use objects and yet with suitable use keep ourselves so free of them that we are able to let go of them at any time." — [[Heidegger]], *Discourse on Thinking*
 
-> "I will push technology so far that it reveals its human face." — [[Kurokawa Kisho]], *Japanese Space*
+> "I will push technology so far that it reveals its human face." — [[Kurokawa]], *Japanese Space*
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

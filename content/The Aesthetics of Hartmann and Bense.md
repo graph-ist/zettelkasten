@@ -9,8 +9,8 @@ subclasses:
 related:
   - "[[German Aesthetics]]"
   - "[[Philosophy of Art]]"
-  - "[[Nicolai Hartmann]]"
-  - "[[Max Bense]]"
+  - "[[Hartmann]]"
+  - "[[Bense]]"
   - "[[Hegelian Aesthetics]]"
 aliases:
   - german aesthetics
@@ -19,7 +19,7 @@ aliases:
   - philosophy beauty
   - aesthetic object
   - strata theory
-  - coreality
+  - coreality aesthetics
   - aesthetic value
   - appearance semblance
   - ontological modes
@@ -121,3 +121,7 @@ flowchart TD
 > "Art brings to consciousness the highest interests of the Spirit." — [[Hegel]], cited as Leitmotiv by [[Bense]]
 
 > "Art is and remains for us a thing of the past." — [[Hegel]], cited by [[Schaper]] to challenge Hegelian assumptions
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

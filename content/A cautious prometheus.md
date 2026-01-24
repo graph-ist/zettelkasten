@@ -10,7 +10,7 @@ related:
   - "[[Actor-Network Theory]]"
   - "[[Philosophy of Design]]"
   - "[[Matters of Concern]]"
-  - "[[Peter Sloterdijk]]"
+  - "[[Sloterdijk]]"
   - "[[Ecological Crisis]]"
 aliases:
   - philosophy design
@@ -124,3 +124,7 @@ flowchart TD
 > "We have to be radically careful, or carefully radical… What an odd time we are living through." — [[Latour]]
 
 > "To design is never to create ex nihilo." — [[Latour]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

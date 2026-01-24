@@ -29,7 +29,7 @@ reference:
 
 #### Central Problem
 
-[[Herbert Simon]] affronta il problema fondamentale della **complessità**: come possono esistere sistemi complessi? Come possono evolversi dalla semplicità? E come possiamo comprenderli e descriverli? Il paradosso è che l'evoluzione casuale di sistemi complessi sembra statisticamente impossibile dato il tempo disponibile — eppure tali sistemi esistono.
+[[Simon]] affronta il problema fondamentale della **complessità**: come possono esistere sistemi complessi? Come possono evolversi dalla semplicità? E come possiamo comprenderli e descriverli? Il paradosso è che l'evoluzione casuale di sistemi complessi sembra statisticamente impossibile dato il tempo disponibile — eppure tali sistemi esistono.
 
 La risposta risiede nella **struttura gerarchica**: i sistemi complessi non si assemblano in un sol colpo ma attraverso **sottosistemi stabili intermedi**. Questa architettura gerarchica non solo spiega l'evoluzione della complessità, ma determina anche le proprietà dinamiche dei sistemi e la possibilità stessa della loro descrizione e comprensione.
 
@@ -53,9 +53,9 @@ L'esempio della casa: stanze divise in cubicoli, pareti con diversa capacità is
 
 Il saggio fu presentato nel 1962 alla American Philosophical Society, in un momento cruciale per le scienze della complessità. [[Simon]] — premio Nobel per l'economia (1978) e pioniere dell'intelligenza artificiale — stava sviluppando una teoria unificata che connettesse i suoi lavori su razionalità limitata, teoria dell'organizzazione, e problem solving.
 
-Il contesto intellettuale include: la cibernetica di [[Norbert Wiener]], la teoria generale dei sistemi di [[Ludwig von Bertalanffy]], la teoria dell'informazione di [[Claude Shannon]], e le prime ricerche in intelligenza artificiale al Carnegie Institute of Technology. Simon cercava principi comuni che attraversassero queste discipline.
+Il contesto intellettuale include: la cibernetica di [[Wiener]], la teoria generale dei sistemi di [[Bertalanffy]], la teoria dell'informazione di [[Shannon]], e le prime ricerche in intelligenza artificiale al Carnegie Institute of Technology. Simon cercava principi comuni che attraversassero queste discipline.
 
-Il saggio risponde implicitamente anche alle speculazioni di [[H. Jacobson]] sulla improbabilità termodinamica dell'evoluzione biologica, mostrando come la gerarchia risolva il paradosso temporale.
+Il saggio risponde implicitamente anche alle speculazioni di [[Jacobson]] sulla improbabilità termodinamica dell'evoluzione biologica, mostrando come la gerarchia risolva il paradosso temporale.
 
 #### Philosophical Lineage
 
@@ -80,11 +80,11 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Herbert Simon]] | 1916-2001 | [[Scienze Cognitive]] | *The Architecture of Complexity* | Gerarchia, near decomposability |
-| [[Norbert Wiener]] | 1894-1964 | [[Cibernetica]] | *Cybernetics* | Feedback, controllo |
-| [[Ludwig von Bertalanffy]] | 1901-1972 | [[Teoria dei Sistemi]] | *General System Theory* | Sistemi aperti, equifinalità |
-| [[Claude Shannon]] | 1916-2001 | [[Teoria dell'Informazione]] | *Mathematical Theory of Communication* | Entropia, informazione |
-| [[Charles Darwin]] | 1809-1882 | [[Biologia Evolutiva]] | *Origin of Species* | Selezione naturale |
+| [[Simon]] | 1916-2001 | [[Scienze Cognitive]] | *The Architecture of Complexity* | Gerarchia, near decomposability |
+| [[Wiener]] | 1894-1964 | [[Cibernetica]] | *Cybernetics* | Feedback, controllo |
+| [[Bertalanffy]] | 1901-1972 | [[Teoria dei Sistemi]] | *General System Theory* | Sistemi aperti, equifinalità |
+| [[Shannon]] | 1916-2001 | [[Teoria dell'Informazione]] | *Mathematical Theory of Communication* | Entropia, informazione |
+| [[Darwin]] | 1809-1882 | [[Biologia Evolutiva]] | *Origin of Species* | Selezione naturale |
 
 #### Key Concepts
 
@@ -110,7 +110,7 @@ flowchart TD
 #### Influences & Connections
 
 - **Predecessors:** [[Simon]] ← influenzato da ← [[Wiener]] (cibernetica), [[Shannon]] (informazione), [[Darwin]] (evoluzione)
-- **Contemporaries:** [[Simon]] ↔ dialogo con ↔ [[Allen Newell]] (IA), [[James March]] (organizzazioni)
+- **Contemporaries:** [[Simon]] ↔ dialogo con ↔ [[Newell]] (IA), [[March]] (organizzazioni)
 - **Followers:** [[Simon]] → influenza → [[Scienze della Complessità]], [[Santa Fe Institute]], [[Design Science]]
 - **Opposing views:** [[Simon]] ← critica implicita a ← [[Jacobson]] (improbabilità evoluzione), riduzionismo ingenuo
 
@@ -140,3 +140,7 @@ flowchart TD
 > "In a nearly decomposable system, the short-run behavior of each of the component subsystems is approximately independent of the short-run behavior of the other components." — [[Simon]]
 
 > "If there are important systems in the world that are complex without being hierarchic, they may to a considerable extent escape our observation and our understanding." — [[Simon]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

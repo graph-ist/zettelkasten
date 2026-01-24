@@ -159,5 +159,5 @@ flowchart TD
 > "That kings should philosophize or philosophers become kings is not to be expected; nor indeed to be wished, for the possession of power inevitably corrupts the free judgment of reason." — [[Kant]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

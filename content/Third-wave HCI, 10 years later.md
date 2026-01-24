@@ -21,7 +21,7 @@ aliases:
   - pit research
   - collaborative design
   - hci waves
-  - ubicomp
+  - ubicomp hci
   - social computing
 reference:
   - Bødker, S. (2015). Third-wave HCI, 10 years later—Participation and sharing. Interactions, 22(5), 24–31. https://doi.org/10.1145/2804405
@@ -71,7 +71,7 @@ flowchart TD
 | [[Bødker]] | 1954- | [[HCI]], [[Participatory Design]] | "When Second Wave HCI Meets Third Wave Challenges" | HCI waves, artifact ecology |
 | [[Robinson]] | - | [[CSCW]] | "Common Artifact" paper | Common artifact concept |
 | [[Star]] | 1954-2010 | [[CSCW]], [[STS]] | "Steps Toward an Ecology of Infrastructure" | Infrastructuring |
-| [[McCarthy and Wright]] | - | [[HCI]] | *Technology as Experience* | Experience-centered design |
+| [[McCarthy]], [[Wright]] | - | [[HCI]] | *Technology as Experience* | Experience-centered design |
 | [[Bannon]] | - | [[HCI]] | "From Human Factors to Human Actors" | Second-wave transition |
 
 #### Key Concepts
@@ -96,7 +96,7 @@ flowchart TD
 #### Influences & Connections
 
 - **Predecessors:** [[Bødker]] ← influenced by ← [[Bannon]], [[Star]], [[Robinson]], Scandinavian PD tradition
-- **Contemporaries:** [[Bødker]] ↔ dialogue with ↔ [[McCarthy and Wright]], ubicomp researchers
+- **Contemporaries:** [[Bødker]] ↔ dialogue with ↔ [[McCarthy]], [[Wright]], ubicomp researchers
 - **Research projects:** Ekkomaten, Ink, Local Area Artwork → exemplify → common artifact design
 - **Fourth wave anticipation:** [[Bødker]] 2015 → points toward → values and politics in HCI
 
@@ -114,7 +114,7 @@ flowchart TD
 | 1991 | [[Bannon]] publishes "From Human Factors to Human Actors" |
 | 1992 | [[Robinson]] introduces common artifact concept |
 | 1996 | [[Star]] and Ruhleder publish "Steps Toward an Ecology of Infrastructure" |
-| 2004 | [[McCarthy and Wright]] publish *Technology as Experience* |
+| 2004 | [[McCarthy]], [[Wright]] publish *Technology as Experience* |
 | 2006 | [[Bødker]] delivers NordiCHI keynote on HCI waves |
 | 2012 | [[Bødker]] and Klokmose develop artifact ecology framework |
 | 2015 | [[Bødker]] revisits third-wave HCI in *Interactions* article |
@@ -126,3 +126,7 @@ flowchart TD
 > "Artifact ecologies, more than actual sharing of artifacts, help us focus on multitudes of artifacts that users bring together when carrying out particular activities."
 
 > "Big, visible artifacts seem to invite people in and let them rather easily orient toward others, participate, and hence collaborate."
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

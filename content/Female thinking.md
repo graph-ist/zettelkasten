@@ -158,5 +158,5 @@ flowchart TD
 > "Man is only a recent invention, a figure not yet two centuries old, a simple fold in our knowledge, and he will disappear as soon as that knowledge has found a new form." — [[Foucault]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

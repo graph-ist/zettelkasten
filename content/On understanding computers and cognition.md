@@ -6,23 +6,23 @@ subclasses:
   - Phenomenology
   - Philosophy-of-Science
 related:
-  - "[[Martin Heidegger]]"
-  - "[[Hans-Georg Gadamer]]"
-  - "[[Ludwig Wittgenstein]]"
-  - "[[John Searle]]"
-  - "[[Lucy Suchman]]"
-  - "[[Thomas Kuhn]]"
+  - "[[Heidegger]]"
+  - "[[Gadamer]]"
+  - "[[Wittgenstein]]"
+  - "[[Searle]]"
+  - "[[Suchman]]"
+  - "[[Kuhn]]"
 aliases:
   - understanding computers
   - language action
   - committed speaking
-  - background of
-  - preunderstanding
+  - background understanding
+  - preunderstanding hermeneutics
   - breakdown theory
   - hermeneutic computer
   - the coordinator
-  - antirepresentationalism
-  - listening and
+  - antirepresentationalism cognition
+  - listening speaking
   - thrown background
   - design methodology
 reference:
@@ -45,31 +45,31 @@ Writing in 1987 as a response to reviews of their influential *Understanding Com
 
 ```mermaid
 flowchart TD
-    1[Martin Heidegger] -->|thrownness, readiness-to-hand| 2[Background of Pre-understanding]
-    3[Hans-Georg Gadamer] -->|hermeneutics, tradition| 2
-    4[Ludwig Wittgenstein] -->|language games, forms of life| 5[Critique of Representationalism]
-    6[John Searle] -->|speech acts, commitment| 7[Language/Action Perspective]
-    2 --> 8[Winograd & Flores]
-    5 --> 8
-    7 --> 8
-    9[Ethnomethodology] -->|situated action| 8
-    8 --> 10[The Coordinator System]
-    8 --> 11[Post-Cognitivist HCI]
-    12[Lucy Suchman] -->|plans and situated actions| 8
+    Heidegger --> |thrownness, readiness-to-hand| Background[Background of Pre-understanding]
+    Gadamer --> |hermeneutics, tradition| Background
+    Wittgenstein --> |language games, forms of life| CritiqueRep[Critique of Representationalism]
+    Searle --> |speech acts, commitment| LangAction[Language/Action Perspective]
+    Background --> WinogradFlores[Winograd & Flores]
+    CritiqueRep --> WinogradFlores
+    LangAction --> WinogradFlores
+    Ethnomethodology --> |situated action| WinogradFlores
+    WinogradFlores --> Coordinator[The Coordinator System]
+    WinogradFlores --> PostCognitivistHCI[Post-Cognitivist HCI]
+    Suchman --> |plans and situated actions| WinogradFlores
 
-    class 1,3,4,6,12 internal-link
+    class Heidegger,Gadamer,Wittgenstein,Searle,Suchman internal-link;
 ```
 
 #### Key Thinkers
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Martin Heidegger]] | 1889–1976 | Phenomenology | *Being and Time* | Thrownness, readiness-to-hand, breakdown |
+| [[Heidegger]] | 1889–1976 | Phenomenology | *Being and Time* | Thrownness, readiness-to-hand, breakdown |
 | [[Hans-Georg Gadamer]] | 1900–2002 | Hermeneutics | *Truth and Method* | Tradition, pre-understanding, fusion of horizons |
-| [[Ludwig Wittgenstein]] | 1889–1951 | Ordinary Language Philosophy | *Philosophical Investigations* | Language games, meaning as use |
-| [[John Searle]] | 1932–2025 | Speech Act Theory | *Speech Acts* | Illocutionary acts, commitment |
-| [[Lucy Suchman]] | 1951– | Ethnomethodology | *Plans and Situated Actions* | Situated action vs. planning |
-| [[Thomas Kuhn]] | 1922–1996 | Philosophy of Science | *The Structure of Scientific Revolutions* | Paradigm shifts, serious listening |
+| [[Wittgenstein]] | 1889–1951 | Ordinary Language Philosophy | *Philosophical Investigations* | Language games, meaning as use |
+| [[Searle]] | 1932–2025 | Speech Act Theory | *Speech Acts* | Illocutionary acts, commitment |
+| [[Suchman]] | 1951– | Ethnomethodology | *Plans and Situated Actions* | Situated action vs. planning |
+| [[Kuhn]] | 1922–1996 | Philosophy of Science | *The Structure of Scientific Revolutions* | Paradigm shifts, serious listening |
 
 #### Key Concepts
 
@@ -96,7 +96,7 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Draws from**: [[Martin Heidegger]] (thrownness, readiness-to-hand, breakdown), [[Hans-Georg Gadamer]] (hermeneutics, tradition), [[Ludwig Wittgenstein]] (language games), [[John Searle]] (speech acts), [[Lucy Suchman]] (situated action)
+- **Draws from**: [[Heidegger]] (thrownness, readiness-to-hand, breakdown), [[Hans-Georg Gadamer]] (hermeneutics, tradition), [[Wittgenstein]] (language games), [[Searle]] (speech acts), [[Suchman]] (situated action)
 - **Responds to**: Rationalistic tradition in AI, cognitivism, expert systems optimism, representationalism
 - **Influences**: Computer-Supported Cooperative Work (CSCW), third-wave HCI, post-cognitivist design, workflow systems
 - **Critique of**: Symbolic AI, knowledge representation, naive technological optimism, detached methodology
@@ -111,20 +111,24 @@ flowchart TD
 
 #### Timeline
 
-- **1958**: [[Ludwig Wittgenstein]]'s *Philosophical Investigations* published (posthumously, English edition)
+- **1958**: [[Wittgenstein]]'s *Philosophical Investigations* published (posthumously, English edition)
 - **1960**: [[Hans-Georg Gadamer]] publishes *Truth and Method*
-- **1969**: [[John Searle]] publishes *Speech Acts*
+- **1969**: [[Searle]] publishes *Speech Acts*
 - **1972**: Terry Winograd publishes *Understanding Natural Language* (early AI work)
 - **1976**: Joseph Weizenbaum publishes *Computer Power and Human Reason*
 - **1986**: Winograd & Flores publish *Understanding Computers and Cognition*
-- **1986**: [[Lucy Suchman]] publishes *Plans and Situated Actions*
+- **1986**: [[Suchman]] publishes *Plans and Situated Actions*
 - **1987**: Winograd & Flores publish this response to reviewers
 - **1986–1990s**: The Coordinator deployed as commercial workflow system
 
 #### Notable Quotes
 
-> "Language does not convey information. It evokes an understanding, or 'listening,' which is an interaction between what was said and the preunderstanding already present in the listener." — [[Terry Winograd]] & [[Fernando Flores]]
+> "Language does not convey information. It evokes an understanding, or 'listening,' which is an interaction between what was said and the preunderstanding already present in the listener." — [[Winograd]] & [[Flores]]
 
-> "We participate in a tradition and it changes through our participation. But we do not choose it or design it. It would be foolish to ignore the power of this particular tradition because it cannot be precisely defined." — [[Terry Winograd]] & [[Fernando Flores]]
+> "We participate in a tradition and it changes through our participation. But we do not choose it or design it. It would be foolish to ignore the power of this particular tradition because it cannot be precisely defined." — [[Winograd]] & [[Flores]]
 
-> "This book is anti-illusion, not anti-technology." — William Clancey (quoted approvingly by [[Terry Winograd]] & [[Fernando Flores]])
+> "This book is anti-illusion, not anti-technology." — William Clancey (quoted approvingly by [[Winograd]] & [[Flores]])
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

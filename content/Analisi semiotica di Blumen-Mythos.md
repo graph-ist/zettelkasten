@@ -8,20 +8,20 @@ subclasses:
 related:
   - "[[Semiotics]]"
   - "[[Visual Semiotics]]"
-  - "[[Paul Klee]]"
-  - "[[A.J. Greimas]]"
+  - "[[Klee]]"
+  - "[[Greimas]]"
   - "[[Gestalt Psychology]]"
   - "[[Figurative Painting]]"
 aliases:
-  - thrlemann 1982
+  - thurlemann 1982
   - blumenmythos analysis
   - visual semiotics
   - plastic categories
   - chromatic categories
   - eidetic categories
   - semiotic painting
-  - figurative vs
-  - codes connectors
+  - figurative plastic
+  - connector codes
   - myth structure
 reference:
   - "Thùrlemann, F. (1991). Paul Klee: Analisi semiotica di Blumen-Mythos—1918. 106–134."
@@ -69,11 +69,11 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[A.J. Greimas]] | 1917-1992 | [[Paris School Semiotics]] | *Sémiotique. Dictionnaire* | Figure, isotopy, semiotic square |
-| [[Louis Hjelmslev]] | 1899-1965 | [[Glossematics]] | *Prolegomena to a Theory of Language* | Expression/content planes |
-| [[Claude Lévi-Strauss]] | 1908-2009 | [[Structural Anthropology]] | *Mythologiques* | Myth as mediation structure |
-| [[Erwin Panofsky]] | 1892-1968 | [[Iconology]] | *Studies in Iconology* | Pre-iconographic level |
-| [[Paul Klee]] | 1879-1940 | [[Bauhaus]] | *Blumen-Mythos* | Pictorial poetry |
+| [[Greimas]] | 1917-1992 | [[Paris School Semiotics]] | *Sémiotique. Dictionnaire* | Figure, isotopy, semiotic square |
+| [[Hjelmslev]] | 1899-1965 | [[Glossematics]] | *Prolegomena to a Theory of Language* | Expression/content planes |
+| [[Lévi-Strauss]] | 1908-2009 | [[Structural Anthropology]] | *Mythologiques* | Myth as mediation structure |
+| [[Panofsky]] | 1892-1968 | [[Iconology]] | *Studies in Iconology* | Pre-iconographic level |
+| [[Klee]] | 1879-1940 | [[Bauhaus]] | *Blumen-Mythos* | Pictorial poetry |
 
 #### Key Concepts
 
@@ -101,19 +101,19 @@ flowchart TD
 #### Influences & Connections
 
 #### Predecessors
-- **[[Ferdinand de Saussure]]**: Sign = signifier + signified; langue vs parole distinction
-- **[[Louis Hjelmslev]]**: Expression plane / content plane; form / substance distinction
-- **[[Erwin Panofsky]]**: Three levels of iconographic analysis; pre-iconographic = plastic
+- **[[Saussure]]**: Sign = signifier + signified; langue vs parole distinction
+- **[[Hjelmslev]]**: Expression plane / content plane; form / substance distinction
+- **[[Panofsky]]**: Three levels of iconographic analysis; pre-iconographic = plastic
 
 #### Contemporaries
-- **[[A.J. Greimas]]**: Narrative semiotics, semiotic square, isotopy
-- **[[Roland Barthes]]**: "Rhetoric of the image," anchorage function of text
-- **[[Michel Foucault]]**: "Ceci n'est pas une pipe" — image/text paradox
+- **[[Greimas]]**: Narrative semiotics, semiotic square, isotopy
+- **[[Barthes]]**: "Rhetoric of the image," anchorage function of text
+- **[[Foucault]]**: "Ceci n'est pas une pipe" — image/text paradox
 
 #### Successors
 - **[[Groupe µ]]**: *Traité du signe visuel* — systematic visual rhetoric
-- **[[Jean-Marie Floch]]**: Applied visual semiotics to advertising and design
-- **[[Jacques Fontanille]]**: Tensivity and semiotics of perception
+- **[[Floch]]**: Applied visual semiotics to advertising and design
+- **[[Fontanille]]**: Tensivity and semiotics of perception
 
 #### Summary Formulas
 
@@ -134,11 +134,11 @@ flowchart TD
 
 | Year | Event |
 |------|-------|
-| 1918 | [[Paul Klee]] creates *Blumen-Mythos* watercolor |
+| 1918 | [[Klee]] creates *Blumen-Mythos* watercolor |
 | 1943 | [[Hjelmslev]] publishes *Prolegomena to a Theory of Language* |
-| 1964 | [[Roland Barthes]] publishes "Rhetoric of the Image" |
+| 1964 | [[Barthes]] publishes "Rhetoric of the Image" |
 | 1966 | [[Greimas]] publishes *Sémantique structurale* |
-| 1968 | [[Michel Foucault]] publishes "Ceci n'est pas une pipe" |
+| 1968 | [[Foucault]] publishes "Ceci n'est pas une pipe" |
 | 1970 | [[Greimas]] publishes *Du sens* |
 | 1979 | [[Greimas]] & Courtés publish *Sémiotique. Dictionnaire* |
 | 1982 | [[Thürlemann]] publishes *Paul Klee. Analyse sémiotique de trois peintures* |
@@ -146,8 +146,12 @@ flowchart TD
 
 #### Notable Quotes
 
-> "La pittura figurativa, manipolando dei mezzi propriamente pittorici, può giungere a mettere in relazione campi del mondo che la logica comune manterrebbe distinti." — [[Felix Thürlemann]]
+> "La pittura figurativa, manipolando dei mezzi propriamente pittorici, può giungere a mettere in relazione campi del mondo che la logica comune manterrebbe distinti." — [[Thürlemann]]
 
-> "La pittura, nello spazio di alcuni decimetri quadrati, è capace di dare l'illusione di un mondo nuovo, di un mondo dove tutte le contraddizioni appaiono come risolte." — [[Felix Thürlemann]]
+> "La pittura, nello spazio di alcuni decimetri quadrati, è capace di dare l'illusione di un mondo nuovo, di un mondo dove tutte le contraddizioni appaiono come risolte." — [[Thürlemann]]
 
-> "Un quadro è una cosa molto complessa, costituita da un insieme di elementi che occorre prima denominare, per sottometterli in seguito ad una gerarchia, al tempo stesso, sensibile e razionale." — [[André Lhote]], cited by Thürlemann
+> "Un quadro è una cosa molto complessa, costituita da un insieme di elementi che occorre prima denominare, per sottometterli in seguito ad una gerarchia, al tempo stesso, sensibile e razionale." — [[Lhote]], cited by Thürlemann
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

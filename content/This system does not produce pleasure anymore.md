@@ -11,19 +11,19 @@ related:
   - "[[Proletarianization]]"
   - "[[Pharmakon]]"
   - "[[Technical Exteriorization]]"
-  - "[[Bernard Stiegler]]"
+  - "[[Stiegler]]"
   - "[[Cognitive Capitalism]]"
 aliases:
   - stiegler interview
-  - proletarianization
+  - proletarianization knowledge
   - pharmakon technology
   - technical exteriorization
   - cognitive capitalism
-  - psychopower
+  - psychopower control
   - economy contribution
   - libidinal economy
-  - mnemotechnologies
-  - deproletarianization
+  - mnemotechnologies memory
+  - deproletarianization process
 reference:
   - "Lemmens, P. (2011). “This system does not produce pleasure anymore” an interview with Bernard Stiegler. Krisis: Journal for Contemporary Philosophy, 1, 33–37."
 ---
@@ -126,3 +126,7 @@ flowchart TD
 > "The human is technics. Humanity cannot even be understood without technics." — [[Stiegler]]
 
 > "This system does not produce pleasure anymore." — [[Stiegler]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

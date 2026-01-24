@@ -13,9 +13,10 @@ related:
   - "[[Participatory Design]]"
   - "[[Critical Design]]"
   - "[[Political Design]]"
+  - "[[Third-wave HCI, 10 years later]]"
 aliases:
   - fourth wave
-  - manifesto
+  - hci manifesto
   - hci activism
   - design politics
   - chi conference
@@ -42,7 +43,7 @@ The thesis extends [[Bødker]]'s wave framework: if the first wave focused on hu
 
 The paper emerges from a rich history of manifesto-writing in design and art, from the Futurist Manifesto (1909) to contemporary critical design manifestos. Within HCI specifically, the wave metaphor introduced by [[Bødker]] (2006, 2015) provides the organizing framework, charting HCI's evolution from cognitive engineering to situated action to experience design.
 
-The early 2000s saw critical design practices by [[Dunne and Raby]] challenging design's complicity with consumer capitalism. Simultaneously, participatory design traditions emphasized democratic engagement in technology development. The authors position their work at the confluence of these traditions, responding to [[Bardzell and Bardzell]]'s call for critical approaches in HCI.
+The early 2000s saw critical design practices by [[Dunne]], [[Raby]] challenging design's complicity with consumer capitalism. Simultaneously, participatory design traditions emphasized democratic engagement in technology development. The authors position their work at the confluence of these traditions, responding to [[Bardzell]]'s call for critical approaches in HCI.
 
 The CHI conference itself becomes a site of intervention—a major international gathering where the HCI community's values and priorities are negotiated and performed. The 2019 conference theme provided an opportunity to test whether playful, manifesto-generating activities could catalyze fourth-wave discourse.
 
@@ -69,7 +70,7 @@ flowchart TD
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
 | [[Bødker]] | 1954- | [[HCI]] | "When Second Wave HCI Meets Third Wave Challenges" | Waves of HCI |
-| [[Dunne and Raby]] | 1960s- | [[Critical Design]] | *Speculative Everything* | Design noir, critical design |
+| [[Dunne]], [[Raby]] | 1960s- | [[Critical Design]] | *Speculative Everything* | Design noir, critical design |
 | [[Bardzell]] | - | [[Critical HCI]] | "What is Critical About Critical Design?" | Criticality in HCI |
 | [[Latour]] | 1947-2022 | [[Science Studies]] | "A Cautious Prometheus?" | Design as politics |
 | [[Tonkinwise]] | - | [[Design Theory]] | Various essays | Design futures |
@@ -86,7 +87,7 @@ flowchart TD
 
 #### Authors Comparison
 
-| Theme | [[Bødker]] | [[Dunne and Raby]] | [[Bardzell]] |
+| Theme | [[Bødker]] | [[Dunne]], [[Raby]] | [[Bardzell]] |
 |-------|------------|-------------------|--------------|
 | Central concern | Evolution of HCI paradigms | Challenging design's status quo | Criticality in interaction design |
 | Method | Theoretical analysis | Speculative artifacts | Philosophical critique |
@@ -95,7 +96,7 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Predecessors:** [[Ashby et al.]] ← influenced by ← [[Bødker]], [[Dunne and Raby]], [[Bardzell]]
+- **Predecessors:** [[Ashby et al.]] ← influenced by ← [[Bødker]], [[Dunne]], [[Raby]], [[Bardzell]]
 - **Contemporaries:** [[Ashby et al.]] ↔ dialogue with ↔ CHI community, [[Critical Design]] practitioners
 - **Related movements:** [[Participatory Design]] ↔ resonates with ↔ [[Fourth-wave HCI]]
 - **Opposing views:** Traditional HCI ← challenged by ← [[Fourth-wave HCI]]
@@ -111,9 +112,9 @@ flowchart TD
 | Year | Event |
 |------|-------|
 | 1909 | Futurist Manifesto establishes manifesto as artistic/political form |
-| 2001 | [[Dunne and Raby]] publish *Design Noir* |
+| 2001 | [[Dunne]], [[Raby]] publish *Design Noir* |
 | 2006 | [[Bødker]] introduces wave metaphor at NordiCHI |
-| 2013 | [[Bardzell and Bardzell]] publish "What is Critical About Critical Design?" |
+| 2013 | [[Bardzell]] publish "What is Critical About Critical Design?" |
 | 2015 | [[Bødker]] revisits third-wave HCI, anticipates fourth wave |
 | 2019 | Ashby et al. deploy MANIFESTO! card game at CHI'19 |
 
@@ -124,3 +125,7 @@ flowchart TD
 > "The manifesto is not merely a text but a performative act—a doing that seeks to change the world it describes."
 
 > "Playfulness and politics are not opposites; the card game format opened space for genuine discourse that more formal formats might have foreclosed."
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

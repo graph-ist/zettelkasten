@@ -40,26 +40,26 @@ The thesis draws on [[Dewey]]'s claim that aesthetic experience engages "the ent
 
 #### Historical Context
 
-The paper engages with contemporary debates in analytic aesthetics, particularly the positions developed by [[Peter Kivy]] and [[Noël Carroll]]. Both defend versions of the narrow view that emphasize formal properties while excluding or downplaying cognitive and moral dimensions of aesthetic experience.
+The paper engages with contemporary debates in analytic aesthetics, particularly the positions developed by [[Kivy]] and [[Carroll]]. Both defend versions of the narrow view that emphasize formal properties while excluding or downplaying cognitive and moral dimensions of aesthetic experience.
 
 [[Goldman]] traces the concept of aesthetic experience through its historical development: from [[Baumgarten]]'s founding of aesthetics as a discipline, through [[Kant]]'s analysis of beauty and the engagement of cognitive faculties, to [[Dewey]]'s pragmatist account of experience as engaging the whole person, and [[Beardsley]]'s influential analysis of aesthetic experience as unified, pleasurable attention to form and qualities.
 
-The formalist tradition, represented by [[Clive Bell]]'s concept of "significant form," provides the historical roots of the narrow view. [[Goldman]] challenges the claim that formalism represents the dominant philosophical tradition, pointing to the broader tradition running through [[Dewey]] and [[Beardsley]].
+The formalist tradition, represented by [[Bell]]'s concept of "significant form," provides the historical roots of the narrow view. [[Goldman]] challenges the claim that formalism represents the dominant philosophical tradition, pointing to the broader tradition running through [[Dewey]] and [[Beardsley]].
 
 #### Philosophical Lineage
 
 ```mermaid
 flowchart TD
-    Baumgarten[Baumgarten] --> Aesthetics[Aesthetics as Discipline]
-    Kant[Kant] --> AestheticJudgment[Aesthetic Judgment]
+    Baumgarten --> Aesthetics[Aesthetics as Discipline]
+    Kant --> AestheticJudgment[Aesthetic Judgment]
     AestheticJudgment --> FormalistTradition[Formalist Tradition]
-    Bell[Clive Bell] --> FormalistTradition
+    Bell --> FormalistTradition
     FormalistTradition --> NarrowView[Narrow View]
-    Kivy[Kivy] --> NarrowView
-    Carroll[Carroll] --> NarrowView
-    Dewey[Dewey] --> BroadTradition[Broad Tradition]
-    Beardsley[Beardsley] --> BroadTradition
-    BroadTradition --> Goldman[Goldman]
+    Kivy --> NarrowView
+    Carroll --> NarrowView
+    Dewey --> BroadTradition[Broad Tradition]
+    Beardsley --> BroadTradition
+    BroadTradition --> Goldman
     NarrowView --> Goldman
 
     class Baumgarten,Aesthetics,Kant,AestheticJudgment,FormalistTradition,Bell,NarrowView,Kivy,Carroll,Dewey,BroadTradition,Beardsley,Goldman internal-link;
@@ -73,7 +73,7 @@ flowchart TD
 | [[Carroll]] | 1947- | [[Analytic Aesthetics]] | Various essays | Aesthetic experience, horror |
 | [[Dewey]] | 1859-1952 | [[Pragmatism]] | *Art as Experience* | Engaged whole creature |
 | [[Beardsley]] | 1915-1985 | [[Analytic Aesthetics]] | *Aesthetics* | Unified aesthetic experience |
-| [[Clive Bell]] | 1881-1964 | [[Formalism]] | *Art* | Significant form |
+| [[Bell]] | 1881-1964 | [[Formalism]] | *Art* | Significant form |
 | [[Kant]] | 1724-1804 | [[German Idealism]] | *Critique of Judgment* | Disinterested pleasure |
 
 #### Key Concepts
@@ -116,7 +116,7 @@ flowchart TD
 |------|-------|
 | 1750 | [[Baumgarten]] founds aesthetics as discipline |
 | 1790 | [[Kant]] publishes *Critique of Judgment* |
-| 1914 | [[Clive Bell]] publishes *Art*, articulating formalism |
+| 1914 | [[Bell]] publishes *Art*, articulating formalism |
 | 1934 | [[Dewey]] publishes *Art as Experience* |
 | 1958 | [[Beardsley]] publishes *Aesthetics* |
 | 2011 | [[Kivy]] publishes *Once Told Tales* |
@@ -130,3 +130,7 @@ flowchart TD
 > "The simultaneous and harmonious interaction and engagement of all these mental capacities is matched on the objective side by the interaction of formal, expressive, and representational aspects of the works appreciated."
 
 > "Anyone who has seen and heard the closing scene of Richard Wagner's Götterdämmerung, has read the final chapter of Herman Melville's Moby Dick, or stared up at the ceiling of the Sistine Chapel must recognize how impoverished the narrow account of such paradigm aesthetic experiences is."
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

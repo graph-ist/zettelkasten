@@ -156,5 +156,5 @@ flowchart TD
 > "In the beginning was the Word, and the Word was with God, and the Word was God... All things were made through Him, and without Him nothing was made that has been made." — Gospel of [[John]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

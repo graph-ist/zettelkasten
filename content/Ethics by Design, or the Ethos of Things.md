@@ -6,7 +6,7 @@ subclasses:
   - Aesthetics
   - Philosophy-of-Science
 related:
-  - "[[Martin Heidegger]]"
+  - "[[Heidegger]]"
   - "[[Design Philosophy]]"
   - "[[Sustainability]]"
   - "[[Product Service Systems]]"
@@ -14,13 +14,13 @@ related:
   - "[[Techne]]"
 aliases:
   - tonkinwise 2004
-  - is design
+  - design finished
   - dematerialisation design
-  - heidegger on
+  - heidegger thingliness
   - thingliness design
-  - mathematics of
+  - mathematics things
   - entelecheia design
-  - phusis vs
+  - phusis techne
   - disposable durables
   - product life
 reference:
@@ -57,27 +57,27 @@ Key intellectual sources:
 
 ```mermaid
 flowchart TD
-    Aristotle[Aristotle] -->|Phusis, entelecheia| Heidegger[Martin Heidegger]
-    Heidegger -->|Thingliness, technē| Tonkinwise[Cameron Tonkinwise]
-    Heidegger -->|Question Concerning Technology| Tonkinwise
-    Flusser[Vilém Flusser] -->|Design and temporality| Tonkinwise
-    Arendt[Hannah Arendt] -->|Homo faber, durability| Tonkinwise
-    Manzini[Ezio Manzini] -->|Sustainability, PSS| Tonkinwise
-    Shove[Elizabeth Shove] -->|Practice theory| Tonkinwise
-    Tonkinwise -->|Imperfect design| SustainableDesign[Sustainable Design]
+    Aristotle --> |Phusis, entelecheia| Heidegger
+    Heidegger --> |Thingliness, technē| Tonkinwise
+    Heidegger --> |Question Concerning Technology| Tonkinwise
+    Flusser --> |Design and temporality| Tonkinwise
+    Arendt --> |Homo faber, durability| Tonkinwise
+    Manzini --> |Sustainability, PSS| Tonkinwise
+    Shove --> |Practice theory| Tonkinwise
+    Tonkinwise --> |Imperfect design| SustainableDesign[Sustainable Design]
 
-    class Heidegger,Tonkinwise internal-link;
+    class Aristotle,Heidegger,Tonkinwise,Flusser,Arendt,Manzini,Shove internal-link;
 ```
 
 #### Key Thinkers
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Martin Heidegger]] | 1889-1976 | [[Phenomenology]] | *The Question Concerning the Thing* | Mathēmata, phusis vs technē, entelecheia |
-| [[Hannah Arendt]] | 1906-1975 | [[Political Philosophy]] | *The Human Condition* | Homo faber, durability, work vs labor |
-| [[Vilém Flusser]] | 1920-1991 | [[Media Philosophy]] | *The Shape of Things* | Design as obstacle, temporality |
-| [[Ezio Manzini]] | 1945- | [[Design for Sustainability]] | *Prometheus of the Everyday* | Dematerialization paradox, PSS |
-| [[Abraham Moles]] | 1920-1992 | [[Information Theory]] | *The Comprehensive Guarantee* | Maintenance mentality |
+| [[Heidegger]] | 1889-1976 | [[Phenomenology]] | *The Question Concerning the Thing* | Mathēmata, phusis vs technē, entelecheia |
+| [[Arendt]] | 1906-1975 | [[Political Philosophy]] | *The Human Condition* | Homo faber, durability, work vs labor |
+| [[Flusser]] | 1920-1991 | [[Media Philosophy]] | *The Shape of Things* | Design as obstacle, temporality |
+| [[Manzini]] | 1945- | [[Design for Sustainability]] | *Prometheus of the Everyday* | Dematerialization paradox, PSS |
+| [[Moles]] | 1920-1992 | [[Information Theory]] | *The Comprehensive Guarantee* | Maintenance mentality |
 
 #### Key Concepts
 
@@ -105,13 +105,13 @@ flowchart TD
 
 #### Predecessors
 - **[[Aristotle]]**: Phusis as movedness, entelecheia, distinction from technē
-- **[[Martin Heidegger]]**: Thingliness, mathematics of things, critique of technology
-- **[[Hannah Arendt]]**: Homo faber, work vs labor, durability of human artifice
+- **[[Heidegger]]**: Thingliness, mathematics of things, critique of technology
+- **[[Arendt]]**: Homo faber, work vs labor, durability of human artifice
 
 #### Contemporaries
-- **[[Ezio Manzini]]**: Sustainability, dematerialization paradox
-- **[[Elizabeth Shove]]**: Practice theory, comfort/cleanliness/convenience
-- **[[Walter Stahel]]**: Product-life extension, utilization-focused service economy
+- **[[Manzini]]**: Sustainability, dematerialization paradox
+- **[[Shove]]**: Practice theory, comfort/cleanliness/convenience
+- **[[Stahel]]**: Product-life extension, utilization-focused service economy
 
 #### Successors
 - **[[Sustainable Design]]**: Product-service systems, circular economy
@@ -138,18 +138,22 @@ flowchart TD
 | 1935-6 | Heidegger delivers lectures on *The Question Concerning the Thing* |
 | 1939 | Heidegger's essay on Aristotle's *Physics* B1 (phusis, entelecheia) |
 | 1954 | Heidegger publishes "The Question Concerning Technology" |
-| 1958 | [[Hannah Arendt]] publishes *The Human Condition* |
-| 1961 | [[Vance Packard]] publishes *The Waste Makers* (planned obsolescence) |
-| 1985 | [[Abraham Moles]] proposes "The Comprehensive Guarantee" |
-| 1995 | [[Ezio Manzini]] publishes "Prometheus of the Everyday" |
-| 1999 | [[Vilém Flusser]]'s *The Shape of Things* published in English |
-| 2003 | [[Elizabeth Shove]] publishes *Comfort, Cleanliness and Convenience* |
-| 2004 | [[Cameron Tonkinwise]] publishes "Is Design Finished?" |
+| 1958 | [[Arendt]] publishes *The Human Condition* |
+| 1961 | [[Packard]] publishes *The Waste Makers* (planned obsolescence) |
+| 1985 | [[Moles]] proposes "The Comprehensive Guarantee" |
+| 1995 | [[Manzini]] publishes "Prometheus of the Everyday" |
+| 1999 | [[Flusser]]'s *The Shape of Things* published in English |
+| 2003 | [[Shove]] publishes *Comfort, Cleanliness and Convenience* |
+| 2004 | [[Tonkinwise]] publishes "Is Design Finished?" |
 
 #### Notable Quotes
 
-> "Consumerism emerges as a fundamental inability to sustain things. It is a refusal to acknowledge that artificial things remain natural to the extent that they are within time, aging." — [[Cameron Tonkinwise]]
+> "Consumerism emerges as a fundamental inability to sustain things. It is a refusal to acknowledge that artificial things remain natural to the extent that they are within time, aging." — [[Tonkinwise]]
 
-> "Design timely things, things that can last longer by being able to change over time. Design things that are not finished, things that can keep on by keeping on being repaired and altered, things in motion." — [[Cameron Tonkinwise]]
+> "Design timely things, things that can last longer by being able to change over time. Design things that are not finished, things that can keep on by keeping on being repaired and altered, things in motion." — [[Tonkinwise]]
 
-> "The more involved we are with the immaterial, the more material things accumulate as junk about us." — [[Ezio Manzini]], paraphrased by Tonkinwise
+> "The more involved we are with the immaterial, the more material things accumulate as junk about us." — [[Manzini]], paraphrased by Tonkinwise
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

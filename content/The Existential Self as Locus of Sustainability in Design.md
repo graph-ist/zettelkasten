@@ -16,10 +16,10 @@ related:
 aliases:
   - existential self
   - sartre design
-  - sustainability
+  - sustainability design
   - design education
   - fundamental project
-  - being for
+  - being other
   - radical conversion
   - design studio
   - existential project
@@ -46,19 +46,19 @@ The paper emerges from growing concerns about environmental sustainability and d
 
 [[Sartre]]'s existentialism, developed primarily in the 1940s-1950s, provides the philosophical framework. His concepts of radical freedom, absolute responsibility, and the fundamental project offer resources for understanding how individuals can transform their fundamental orientations toward the world.
 
-The work of [[Tony Fry]] and [[Anne-Marie Willis]] on "ontological designing" provides important context, arguing that design shapes not just artifacts but the being of designers and users. D'Anjou extends this through explicit engagement with Sartrean ontology, proposing that design education must address the ontological level of the student's existence.
+The work of [[Fry]] and [[Willis]] on "ontological designing" provides important context, arguing that design shapes not just artifacts but the being of designers and users. D'Anjou extends this through explicit engagement with Sartrean ontology, proposing that design education must address the ontological level of the student's existence.
 
 #### Philosophical Lineage
 
 ```mermaid
 flowchart TD
-    Husserl[Husserl] --> Phenomenology[Phenomenology]
-    Phenomenology --> Sartre[Sartre]
-    Heidegger[Heidegger] --> Sartre
+    Husserl --> Phenomenology[Phenomenology]
+    Phenomenology --> Sartre
+    Heidegger --> Sartre
     Sartre --> BeingNothingness[Being and Nothingness]
-    BeingNothingness --> DAnjou[D'Anjou]
-    Fry[Tony Fry] --> OntologicalDesign[Ontological Design]
-    Willis[Anne-Marie Willis] --> OntologicalDesign
+    BeingNothingness --> DAnjou
+    Fry --> OntologicalDesign[Ontological Design]
+    Willis --> OntologicalDesign
     OntologicalDesign --> DAnjou
     Schon[Schön] --> ReflectivePractice[Reflective Practice]
     ReflectivePractice --> DAnjou
@@ -71,8 +71,8 @@ flowchart TD
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
 | [[Sartre]] | 1905-1980 | [[Existentialism]] | *Being and Nothingness* | Existence precedes essence, radical freedom |
-| [[Tony Fry]] | - | [[Design Theory]] | *A New Design Philosophy* | Defuturing, sustainment |
-| [[Anne-Marie Willis]] | - | [[Design Theory]] | "Ontological Designing" | Ontological design |
+| [[Fry]] | - | [[Design Theory]] | *A New Design Philosophy* | Defuturing, sustainment |
+| [[Willis]] | - | [[Design Theory]] | "Ontological Designing" | Ontological design |
 | [[Schön]] | 1930-1997 | [[Education Theory]] | *The Reflective Practitioner* | Reflection in action |
 | [[Heidegger]] | 1889-1976 | [[Phenomenology]] | *Being and Time* | Being-in-the-world |
 
@@ -85,11 +85,11 @@ flowchart TD
 | Fundamental project | The basic orientation one has chosen toward existence; structures all subsidiary projects | [[Sartre]], [[Existentialism]] |
 | Radical conversion | Transformation of one's fundamental project; shift from pre-reflective to reflective mode | [[Sartre]], [[Ethics]] |
 | Existential project | Any project through which individuals define themselves through choices and actions | [[Sartre]], [[Agency]] |
-| Sustainment | Environments designed with the ability to sustain that which needs to be sustained | [[Tony Fry]], [[Sustainability]] |
+| Sustainment | Environments designed with the ability to sustain that which needs to be sustained | [[Fry]], [[Sustainability]] |
 
 #### Authors Comparison
 
-| Theme | [[Sartre]] | [[Tony Fry]] | [[D'Anjou]] |
+| Theme | [[Sartre]] | [[Fry]] | [[D'Anjou]] |
 |-------|-----------|--------------|-------------|
 | Central concern | Human freedom and responsibility | Design and defuturing | Existential foundation of sustainability |
 | Approach | Phenomenological ontology | Critical design theory | Applied existentialism |
@@ -98,7 +98,7 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Predecessors:** [[D'Anjou]] ← influenced by ← [[Sartre]], [[Tony Fry]], [[Anne-Marie Willis]], [[Schön]]
+- **Predecessors:** [[D'Anjou]] ← influenced by ← [[Sartre]], [[Fry]], [[Willis]], [[Schön]]
 - **Contemporaries:** [[D'Anjou]] ↔ dialogue with ↔ design education theorists, sustainability researchers
 - **Related movements:** [[Ontological Design]] ↔ resonates with ↔ existentialist design theory
 - **Pedagogical context:** Design studio → site of → existential transformation
@@ -117,8 +117,8 @@ flowchart TD
 | 1943 | [[Sartre]] publishes *Being and Nothingness* |
 | 1946 | [[Sartre]] delivers "Existentialism is a Humanism" |
 | 1983 | [[Schön]] publishes *The Reflective Practitioner* |
-| 1999 | [[Tony Fry]] publishes *A New Design Philosophy* |
-| 2006 | [[Anne-Marie Willis]] publishes "Ontological Designing" |
+| 1999 | [[Fry]] publishes *A New Design Philosophy* |
+| 2006 | [[Willis]] publishes "Ontological Designing" |
 | 2007 | [[D'Anjou]] publishes "The Existential Self as Locus of Sustainability in Design" |
 
 #### Notable Quotes
@@ -128,3 +128,7 @@ flowchart TD
 > "The designer is to be considered as a conscious self that defines the self and his/her being-in-the-world through the design project and the act of design, and not as a problem-solving agent aiming only at the making of artefacts."
 
 > "It is thus in the dialectical situation that takes place between the project of defining the self (the existential project) and the design project, that sustainability in these terms might be approached."
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

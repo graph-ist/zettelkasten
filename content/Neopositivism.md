@@ -170,5 +170,5 @@ flowchart TD
 > "We cannot verify the law, but we can test it by testing its particular instances. If in a continued series of such testing experiments no negative instance is found, but the number of positive instances increases, then our confidence in the law increases step by step. Thus, instead of verification, we may speak of the gradually increasing confirmation of the law." — [[Carnap]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

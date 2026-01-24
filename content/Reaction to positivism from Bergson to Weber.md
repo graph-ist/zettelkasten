@@ -188,5 +188,5 @@ flowchart TD
 > "The vital impulse of which we speak consists, in essence, of an exigency for creation. It cannot create absolutely, because it encounters matter before it — that is, the movement contrary to its own; but it seizes this matter and tends to introduce into it the greatest possible sum of indetermination and freedom." — [[Bergson]]
 
 ---
-> [!NOTE]
-> *This summary has been created to present the key points from the source text, which was automatically extracted using LLM. Please note that the summary may contain errors. It serves as an essential starting point for study and reference purposes.*
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

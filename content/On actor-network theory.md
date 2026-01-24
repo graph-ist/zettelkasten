@@ -158,3 +158,7 @@ flowchart TD
 > "Literally there is nothing but networks, there is nothing in between them, or, to use a metaphor from the history of physics, there is no aether in which networks should be immersed." — [[Latour]]
 
 > "Actor-networks do connect, and by connecting with one another provide an explanation of themselves, the only one there is for ANT." — [[Latour]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.

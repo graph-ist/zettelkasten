@@ -53,9 +53,9 @@ Key implications:
 
 #### Historical Context
 
-The article appeared in 1980, responding to the optimism of classical AI research, particularly work on natural language understanding by [[Roger Schank]] and others. Programs like SAM and PAM could answer questions about stories, leading researchers to claim these systems "understood" the stories.
+The article appeared in 1980, responding to the optimism of classical AI research, particularly work on natural language understanding by [[Schank]] and others. Programs like SAM and PAM could answer questions about stories, leading researchers to claim these systems "understood" the stories.
 
-The computational theory of mind, developed by [[Hilary Putnam]], [[Jerry Fodor]], and others, treated mental processes as formal operations on syntactic structures — the mind as software running on the brain's hardware. This view seemed to receive empirical support from AI successes.
+The computational theory of mind, developed by [[Putnam]], [[Fodor]], and others, treated mental processes as formal operations on syntactic structures — the mind as software running on the brain's hardware. This view seemed to receive empirical support from AI successes.
 
 [[Searle]] challenged this orthodoxy by distinguishing simulation from duplication. A computer simulation of a storm doesn't get us wet; a simulation of digestion doesn't digest anything. Why should a simulation of understanding actually understand? The target article provoked 27 peer commentaries from leading philosophers and AI researchers, making it one of the most debated papers in philosophy of mind.
 
@@ -81,12 +81,12 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[John Searle]] | 1932-2022 | [[Philosophy of Mind]] | *Minds, Brains, and Programs* | Chinese Room, intrinsic intentionality |
-| [[Alan Turing]] | 1912-1954 | [[Computer Science]] | *Computing Machinery and Intelligence* | Turing Test, machine intelligence |
-| [[Jerry Fodor]] | 1935-2017 | [[Functionalism]] | *The Language of Thought* | Computational theory of mind |
-| [[Daniel Dennett]] | 1942-2024 | [[Functionalism]] | *Brainstorms* | Intentional stance |
-| [[Roger Schank]] | 1946- | [[Artificial Intelligence]] | *Scripts, Plans, Goals* | Story understanding programs |
-| [[Hilary Putnam]] | 1926-2016 | [[Functionalism]] | *Mind, Language and Reality* | Machine functionalism |
+| [[Searle]] | 1932-2022 | [[Philosophy of Mind]] | *Minds, Brains, and Programs* | Chinese Room, intrinsic intentionality |
+| [[Turing]] | 1912-1954 | [[Computer Science]] | *Computing Machinery and Intelligence* | Turing Test, machine intelligence |
+| [[Fodor]] | 1935-2017 | [[Functionalism]] | *The Language of Thought* | Computational theory of mind |
+| [[Dennett]] | 1942-2024 | [[Functionalism]] | *Brainstorms* | Intentional stance |
+| [[Schank]] | 1946- | [[Artificial Intelligence]] | *Scripts, Plans, Goals* | Story understanding programs |
+| [[Putnam]] | 1926-2016 | [[Functionalism]] | *Mind, Language and Reality* | Machine functionalism |
 
 #### Key Concepts
 
@@ -114,9 +114,9 @@ flowchart TD
 
 #### Influences & Connections
 
-- **Predecessors:** [[Searle]] ← influenced by ← [[Franz Brentano]] (intentionality), [[Edmund Husserl]] (phenomenology), [[Ludwig Wittgenstein]] (meaning as use)
-- **Contemporaries:** [[Searle]] ↔ debate with ↔ [[Dennett]], [[Fodor]], [[Putnam]], [[Douglas Hofstadter]]
-- **Followers:** [[Searle]] → influenced → [[Hubert Dreyfus]], embodied cognition movement, situated AI critique
+- **Predecessors:** [[Searle]] ← influenced by ← [[Brentano]] (intentionality), [[Husserl]] (phenomenology), [[Wittgenstein]] (meaning as use)
+- **Contemporaries:** [[Searle]] ↔ debate with ↔ [[Dennett]], [[Fodor]], [[Putnam]], [[Hofstadter]]
+- **Followers:** [[Searle]] → influenced → [[Dreyfus]], embodied cognition movement, situated AI critique
 - **Opposing views:** [[Searle]] ← criticized by ← [[Dennett]] (intuitions unreliable), [[Hofstadter]] (misunderstands computation)
 
 #### Summary Formulas
@@ -145,3 +145,7 @@ flowchart TD
 > "Instantiating a program could not be constitutive of intentionality, because it would be possible for an agent to instantiate the program and still not have the right kind of intentionality." — [[Searle]]
 
 > "Mental states are as real as any other biological phenomena. They are both caused by and realized in the brain." — [[Searle]]
+
+---
+> [!warning]-
+> This annotation was normalised using a large language model and may contain inaccuracies. These texts serve as preliminary study resources rather than exhaustive references.
