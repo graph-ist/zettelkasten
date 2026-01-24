@@ -116,9 +116,17 @@ export const SankeyData: QuartzEmitterPlugin = () => {
         linksMap.get(link1Key)!.value++
       }
 
+      // Apply log scaling with minimum value for better visual balance
+      // This compresses large differences while keeping small blocks visible/clickable
+      const MIN_VALUE = 5 // Minimum visual size (bigger minimum)
+      const scaledLinks = Array.from(linksMap.values()).map(link => ({
+        ...link,
+        value: Math.max(MIN_VALUE, Math.log2(link.value + 1) * 5)
+      }))
+
       const data: SankeyData = {
         nodes: Array.from(nodesMap.values()),
-        links: Array.from(linksMap.values()),
+        links: scaledLinks,
         noteMapping,
         subclassNotes,
       }

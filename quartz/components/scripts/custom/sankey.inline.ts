@@ -143,7 +143,7 @@ async function renderSankey() {
     // Create sankey generator
     const sankeyGenerator = d3Sankey.sankey()
       .nodeWidth(15)
-      .nodePadding(currentView === "drilldown" ? 4 : 8)
+      .nodePadding(currentView === "drilldown" ? 6 : 16)
       .extent([
         [0, 0],
         [innerWidth, innerHeight],

@@ -75,15 +75,32 @@ button.toc-header h3,
   }
 }
 
+// Hide reader mode button on tablet/mobile
+@media (max-width: 800px) {
+  .readermode {
+    display: none;
+  }
+}
+
 // Mobile typography - 10% smaller font and line-height
 @media (max-width: 600px) {
-  p, li, td, th, a, .dataview-backlinks a {
+  p, li, td, th, .dataview-backlinks a {
     font-size: 0.95rem !important;
     line-height: 1.6rem !important;
   }
   
-  // Hide "Home" text on mobile
+  // Exclude page-title from small font
+  a:not(.page-title a) {
+    font-size: 0.95rem !important;
+    line-height: 1.6rem !important;
+  }
+  
+  // Show Home button on mobile with same size as desktop
   .page-title {
-    display: none;
+    display: block;
+    
+    a {
+      font-size: 1.75rem !important;
+    }
   }
 }

@@ -57,7 +57,7 @@ export const defaultContentPageLayout: PageLayout = {
   afterBody: [
     Component.VirtualLinker(),
     Component.ConditionalRender({
-      component: Component.SankeyDiagram({ height: 450 }),
+      component: Component.SankeyDiagram({ height: 550 }),
       condition: (page) => page.fileData.slug === "index",
     }),
     // Component.ConditionalRender({
