@@ -3,130 +3,146 @@ cssclasses:
   - Philosophy
   - Arts
 subclasses:
-  - Philosophy-of-Science
-  - Aesthetics
   - Design-Theory
+  - Ethics
 related:
-  - "[[Philosophy of Technology]]"
   - "[[Material Culture]]"
+  - "[[Technology]]"
   - "[[Engagement]]"
-  - "[[Focal Things]]"
   - "[[Design Ethics]]"
+  - "[[Urban Design]]"
+  - "[[Heidegger]]"
 aliases:
   - depth design
-  - engagement things
-  - disburdenment design
   - material culture
-  - borgmann design
-  - focal things
+  - design engagement
+  - user disburdenment
   - aesthetic design
   - engineering design
-  - urban design
-  - domestic design
+  - focal things
+  - design trusteeship
+  - festive engagement
+  - daily engagement
 reference:
-  - "Borgmann, A. (2007). The depth of design. In R. Buchanan & V. Margolin (Eds.), Discovering design: Explorations in design studies. University of Chicago Press."
+  - "Buchanan, R., & Margolin, V. (Eds.). (2007). Discovering design: explorations in design studies (7. Aufl). University of Chicago Press. (pp.13-22)"
 ---
 
 #### Central Problem
 
-The paper confronts a fundamental tension in contemporary material culture: the systematic drift toward shallowness, superficiality, and disappearance of meaningful engagement with designed objects. [[Borgmann]] addresses how technological development tends toward "disburdenment"—relieving users from demands of skill and attention—while simultaneously attenuating the depth and richness of designed objects. The central question becomes: how can design recover depth and promote genuine human engagement rather than passive consumption?
+[[Borgmann]] addresses a fundamental crisis in design: the tendency of material culture toward "attenuation, superficiality, and even disappearance." As technology advances, design risks becoming shallow—reduced to surface aesthetics while engineering takes over the substantive shaping of our environment.
+
+The core tension lies between two trajectories: on one hand, technological development drives toward user "disburdenment"—eliminating the need for engagement, skill, and attention. Sound systems shrink to opaque handheld devices; gas stations ideally become invisible automatic mechanisms. On the other hand, this trajectory severs design from meaningful human engagement with the material world.
+
+The problem is compounded by a split within design practice itself. Design has divided into an engineering branch (devising underlying structures that disburden users) and an aesthetic branch (confined to "smoothing interfaces and stylizing surfaces"). Neither branch alone addresses what [[Borgmann]] sees as design's proper concern: the moral and cultural excellence of our material surroundings.
+
+The question becomes: How can design recover depth—fusing engineering and aesthetics to create material settings that "provoke and reward engagement" rather than merely disburdening users from meaningful interaction with reality?
 
 #### Main Thesis
 
-Design must recover its "depth"—the fusion of aesthetic and engineering dimensions that once characterized meaningful artifacts—in order to promote human engagement rather than mere disburdenment. [[Borgmann]] argues that the split between aesthetic design (relegated to surfaces and interfaces) and engineering design (controlling underlying structures) has impoverished both practices and diminished human experience of the material world.
+[[Borgmann]] argues that design should be understood as "the excellence of material objects" and that designers, as professionals entrusted with this precious social good, must recover the "depth of design"—a practice that fuses engineering and aesthetics to foster human engagement rather than mere consumption.
 
-The thesis distinguishes between two fundamental orientations: engagement (where humans develop skills and relationships through interaction with demanding artifacts) and disburdenment (where technology relieves humans of effort while reducing artifacts to opaque, commodified surfaces). Genuine design requires reuniting what technology has split apart, creating artifacts that invite participation rather than consumption.
+**Design as Professional Trusteeship:** Like doctors with health and lawyers with justice, designers are entrusted with a valued social good: the moral and cultural excellence of the material environment. They must be accountable not only to immediate client desires but to the well-being of this good itself.
 
-The argument extends to urban design, where the distinction between daily engagement (housework, errands) and festive engagement (communal celebration) provides a framework for understanding how designed environments can support meaningful human activity.
+**Engagement as the Criterion:** "Engagement" designates the symmetry linking humanity and reality—the profound realization of the commensuration between human capacities and worldly things. A musical instrument engages deeply; a television program typically does not. Design should make material culture "conducive to engagement."
+
+**The Decline of Engagement:** Technology tends toward "disburdenment"—eliminating exertion, skill, and attention. This leaves us with "opaque and glamorous commodities" enjoyed in passive consumption. As engagement declines, aesthetic design becomes superficial, divorced from the powerful shaping of material culture.
+
+**Selective and Focal Practice:** Since full domestic engagement is neither possible nor desirable today, designers must help people engage "selectively and focally"—choosing which practices merit deep engagement (cooking, for instance) while using technology to disburden less meaningful activities.
+
+**Two Settings, Two Modes:** Engagement has two principal settings (city and home) and two modes (daily and festive). Daily engagement includes housework and urban errands; festive engagement includes the culture of the table, communal celebrations, concerts, and games. Design must serve both.
+
+**Depth Through Disclosure:** Things with depth have "wealth of experiential properties" and "disclosing power." A cooking pot discloses the texture, color, and taste of food through its handling. Technological devices, by contrast, tend to insulate users from the world, representing it rather than allowing it to be present.
 
 #### Historical Context
 
-The paper emerges from [[Borgmann]]'s broader philosophy of technology, developed in works like *Technology and the Character of Contemporary Life* (1984). His concept of "focal things and practices" provides the background for understanding how certain artifacts and activities center human existence while technological devices tend to disperse attention and undermine engagement.
+The text emerges from the 1991 "Discovering Design" conference at the University of Illinois at Chicago, a gathering that brought together philosophers, designers, and theorists to examine design's foundations.
 
-The mid-20th century saw increasing separation between industrial engineering and aesthetic styling, epitomized in the rise of industrial design as surface treatment for mass-produced goods. Concurrently, urban renewal projects destroyed historic urban fabric in favor of modernist planning, eliminating the "depth of history" in cities.
+[[Borgmann]] writes against the backdrop of late twentieth-century technological society and its material abundance. The postwar period had seen unprecedented expansion of consumer goods and technological devices, accompanied by growing concerns about alienation, consumerism, and the loss of authentic human experience.
 
-By the 2000s, the postmodern turn in architecture had prompted preservation movements and historicist design, but [[Borgmann]] argues these often remain superficial—history becomes "an essentially indifferent container" for contemporary consumption rather than a genuine recovery of engaged dwelling.
+The text engages with postmodernism in architecture—the movement that arose in the late 1960s to preserve historic urban areas and revive classical and vernacular vocabularies. [[Borgmann]] critiques postmodernism's limitations: while preservation projects like Faneuil Hall and Pike Place drew people back to inner cities, the activity remained essentially consumption—"the background is history, but the foreground is late twentieth-century retailing."
+
+[[Borgmann]]'s thinking draws on his earlier work on the "device paradigm" (developed in *Technology and the Character of Contemporary Life*, 1984), which distinguished between "things" that engage us bodily and socially, and "devices" that deliver commodities while concealing their machinery.
+
+The reference to [[Jane Jacobs]]'s critique of urban renewal (*The Death and Life of Great American Cities*, 1961) situates the text within ongoing debates about modernist planning and its failures.
 
 #### Philosophical Lineage
 
 ```mermaid
 flowchart TD
-    Aristotle --> VirtueEthics[Virtue Ethics]
-    VirtueEthics --> Borgmann
     Heidegger --> Borgmann
-    Heidegger --> FocalThings[Focal Things]
-    FocalThings --> Borgmann
-    Jacobs --> UrbanismCritique[Urbanism Critique]
-    UrbanismCritique --> Borgmann
-    Corbusier --> Modernism[Modernist Planning]
-    Modernism --> UrbanRenewal[Urban Renewal]
-    UrbanRenewal --> Borgmann
+    Aristotle --> Borgmann
+    Jacobs --> Borgmann
+    Semper --> Borgmann
+    Le-Corbusier --> Howard
+    Howard --> Urban-Renewal
+    Jacobs --> Postmodernism
+    Borgmann --> Design-Ethics
 
-    class Aristotle,VirtueEthics,Borgmann,Heidegger,FocalThings,Jacobs,UrbanismCritique,Corbusier,Modernism,UrbanRenewal internal-link;
+    class Heidegger,Borgmann,Aristotle,Jacobs,Semper,Le-Corbusier,Howard,Urban-Renewal,Postmodernism,Design-Ethics internal-link;
 ```
 
 #### Key Thinkers
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Borgmann]] | 1937- | [[Philosophy of Technology]] | *Technology and the Character of Contemporary Life* | Focal things, device paradigm |
-| [[Heidegger]] | 1889-1976 | [[Phenomenology]] | "The Question Concerning Technology" | Enframing, dwelling |
-| [[Jacobs]] | 1916-2006 | [[Urban Theory]] | *Death and Life of Great American Cities* | Urban vitality |
-| [[Corbusier]] | 1887-1965 | [[Modernism]] | *Towards a New Architecture* | Radiant city |
-| [[Howard]] | 1850-1928 | [[Urban Planning]] | *Garden Cities of To-Morrow* | Garden city |
+| [[Borgmann]] | 1937- | [[Philosophy of Technology]] | *Technology and the Character of Contemporary Life* | Device paradigm, focal things |
+| [[Jacobs]] | 1916-2006 | [[Urban Theory]] | *The Death and Life of Great American Cities* | Critique of urban renewal |
+| [[Le Corbusier]] | 1887-1965 | [[Modernism]] | *Vers une architecture* | La ville radieuse |
+| [[Howard]] | 1850-1928 | [[Urban Planning]] | *Garden Cities of To-morrow* | Garden City movement |
+| [[Semper]] | 1803-1879 | [[Architectural Theory]] | *Style in the Technical and Tectonic Arts* | Material and technique |
 
 #### Key Concepts
 
 | Concept | Definition | Related to |
 |---------|------------|------------|
-| Depth of design | Fusion of aesthetic and engineering dimensions that invites skilled engagement | [[Borgmann]], [[Design Ethics]] |
-| Engagement | Symmetrical relationship between human capacities and worldly realities that develops skills and meaning | [[Borgmann]], [[Focal Things]] |
-| Disburdenment | Technological relief from demands of skill and attention that reduces artifacts to opaque commodities | [[Borgmann]], [[Device Paradigm]] |
-| Focal things | Objects and practices that center human existence and gather people around shared activities | [[Borgmann]], [[Heidegger]] |
-| Aesthetic design | Design concerned with surfaces, interfaces, and appearances (often separated from engineering) | [[Industrial Design]], [[Styling]] |
-| Engineering design | Design of underlying structures and mechanisms (often concealed from users) | [[Technology]], [[Function]] |
+| Depth of design | Design that fuses engineering and aesthetics to provide material settings provoking and rewarding engagement | [[Borgmann]], [[Design Theory]] |
+| Engagement | The symmetry linking humanity and reality; profound realization of commensuration between human capacities and worldly things | [[Borgmann]], [[Heidegger]] |
+| Disburdenment | Technology's tendency to eliminate exertion, skill, and attention, leaving users with opaque commodities | [[Borgmann]], [[Philosophy of Technology]] |
+| Focal things | Things that gather practices of engagement around them; things with depth and disclosing power | [[Borgmann]], [[Heidegger]] |
+| Trusteeship | Designer's professional responsibility to guard and advocate for the moral and cultural excellence of material culture | [[Borgmann]], [[Design Ethics]] |
+| Disclosing power | The capacity of things to reveal the wealth of the world through their handling and use | [[Borgmann]], [[Phenomenology]] |
 
 #### Authors Comparison
 
-| Theme | [[Borgmann]] | [[Heidegger]] | [[Jacobs]] |
-|-------|--------------|---------------|-----------------|
-| Central concern | Technology and engagement | Being and dwelling | Urban vitality |
-| Critique | Device paradigm, disburdenment | Enframing, technology | Urban renewal, planning |
-| Solution | Focal things and practices | Releasement, dwelling | Dense, mixed-use streets |
-| Method | Phenomenological analysis | Fundamental ontology | Empirical observation |
+| Theme | [[Borgmann]] | [[Jacobs]] | [[Le Corbusier]] |
+|-------|--------------|------------|------------------|
+| Central question | How can design foster engagement? | What makes cities vital? | How can cities be rational? |
+| View of modernism | Critique: destroys historical depth | Critique: destroys urban vitality | Advocacy: hygienic rationalism |
+| Design's role | Moral trusteeship for material culture | Emergent from use patterns | Technical problem-solving |
+| Technology | Ambivalent: enables disburdenment | Neutral: depends on scale | Enabling: serves efficiency |
+| Human flourishing | Through focal engagement | Through diverse street life | Through rational organization |
 
 #### Influences & Connections
 
-- **Predecessors:** [[Borgmann]] ← influenced by ← [[Heidegger]], [[Aristotle]], [[Jacobs]]
-- **Contemporaries:** [[Borgmann]] ↔ dialogue with ↔ philosophers of technology, design theorists
-- **Followers:** [[Borgmann]] → influenced → design ethics, sustainable design discussions
-- **Opposing views:** Technological optimism ← challenged by ← [[Borgmann]]'s critique
+- **Predecessors:** [[Borgmann]] ← influenced by ← [[Heidegger]] (thing vs. object), [[Aristotle]] (practical wisdom)
+- **Contemporaries:** [[Borgmann]] ↔ dialogue with ↔ [[Jacobs]], [[Buchanan]], design theorists
+- **Followers:** [[Borgmann]] → influenced → design ethics, philosophy of technology, sustainable design
+- **Opposing views:** [[Borgmann]] ← critiques ← modernist urbanism, technological optimism, consumerism
 
 #### Summary Formulas
 
-- **Engagement vs. disburdenment:** Design faces a choice—create artifacts that engage human capacities and develop skills, or create devices that disburden users while reducing experience to passive consumption.
-- **Depth recovered:** Genuine design reunites aesthetic and engineering dimensions, creating artifacts whose surfaces reveal rather than conceal their workings and purposes.
-- **Trusteeship and artisanship:** Designers are trustees of material culture's excellence and artisans who shape the "unfolded texture" of engaging environments.
-- **Daily and festive engagement:** Design must support both the substantial dailiness of life (housework, errands) and the communal celebrations that gather people together.
+- **[[Borgmann]]:** Design should be understood as the excellence of material objects; designers are trustees charged with fostering engagement rather than mere disburdenment.
+- **On engagement:** Engagement is the profound realization of the symmetry between human capacities and worldly things; it is what gives life depth rather than mere comfort.
+- **On technology:** Technology tends toward disburdenment, producing opaque and glamorous commodities that sever users from meaningful engagement with reality.
+- **On depth:** Design has depth when it creates things with wealth of experiential properties and disclosing power—things that allow the world to be present in its own right.
 
 #### Timeline
 
 | Year | Event |
 |------|-------|
-| 1898 | [[Howard]] proposes garden city concept |
-| 1925 | [[Corbusier]] proposes Plan Voisin for Paris |
-| 1961 | [[Jacobs]] publishes *Death and Life of Great American Cities* |
+| 1961 | [[Jacobs]] publishes *The Death and Life of Great American Cities* |
 | 1984 | [[Borgmann]] publishes *Technology and the Character of Contemporary Life* |
-| 1992 | Camden Yards Ballpark opens, exemplifying depth in urban design |
-| 2007 | [[Borgmann]] publishes "The Depth of Design" |
+| 1991 | "Discovering Design" conference at University of Illinois at Chicago |
+| 1992 | Camden Yards Ballpark opens in Baltimore |
+| 1995 | [[Buchanan]] and [[Margolin]] publish *Discovering Design* anthology |
 
 #### Notable Quotes
 
-> "Design must recover its depth—the fusion of aesthetic and engineering dimensions that once characterized meaningful artifacts."
+> "Design in this objective sense is everyone's concern. So are health, justice, and education. And yet society especially entrusts the latter three concerns to particularly qualified people, to doctors, lawyers, and teachers. Similarly design can be thought of as a professional practice, and designers as professionals." — [[Borgmann]]
 
-> "Engagement is the symmetry that links humanity and reality. Human beings have certain capacities that prefigure the things of the world; and conversely what is out there in the world has called forth human sense and sensibility."
+> "Engagement is to designate the profound realization of the humanity-reality commensuration. A musical instrument normally engages a person deeply; a television program typically fails to do so." — [[Borgmann]]
 
-> "Designers are professionals in that they have been entrusted by society with a valued good and are hence accountable not only to the immediate desires of society but also for the well-being of the good that is in their care."
+> "Aesthetic design becomes shallow, not because it is aesthetic, but because it has become superficial. It has been divorced from the powerful shaping of the material culture." — [[Borgmann]]
 
 ---
 > [!warning]-

@@ -4,59 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9be082a777f26366",
+        "id": "c85f91d1f6dd73cb",
         "type": "tabs",
         "children": [
           {
-            "id": "2256e948b77df84b",
+            "id": "0981b1172debfe3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Responsibility towards others in neo-Jewish thought.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Responsibility towards others in neo-Jewish thought"
-            }
-          },
-          {
-            "id": "1b216c865af00de3",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Responsibility towards others in neo-Jewish thought.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.121740818240901,
-                  "close": true
-                }
-              },
+              "type": "graph",
+              "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph of Responsibility towards others in neo-Jewish thought"
+              "title": "Graph view"
             }
           }
         ],
@@ -185,8 +143,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "2256e948b77df84b",
+  "active": "0981b1172debfe3d",
   "lastOpenFiles": [
+    "DesignX.md",
+    "Responsibility towards others in neo-Jewish thought.md",
+    "The depth of design.md",
     "Hobbes.md",
     "Fourth-Wave HCI Meets the 21st Century Manifesto.md",
     "Hegel.md",
@@ -198,7 +159,6 @@
     "Third-wave HCI, 10 years later.md",
     "When second wave HCI meets third wave challenges.md",
     "The Architecture of Complexity.md",
-    "DesignX.md",
     "Locke.md",
     "On actor-network theory.md",
     "Schelling.md",
@@ -209,10 +169,8 @@
     "The textility of making.md",
     "The matter of design.md",
     "The Existential Self as Locus of Sustainability in Design.md",
-    "The depth of design.md",
     "The Broad View of Aesthetic Experience.md",
     "The Aesthetics of Hartmann and Bense.md",
-    "Technical Mentality.md",
     "New Folder With Items",
     "Appendix/Rudimenti di etica per il design (Visual).canvas",
     "Senza nome.canvas",
