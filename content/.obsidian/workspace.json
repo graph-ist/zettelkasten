@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c85f91d1f6dd73cb",
+        "id": "cf153b3ca21a5940",
         "type": "tabs",
         "children": [
           {
-            "id": "0981b1172debfe3d",
+            "id": "e38f61e20288cf01",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Scaling (2005-2015).md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Scaling (2005-2015)"
             }
           }
         ],
@@ -143,7 +148,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0981b1172debfe3d",
+  "active": "e38f61e20288cf01",
   "lastOpenFiles": [
     "DesignX.md",
     "Responsibility towards others in neo-Jewish thought.md",
