@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf153b3ca21a5940",
+        "id": "eb003bd0ab648599",
         "type": "tabs",
         "children": [
           {
-            "id": "e38f61e20288cf01",
+            "id": "eb08f91461eb814d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy as Conceptual Design.md",
+                "file": "Scaling (2005-2015) (6 of 7).md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Philosophy as Conceptual Design"
+              "title": "Scaling (2005-2015) (6 of 7)"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Floridi, L. (2019).",
+                "query": "Grudin, J. (2017)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,31 +97,31 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Responsibility towards others in neo-Jewish thought.md",
+                "file": "Defense of modernity, Habermas and Apel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Responsibility towards others in neo-Jewish thought"
+              "title": "Outgoing links from Defense of modernity, Habermas and Apel"
             }
           },
           {
-            "id": "3cea35eb0f419054",
+            "id": "2c2c760faa1f5f9b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Husserl.md",
+                "file": "Defense of modernity, Habermas and Apel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Husserl"
+              "title": "Outline of Defense of modernity, Habermas and Apel"
             }
           },
           {
-            "id": "9890117c107cf1ed",
+            "id": "73846b098ca8e219",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 350.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,34 +150,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "e38f61e20288cf01",
+  "active": "eb08f91461eb814d",
   "lastOpenFiles": [
+    "Managing Vacuum Tubes & Transistors, New Vistas (1945–1965) (1 of 7).md",
+    "Internet Era Arrives and Survives a Bubble (1995–2005) (5 of 7).md",
+    "HCI Prior to Personal Computing (1965–1980) (2 of 7).md",
+    "Graphical User Interfaces Succeed (1985–1995) (4 of 7).md",
+    "Discretionary Use Comes into Focus (1980–1985) (3 of 7).md",
+    "Cultures and Bridges & A New Era (7 of 7).md",
+    "Aquinas.md",
+    "Augustine.md",
+    "Scaling (2005-2015) (6 of 7).md",
+    "Philosophy as Conceptual Design (1 of 9).md",
+    "Perception and Testimony as Data Providers (3 of 9).md",
+    "Maker’s Knowledge, between A Priori and A Posteriori (8 of 9).md",
+    "Logical Fallacies as Bayesian Informational Shortcuts (7 of 9).md",
+    "Logic of Design as a Conceptual Logic of Information (9 of 9).md",
+    "Informational Scepticism and the Logically Possible (5 of 9).md",
+    "Information Quality (4 of 9).md",
+    "Constructionism as Non-naturalism (2 of 9).md",
+    "A Defence of Information Closure (6 of 9).md",
+    "Defense of modernity, Habermas and Apel.md",
+    "A cautious prometheus.md",
     "The Logic of Design as a Conceptual Logic of Information.md",
     "Philosophy as Conceptual Design.md",
     "Perception and Testimony as Data Providers.md",
     "Maker’s Knowledge, between A Priori and A Posteriori.md",
     "Logical Fallacies as Bayesian Informational Shortcuts.md",
     "Information Quality.md",
-    "Constructionism as Non-naturalism.md",
-    "A Defence of Information Closure.md",
-    "Centi e griglie negli edifici & Inoltre.md",
-    "Scaling (2005-2015).md",
-    "DesignX.md",
-    "Responsibility towards others in neo-Jewish thought.md",
-    "The depth of design.md",
-    "Hobbes.md",
-    "Fourth-Wave HCI Meets the 21st Century Manifesto.md",
-    "Hegel.md",
-    "Popper.md",
-    "Newton.md",
-    "Plato.md",
-    "Analisi semiotica di Blumen-Mythos.md",
-    "Revisiting Herbert Simon's Science of Design.md",
-    "Third-wave HCI, 10 years later.md",
-    "When second wave HCI meets third wave challenges.md",
-    "The Architecture of Complexity.md",
-    "Locke.md",
-    "On actor-network theory.md",
     "New Folder With Items",
     "Appendix/Rudimenti di etica per il design (Visual).canvas",
     "Senza nome.canvas",

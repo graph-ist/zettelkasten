@@ -30,7 +30,7 @@ aliases:
 reference:
   - "Floridi, L. (2019). The logic of information: A theory of philosophy as conceptual design (First edition). Oxford University Press. (pp. 53-68)"
 ---
-2
+
 #### Central Problem
 
 This chapter confronts a "strange predicament" in contemporary science: while science maintains a methodological commitment to naturalistic explanation (all natural phenomena explained solely by reference to other natural phenomena), it simultaneously depends on increasingly artificial Information and Communication Technologies that "denaturalize" the world. The search for ultimate explanations of the natural relies upon and promotes the development of the artificial—the non-natural. How can naturalism, understood as methodological closure of explanation within the natural, reconcile with the profoundly technological and constructed character of scientific knowledge?
