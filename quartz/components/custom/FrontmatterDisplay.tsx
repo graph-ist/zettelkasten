@@ -46,16 +46,28 @@ export default ((userOpts?: FrontmatterDisplayOptions) => {
       if (value.match(/^https?:\/\//)) {
         return { text: value, slug: null, isUrl: true }
       }
+      
+      // Helper to convert text to Quartz-compatible slug
+      // Must match Quartz's sluggify() in util/path.ts
+      const toSlug = (text: string): string => {
+        return text
+          .toLowerCase()
+          .replace(/\s/g, "-")             // Spaces → dashes
+          .replace(/&/g, "-and-")          // & → -and- (Quartz convention)
+          .replace(/%/g, "-percent")       // % → -percent
+          .replace(/\?/g, "")              // Remove ?
+          .replace(/#/g, "")               // Remove #
+      }
+      
       // Check if it's a wikilink [[Something]]
       const wikiMatch = value.match(/\[\[([^\]]+)\]\]/)
       if (wikiMatch) {
         const text = wikiMatch[1]
-        // Convert to slug: replace spaces with dashes, lowercase
-        const slug = text.toLowerCase().replace(/\s+/g, "-")
+        const slug = toSlug(text)
         return { text, slug, isUrl: false }
       }
       // Plain text - also make it linkable
-      const slug = value.toLowerCase().replace(/\s+/g, "-")
+      const slug = toSlug(value)
       return { text: value, slug, isUrl: false }
     }
 
@@ -147,29 +159,41 @@ export default ((userOpts?: FrontmatterDisplayOptions) => {
                       )
                     }
                     
-                    // Multiple matches - show like Virtual Linker: "text (a, b, c)"
+                    // Multiple matches - first match is the main link, rest in parentheses
                     const alphabet = 'abcdefghijklmnopqrstuvwxyz'
+                    const firstFile = externalFiles[0]
+                    const restFiles = externalFiles.slice(1)
+                    const firstHref = resolveRelative(fileData.slug!, simplifySlug(firstFile.slug!))
+                    const firstTitle = firstFile.frontmatter?.title || firstFile.slug
+                    
                     return (
                       <>
                         <span class="frontmatter-value-multi" key={i}>
-                          {text}{" "}
-                          <span class="frontmatter-multi-links">
-                            (
-                            {externalFiles.map((targetFile, j) => {
-                              const href = resolveRelative(fileData.slug!, simplifySlug(targetFile.slug!))
-                              const label = alphabet[j] || String(j + 1)
-                              const title = targetFile.frontmatter?.title || targetFile.slug
-                              return (
-                                <>
-                                  {j > 0 && ", "}
-                                  <a href={href} class="frontmatter-value internal" title={title}>
-                                    {label}
-                                  </a>
-                                </>
-                              )
-                            })}
-                            )
-                          </span>
+                          <a href={firstHref} class="frontmatter-value internal" title={firstTitle}>
+                            {text}
+                          </a>
+                          {restFiles.length > 0 && (
+                            <>
+                              {" "}
+                              <span class="frontmatter-multi-links">
+                                (
+                                {restFiles.map((targetFile, j) => {
+                                  const href = resolveRelative(fileData.slug!, simplifySlug(targetFile.slug!))
+                                  const label = alphabet[j] || String(j + 1)
+                                  const title = targetFile.frontmatter?.title || targetFile.slug
+                                  return (
+                                    <>
+                                      {j > 0 && ", "}
+                                      <a href={href} class="frontmatter-value internal" title={title}>
+                                        {label}
+                                      </a>
+                                    </>
+                                  )
+                                })}
+                                )
+                              </span>
+                            </>
+                          )}
                         </span>
                         {separator}
                       </>
