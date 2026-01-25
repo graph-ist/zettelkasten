@@ -7,11 +7,15 @@ subclasses:
   - Philosophy-of-Science
   - Information-Retrieval
 related:
-  - "[[Floridi]]"
-  - "[[Plato]]"
-  - "[[Big Data]]"
-  - "[[Information Quality]]"
-  - "[[Philosophy of Information]]"
+  - "[[Philosophy as Conceptual Design (1 of 9)]]"
+  - "[[Constructionism as Non-naturalism (2 of 9)]]"
+  - "[[Perception and Testimony as Data Providers (3 of 9)]]"
+  - "[[Information Quality (4 of 9)]]"
+  - "[[Informational Scepticism and the Logically Possible (5 of 9)]]"
+  - "[[A Defence of Information Closure (6 of 9)]]"
+  - "[[Logical Fallacies as Bayesian Informational Shortcuts (7 of 9)]]"
+  - "[[Maker’s Knowledge, between A Priori and A Posteriori (8 of 9)]]"
+  - "[[Logic of Design as a Conceptual Logic of Information (9 of 9)]]"
 aliases:
   - big data
   - small patterns
@@ -69,7 +73,7 @@ flowchart TD
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
 | [[Plato]] | 428-348 BCE | [[Ancient Philosophy]] | *Cratylus* | Knowing = knowing how to ask and answer questions |
-| [[Wang]] | contemporary | [[Information Quality]] | Data Quality (1998) | IQ dimensions and categories |
+| [[Wang]] | contemporary | [[Information Quality (4 of 9)]] | Data Quality (1998) | IQ dimensions and categories |
 | [[Batini]] | contemporary | [[Data Management]] | *Data Quality* (2006) | IQ taxonomies, fit-for-purpose |
 | [[Borges]] | 1899-1986 | [[Literature]] | *The Analytical Language of John Wilkins* | Arbitrary taxonomies |
 | [[Bacon]] | 1561-1626 | [[Empiricism]] | *Novum Organum* | Open marketplace of ideas |
@@ -80,13 +84,13 @@ flowchart TD
 |---------|------------|------------|
 | Small patterns | Subtle and meaningful patterns hidden in big data, invisible without epistemological analysis | [[Big Data]], [[Epistemology]] |
 | Zettabyte flood | The era characterized by data accumulation in the zettabyte order | [[Floridi]], [[Information Society]] |
-| Fit-for-purpose | Standard conception of IQ as adequacy to purpose | [[Information Quality]], [[Pragmatism]] |
+| Fit-for-purpose | Standard conception of IQ as adequacy to purpose | [[Information Quality (4 of 9)]], [[Pragmatism]] |
 | P–purpose | Purpose for which information is originally produced (Production) | [[Floridi]], [[IQ]] |
 | C–purpose | Purpose(s) for which information is consumed/reused (Consumption) | [[Floridi]], [[IQ]] |
 | Purpose-depth | How well information serves the specific original purpose | [[Floridi]], [[IQ]] |
 | Purpose-scope | How easily information can be re-used for new purposes | [[Floridi]], [[IQ]] |
 | Bi-categorical approach | IQ analysis method distinguishing P–purpose and C–purpose | [[Floridi]], [[Methodology]] |
-| IQ dimensions | Information properties: accuracy, completeness, timeliness, accessibility, etc. | [[Information Quality]], [[Data Science]] |
+| IQ dimensions | Information properties: accuracy, completeness, timeliness, accessibility, etc. | [[Information Quality (4 of 9)]], [[Data Science]] |
 | Relationalism | Position that IQ is relative to purpose, neither absolute nor relativist | [[Floridi]], [[Epistemology]] |
 
 #### Authors Comparison

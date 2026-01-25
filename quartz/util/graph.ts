@@ -68,6 +68,40 @@ export function buildSlugToFileMap(
 }
 
 /**
+ * Build a map from slug/alias to ALL matching files (for handling duplicates)
+ */
+export function buildSlugToFilesMap(
+  allFiles: QuartzPluginData[],
+): Map<string, QuartzPluginData[]> {
+  const slugToFiles = new Map<string, QuartzPluginData[]>()
+
+  const addToMap = (key: string, file: QuartzPluginData) => {
+    const existing = slugToFiles.get(key) || []
+    // Avoid duplicates
+    if (!existing.some(f => f.slug === file.slug)) {
+      existing.push(file)
+      slugToFiles.set(key, existing)
+    }
+  }
+
+  for (const file of allFiles) {
+    const slug = simplifySlug(file.slug!).toLowerCase()
+    addToMap(slug, file)
+
+    // Also add aliases as valid lookup keys
+    const aliases = file.frontmatter?.aliases as string[] | undefined
+    if (aliases) {
+      for (const alias of aliases) {
+        const aliasSlug = alias.toLowerCase().replace(/\s+/g, "-")
+        addToMap(aliasSlug, file)
+      }
+    }
+  }
+
+  return slugToFiles
+}
+
+/**
  * Deterministic shuffle using a simple hash function.
  * Produces consistent ordering across builds.
  *

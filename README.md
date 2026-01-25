@@ -134,6 +134,37 @@ subclasses:
 
 ---
 
+## Frontmatter Display (Properties Panel)
+
+Displays YAML frontmatter as a collapsible "Properties" panel below the article title, similar to Obsidian's properties view.
+
+### Features
+
+- **Collapsible toggle**: Click to expand/collapse with animated chevron
+- **Multi-match support**: When a term matches multiple pages, shows `term (a, b, c)` format with letter links
+- **Self-reference detection**: Aliases pointing to the current page are shown in black (non-clickable)
+- **URL support**: External links (http/https) are clickable and open in new tab
+- **Separator**: Values separated by " · " (middle dot)
+
+### Fields Displayed
+
+| Field | Purpose |
+|-------|--------|
+| Classes | Top-level categories (cssclasses) |
+| Subclasses | Sub-categories |
+| Related | Related concepts |
+| Aliases | Alternative names |
+| Reference | Source citations |
+
+### Visual Style
+
+- **Black text**: Non-links (broken links, self-references)
+- **Blue text**: Clickable links (internal pages, external URLs)
+- **Bold**: All clickable links
+- **Arrow**: Points right (→) when closed, down (↓) when open
+
+---
+
 ## Graph Analysis Components
 
 ### Co-Citations
@@ -206,8 +237,11 @@ Where e = links between neighbors, k = number of neighbors
 // Build bidirectional adjacency map
 export function buildAdjacencyMap(allFiles: QuartzPluginData[]): AdjacencyMap
 
-// Build slug → file lookup (includes aliases)
+// Build slug → file lookup (includes aliases) - returns FIRST match
 export function buildSlugToFileMap(allFiles: QuartzPluginData[]): Map<string, QuartzPluginData>
+
+// Build slug → files lookup (includes aliases) - returns ALL matches
+export function buildSlugToFilesMap(allFiles: QuartzPluginData[]): Map<string, QuartzPluginData[]>
 
 // Deterministic hash for reproducible sorting
 export function deterministicHash(str: string): number
@@ -254,7 +288,7 @@ To avoid showing weak correlations:
 | LinkPrediction.tsx | 155 | Link suggestions |
 | VirtualLinker.tsx | 14 | Auto-linking wrapper |
 | TopCommunities.tsx | 140 | Global cluster view |
-| FrontmatterDisplay.tsx | 90 | Metadata display |
+| FrontmatterDisplay.tsx | 180 | YAML frontmatter display with multi-match, URLs, self-reference detection |
 
 ## Added Utilities
 

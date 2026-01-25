@@ -7,12 +7,15 @@ subclasses:
   - Philosophy-of-Mind
   - Analytic-Philosophy
 related:
-  - "[[Epistemology]]"
-  - "[[Scepticism]]"
-  - "[[Possible Worlds]]"
-  - "[[Peirce]]"
-  - "[[Descartes]]"
-  - "[[Information Theory]]"
+  - "[[Philosophy as Conceptual Design (1 of 9)]]"
+  - "[[Constructionism as Non-naturalism (2 of 9)]]"
+  - "[[Perception and Testimony as Data Providers (3 of 9)]]"
+  - "[[Information Quality (4 of 9)]]"
+  - "[[Informational Scepticism and the Logically Possible (5 of 9)]]"
+  - "[[A Defence of Information Closure (6 of 9)]]"
+  - "[[Logical Fallacies as Bayesian Informational Shortcuts (7 of 9)]]"
+  - "[[Maker’s Knowledge, between A Priori and A Posteriori (8 of 9)]]"
+  - "[[Logic of Design as a Conceptual Logic of Information (9 of 9)]]"
 aliases:
   - informational scepticism
   - borel numbers

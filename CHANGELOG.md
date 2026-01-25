@@ -11,7 +11,12 @@ Use this as a reference when merging upstream updates.
 | `quartz/components/scripts/graph.inline.ts` | **MODIFIED** | Memory leak fix + constants |
 | `quartz/components/renderPage.tsx` | **MODIFIED** | Removed hr separator |
 | `quartz/components/Graph.tsx` | **MODIFIED** | Commented out title |
-| `quartz/components/styles/graph.scss` | **MODIFIED** | Removed border |
+| `quartz/components/styles/graph.scss` | **MODIFIED** | Removed border, moved icon position |
+| `quartz/components/styles/callouts.scss` | **MODIFIED** | Icon alignment fix |
+| `quartz/components/Footer.tsx` | **MODIFIED** | Changed GitHub link |
+| `quartz/components/custom/FrontmatterDisplay.tsx` | **MODIFIED** | Enhanced with multi-match, URLs, separators |
+| `quartz/components/styles/custom/frontmatterDisplay.scss` | **MODIFIED** | Styling improvements |
+| `quartz/util/graph.ts` | **MODIFIED** | Added buildSlugToFilesMap function |
 
 ## Modified Files
 
@@ -44,15 +49,39 @@ Use this as a reference when merging upstream updates.
 **Risk**: Low - additive change
 
 ### `quartz/util/graph.ts`
-**Change**: New file with shared graph algorithms
+**Change**: Shared graph algorithms file
 **Reason**: DRY code for Community, TopCommunities, CoCitations, etc.
 **Exports**: 
 - `buildAdjacencyMap()`
-- `buildSlugToFileMap()`
+- `buildSlugToFileMap()` - returns single match
+- `buildSlugToFilesMap()` - **NEW** returns ALL matches (for multi-match support)
 - `deterministicHash()`
 - `labelPropagation()`
 - `clusteringCoefficient()`
-**Risk**: Low - new file, no conflicts
+**Risk**: Low - additive change
+
+### `quartz/components/custom/FrontmatterDisplay.tsx`
+**Changes** (2025-01-25):
+1. Added multi-match support like Virtual Linker: shows `term (a, b, c)` format when multiple pages match
+2. Added self-reference detection (aliases pointing to current page shown as black, non-clickable)
+3. Added URL detection - external links (http/https) are now clickable and open in new tab
+4. Changed separator from space to " · " (middle dot)
+5. Arrow rotation fixed: closed → right (→), open → down (↓)
+**Features**:
+- Fields displayed: cssclasses, subclasses, related, aliases, reference
+- Collapsible toggle with chevron icon
+- Color scheme: black (non-links) + blue (clickable links)
+**Risk**: Low - isolated component
+
+### `quartz/components/styles/custom/frontmatterDisplay.scss`
+**Changes** (2025-01-25):
+1. Added `line-height: 1.6` for consistent vertical spacing
+2. Added `margin-top: 17px` to Properties toggle
+3. Arrow rotation: `-90deg` (closed) → `0deg` (open)
+4. Added `.external` class for URL styling with `word-break: break-all`
+5. Fixed alignment with `align-items: baseline`
+6. Added bold (`font-weight: 600`) for links
+**Risk**: Low - isolated styling
 
 ### `quartz/plugins/emitters/sankeyData.ts`
 **Change**: New emitter for Sankey diagram data
@@ -83,10 +112,24 @@ Use this as a reference when merging upstream updates.
 **Risk**: Low - easily reversible
 
 ### `quartz/components/styles/graph.scss`
-**Change**: Removed border from graph-outer
-**Reason**: Cleaner visual design
-**Lines**: Changed `border: 1px solid var(--lightgray)` to `border: 0`
+**Changes**:
+1. Removed border from graph-outer
+2. Moved global-graph-icon from top-right to bottom-left
+**Reason**: Cleaner visual design, better icon placement
+**Lines**: Changed `border: 1px solid var(--lightgray)` to `border: 0`, changed `top: 0; right: 0;` to `bottom: 0; left: 0;`
 **Risk**: Low - purely cosmetic
+
+### `quartz/components/styles/callouts.scss`
+**Change**: Changed `align-items: flex-start` to `align-items: center` in `.callout-title`
+**Reason**: Proper vertical alignment of callout icon with text
+**Lines**: 1 line changed
+**Risk**: Low - purely cosmetic
+
+### `quartz/components/Footer.tsx`
+**Change**: Updated GitHub repository link
+**From**: `https://github.com/jackyzha0/quartz`
+**To**: `https://github.com/graph-ist/personal-zettelkasten`
+**Risk**: Low - branding change
 
 
 ### `quartz/plugins/transformers/latex.ts`
@@ -160,4 +203,4 @@ npm run quartz build
 ```
 
 ## Last Updated
-2026-01-18
+2026-01-25

@@ -191,6 +191,8 @@ async function renderSankey() {
       .attr("height", (d: any) => Math.max(1, d.y1 - d.y0))
       .attr("width", (d: any) => d.x1 - d.x0)
       .attr("fill", (d: any) => COLORS[d.category] || "#999")
+      .attr("stroke", "none")
+      .style("outline", "none")
       .append("title")
       .text((d: any) => {
         if (d.category === "subclass" && currentView === "overview") {

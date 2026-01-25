@@ -27,8 +27,6 @@ reference:
   - "Thùrlemann, F. (1991). Paul Klee: Analisi semiotica di Blumen-Mythos—1918. 106–134."
 ---
 
-#### Blumen-Mythos: Semiotic Analysis of Paul Klee
-
 #### Central Problem
 
 How does figurative painting produce meaning? Thürlemann addresses this fundamental question through a rigorous semiotic analysis of Paul Klee's 1918 watercolor *Blumen-Mythos* (Flower Myth). The challenge is to develop a methodology that can describe both the *plastic level* (pure visual expression: color, form, position) and the *figurative level* (recognized objects: flower, bird, stars), and then identify the *codes* that connect these two planes. Unlike impressionistic art criticism, semiotics seeks to formalize the mechanisms through which pictorial surfaces generate complex meanings, including mythical and symbolic dimensions.

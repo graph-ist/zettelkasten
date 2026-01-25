@@ -7,12 +7,15 @@ subclasses:
   - Philosophy-of-Science
   - Metaphysics
 related:
-  - "[[Quine]]"
-  - "[[Kant]]"
-  - "[[Husserl]]"
-  - "[[McDowell]]"
-  - "[[Sellars]]"
-  - "[[Popper]]"
+  - "[[Philosophy as Conceptual Design (1 of 9)]]"
+  - "[[Constructionism as Non-naturalism (2 of 9)]]"
+  - "[[Perception and Testimony as Data Providers (3 of 9)]]"
+  - "[[Information Quality (4 of 9)]]"
+  - "[[Informational Scepticism and the Logically Possible (5 of 9)]]"
+  - "[[A Defence of Information Closure (6 of 9)]]"
+  - "[[Logical Fallacies as Bayesian Informational Shortcuts (7 of 9)]]"
+  - "[[Maker’s Knowledge, between A Priori and A Posteriori (8 of 9)]]"
+  - "[[Logic of Design as a Conceptual Logic of Information (9 of 9)]]"
 aliases:
   - naturalism philosophy
   - constructionism naturalism
@@ -27,7 +30,7 @@ aliases:
 reference:
   - "Floridi, L. (2019). The logic of information: A theory of philosophy as conceptual design (First edition). Oxford University Press. (pp. 53-68)"
 ---
-
+2
 #### Central Problem
 
 This chapter confronts a "strange predicament" in contemporary science: while science maintains a methodological commitment to naturalistic explanation (all natural phenomena explained solely by reference to other natural phenomena), it simultaneously depends on increasingly artificial Information and Communication Technologies that "denaturalize" the world. The search for ultimate explanations of the natural relies upon and promotes the development of the artificial—the non-natural. How can naturalism, understood as methodological closure of explanation within the natural, reconcile with the profoundly technological and constructed character of scientific knowledge?

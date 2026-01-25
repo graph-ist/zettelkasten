@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://github.com/jackyzha0/quartz">Quartz v{version}</a> © {year}
+          <a href="https://github.com/graph-ist/personal-zettelkasten">Quartz v{version}</a> © {year}
         </p>
       </footer>
     )

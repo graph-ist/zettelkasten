@@ -8,11 +8,12 @@ subclasses:
   - Phenomenology
   - Design-Theory
 related:
-  - "[[Arnheim]]"
-  - "[[Gestalt]]"
-  - "[[Composition]]"
-  - "[[Visual Perception]]"
-  - "[[Pictorial Space]]"
+  - "[[Two space systems & The centres and their rivals (1 of 6)]]"
+  - "[[Observer as centre & Limits and frames (2 of 6)]]"
+  - "[[Round and square (3 of 6)]]"
+  - "[[Centres as pivots & Centres as dividing elements (4 of 6)]]"
+  - "[[Volumes and nodes & Space in depth (5 of 6)]]"
+  - "[[Centres and grids in buildings & More (6 of 6)]]"
 aliases:
   - autocentric vision
   - visual composition

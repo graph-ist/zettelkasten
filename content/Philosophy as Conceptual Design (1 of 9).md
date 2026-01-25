@@ -7,12 +7,15 @@ subclasses:
   - Philosophy-of-Science
   - Philosophy-of-Mind
 related:
-  - "[[Plato]]"
-  - "[[Kant]]"
-  - "[[Bacon]]"
-  - "[[Hobbes]]"
-  - "[[Vico]]"
-  - "[[Peirce]]"
+  - "[[Philosophy as Conceptual Design (1 of 9)]]"
+  - "[[Constructionism as Non-naturalism (2 of 9)]]"
+  - "[[Perception and Testimony as Data Providers (3 of 9)]]"
+  - "[[Information Quality (4 of 9)]]"
+  - "[[Informational Scepticism and the Logically Possible (5 of 9)]]"
+  - "[[A Defence of Information Closure (6 of 9)]]"
+  - "[[Logical Fallacies as Bayesian Informational Shortcuts (7 of 9)]]"
+  - "[[Maker’s Knowledge, between A Priori and A Posteriori (8 of 9)]]"
+  - "[[Logic of Design as a Conceptual Logic of Information (9 of 9)]]"
 aliases:
   - makers knowledge
   - users knowledge
@@ -27,7 +30,7 @@ aliases:
 reference:
   - "Floridi, L. (2019). The logic of information: A theory of philosophy as conceptual design (First edition). Oxford University Press. (pp. 27-52)"
 ---
-
+1
 #### Central Problem
 
 This text confronts a fundamental epistemological question: how do we truly know? Floridi identifies a deep tension in Western philosophy between two competing accounts of knowledge—the "user's knowledge" tradition stemming from Plato, which privileges passive reception and mimetic representation of pre-existing truths, versus the "maker's knowledge" tradition, which holds that genuine knowledge arises through active construction, production, and modelling of semantic artefacts.

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scaling (2005-2015).md",
+                "file": "Philosophy as Conceptual Design.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Scaling (2005-2015)"
+              "title": "Philosophy as Conceptual Design"
             }
           }
         ],
@@ -42,7 +42,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Floridi, L. (2019).",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,6 +151,16 @@
   },
   "active": "e38f61e20288cf01",
   "lastOpenFiles": [
+    "The Logic of Design as a Conceptual Logic of Information.md",
+    "Philosophy as Conceptual Design.md",
+    "Perception and Testimony as Data Providers.md",
+    "Maker’s Knowledge, between A Priori and A Posteriori.md",
+    "Logical Fallacies as Bayesian Informational Shortcuts.md",
+    "Information Quality.md",
+    "Constructionism as Non-naturalism.md",
+    "A Defence of Information Closure.md",
+    "Centi e griglie negli edifici & Inoltre.md",
+    "Scaling (2005-2015).md",
     "DesignX.md",
     "Responsibility towards others in neo-Jewish thought.md",
     "The depth of design.md",
@@ -166,16 +177,6 @@
     "The Architecture of Complexity.md",
     "Locke.md",
     "On actor-network theory.md",
-    "Schelling.md",
-    "Why the AI Hype is Another Tech Bubble.md",
-    "What is critical about critical design.md",
-    "Translating Tradition.md",
-    "This system does not produce pleasure anymore.md",
-    "The textility of making.md",
-    "The matter of design.md",
-    "The Existential Self as Locus of Sustainability in Design.md",
-    "The Broad View of Aesthetic Experience.md",
-    "The Aesthetics of Hartmann and Bense.md",
     "New Folder With Items",
     "Appendix/Rudimenti di etica per il design (Visual).canvas",
     "Senza nome.canvas",

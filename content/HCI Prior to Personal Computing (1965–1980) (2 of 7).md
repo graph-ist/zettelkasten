@@ -7,11 +7,13 @@ subclasses:
   - Design-History
   - Artificial-Intelligence
 related:
-  - "[[Human-Computer Interaction]]"
-  - "[[Artificial Intelligence]]"
-  - "[[Information Systems]]"
-  - "[[Xerox PARC]]"
-  - "[[Human Factors]]"
+  - "[[Managing Vacuum Tubes & Transistors, New Vistas (1945–1965) (1 of 7)]]"
+  - "[[HCI Prior to Personal Computing (1965–1980) (2 of 7)]]"
+  - "[[Discretionary Use Comes into Focus (1980–1985) (3 of 7)]]"
+  - "[[Graphical User Interfaces Succeed (1985–1995) (4 of 7)]]"
+  - "[[Internet Era Arrives and Survives a Bubble (1995–2005) (5 of 7)]]"
+  - "[[Scaling (2005-2015) (6 of 7)]]"
+  - "[[Cultures and Bridges & A New Era (7 of 7)]]"
 aliases:
   - hci history
   - personal computing
