@@ -27,6 +27,12 @@ reference:
   - "Latour, B. (2008). A cautious prometheus?: A few steps toward a philosophy of design (with special attention to Peter Sloterdijk). 2–10."
 ---
 
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/de/podcast/a-cautious-prometheus-a-few-steps-toward/id1786764068?i=1000683859300&l=en-GB"></iframe>
+
+---
+
 #### Central Problem
 
 The central problem [[Latour]] addresses is the profound transformation of the concept of "design" from a superficial aesthetic veneer to a comprehensive framework for understanding human action in the contemporary world. This transformation signals a fundamental shift in how we conceive objects, nature, and political engagement. The traditional modernist dichotomy between "function" (engineering, science, material necessity) and "form" (design, aesthetics, symbolism) has been dissolving as design infiltrates every level of existence — from genes and brains to cities, landscapes, and climate itself.
