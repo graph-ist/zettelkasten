@@ -42,10 +42,14 @@ export const defaultContentPageLayout: PageLayout = {
       localGraph: {
         fontSize: 0.4,
         showTags: false,
+        repelForce: 1,
+        linkDistance: 50,
       },
       globalGraph: {
         fontSize: 0.4,
         showTags: false,
+        repelForce: 1,
+        linkDistance: 50,
       },
     }),
     Component.DesktopOnly(Component.TableOfContents()),

@@ -74,6 +74,7 @@ const config: QuartzConfig = {
         maxDepth: 6,
       }),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest", prettyLinks: true, openLinksInNewTab: false, lazyLoad: false, externalLinkIcon: true }),
+      Plugin.FrontmatterLinks({ fields: ["related"] }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],

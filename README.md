@@ -7,7 +7,9 @@ A digital garden for philosophy notes built on [Quartz v4.5.2](https://quartz.jz
 This fork extends Quartz with powerful graph analysis tools:
 
 | Component | Algorithm | Purpose |
-|-----------|-----------|---------|| **Sankey Diagram** | Frontmatter visualization | Interactive cssclasses → subclasses flow || **Co-Citations** | Co-citation frequency | Notes frequently cited together |
+|-----------|-----------|---------|| **Sankey Diagram** | Frontmatter visualization | Interactive cssclasses → subclasses flow |
+| **FrontmatterLinks** | Wikilink extraction | Shows frontmatter `related` links in graph |
+| **Co-Citations** | Co-citation frequency | Notes frequently cited together |
 | **Similar Notes** | Jaccard Similarity | Notes with similar connections |
 | **Suggested Links** | Adamic-Adar Index | Potential links to create |
 | **Community** | Label Propagation | Thematic clusters detection |
@@ -86,6 +88,34 @@ Automatically transforms text matching note titles or aliases into clickable lin
 ### Visual Style
 
 Virtual links have a dashed underline to distinguish them from regular links.
+
+---
+
+## FrontmatterLinks Plugin
+
+Extracts wikilinks from frontmatter fields (e.g., `related`) and adds them to the graph view.
+
+### Problem Solved
+
+By default, `[[wikilinks]]` in YAML frontmatter are treated as plain strings and don't appear in the graph.
+
+### Usage
+
+```yaml
+related:
+  - "[[Page Name]]"
+  - "[[Another Page|Display Text]]"
+```
+
+These links now appear in the graph alongside body links.
+
+### Configuration
+
+In `quartz.config.ts`:
+
+```ts
+Plugin.FrontmatterLinks({ fields: ["related"] })  // after CrawlLinks
+```
 
 ---
 

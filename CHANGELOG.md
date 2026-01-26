@@ -17,6 +17,8 @@ Use this as a reference when merging upstream updates.
 | `quartz/components/custom/FrontmatterDisplay.tsx` | **MODIFIED** | Enhanced with multi-match, URLs, separators |
 | `quartz/components/styles/custom/frontmatterDisplay.scss` | **MODIFIED** | Styling improvements |
 | `quartz/util/graph.ts` | **MODIFIED** | Added buildSlugToFilesMap function |
+| `quartz/plugins/transformers/frontmatterLinks.ts` | **NEW** | Extracts wikilinks from frontmatter fields |
+| `quartz/plugins/transformers/index.ts` | **MODIFIED** | Added FrontmatterLinks export |
 
 ## Modified Files
 
@@ -139,10 +141,33 @@ Use this as a reference when merging upstream updates.
 **Risk**: **MEDIUM** - if upstream re-adds Typst features
 
 ### `quartz/plugins/transformers/index.ts`
-**Change**: Removed exports for Citations, Roam, OxHugoFM
-**Reason**: Unused transformers
-**Lines**: 3 lines removed
+**Change**: Removed exports for Citations, Roam, OxHugoFM; Added FrontmatterLinks export
+**Reason**: Unused transformers removed; New plugin for frontmatter link extraction
+**Lines**: 3 lines removed, 1 line added
 **Risk**: Low - easy to re-add if needed
+
+### `quartz/plugins/transformers/frontmatterLinks.ts`
+**Change**: New transformer plugin
+**Reason**: Enable graph view to show connections defined in frontmatter `related` field
+**Problem Solved**: By default, wikilinks in YAML frontmatter are treated as plain strings and don't appear in the graph. This plugin extracts `[[...]]` links from frontmatter fields and adds them to `file.data.links`.
+**Features**:
+- Configurable fields to scan (default: `["related"]`)
+- Supports both `[[Page]]` and `[[Page|Alias]]` syntax
+- Deduplicates links (uses Set)
+- Non-destructive: merges with existing body links
+**Usage in quartz.config.ts**:
+```ts
+Plugin.FrontmatterLinks({ fields: ["related"] })
+```
+**Frontmatter format**:
+```yaml
+related:
+  - "[[Page Name]]"
+  - "[[Another Page|Display Text]]"
+```
+**Plugin Order**: Must be placed AFTER `CrawlLinks` in transformers array
+**Documentation**: See `docs/plugins/FrontmatterLinks.md`
+**Risk**: Low - new isolated plugin, no changes to existing code
 
 ### `globals.d.ts`
 **Change**: 

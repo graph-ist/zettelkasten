@@ -8,7 +8,6 @@ subclasses:
 related:
   - "[[Henry Corbin, philosopher of the imaginal]]"
   - "[[Carpet as Symbolic Space]]"
-  - "[[Carpet as Symbolic Space]]"
 aliases:
   - imaginal realm
   - mundus imaginalis
