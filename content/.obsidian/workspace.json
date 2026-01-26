@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cultures and Bridges & A New Era (7 of 7).md",
+                "file": "Flowchart as visual representation of process.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cultures and Bridges & A New Era (7 of 7)"
+              "title": "Flowchart as visual representation of process"
             }
           }
         ],
@@ -133,6 +133,16 @@
             "id": "265c117f2d0df2d6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b358f3368952b167",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -140,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -159,11 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "265c117f2d0df2d6",
+  "active": "e6914bb700e03d05",
   "lastOpenFiles": [
+    "Cultures and Bridges & A New Era (7 of 7).md",
     "Centres and grids in buildings & More (6 of 6).md",
     "Managing Vacuum Tubes & Transistors, New Vistas (1945–1965) (1 of 7).md",
-    "Cultures and Bridges & A New Era (7 of 7).md",
     "Volumes and nodes & Space in depth (5 of 6).md",
     "Two space systems & The centres and their rivals (1 of 6).md",
     "Observer as centre & Limits and frames (2 of 6).md",

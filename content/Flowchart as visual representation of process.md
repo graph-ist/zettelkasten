@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - Arts
+  - Computer-Science
 subclasses:
   - Software-Engineering
 related:
@@ -11,7 +11,7 @@ aliases:
   - process diagram
   - visual workflow
   - decision flowchart
-reference: 
+reference:
 ---
 A [[flowchart]] is a diagrammatic tool used to represent a [[process]] or [[workflow]]. It employs shapes (e.g. rectangles for steps, diamonds for decisions) and arrows to show the sequence and branching logic of operations. 
 
