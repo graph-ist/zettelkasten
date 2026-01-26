@@ -12,6 +12,9 @@ related:
   - "[[Evolution]]"
   - "[[Problem Solving]]"
   - "[[Cybernetics]]"
+  - "[[Simon]]"
+  - "[[Revisiting Herbert Simon's Science of Design]]"
+  - "[[Cybernetic Explanation]]"
 aliases:
   - architecture complexity
   - simon hierarchy
@@ -21,41 +24,39 @@ aliases:
   - complex systems
   - hora tempus
   - simon 1962
-  - sistemi complessi
-  - sistemi gerarchici
 reference:
   - Simon, H. A. (1991). The Architecture of Complexity. In G. J. Klir, Facets of Systems Science (pp. 457–476). Springer. https://doi.org/10.1007/978-1-4899-0718-9_31
 ---
 
 #### Central Problem
 
-[[Simon]] affronta il problema fondamentale della **complessità**: come possono esistere sistemi complessi? Come possono evolversi dalla semplicità? E come possiamo comprenderli e descriverli? Il paradosso è che l'evoluzione casuale di sistemi complessi sembra statisticamente impossibile dato il tempo disponibile — eppure tali sistemi esistono.
+[[Simon]] addresses the fundamental problem of **complexity**: how can complex systems exist? How can they evolve from simplicity? And how can we understand and describe them? The paradox is that the random evolution of complex systems seems statistically impossible given the available time — yet such systems exist.
 
-La risposta risiede nella **struttura gerarchica**: i sistemi complessi non si assemblano in un sol colpo ma attraverso **sottosistemi stabili intermedi**. Questa architettura gerarchica non solo spiega l'evoluzione della complessità, ma determina anche le proprietà dinamiche dei sistemi e la possibilità stessa della loro descrizione e comprensione.
+The answer lies in **hierarchical structure**: complex systems do not assemble all at once but through **stable intermediate subsystems**. This hierarchical architecture not only explains the evolution of complexity but also determines the dynamic properties of systems and the very possibility of their description and comprehension.
 
-Il problema ha implicazioni che attraversano biologia, fisica, scienze sociali, teoria dell'organizzazione e intelligenza artificiale — tutti ambiti in cui Simon ha contribuito in modo decisivo.
+The problem has implications spanning biology, physics, social sciences, organization theory, and artificial intelligence — all fields to which Simon contributed decisively.
 
 #### Main Thesis
 
-La tesi centrale di [[Simon]] è che **la gerarchia è l'architettura della complessità**. I sistemi complessi sono quasi universalmente gerarchici perché la struttura gerarchica è l'unica che può evolversi in tempi ragionevoli e può essere compresa da menti finite.
+[[Simon]]'s central thesis is that **hierarchy is the architecture of complexity**. Complex systems are almost universally hierarchical because hierarchical structure is the only one that can evolve in reasonable time and can be understood by finite minds.
 
-**La Parabola degli Orologiai (Hora e Tempus):** Due orologiai costruiscono orologi di 1000 pezzi. Tempus assembla ogni orologio in un unico blocco: se interrotto, perde tutto il lavoro. Hora costruisce sottogruppi stabili di 10 pezzi, poi li assembla in gruppi di 10, poi questi in l'orologio finale. Con interruzioni casuali (p=0.01), Hora è circa 4000 volte più produttivo di Tempus. Il principio: **le forme stabili intermedie accelerano esponenzialmente l'evoluzione**.
+**The Parable of the Watchmakers (Hora and Tempus):** Two watchmakers build watches of 1000 parts. Tempus assembles each watch as a single unit: if interrupted, he loses all his work. Hora builds stable subassemblies of 10 parts, then assembles them into groups of 10, then these into the final watch. With random interruptions (p=0.01), Hora is about 4000 times more productive than Tempus. The principle: **stable intermediate forms exponentially accelerate evolution**.
 
-**Near Decomposability (Quasi-Decomponibilità):** I sistemi gerarchici hanno una proprietà cruciale: le interazioni *intra*-componente sono molto più forti delle interazioni *inter*-componente. Questo significa che:
-- Nel breve periodo, ogni sottosistema si comporta quasi indipendentemente dagli altri
-- Nel lungo periodo, i sottosistemi interagiscono solo in modo aggregato
+**Near Decomposability:** Hierarchical systems have a crucial property: *intra*-component interactions are much stronger than *inter*-component interactions. This means that:
+- In the short run, each subsystem behaves almost independently of the others
+- In the long run, subsystems interact only in an aggregate manner
 
-L'esempio della casa: stanze divise in cubicoli, pareti con diversa capacità isolante. La temperatura si equilibra prima *dentro* ogni stanza, poi *tra* le stanze.
+The house example: rooms divided into cubicles, walls with different insulating capacity. Temperature equilibrates first *within* each room, then *between* rooms.
 
-**Descrizione della Complessità:** La struttura gerarchica rende possibile la *descrizione economica* dei sistemi complessi. La ridondanza del sistema può essere catturata ricorsivamente. Il mondo è "quasi vuoto" — la maggior parte delle cose interagisce debolmente con la maggior parte delle altre.
+**Describing Complexity:** Hierarchical structure makes possible the *economical description* of complex systems. System redundancy can be captured recursively. The world is "nearly empty" — most things interact weakly with most other things.
 
 #### Historical Context
 
-Il saggio fu presentato nel 1962 alla American Philosophical Society, in un momento cruciale per le scienze della complessità. [[Simon]] — premio Nobel per l'economia (1978) e pioniere dell'intelligenza artificiale — stava sviluppando una teoria unificata che connettesse i suoi lavori su razionalità limitata, teoria dell'organizzazione, e problem solving.
+The essay was presented in 1962 to the American Philosophical Society, at a crucial moment for complexity science. [[Simon]] — Nobel Prize winner in economics (1978) and pioneer of artificial intelligence — was developing a unified theory connecting his work on bounded rationality, organization theory, and problem solving.
 
-Il contesto intellettuale include: la cibernetica di [[Wiener]], la teoria generale dei sistemi di [[Bertalanffy]], la teoria dell'informazione di [[Shannon]], e le prime ricerche in intelligenza artificiale al Carnegie Institute of Technology. Simon cercava principi comuni che attraversassero queste discipline.
+The intellectual context includes: [[Wiener]]'s cybernetics, [[Bertalanffy]]'s general systems theory, [[Shannon]]'s information theory, and early artificial intelligence research at Carnegie Institute of Technology. Simon sought common principles that would cut across these disciplines.
 
-Il saggio risponde implicitamente anche alle speculazioni di [[Jacobson]] sulla improbabilità termodinamica dell'evoluzione biologica, mostrando come la gerarchia risolva il paradosso temporale.
+The essay also implicitly responds to [[Jacobson]]'s speculations about the thermodynamic improbability of biological evolution, showing how hierarchy resolves the temporal paradox.
 
 #### Philosophical Lineage
 
@@ -80,46 +81,46 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Simon]] | 1916-2001 | [[Scienze Cognitive]] | *The Architecture of Complexity* | Gerarchia, near decomposability |
-| [[Wiener]] | 1894-1964 | [[Cibernetica]] | *Cybernetics* | Feedback, controllo |
-| [[Bertalanffy]] | 1901-1972 | [[Teoria dei Sistemi]] | *General System Theory* | Sistemi aperti, equifinalità |
-| [[Shannon]] | 1916-2001 | [[Teoria dell'Informazione]] | *Mathematical Theory of Communication* | Entropia, informazione |
-| [[Darwin]] | 1809-1882 | [[Biologia Evolutiva]] | *Origin of Species* | Selezione naturale |
+| [[Simon]] | 1916-2001 | [[Cognitive Science]] | *The Architecture of Complexity* | Hierarchy, near decomposability |
+| [[Wiener]] | 1894-1964 | [[Cybernetics]] | *Cybernetics* | Feedback, control |
+| [[Bertalanffy]] | 1901-1972 | [[Systems Theory]] | *General System Theory* | Open systems, equifinality |
+| [[Shannon]] | 1916-2001 | [[Information Theory]] | *Mathematical Theory of Communication* | Entropy, information |
+| [[Darwin]] | 1809-1882 | [[Evolutionary Biology]] | *Origin of Species* | Natural selection |
 
 #### Key Concepts
 
 | Concept | Definition | Related to |
 |---------|------------|------------|
-| Gerarchia | Sistema composto di sottosistemi interrelati, ciascuno a sua volta gerarchico fino al livello elementare | [[Simon]], [[Teoria dei Sistemi]] |
-| Near Decomposability | Proprietà per cui le interazioni intra-componente sono molto più forti di quelle inter-componente | [[Simon]], [[Complessità]] |
-| Forme Stabili Intermedie | Sottogruppi che persistono abbastanza da servire come blocchi per assemblaggi più complessi | [[Simon]], [[Evoluzione]] |
-| State Description | Descrizione di un sistema in termini delle sue proprietà statiche (blueprint) | [[Simon]], [[Epistemologia]] |
-| Process Description | Descrizione di un sistema come sequenza di operazioni che lo generano (ricetta) | [[Simon]], [[Epistemologia]] |
-| Span | Numero di sottosistemi immediati in un sistema gerarchico | [[Simon]], [[Organizzazione]] |
+| Hierarchy | System composed of interrelated subsystems, each in turn hierarchic down to the elementary level | [[Simon]], [[Systems Theory]] |
+| Near Decomposability | Property whereby intra-component interactions are much stronger than inter-component interactions | [[Simon]], [[Complexity]] |
+| Stable Intermediate Forms | Subassemblies that persist long enough to serve as building blocks for more complex assemblies | [[Simon]], [[Evolution]] |
+| State Description | Description of a system in terms of its static properties (blueprint) | [[Simon]], [[Epistemology]] |
+| Process Description | Description of a system as a sequence of operations that generate it (recipe) | [[Simon]], [[Epistemology]] |
+| Span | Number of immediate subsystems in a hierarchic system | [[Simon]], [[Organization]] |
 
 #### Authors Comparison
 
 | Theme | [[Simon]] | [[von Bertalanffy]] | [[Wiener]] |
 |-------|-----------|---------------------|------------|
-| Focus centrale | Architettura della complessità | Proprietà generali dei sistemi | Controllo e comunicazione |
-| Principio chiave | Gerarchia e decomponibilità | Equifinalità, sistemi aperti | Feedback negativo |
-| Approccio | Analitico-empirico | Teorico-generale | Matematico-ingegneristico |
-| Evoluzione | Centrale (forme stabili) | Secondaria | Marginale |
-| Applicazioni | Organizzazioni, IA, biologia | Biologia, sociologia | Ingegneria, neuroscienza |
+| Central focus | Architecture of complexity | General properties of systems | Control and communication |
+| Key principle | Hierarchy and decomposability | Equifinality, open systems | Negative feedback |
+| Approach | Analytical-empirical | Theoretical-general | Mathematical-engineering |
+| Evolution | Central (stable forms) | Secondary | Marginal |
+| Applications | Organizations, AI, biology | Biology, sociology | Engineering, neuroscience |
 
 #### Influences & Connections
 
-- **Predecessors:** [[Simon]] ← influenzato da ← [[Wiener]] (cibernetica), [[Shannon]] (informazione), [[Darwin]] (evoluzione)
-- **Contemporaries:** [[Simon]] ↔ dialogo con ↔ [[Newell]] (IA), [[March]] (organizzazioni)
-- **Followers:** [[Simon]] → influenza → [[Scienze della Complessità]], [[Santa Fe Institute]], [[Design Science]]
-- **Opposing views:** [[Simon]] ← critica implicita a ← [[Jacobson]] (improbabilità evoluzione), riduzionismo ingenuo
+- **Predecessors:** [[Simon]] ← influenced by ← [[Wiener]] (cybernetics), [[Shannon]] (information), [[Darwin]] (evolution)
+- **Contemporaries:** [[Simon]] ↔ dialogue with ↔ [[Newell]] (AI), [[March]] (organizations)
+- **Followers:** [[Simon]] → influences → [[Complexity Science]], [[Santa Fe Institute]], [[Design Science]]
+- **Opposing views:** [[Simon]] ← implicit critique of ← [[Jacobson]] (improbability of evolution), naive reductionism
 
 #### Summary Formulas
 
-- **[[Simon]]:** I sistemi complessi sono quasi universalmente gerarchici perché la gerarchia è l'unica architettura che può evolversi in tempi ragionevoli e può essere compresa da menti finite.
-- **Parabola di Hora e Tempus:** La presenza di forme stabili intermedie riduce il tempo di evoluzione da esponenziale a logaritmico nel numero di elementi.
-- **Near Decomposability:** Dinamica ad alta frequenza (interna ai componenti) + dinamica a bassa frequenza (tra componenti) = comprensibilità e descrizione economica.
-- **Ridondanza:** La descrizione semplice della complessità è possibile perché i sistemi gerarchici sono altamente ridondanti — pochi tipi di sottosistemi in varie combinazioni.
+- **[[Simon]]:** Complex systems are almost universally hierarchical because hierarchy is the only architecture that can evolve in reasonable time and can be understood by finite minds.
+- **Parable of Hora and Tempus:** The presence of stable intermediate forms reduces evolution time from exponential to logarithmic in the number of elements.
+- **Near Decomposability:** High-frequency dynamics (internal to components) + low-frequency dynamics (between components) = comprehensibility and economical description.
+- **Redundancy:** Simple description of complexity is possible because hierarchical systems are highly redundant — few types of subsystems in various combinations.
 
 #### Timeline
 

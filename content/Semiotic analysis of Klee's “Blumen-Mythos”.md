@@ -12,6 +12,10 @@ related:
   - "[[Greimas]]"
   - "[[Gestalt Psychology]]"
   - "[[Figurative Painting]]"
+  - "[[Eco]]"
+  - "[[Peirce's Semiotic Theory and Logical Systems]]"
+  - "[[Semiology]]"
+  - "[[Perception as Semiosis and Abduction]]"
 aliases:
   - thurlemann 1982
   - blumenmythos analysis

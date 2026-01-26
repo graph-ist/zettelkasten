@@ -30,7 +30,7 @@ aliases:
 reference:
   - "Floridi, L. (2019). The logic of information: A theory of philosophy as conceptual design (First edition). Oxford University Press. (pp. 27-52)"
 ---
-
+1
 #### Central Problem
 
 This text confronts a fundamental epistemological question: how do we truly know? Floridi identifies a deep tension in Western philosophy between two competing accounts of knowledge—the "user's knowledge" tradition stemming from Plato, which privileges passive reception and mimetic representation of pre-existing truths, versus the "maker's knowledge" tradition, which holds that genuine knowledge arises through active construction, production, and modelling of semantic artefacts.

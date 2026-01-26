@@ -13,6 +13,8 @@ related:
   - "[[Cognitive Systems Engineering]]"
   - "[[Human-Centered Design]]"
   - "[[Complexity Theory]]"
+  - "[[Revisiting Herbert Simon's Science of Design]]"
+  - "[[Architecture of Complexity]]"
 aliases:
   - designx approach
   - sociotechnical systems

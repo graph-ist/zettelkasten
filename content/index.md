@@ -6,4 +6,4 @@ This is my research archive that integrates philosophy, cognitive science, and c
 
 The system distinguishes *atomic notes* (discrete concepts) from *synthesis notes* (theoretical domains). The Graph View reveals thematic patterns through connection topology, transforming the archive into a networked thinking instrument.
 
-These annotations were normalised using a large language model and may contain inaccuracies. Please note that these are intended to serve as preliminary study resources rather than exhaustive references.
+Some annotations were normalised using a large language model and may contain inaccuracies. Please note that these are intended to serve as preliminary study resources rather than exhaustive references.

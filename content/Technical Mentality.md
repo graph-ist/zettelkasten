@@ -14,7 +14,7 @@ related:
   - "[[Phenomenology]]"
 aliases:
   - technical mentality
-  - mentalit technique
+  - mentalité technique
   - simondon technology
   - simondon 1968
   - artisanal industrial
@@ -29,35 +29,35 @@ reference:
 
 #### Central Problem
 
-[[Simondon]] affronta una questione assiologica, non ontologica: esiste una **mentalità tecnica** in via di sviluppo, incompleta e a rischio di essere prematuramente giudicata "mostruosa". Questa mentalità richiede un atteggiamento di "generosità" verso l'ordine di realtà che cerca di manifestare.
+[[Simondon]] addresses an axiological question, not an ontological one: there exists a **technical mentality** in the process of development, incomplete and at risk of being prematurely judged "monstrous". This mentality requires an attitude of "generosity" toward the order of reality it seeks to manifest.
 
-Il problema centrale è la **scissione** tra modalità artigianale e industriale, che genera conflitto nelle categorie affettive. Nella modalità artigianale, energia e informazione provengono dall'essere umano; nella modalità industriale, si separano. Questa scissione frammenta il rapporto umano-natura-tecnica. La soluzione risiede nello sviluppo di **reti tecniche post-industriali** che riconciliano ciò che l'industria ha separato.
+The central problem is the **split** between artisanal and industrial modes, which generates conflict in affective categories. In the artisanal mode, energy and information come from the human being; in the industrial mode, they separate. This split fragments the human-nature-technology relationship. The solution lies in the development of **post-industrial technical networks** that reconcile what industry has separated.
 
-La mentalità tecnica è coerente e produttiva nel dominio cognitivo, ma incompleta e in conflitto con se stessa nel dominio affettivo, e quasi interamente da costruire nel dominio della volontà.
+The technical mentality is coherent and productive in the cognitive domain, but incomplete and in conflict with itself in the affective domain, and almost entirely to be constructed in the domain of will.
 
 #### Main Thesis
 
-[[Simondon]] sostiene che la **mentalità tecnica** offre schemi di intelligibilità *sui generis* basati sul **trasferimento analogico** e sul **paradigma**. Essa scopre modi comuni di funzionamento in ordini di realtà altrimenti differenti — vivente o inerte, umano o non-umano.
+[[Simondon]] argues that the **technical mentality** offers *sui generis* schemas of intelligibility based on **analogical transfer** and **paradigm**. It discovers common modes of functioning in otherwise different orders of reality — living or inert, human or non-human.
 
-**Schemi Cognitivi:** Due movimenti hanno già prodotto schemi universali: il *meccanicismo cartesiano* (trasferimento senza perdite, catena di ragioni come catena di forze) e la *cibernetica* (feedback, regolazione automatica, finalità). Questa conoscenza è **transcategoriale**: non rispetta i limiti tra domini di realtà, attraversa le categorie tradizionali.
+**Cognitive Schemas:** Two movements have already produced universal schemas: *Cartesian mechanism* (lossless transfer, chain of reasons as chain of forces) and *cybernetics* (feedback, automatic regulation, finality). This knowledge is **transcategorical**: it does not respect the boundaries between domains of reality, it crosses traditional categories.
 
-**Due Postulati Fondamentali:**
-1. **Separabilità relativa dei sottoinsiemi**: L'oggetto tecnico non è un organismo indivisibile. Può essere riparato, completato, modificato. Il postulato olistico è forse solo una "pigra via d'uscita".
-2. **Livelli e regimi**: Per comprendere un essere bisogna studiarlo nella sua *entelechia*, non nella staticità. Le realtà tecniche hanno soglie di funzionamento; sotto la soglia sono assurde, sopra diventano auto-stabili.
+**Two Fundamental Postulates:**
+1. **Relative separability of subsets**: The technical object is not an indivisible organism. It can be repaired, completed, modified. The holistic postulate is perhaps merely a "lazy way out".
+2. **Levels and regimes**: To understand a being one must study it in its *entelechy*, not in stasis. Technical realities have thresholds of functioning; below the threshold they are absurd, above they become self-stable.
 
-**Conflitto Artigianale/Industriale:**
-- *Artigianale*: energia e informazione provengono dall'operatore umano; continuità tra produzione e uso; relazione immediata con la natura.
-- *Industriale*: energia dalla natura, informazione frammentata tra inventore, costruttore, regolatore, operatore. Alienazione sia dell'operatore che dell'inventore.
+**Artisanal/Industrial Conflict:**
+- *Artisanal*: energy and information come from the human operator; continuity between production and use; immediate relationship with nature.
+- *Industrial*: energy from nature, information fragmented among inventor, builder, regulator, operator. Alienation of both operator and inventor.
 
-**Soluzione Post-Industriale:** Le **reti tecniche** (informazione, energia, trasporto) riconciliano energia e informazione. La rete è disponibile in ogni suo punto; le sue maglie si intrecciano con quelle del mondo. L'oggetto tecnico diventa **aperto**, con parti permanenti e parti sostituibili, mantenuto in "attualità perpetua" attraverso la standardizzazione.
+**Post-Industrial Solution:** **Technical networks** (information, energy, transport) reconcile energy and information. The network is available at every point; its meshes interweave with those of the world. The technical object becomes **open**, with permanent parts and replaceable parts, maintained in "perpetual actuality" through standardization.
 
 #### Historical Context
 
-Il testo risale al 1968, periodo cruciale per la riflessione sulla tecnica. [[Simondon]] scrive dopo la sua opera principale *Du mode d'existence des objets techniques* (1958), approfondendo la distinzione tra modalità artigianale e industriale e anticipando temi che diverranno centrali solo decenni dopo: le reti informative, la società post-industriale, l'obsolescenza programmata.
+The text dates from 1968, a crucial period for reflection on technology. [[Simondon]] writes after his main work *Du mode d'existence des objets techniques* (1958), deepening the distinction between artisanal and industrial modes and anticipating themes that would become central only decades later: information networks, post-industrial society, planned obsolescence.
 
-Il contesto include la cibernetica di [[Wiener]], il meccanicismo cartesiano, e la critica dell'alienazione industriale di [[Friedmann]] (*Le travail en miettes*). Simondon risponde implicitamente anche a [[Heidegger]] sulla questione della tecnica, proponendo non una condanna ma una comprensione della mentalità tecnica.
+The context includes [[Wiener]]'s cybernetics, Cartesian mechanism, and [[Friedmann]]'s critique of industrial alienation (*Le travail en miettes*). Simondon also implicitly responds to [[Heidegger]] on the question of technology, proposing not a condemnation but an understanding of technical mentality.
 
-La traduzione inglese di Arne De Boever (2013) in *Parrhesia* ha reso questo testo accessibile per la prima volta a un pubblico anglofono, con note critiche di Jean-Hugues Barthélémy.
+Arne De Boever's English translation (2013) in *Parrhesia* made this text accessible for the first time to an Anglophone audience, with critical notes by Jean-Hugues Barthélémy.
 
 #### Philosophical Lineage
 
@@ -81,47 +81,47 @@ flowchart TD
 
 | Thinker | Dates | Movement | Main Work | Core Concept |
 |---------|-------|----------|-----------|--------------|
-| [[Simondon]] | 1924-1989 | [[Filosofia della Tecnica]] | *Du mode d'existence des objets techniques* | Individuazione, concretizzazione |
-| [[Descartes]] | 1596-1650 | [[Razionalismo]] | *Discorso sul metodo* | Meccanicismo, trasferimento senza perdite |
-| [[Wiener]] | 1894-1964 | [[Cibernetica]] | *Cybernetics* | Feedback, regolazione automatica |
-| [[Heidegger]] | 1889-1976 | [[Fenomenologia]] | *La questione della tecnica* | Gestell, svelamento |
-| [[Friedmann]] | 1902-1977 | [[Sociologia del lavoro]] | *Le travail en miettes* | Alienazione industriale |
+| [[Simondon]] | 1924-1989 | [[Philosophy of Technology]] | *Du mode d'existence des objets techniques* | Individuation, concretization |
+| [[Descartes]] | 1596-1650 | [[Rationalism]] | *Discourse on Method* | Mechanism, lossless transfer |
+| [[Wiener]] | 1894-1964 | [[Cybernetics]] | *Cybernetics* | Feedback, automatic regulation |
+| [[Heidegger]] | 1889-1976 | [[Phenomenology]] | *The Question Concerning Technology* | Gestell, unconcealment |
+| [[Friedmann]] | 1902-1977 | [[Sociology of Work]] | *Le travail en miettes* | Industrial alienation |
 
 #### Key Concepts
 
 | Concept | Definition | Related to |
 |---------|------------|------------|
-| Mentalità Tecnica | Modo di conoscenza *sui generis* basato su trasferimento analogico e paradigma | [[Simondon]], [[Epistemologia]] |
-| Conoscenza Transcategoriale | Conoscenza che attraversa i limiti tra domini di realtà | [[Simondon]], [[Cibernetica]] |
-| Modalità Artigianale | Produzione dove energia e informazione provengono dall'operatore umano | [[Simondon]], [[Lavoro]] |
-| Modalità Industriale | Produzione dove energia viene dalla natura, informazione frammentata | [[Simondon]], [[Alienazione]] |
-| Soglia di Funzionamento | Livello oltre il quale un sistema diventa auto-stabile | [[Simondon]], [[Cibernetica]] |
-| Concretizzazione | Processo per cui l'oggetto tecnico riduce i suoi elementi al minimo-ottimo | [[Simondon]], [[Tecnica]] |
-| Obsolescenza | Disuso legato al cambiamento di convenzioni sociali, non all'usura | [[Simondon]], [[Design]] |
-| Tecnofania | Non-dissimulazione dei mezzi tecnici, rifiuto dell'obsolescenza | [[Simondon]], [[Architettura]] |
+| Technical Mentality | *Sui generis* mode of knowledge based on analogical transfer and paradigm | [[Simondon]], [[Epistemology]] |
+| Transcategorical Knowledge | Knowledge that crosses the boundaries between domains of reality | [[Simondon]], [[Cybernetics]] |
+| Artisanal Mode | Production where energy and information come from the human operator | [[Simondon]], [[Labor]] |
+| Industrial Mode | Production where energy comes from nature, information is fragmented | [[Simondon]], [[Alienation]] |
+| Threshold of Functioning | Level beyond which a system becomes self-stable | [[Simondon]], [[Cybernetics]] |
+| Concretization | Process by which the technical object reduces its elements to the optimal minimum | [[Simondon]], [[Technology]] |
+| Obsolescence | Disuse linked to changes in social conventions, not to wear | [[Simondon]], [[Design]] |
+| Technophany | Non-dissimulation of technical means, refusal of obsolescence | [[Simondon]], [[Architecture]] |
 
 #### Authors Comparison
 
 | Theme | [[Simondon]] | [[Heidegger]] | [[Wiener]] |
 |-------|--------------|---------------|------------|
-| Atteggiamento verso tecnica | Generosità, comprensione | Critica del Gestell | Ottimismo cibernetico |
-| Alienazione | Scissione energia/informazione | Oblio dell'Essere | Non centrale |
-| Soluzione | Reti post-industriali, oggetti aperti | Ritorno al pensiero meditante | Regolazione automatica |
-| Rapporto umano-natura | Riconciliazione attraverso reti | Rottura moderna | Controllo feedback |
+| Attitude toward technology | Generosity, understanding | Critique of Gestell | Cybernetic optimism |
+| Alienation | Energy/information split | Forgetting of Being | Not central |
+| Solution | Post-industrial networks, open objects | Return to meditative thinking | Automatic regulation |
+| Human-nature relationship | Reconciliation through networks | Modern rupture | Feedback control |
 
 #### Influences & Connections
 
-- **Predecessors:** [[Simondon]] ← influenzato da ← [[Descartes]] (meccanicismo), [[Wiener]] (cibernetica), [[Bergson]] (durata), [[Friedmann]] (alienazione)
-- **Contemporaries:** [[Simondon]] ↔ critica implicita a ↔ [[Heidegger]] (questione della tecnica)
-- **Followers:** [[Simondon]] → influenza → [[Stiegler]] (tecnica e tempo), [[Latour]] (reti), [[Deleuze]] (individuazione)
-- **Opposing views:** [[Simondon]] ← critica ← tecnofobia, nostalgia artigianale, postulato olistico
+- **Predecessors:** [[Simondon]] ← influenced by ← [[Descartes]] (mechanism), [[Wiener]] (cybernetics), [[Bergson]] (duration), [[Friedmann]] (alienation)
+- **Contemporaries:** [[Simondon]] ↔ implicit critique of ↔ [[Heidegger]] (question of technology)
+- **Followers:** [[Simondon]] → influences → [[Stiegler]] (technology and time), [[Latour]] (networks), [[Deleuze]] (individuation)
+- **Opposing views:** [[Simondon]] ← critiques ← technophobia, artisanal nostalgia, holistic postulate
 
 #### Summary Formulas
 
-- **[[Simondon]]:** La mentalità tecnica offre schemi cognitivi transcategoriali; soffre di un conflitto affettivo tra modalità artigianale e industriale; trova la sua risoluzione nelle reti post-industriali che riconciliano energia e informazione.
-- **Modalità Artigianale:** Energia + informazione = operatore umano; continuità produzione-uso; relazione immediata con natura e materiale.
-- **Modalità Industriale:** Energia dalla natura, informazione frammentata (inventore/costruttore/operatore); discontinuità; alienazione reciproca.
-- **Soluzione Reticolare:** L'oggetto tecnico aperto, con parti permanenti e parti sostituibili, mantenuto in attualità perpetua attraverso standardizzazione e reti.
+- **[[Simondon]]:** Technical mentality offers transcategorical cognitive schemas; suffers from an affective conflict between artisanal and industrial modes; finds its resolution in post-industrial networks that reconcile energy and information.
+- **Artisanal Mode:** Energy + information = human operator; continuity of production-use; immediate relationship with nature and material.
+- **Industrial Mode:** Energy from nature, fragmented information (inventor/builder/operator); discontinuity; mutual alienation.
+- **Reticular Solution:** The open technical object, with permanent parts and replaceable parts, maintained in perpetual actuality through standardization and networks.
 
 #### Timeline
 

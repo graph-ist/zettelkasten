@@ -14,6 +14,11 @@ related:
   - "[[Participatory Design]]"
   - "[[Third-wave HCI, 10 years later]]"
   - "[[Fourth-Wave HCI Meets the 21st Century Manifesto]]"
+  - "[[Scaling (2005-2015) (6 of 7)]]"
+  - "[[What is critical about critical design]]"
+  - "[[HCI Prior to Personal Computing (1965–1980) (2 of 7)]]"
+  - "[[Discretionary Use Comes into Focus (1980–1985) (3 of 7)]]"
+  - "[[Internet Era Arrives and Survives a Bubble (1995–2005) (5 of 7)]]"
 aliases:
   - second wave
   - third wave

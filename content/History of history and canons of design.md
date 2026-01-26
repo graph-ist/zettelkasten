@@ -13,6 +13,7 @@ related:
   - "[[Hermeneutics]]"
   - "[[Historiography]]"
   - "[[Contextualism]]"
+  - "[[Neocriticism and historicism]]"
 aliases:
   - design history
   - design historiography
