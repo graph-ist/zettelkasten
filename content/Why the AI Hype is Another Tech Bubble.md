@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Computer-Science
   - Economics
@@ -26,6 +27,15 @@ aliases:
   - regulation ai
 reference:
   - Floridi, L. (2024). Why the AI Hype is Another Tech Bubble. Philosophy & Technology, 37(4). https://doi.org/10.1007/s13347-024-00817-w
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/why-the-ai-hype-is-another-tech-bubble/id1786764068?i=1000681316051&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

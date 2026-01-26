@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
   - Computer-Science
@@ -27,6 +28,15 @@ aliases:
   - metacriticism design
 reference:
   - Bardzell, J., & Bardzell, S. (2013). What is “critical” about critical design? Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 3297–3306. https://doi.org/10.1145/2470654.2466451
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/what-is-critical-about-critical-design/id1786764068?i=1000681225391&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

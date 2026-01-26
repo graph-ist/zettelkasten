@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
 subclasses:
@@ -26,6 +27,15 @@ aliases:
   - simon 1962
 reference:
   - Simon, H. A. (1991). The Architecture of Complexity. In G. J. Klir, Facets of Systems Science (pp. 457–476). Springer. https://doi.org/10.1007/978-1-4899-0718-9_31
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/the-architecture-of-complexity/id1786764068?i=1000681225288&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

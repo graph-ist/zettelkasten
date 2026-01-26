@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
   - Computer-Science
@@ -26,6 +27,15 @@ aliases:
   - technocracy critique
 reference:
   - Huppatz, D. (2015). Revisiting Herbert Simon’s “Science of Design.” Design Issues, 31(2), 29–40. https://doi.org/10.1162/DESI_a_00320
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/revisiting-herbert-simons-science-of-design/id1786764068?i=1000682353109&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

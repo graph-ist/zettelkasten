@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
   - Political-Science
@@ -27,6 +28,15 @@ aliases:
   - kabyle house
 reference:
   - Mitchell, T. (2003). Colonising Egypt (Repr). Univ. of California Press. (pp.34-62)
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/enframing-egypt-disciplinary-power-and-colonial-control/id1786764068?i=1000686582522&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

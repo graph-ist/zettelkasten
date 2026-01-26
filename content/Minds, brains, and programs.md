@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
 subclasses:
@@ -25,6 +26,15 @@ aliases:
   - causal powers
 reference:
   - Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417–424. https://doi.org/10.1017/S0140525X00005756
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/minds-brains-and-programs/id1786764068?i=1000682613535&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
 subclasses:
@@ -25,6 +26,15 @@ aliases:
   - technophany concept
 reference:
   - Simondon, G., & De Boever, A. (2013). Technical Mentality (A. De Boever, S. Murray, & J. Roffe, Eds.; pp. 1–14). University of Edinburgh Press. https://doi.org/10.3366/edinburgh/9780748677214.003.0001
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/simondon-technical-mentality/id1786764068?i=1000691721910&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

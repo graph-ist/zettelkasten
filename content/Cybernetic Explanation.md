@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
   - Computer-Science
@@ -26,6 +27,15 @@ aliases:
   - form pattern
 reference:
   - Bateson, G. (2000). Steps to an ecology of mind. University of Chicago Press. (pp. 399-410)
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/epistemology-and-ecology/id1786764068?i=1000682844031&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

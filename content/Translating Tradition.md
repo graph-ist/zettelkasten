@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
 subclasses:
@@ -25,6 +26,15 @@ aliases:
   - nondual thinking
 reference:
   - "Snodgrass, A. (1997). Translating Tradition: Technology, Heidegger’s ‘Letting-be,’ and Japanese New Wave Architecture. Architectural Theory Review, 2(2), 83–104. https://doi.org/10.1080/13264829709478320"
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/tradition-translated-technology-heidegger-and/id1786764068?i=1000692196663&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Tradition and Technology

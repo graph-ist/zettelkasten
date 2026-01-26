@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
 subclasses:
@@ -25,6 +26,15 @@ aliases:
   - thinking machines
 reference:
   - Turing, A. M. (2009). Computing Machinery and Intelligence. In R. Epstein, G. Roberts, & G. Beber (Eds.), Parsing the Turing Test (pp. 23–65). Springer. https://doi.org/10.1007/978-1-4020-6710-5_3
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/computing-machinery-and-intelligence/id1786764068?i=1000682466867&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
 subclasses:
@@ -24,6 +25,15 @@ aliases:
   - moral virtue
 reference:
   - Aristote, Ross, W. D., & Brown, L. (2009). The Nicomachean ethics (ed. rev). Oxford university press. (pp. 115-134)
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/aristotles-nicomachean-ethics/id1786764068?i=1000684650884&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

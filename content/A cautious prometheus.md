@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
   - Arts
@@ -25,7 +26,10 @@ aliases:
   - things assemblies
 reference:
   - "Latour, B. (2008). A cautious prometheus?: A few steps toward a philosophy of design (with special attention to Peter Sloterdijk). 2–10."
+tags:
+  - Podcast
 ---
+
 
 #### Podcast
 

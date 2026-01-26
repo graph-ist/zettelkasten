@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
 subclasses:
@@ -25,6 +26,15 @@ aliases:
   - visage alterity
 reference:
   - "Peperzak, A. T., & Lévinas, E. (1993). To the other: an introduction to the philosophy of Emmanuel Levinas. Purdue University Press. (pp.18-22)"
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/levinas-and-the-other/id1786764068?i=1000685490376&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

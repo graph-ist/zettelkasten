@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
 subclasses:
@@ -25,6 +26,15 @@ aliases:
   - secondary eurocentrism
 reference:
   - Tlostanova, M. (2015). Can the post-Soviet think? On coloniality of knowledge, external imperial and double colonial difference. Intersections, 1(2). https://doi.org/10.17356/ieejsp.v1i2.38
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/can-the-post-soviet-think/id1786764068?i=1000688422236&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Can the Post-Soviet Think?

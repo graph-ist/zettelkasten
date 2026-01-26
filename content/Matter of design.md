@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Philosophy
   - Arts
@@ -26,6 +27,15 @@ aliases:
   - design futures
 reference:
   - Dilnot, C. (2015). The matter of design. Design Philosophy Papers, 13(2), 115–123. https://doi.org/10.1080/14487136.2015.1133137
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/the-matter-of-design-artifice-mediation-and-the-artificial/id1786764068?i=1000693294716&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem

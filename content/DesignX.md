@@ -1,4 +1,5 @@
 ---
+
 cssclasses:
   - Arts
   - Computer-Science
@@ -28,6 +29,15 @@ aliases:
   - bounded rationality
 reference:
   - "Norman, D. A., & Stappers, P. J. (2015). DesignX: Complex Sociotechnical Systems. She Ji: The Journal of Design, Economics, and Innovation, 1(2), 83–106. https://doi.org/10.1016/j.sheji.2016.01.002"
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="150" style="width:100%;overflow:hidden;border-radius:10px;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/designx-complex-sociotechnical-systems/id1786764068?i=1000681225365&uo=4&l=en-GB&theme=auto"></iframe>
+
 ---
 
 #### Central Problem
