@@ -26,6 +26,15 @@ aliases:
   - freedom responsibility
 reference:
   - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe src="https://archive.org/embed/ssp-s06-e02" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 #### Central Problem

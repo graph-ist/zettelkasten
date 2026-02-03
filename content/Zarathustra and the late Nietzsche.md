@@ -23,6 +23,15 @@ aliases:
   - slave morality
 reference:
   - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia.
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe src="https://archive.org/embed/ssp-s05-e13" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 #### Central Problem

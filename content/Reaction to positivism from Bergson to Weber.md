@@ -30,7 +30,16 @@ aliases:
   - memory consciousness
   - action philosophy
 reference:
-  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia."
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia.](https://archive.org/download/ssp-s05-e07/The%20search%20for%20thought%20-%20Unit%204%20Chapter%201.pdf)"
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe src="https://archive.org/embed/ssp-s05-e07" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 #### Central Problem

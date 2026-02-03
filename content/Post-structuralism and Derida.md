@@ -20,6 +20,15 @@ related:
 aliases:
 reference:
   - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe src="https://archive.org/embed/ssp-s07-e02" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 #### Central Problem

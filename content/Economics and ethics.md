@@ -29,7 +29,16 @@ aliases:
   - ethical screening
   - market ethics
 reference:
-  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia."
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.](https://archive.org/download/ssp-s07-e16/The%20search%20for%20thought%20-%20Unit%2019%20Chapter%204.pdf)"
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe src="https://archive.org/embed/ssp-s07-e16" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 #### Central Problem

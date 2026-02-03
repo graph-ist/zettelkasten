@@ -11,7 +11,16 @@ aliases:
   - man is
   - greek enlightenment
 reference:
-  - "Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia."
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 1A. Dalle origini ad Aristotele. Paravia.](https://archive.org/download/ssp-s01-e05/The%20search%20for%20thought%20-%20Unit%202%20Chapter%201.pdf)"
+tags:
+  - Podcast
+---
+
+
+#### Podcast
+
+<iframe src="https://archive.org/embed/ssp-s01-e05" width="100%" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 ---
 
 #### Central Problem
