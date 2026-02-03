@@ -31,7 +31,7 @@ aliases:
   - objective properties
   - subjective qualities
 reference:
-  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia.
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2A. Dall'Umanesimo all'empirismo. Paravia.](https://archive.org/download/ssp-s03-e07/The%20search%20for%20thought%20-%20Unit%202%20Chapter%202.pdf)"
 tags:
   - Podcast
 ---

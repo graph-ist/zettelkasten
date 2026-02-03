@@ -27,7 +27,7 @@ aliases:
   - christian atheism
   - omega point
 reference:
-  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.](https://archive.org/download/ssp-s06-e04/The%20search%20for%20thought%20-%20Unit%2011%20Chapter%202.pdf)"
 tags:
   - Podcast
 ---

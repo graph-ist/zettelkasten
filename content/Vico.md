@@ -37,7 +37,7 @@ aliases:
   - "[[Grotius]]"
   - "[[Hobbes]]"
 reference:
-  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.](https://archive.org/download/ssp-s04-e01/The%20search%20for%20thought%20-%20Unit%206%20Chapter%201.pdf)"
 tags:
   - Podcast
 ---

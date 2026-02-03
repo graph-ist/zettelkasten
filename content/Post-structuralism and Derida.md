@@ -19,7 +19,7 @@ related:
   - "[[Nihilism]]"
 aliases:
 reference:
-  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3C. Dalla crisi della modernità agli sviluppi più recenti. Paravia.](https://archive.org/download/ssp-s07-e02/The%20search%20for%20thought%20-%20Unit%2015%20Chapter%202.pdf)"
 tags:
   - Podcast
 ---

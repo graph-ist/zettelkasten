@@ -26,7 +26,7 @@ aliases:
   - dialectical structure
   - dogmatism idealism
 reference:
-  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 2B. Dall'Illuminismo a Hegel. Paravia.](https://archive.org/download/ssp-s04-e13/The%20search%20for%20thought%20-%20Unit%208%20Chapter%203.pdf)"
 tags:
   - Podcast
 ---

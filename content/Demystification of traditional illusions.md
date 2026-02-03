@@ -25,7 +25,7 @@ aliases:
   - free spirit
   - revaluation values
 reference:
-  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia.
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3A. Da Schopenhauer a Freud. Paravia.](https://archive.org/download/ssp-s05-e12/The%20search%20for%20thought%20-%20Unit%206%20Chapter%201.pdf)"
 tags:
   - Podcast
 ---

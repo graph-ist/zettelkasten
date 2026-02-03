@@ -27,7 +27,7 @@ aliases:
   - cooperative principle
   - oxford philosophy
 reference:
-  - Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.](https://archive.org/download/ssp-s06-e14/The%20search%20for%20thought%20-%20Unit%208%20Chapter%202.pdf)"
 tags:
   - Podcast
 ---
