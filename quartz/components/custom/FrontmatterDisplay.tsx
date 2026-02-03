@@ -41,10 +41,18 @@ export default ((userOpts?: FrontmatterDisplayOptions) => {
       return names[field] || field.charAt(0).toUpperCase() + field.slice(1)
     }
 
-    const parseValue = (value: string): { text: string; slug: string | null; isUrl: boolean } => {
+    const parseValue = (value: string): { text: string; slug: string | null; isUrl: boolean; externalUrl?: string } => {
       // Check if it's a URL
       if (value.match(/^https?:\/\//)) {
         return { text: value, slug: null, isUrl: true }
+      }
+      
+      // Check if it's a Markdown link [text](url)
+      const markdownLinkMatch = value.match(/^\[([^\]]+)\]\(([^)]+)\)$/)
+      if (markdownLinkMatch) {
+        const text = markdownLinkMatch[1]
+        const url = markdownLinkMatch[2]
+        return { text, slug: null, isUrl: true, externalUrl: url }
       }
       
       // Helper to convert text to Quartz-compatible slug
@@ -100,15 +108,16 @@ export default ((userOpts?: FrontmatterDisplayOptions) => {
                 <span class="frontmatter-label">{formatFieldName(field)}</span>
                 <div class="frontmatter-values">
                   {values.map((v, i) => {
-                    const { text, slug, isUrl } = parseValue(String(v))
+                    const { text, slug, isUrl, externalUrl } = parseValue(String(v))
                     const isLast = i === values.length - 1
                     const separator = isLast ? "" : " · "
                     
                     // It's a URL - render as external link
                     if (isUrl) {
+                      const href = externalUrl || text
                       return (
                         <>
-                          <a href={text} class="frontmatter-value external" target="_blank" rel="noopener noreferrer" key={i}>
+                          <a href={href} class="frontmatter-value external" target="_blank" rel="noopener noreferrer" key={i}>
                             {text}
                           </a>
                           {separator}

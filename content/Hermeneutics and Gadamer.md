@@ -25,7 +25,7 @@ aliases:
   - language being
   - aesthetic experience
 reference:
-  - "<a href='https://archive.org/download/ssp-s06-e16/The%20search%20for%20thought%20-%20Unit%209%20Chapter%202.pdf'>Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.</a>"
+  - "[Abbagnano, N., & Fornero, G. (2012). La ricerca del pensiero. Vol. 3B. Dalla fenomenologia a Gadamer. Paravia.](https://archive.org/download/ssp-s06-e16/The%20search%20for%20thought%20-%20Unit%209%20Chapter%202.pdf)"
 tags:
   - Podcast
 ---
